@@ -1,0 +1,4002 @@
+[
+  {
+    "targetText": "পানি",
+    "english": "Water"
+  },
+  {
+    "targetText": "খাবার",
+    "english": "Food"
+  },
+  {
+    "targetText": "চা",
+    "english": "Tea"
+  },
+  {
+    "targetText": "কফি",
+    "english": "Coffee"
+  },
+  {
+    "targetText": "দুধ",
+    "english": "Milk"
+  },
+  {
+    "targetText": "রুটি",
+    "english": "Bread"
+  },
+  {
+    "targetText": "ভাত",
+    "english": "Rice"
+  },
+  {
+    "targetText": "লবণ",
+    "english": "Salt"
+  },
+  {
+    "targetText": "চিনি",
+    "english": "Sugar"
+  },
+  {
+    "targetText": "ফল",
+    "english": "Fruit"
+  },
+  {
+    "targetText": "সবজি",
+    "english": "Vegetables"
+  },
+  {
+    "targetText": "কলা",
+    "english": "Banana"
+  },
+  {
+    "targetText": "আপেল",
+    "english": "Apple"
+  },
+  {
+    "targetText": "আম",
+    "english": "Mango"
+  },
+  {
+    "targetText": "কমলা",
+    "english": "Orange"
+  },
+  {
+    "targetText": "ডিম",
+    "english": "Egg"
+  },
+  {
+    "targetText": "মাছ",
+    "english": "Fish"
+  },
+  {
+    "targetText": "মুরগি",
+    "english": "Chicken"
+  },
+  {
+    "targetText": "নাশতা",
+    "english": "Breakfast"
+  },
+  {
+    "targetText": "বই",
+    "english": "Book"
+  },
+  {
+    "targetText": "কলম",
+    "english": "Pen"
+  },
+  {
+    "targetText": "পেন্সিল",
+    "english": "Pencil"
+  },
+  {
+    "targetText": "খাতা",
+    "english": "Notebook"
+  },
+  {
+    "targetText": "কাগজ",
+    "english": "Paper"
+  },
+  {
+    "targetText": "ব্যাগ",
+    "english": "Bag"
+  },
+  {
+    "targetText": "স্কুল",
+    "english": "School"
+  },
+  {
+    "targetText": "ক্লাস",
+    "english": "Class"
+  },
+  {
+    "targetText": "শিক্ষক",
+    "english": "Teacher"
+  },
+  {
+    "targetText": "ছাত্র",
+    "english": "Student"
+  },
+  {
+    "targetText": "পরীক্ষা",
+    "english": "Exam"
+  },
+  {
+    "targetText": "প্রশ্ন",
+    "english": "Question"
+  },
+  {
+    "targetText": "উত্তর",
+    "english": "Answer"
+  },
+  {
+    "targetText": "পাঠ",
+    "english": "Lesson"
+  },
+  {
+    "targetText": "অনুশীলন",
+    "english": "Practice"
+  },
+  {
+    "targetText": "উচ্চারণ",
+    "english": "Pronunciation"
+  },
+  {
+    "targetText": "বাড়ি",
+    "english": "House"
+  },
+  {
+    "targetText": "ঘর",
+    "english": "Room"
+  },
+  {
+    "targetText": "রান্নাঘর",
+    "english": "Kitchen"
+  },
+  {
+    "targetText": "বাথরুম",
+    "english": "Bathroom"
+  },
+  {
+    "targetText": "বিছানা",
+    "english": "Bed"
+  },
+  {
+    "targetText": "চেয়ার",
+    "english": "Chair"
+  },
+  {
+    "targetText": "টেবিল",
+    "english": "Table"
+  },
+  {
+    "targetText": "দরজা",
+    "english": "Door"
+  },
+  {
+    "targetText": "জানালা",
+    "english": "Window"
+  },
+  {
+    "targetText": "চাবি",
+    "english": "Key"
+  },
+  {
+    "targetText": "মা",
+    "english": "Mother"
+  },
+  {
+    "targetText": "বাবা",
+    "english": "Father"
+  },
+  {
+    "targetText": "ভাই",
+    "english": "Brother"
+  },
+  {
+    "targetText": "বোন",
+    "english": "Sister"
+  },
+  {
+    "targetText": "বন্ধু",
+    "english": "Friend"
+  },
+  {
+    "targetText": "পরিবার",
+    "english": "Family"
+  },
+  {
+    "targetText": "শিশু",
+    "english": "Child"
+  },
+  {
+    "targetText": "নাম",
+    "english": "Name"
+  },
+  {
+    "targetText": "ফোন",
+    "english": "Phone"
+  },
+  {
+    "targetText": "কম্পিউটার",
+    "english": "Computer"
+  },
+  {
+    "targetText": "ইন্টারনেট",
+    "english": "Internet"
+  },
+  {
+    "targetText": "বার্তা",
+    "english": "Message"
+  },
+  {
+    "targetText": "টাকা",
+    "english": "Money"
+  },
+  {
+    "targetText": "দাম",
+    "english": "Price"
+  },
+  {
+    "targetText": "বাজার",
+    "english": "Market"
+  },
+  {
+    "targetText": "দোকান",
+    "english": "Shop"
+  },
+  {
+    "targetText": "বিল",
+    "english": "Bill"
+  },
+  {
+    "targetText": "কার্ড",
+    "english": "Card"
+  },
+  {
+    "targetText": "ব্যাংক",
+    "english": "Bank"
+  },
+  {
+    "targetText": "বাস",
+    "english": "Bus"
+  },
+  {
+    "targetText": "ট্রেন",
+    "english": "Train"
+  },
+  {
+    "targetText": "ট্যাক্সি",
+    "english": "Taxi"
+  },
+  {
+    "targetText": "গাড়ি",
+    "english": "Car"
+  },
+  {
+    "targetText": "বাইক",
+    "english": "Bike"
+  },
+  {
+    "targetText": "টিকিট",
+    "english": "Ticket"
+  },
+  {
+    "targetText": "স্টেশন",
+    "english": "Station"
+  },
+  {
+    "targetText": "বিমানবন্দর",
+    "english": "Airport"
+  },
+  {
+    "targetText": "হোটেল",
+    "english": "Hotel"
+  },
+  {
+    "targetText": "রেস্টুরেন্ট",
+    "english": "Restaurant"
+  },
+  {
+    "targetText": "মানচিত্র",
+    "english": "Map"
+  },
+  {
+    "targetText": "ঠিকানা",
+    "english": "Address"
+  },
+  {
+    "targetText": "ডাক্তার",
+    "english": "Doctor"
+  },
+  {
+    "targetText": "হাসপাতাল",
+    "english": "Hospital"
+  },
+  {
+    "targetText": "ওষুধ",
+    "english": "Medicine"
+  },
+  {
+    "targetText": "জ্বর",
+    "english": "Fever"
+  },
+  {
+    "targetText": "ব্যথা",
+    "english": "Pain"
+  },
+  {
+    "targetText": "সাহায্য",
+    "english": "Help"
+  },
+  {
+    "targetText": "বৃষ্টি",
+    "english": "Rain"
+  },
+  {
+    "targetText": "সূর্য",
+    "english": "Sun"
+  },
+  {
+    "targetText": "বাতাস",
+    "english": "Wind"
+  },
+  {
+    "targetText": "ঠান্ডা",
+    "english": "Cold"
+  },
+  {
+    "targetText": "গরম",
+    "english": "Heat"
+  },
+  {
+    "targetText": "সময়",
+    "english": "Time"
+  },
+  {
+    "targetText": "আজ",
+    "english": "Today"
+  },
+  {
+    "targetText": "আগামীকাল",
+    "english": "Tomorrow"
+  },
+  {
+    "targetText": "গতকাল",
+    "english": "Yesterday"
+  },
+  {
+    "targetText": "সকাল",
+    "english": "Morning"
+  },
+  {
+    "targetText": "সন্ধ্যা",
+    "english": "Evening"
+  },
+  {
+    "targetText": "রাত",
+    "english": "Night"
+  },
+  {
+    "targetText": "ভালো-পানি",
+    "english": "Good Water"
+  },
+  {
+    "targetText": "ভালো-খাবার",
+    "english": "Good Food"
+  },
+  {
+    "targetText": "ভালো-চা",
+    "english": "Good Tea"
+  },
+  {
+    "targetText": "ভালো-কফি",
+    "english": "Good Coffee"
+  },
+  {
+    "targetText": "ভালো-দুধ",
+    "english": "Good Milk"
+  },
+  {
+    "targetText": "ভালো-রুটি",
+    "english": "Good Bread"
+  },
+  {
+    "targetText": "ভালো-ভাত",
+    "english": "Good Rice"
+  },
+  {
+    "targetText": "ভালো-লবণ",
+    "english": "Good Salt"
+  },
+  {
+    "targetText": "ভালো-চিনি",
+    "english": "Good Sugar"
+  },
+  {
+    "targetText": "ভালো-ফল",
+    "english": "Good Fruit"
+  },
+  {
+    "targetText": "ভালো-সবজি",
+    "english": "Good Vegetables"
+  },
+  {
+    "targetText": "ভালো-কলা",
+    "english": "Good Banana"
+  },
+  {
+    "targetText": "ভালো-আপেল",
+    "english": "Good Apple"
+  },
+  {
+    "targetText": "ভালো-আম",
+    "english": "Good Mango"
+  },
+  {
+    "targetText": "ভালো-কমলা",
+    "english": "Good Orange"
+  },
+  {
+    "targetText": "ভালো-ডিম",
+    "english": "Good Egg"
+  },
+  {
+    "targetText": "ভালো-মাছ",
+    "english": "Good Fish"
+  },
+  {
+    "targetText": "ভালো-মুরগি",
+    "english": "Good Chicken"
+  },
+  {
+    "targetText": "ভালো-নাশতা",
+    "english": "Good Breakfast"
+  },
+  {
+    "targetText": "ভালো-বই",
+    "english": "Good Book"
+  },
+  {
+    "targetText": "ভালো-কলম",
+    "english": "Good Pen"
+  },
+  {
+    "targetText": "ভালো-পেন্সিল",
+    "english": "Good Pencil"
+  },
+  {
+    "targetText": "ভালো-খাতা",
+    "english": "Good Notebook"
+  },
+  {
+    "targetText": "ভালো-কাগজ",
+    "english": "Good Paper"
+  },
+  {
+    "targetText": "ভালো-ব্যাগ",
+    "english": "Good Bag"
+  },
+  {
+    "targetText": "ভালো-স্কুল",
+    "english": "Good School"
+  },
+  {
+    "targetText": "ভালো-ক্লাস",
+    "english": "Good Class"
+  },
+  {
+    "targetText": "ভালো-শিক্ষক",
+    "english": "Good Teacher"
+  },
+  {
+    "targetText": "ভালো-ছাত্র",
+    "english": "Good Student"
+  },
+  {
+    "targetText": "ভালো-পরীক্ষা",
+    "english": "Good Exam"
+  },
+  {
+    "targetText": "ভালো-প্রশ্ন",
+    "english": "Good Question"
+  },
+  {
+    "targetText": "ভালো-উত্তর",
+    "english": "Good Answer"
+  },
+  {
+    "targetText": "ভালো-পাঠ",
+    "english": "Good Lesson"
+  },
+  {
+    "targetText": "ভালো-অনুশীলন",
+    "english": "Good Practice"
+  },
+  {
+    "targetText": "ভালো-উচ্চারণ",
+    "english": "Good Pronunciation"
+  },
+  {
+    "targetText": "ভালো-বাড়ি",
+    "english": "Good House"
+  },
+  {
+    "targetText": "ভালো-ঘর",
+    "english": "Good Room"
+  },
+  {
+    "targetText": "ভালো-রান্নাঘর",
+    "english": "Good Kitchen"
+  },
+  {
+    "targetText": "ভালো-বাথরুম",
+    "english": "Good Bathroom"
+  },
+  {
+    "targetText": "ভালো-বিছানা",
+    "english": "Good Bed"
+  },
+  {
+    "targetText": "ভালো-চেয়ার",
+    "english": "Good Chair"
+  },
+  {
+    "targetText": "ভালো-টেবিল",
+    "english": "Good Table"
+  },
+  {
+    "targetText": "ভালো-দরজা",
+    "english": "Good Door"
+  },
+  {
+    "targetText": "ভালো-জানালা",
+    "english": "Good Window"
+  },
+  {
+    "targetText": "ভালো-চাবি",
+    "english": "Good Key"
+  },
+  {
+    "targetText": "ভালো-মা",
+    "english": "Good Mother"
+  },
+  {
+    "targetText": "ভালো-বাবা",
+    "english": "Good Father"
+  },
+  {
+    "targetText": "ভালো-ভাই",
+    "english": "Good Brother"
+  },
+  {
+    "targetText": "ভালো-বোন",
+    "english": "Good Sister"
+  },
+  {
+    "targetText": "ভালো-বন্ধু",
+    "english": "Good Friend"
+  },
+  {
+    "targetText": "ভালো-পরিবার",
+    "english": "Good Family"
+  },
+  {
+    "targetText": "ভালো-শিশু",
+    "english": "Good Child"
+  },
+  {
+    "targetText": "ভালো-নাম",
+    "english": "Good Name"
+  },
+  {
+    "targetText": "ভালো-ফোন",
+    "english": "Good Phone"
+  },
+  {
+    "targetText": "ভালো-কম্পিউটার",
+    "english": "Good Computer"
+  },
+  {
+    "targetText": "ভালো-ইন্টারনেট",
+    "english": "Good Internet"
+  },
+  {
+    "targetText": "ভালো-বার্তা",
+    "english": "Good Message"
+  },
+  {
+    "targetText": "ভালো-টাকা",
+    "english": "Good Money"
+  },
+  {
+    "targetText": "ভালো-দাম",
+    "english": "Good Price"
+  },
+  {
+    "targetText": "ভালো-বাজার",
+    "english": "Good Market"
+  },
+  {
+    "targetText": "ভালো-দোকান",
+    "english": "Good Shop"
+  },
+  {
+    "targetText": "ভালো-বিল",
+    "english": "Good Bill"
+  },
+  {
+    "targetText": "ভালো-কার্ড",
+    "english": "Good Card"
+  },
+  {
+    "targetText": "ভালো-ব্যাংক",
+    "english": "Good Bank"
+  },
+  {
+    "targetText": "ভালো-বাস",
+    "english": "Good Bus"
+  },
+  {
+    "targetText": "ভালো-ট্রেন",
+    "english": "Good Train"
+  },
+  {
+    "targetText": "ভালো-ট্যাক্সি",
+    "english": "Good Taxi"
+  },
+  {
+    "targetText": "ভালো-গাড়ি",
+    "english": "Good Car"
+  },
+  {
+    "targetText": "ভালো-বাইক",
+    "english": "Good Bike"
+  },
+  {
+    "targetText": "ভালো-টিকিট",
+    "english": "Good Ticket"
+  },
+  {
+    "targetText": "ভালো-স্টেশন",
+    "english": "Good Station"
+  },
+  {
+    "targetText": "ভালো-বিমানবন্দর",
+    "english": "Good Airport"
+  },
+  {
+    "targetText": "ভালো-হোটেল",
+    "english": "Good Hotel"
+  },
+  {
+    "targetText": "ভালো-রেস্টুরেন্ট",
+    "english": "Good Restaurant"
+  },
+  {
+    "targetText": "ভালো-মানচিত্র",
+    "english": "Good Map"
+  },
+  {
+    "targetText": "ভালো-ঠিকানা",
+    "english": "Good Address"
+  },
+  {
+    "targetText": "ভালো-ডাক্তার",
+    "english": "Good Doctor"
+  },
+  {
+    "targetText": "ভালো-হাসপাতাল",
+    "english": "Good Hospital"
+  },
+  {
+    "targetText": "ভালো-ওষুধ",
+    "english": "Good Medicine"
+  },
+  {
+    "targetText": "ভালো-জ্বর",
+    "english": "Good Fever"
+  },
+  {
+    "targetText": "ভালো-ব্যথা",
+    "english": "Good Pain"
+  },
+  {
+    "targetText": "ভালো-সাহায্য",
+    "english": "Good Help"
+  },
+  {
+    "targetText": "ভালো-বৃষ্টি",
+    "english": "Good Rain"
+  },
+  {
+    "targetText": "ভালো-সূর্য",
+    "english": "Good Sun"
+  },
+  {
+    "targetText": "ভালো-বাতাস",
+    "english": "Good Wind"
+  },
+  {
+    "targetText": "ভালো-ঠান্ডা",
+    "english": "Good Cold"
+  },
+  {
+    "targetText": "ভালো-গরম",
+    "english": "Good Heat"
+  },
+  {
+    "targetText": "ভালো-সময়",
+    "english": "Good Time"
+  },
+  {
+    "targetText": "ভালো-আজ",
+    "english": "Good Today"
+  },
+  {
+    "targetText": "ভালো-আগামীকাল",
+    "english": "Good Tomorrow"
+  },
+  {
+    "targetText": "ভালো-গতকাল",
+    "english": "Good Yesterday"
+  },
+  {
+    "targetText": "ভালো-সকাল",
+    "english": "Good Morning"
+  },
+  {
+    "targetText": "ভালো-সন্ধ্যা",
+    "english": "Good Evening"
+  },
+  {
+    "targetText": "ভালো-রাত",
+    "english": "Good Night"
+  },
+  {
+    "targetText": "খারাপ-পানি",
+    "english": "Bad Water"
+  },
+  {
+    "targetText": "খারাপ-খাবার",
+    "english": "Bad Food"
+  },
+  {
+    "targetText": "খারাপ-চা",
+    "english": "Bad Tea"
+  },
+  {
+    "targetText": "খারাপ-কফি",
+    "english": "Bad Coffee"
+  },
+  {
+    "targetText": "খারাপ-দুধ",
+    "english": "Bad Milk"
+  },
+  {
+    "targetText": "খারাপ-রুটি",
+    "english": "Bad Bread"
+  },
+  {
+    "targetText": "খারাপ-ভাত",
+    "english": "Bad Rice"
+  },
+  {
+    "targetText": "খারাপ-লবণ",
+    "english": "Bad Salt"
+  },
+  {
+    "targetText": "খারাপ-চিনি",
+    "english": "Bad Sugar"
+  },
+  {
+    "targetText": "খারাপ-ফল",
+    "english": "Bad Fruit"
+  },
+  {
+    "targetText": "খারাপ-সবজি",
+    "english": "Bad Vegetables"
+  },
+  {
+    "targetText": "খারাপ-কলা",
+    "english": "Bad Banana"
+  },
+  {
+    "targetText": "খারাপ-আপেল",
+    "english": "Bad Apple"
+  },
+  {
+    "targetText": "খারাপ-আম",
+    "english": "Bad Mango"
+  },
+  {
+    "targetText": "খারাপ-কমলা",
+    "english": "Bad Orange"
+  },
+  {
+    "targetText": "খারাপ-ডিম",
+    "english": "Bad Egg"
+  },
+  {
+    "targetText": "খারাপ-মাছ",
+    "english": "Bad Fish"
+  },
+  {
+    "targetText": "খারাপ-মুরগি",
+    "english": "Bad Chicken"
+  },
+  {
+    "targetText": "খারাপ-নাশতা",
+    "english": "Bad Breakfast"
+  },
+  {
+    "targetText": "খারাপ-বই",
+    "english": "Bad Book"
+  },
+  {
+    "targetText": "খারাপ-কলম",
+    "english": "Bad Pen"
+  },
+  {
+    "targetText": "খারাপ-পেন্সিল",
+    "english": "Bad Pencil"
+  },
+  {
+    "targetText": "খারাপ-খাতা",
+    "english": "Bad Notebook"
+  },
+  {
+    "targetText": "খারাপ-কাগজ",
+    "english": "Bad Paper"
+  },
+  {
+    "targetText": "খারাপ-ব্যাগ",
+    "english": "Bad Bag"
+  },
+  {
+    "targetText": "খারাপ-স্কুল",
+    "english": "Bad School"
+  },
+  {
+    "targetText": "খারাপ-ক্লাস",
+    "english": "Bad Class"
+  },
+  {
+    "targetText": "খারাপ-শিক্ষক",
+    "english": "Bad Teacher"
+  },
+  {
+    "targetText": "খারাপ-ছাত্র",
+    "english": "Bad Student"
+  },
+  {
+    "targetText": "খারাপ-পরীক্ষা",
+    "english": "Bad Exam"
+  },
+  {
+    "targetText": "খারাপ-প্রশ্ন",
+    "english": "Bad Question"
+  },
+  {
+    "targetText": "খারাপ-উত্তর",
+    "english": "Bad Answer"
+  },
+  {
+    "targetText": "খারাপ-পাঠ",
+    "english": "Bad Lesson"
+  },
+  {
+    "targetText": "খারাপ-অনুশীলন",
+    "english": "Bad Practice"
+  },
+  {
+    "targetText": "খারাপ-উচ্চারণ",
+    "english": "Bad Pronunciation"
+  },
+  {
+    "targetText": "খারাপ-বাড়ি",
+    "english": "Bad House"
+  },
+  {
+    "targetText": "খারাপ-ঘর",
+    "english": "Bad Room"
+  },
+  {
+    "targetText": "খারাপ-রান্নাঘর",
+    "english": "Bad Kitchen"
+  },
+  {
+    "targetText": "খারাপ-বাথরুম",
+    "english": "Bad Bathroom"
+  },
+  {
+    "targetText": "খারাপ-বিছানা",
+    "english": "Bad Bed"
+  },
+  {
+    "targetText": "খারাপ-চেয়ার",
+    "english": "Bad Chair"
+  },
+  {
+    "targetText": "খারাপ-টেবিল",
+    "english": "Bad Table"
+  },
+  {
+    "targetText": "খারাপ-দরজা",
+    "english": "Bad Door"
+  },
+  {
+    "targetText": "খারাপ-জানালা",
+    "english": "Bad Window"
+  },
+  {
+    "targetText": "খারাপ-চাবি",
+    "english": "Bad Key"
+  },
+  {
+    "targetText": "খারাপ-মা",
+    "english": "Bad Mother"
+  },
+  {
+    "targetText": "খারাপ-বাবা",
+    "english": "Bad Father"
+  },
+  {
+    "targetText": "খারাপ-ভাই",
+    "english": "Bad Brother"
+  },
+  {
+    "targetText": "খারাপ-বোন",
+    "english": "Bad Sister"
+  },
+  {
+    "targetText": "খারাপ-বন্ধু",
+    "english": "Bad Friend"
+  },
+  {
+    "targetText": "খারাপ-পরিবার",
+    "english": "Bad Family"
+  },
+  {
+    "targetText": "খারাপ-শিশু",
+    "english": "Bad Child"
+  },
+  {
+    "targetText": "খারাপ-নাম",
+    "english": "Bad Name"
+  },
+  {
+    "targetText": "খারাপ-ফোন",
+    "english": "Bad Phone"
+  },
+  {
+    "targetText": "খারাপ-কম্পিউটার",
+    "english": "Bad Computer"
+  },
+  {
+    "targetText": "খারাপ-ইন্টারনেট",
+    "english": "Bad Internet"
+  },
+  {
+    "targetText": "খারাপ-বার্তা",
+    "english": "Bad Message"
+  },
+  {
+    "targetText": "খারাপ-টাকা",
+    "english": "Bad Money"
+  },
+  {
+    "targetText": "খারাপ-দাম",
+    "english": "Bad Price"
+  },
+  {
+    "targetText": "খারাপ-বাজার",
+    "english": "Bad Market"
+  },
+  {
+    "targetText": "খারাপ-দোকান",
+    "english": "Bad Shop"
+  },
+  {
+    "targetText": "খারাপ-বিল",
+    "english": "Bad Bill"
+  },
+  {
+    "targetText": "খারাপ-কার্ড",
+    "english": "Bad Card"
+  },
+  {
+    "targetText": "খারাপ-ব্যাংক",
+    "english": "Bad Bank"
+  },
+  {
+    "targetText": "খারাপ-বাস",
+    "english": "Bad Bus"
+  },
+  {
+    "targetText": "খারাপ-ট্রেন",
+    "english": "Bad Train"
+  },
+  {
+    "targetText": "খারাপ-ট্যাক্সি",
+    "english": "Bad Taxi"
+  },
+  {
+    "targetText": "খারাপ-গাড়ি",
+    "english": "Bad Car"
+  },
+  {
+    "targetText": "খারাপ-বাইক",
+    "english": "Bad Bike"
+  },
+  {
+    "targetText": "খারাপ-টিকিট",
+    "english": "Bad Ticket"
+  },
+  {
+    "targetText": "খারাপ-স্টেশন",
+    "english": "Bad Station"
+  },
+  {
+    "targetText": "খারাপ-বিমানবন্দর",
+    "english": "Bad Airport"
+  },
+  {
+    "targetText": "খারাপ-হোটেল",
+    "english": "Bad Hotel"
+  },
+  {
+    "targetText": "খারাপ-রেস্টুরেন্ট",
+    "english": "Bad Restaurant"
+  },
+  {
+    "targetText": "খারাপ-মানচিত্র",
+    "english": "Bad Map"
+  },
+  {
+    "targetText": "খারাপ-ঠিকানা",
+    "english": "Bad Address"
+  },
+  {
+    "targetText": "খারাপ-ডাক্তার",
+    "english": "Bad Doctor"
+  },
+  {
+    "targetText": "খারাপ-হাসপাতাল",
+    "english": "Bad Hospital"
+  },
+  {
+    "targetText": "খারাপ-ওষুধ",
+    "english": "Bad Medicine"
+  },
+  {
+    "targetText": "খারাপ-জ্বর",
+    "english": "Bad Fever"
+  },
+  {
+    "targetText": "খারাপ-ব্যথা",
+    "english": "Bad Pain"
+  },
+  {
+    "targetText": "খারাপ-সাহায্য",
+    "english": "Bad Help"
+  },
+  {
+    "targetText": "খারাপ-বৃষ্টি",
+    "english": "Bad Rain"
+  },
+  {
+    "targetText": "খারাপ-সূর্য",
+    "english": "Bad Sun"
+  },
+  {
+    "targetText": "খারাপ-বাতাস",
+    "english": "Bad Wind"
+  },
+  {
+    "targetText": "খারাপ-ঠান্ডা",
+    "english": "Bad Cold"
+  },
+  {
+    "targetText": "খারাপ-গরম",
+    "english": "Bad Heat"
+  },
+  {
+    "targetText": "খারাপ-সময়",
+    "english": "Bad Time"
+  },
+  {
+    "targetText": "খারাপ-আজ",
+    "english": "Bad Today"
+  },
+  {
+    "targetText": "খারাপ-আগামীকাল",
+    "english": "Bad Tomorrow"
+  },
+  {
+    "targetText": "খারাপ-গতকাল",
+    "english": "Bad Yesterday"
+  },
+  {
+    "targetText": "খারাপ-সকাল",
+    "english": "Bad Morning"
+  },
+  {
+    "targetText": "খারাপ-সন্ধ্যা",
+    "english": "Bad Evening"
+  },
+  {
+    "targetText": "খারাপ-রাত",
+    "english": "Bad Night"
+  },
+  {
+    "targetText": "বড়-পানি",
+    "english": "Big Water"
+  },
+  {
+    "targetText": "বড়-খাবার",
+    "english": "Big Food"
+  },
+  {
+    "targetText": "বড়-চা",
+    "english": "Big Tea"
+  },
+  {
+    "targetText": "বড়-কফি",
+    "english": "Big Coffee"
+  },
+  {
+    "targetText": "বড়-দুধ",
+    "english": "Big Milk"
+  },
+  {
+    "targetText": "বড়-রুটি",
+    "english": "Big Bread"
+  },
+  {
+    "targetText": "বড়-ভাত",
+    "english": "Big Rice"
+  },
+  {
+    "targetText": "বড়-লবণ",
+    "english": "Big Salt"
+  },
+  {
+    "targetText": "বড়-চিনি",
+    "english": "Big Sugar"
+  },
+  {
+    "targetText": "বড়-ফল",
+    "english": "Big Fruit"
+  },
+  {
+    "targetText": "বড়-সবজি",
+    "english": "Big Vegetables"
+  },
+  {
+    "targetText": "বড়-কলা",
+    "english": "Big Banana"
+  },
+  {
+    "targetText": "বড়-আপেল",
+    "english": "Big Apple"
+  },
+  {
+    "targetText": "বড়-আম",
+    "english": "Big Mango"
+  },
+  {
+    "targetText": "বড়-কমলা",
+    "english": "Big Orange"
+  },
+  {
+    "targetText": "বড়-ডিম",
+    "english": "Big Egg"
+  },
+  {
+    "targetText": "বড়-মাছ",
+    "english": "Big Fish"
+  },
+  {
+    "targetText": "বড়-মুরগি",
+    "english": "Big Chicken"
+  },
+  {
+    "targetText": "বড়-নাশতা",
+    "english": "Big Breakfast"
+  },
+  {
+    "targetText": "বড়-বই",
+    "english": "Big Book"
+  },
+  {
+    "targetText": "বড়-কলম",
+    "english": "Big Pen"
+  },
+  {
+    "targetText": "বড়-পেন্সিল",
+    "english": "Big Pencil"
+  },
+  {
+    "targetText": "বড়-খাতা",
+    "english": "Big Notebook"
+  },
+  {
+    "targetText": "বড়-কাগজ",
+    "english": "Big Paper"
+  },
+  {
+    "targetText": "বড়-ব্যাগ",
+    "english": "Big Bag"
+  },
+  {
+    "targetText": "বড়-স্কুল",
+    "english": "Big School"
+  },
+  {
+    "targetText": "বড়-ক্লাস",
+    "english": "Big Class"
+  },
+  {
+    "targetText": "বড়-শিক্ষক",
+    "english": "Big Teacher"
+  },
+  {
+    "targetText": "বড়-ছাত্র",
+    "english": "Big Student"
+  },
+  {
+    "targetText": "বড়-পরীক্ষা",
+    "english": "Big Exam"
+  },
+  {
+    "targetText": "বড়-প্রশ্ন",
+    "english": "Big Question"
+  },
+  {
+    "targetText": "বড়-উত্তর",
+    "english": "Big Answer"
+  },
+  {
+    "targetText": "বড়-পাঠ",
+    "english": "Big Lesson"
+  },
+  {
+    "targetText": "বড়-অনুশীলন",
+    "english": "Big Practice"
+  },
+  {
+    "targetText": "বড়-উচ্চারণ",
+    "english": "Big Pronunciation"
+  },
+  {
+    "targetText": "বড়-বাড়ি",
+    "english": "Big House"
+  },
+  {
+    "targetText": "বড়-ঘর",
+    "english": "Big Room"
+  },
+  {
+    "targetText": "বড়-রান্নাঘর",
+    "english": "Big Kitchen"
+  },
+  {
+    "targetText": "বড়-বাথরুম",
+    "english": "Big Bathroom"
+  },
+  {
+    "targetText": "বড়-বিছানা",
+    "english": "Big Bed"
+  },
+  {
+    "targetText": "বড়-চেয়ার",
+    "english": "Big Chair"
+  },
+  {
+    "targetText": "বড়-টেবিল",
+    "english": "Big Table"
+  },
+  {
+    "targetText": "বড়-দরজা",
+    "english": "Big Door"
+  },
+  {
+    "targetText": "বড়-জানালা",
+    "english": "Big Window"
+  },
+  {
+    "targetText": "বড়-চাবি",
+    "english": "Big Key"
+  },
+  {
+    "targetText": "বড়-মা",
+    "english": "Big Mother"
+  },
+  {
+    "targetText": "বড়-বাবা",
+    "english": "Big Father"
+  },
+  {
+    "targetText": "বড়-ভাই",
+    "english": "Big Brother"
+  },
+  {
+    "targetText": "বড়-বোন",
+    "english": "Big Sister"
+  },
+  {
+    "targetText": "বড়-বন্ধু",
+    "english": "Big Friend"
+  },
+  {
+    "targetText": "বড়-পরিবার",
+    "english": "Big Family"
+  },
+  {
+    "targetText": "বড়-শিশু",
+    "english": "Big Child"
+  },
+  {
+    "targetText": "বড়-নাম",
+    "english": "Big Name"
+  },
+  {
+    "targetText": "বড়-ফোন",
+    "english": "Big Phone"
+  },
+  {
+    "targetText": "বড়-কম্পিউটার",
+    "english": "Big Computer"
+  },
+  {
+    "targetText": "বড়-ইন্টারনেট",
+    "english": "Big Internet"
+  },
+  {
+    "targetText": "বড়-বার্তা",
+    "english": "Big Message"
+  },
+  {
+    "targetText": "বড়-টাকা",
+    "english": "Big Money"
+  },
+  {
+    "targetText": "বড়-দাম",
+    "english": "Big Price"
+  },
+  {
+    "targetText": "বড়-বাজার",
+    "english": "Big Market"
+  },
+  {
+    "targetText": "বড়-দোকান",
+    "english": "Big Shop"
+  },
+  {
+    "targetText": "বড়-বিল",
+    "english": "Big Bill"
+  },
+  {
+    "targetText": "বড়-কার্ড",
+    "english": "Big Card"
+  },
+  {
+    "targetText": "বড়-ব্যাংক",
+    "english": "Big Bank"
+  },
+  {
+    "targetText": "বড়-বাস",
+    "english": "Big Bus"
+  },
+  {
+    "targetText": "বড়-ট্রেন",
+    "english": "Big Train"
+  },
+  {
+    "targetText": "বড়-ট্যাক্সি",
+    "english": "Big Taxi"
+  },
+  {
+    "targetText": "বড়-গাড়ি",
+    "english": "Big Car"
+  },
+  {
+    "targetText": "বড়-বাইক",
+    "english": "Big Bike"
+  },
+  {
+    "targetText": "বড়-টিকিট",
+    "english": "Big Ticket"
+  },
+  {
+    "targetText": "বড়-স্টেশন",
+    "english": "Big Station"
+  },
+  {
+    "targetText": "বড়-বিমানবন্দর",
+    "english": "Big Airport"
+  },
+  {
+    "targetText": "বড়-হোটেল",
+    "english": "Big Hotel"
+  },
+  {
+    "targetText": "বড়-রেস্টুরেন্ট",
+    "english": "Big Restaurant"
+  },
+  {
+    "targetText": "বড়-মানচিত্র",
+    "english": "Big Map"
+  },
+  {
+    "targetText": "বড়-ঠিকানা",
+    "english": "Big Address"
+  },
+  {
+    "targetText": "বড়-ডাক্তার",
+    "english": "Big Doctor"
+  },
+  {
+    "targetText": "বড়-হাসপাতাল",
+    "english": "Big Hospital"
+  },
+  {
+    "targetText": "বড়-ওষুধ",
+    "english": "Big Medicine"
+  },
+  {
+    "targetText": "বড়-জ্বর",
+    "english": "Big Fever"
+  },
+  {
+    "targetText": "বড়-ব্যথা",
+    "english": "Big Pain"
+  },
+  {
+    "targetText": "বড়-সাহায্য",
+    "english": "Big Help"
+  },
+  {
+    "targetText": "বড়-বৃষ্টি",
+    "english": "Big Rain"
+  },
+  {
+    "targetText": "বড়-সূর্য",
+    "english": "Big Sun"
+  },
+  {
+    "targetText": "বড়-বাতাস",
+    "english": "Big Wind"
+  },
+  {
+    "targetText": "বড়-ঠান্ডা",
+    "english": "Big Cold"
+  },
+  {
+    "targetText": "বড়-গরম",
+    "english": "Big Heat"
+  },
+  {
+    "targetText": "বড়-সময়",
+    "english": "Big Time"
+  },
+  {
+    "targetText": "বড়-আজ",
+    "english": "Big Today"
+  },
+  {
+    "targetText": "বড়-আগামীকাল",
+    "english": "Big Tomorrow"
+  },
+  {
+    "targetText": "বড়-গতকাল",
+    "english": "Big Yesterday"
+  },
+  {
+    "targetText": "বড়-সকাল",
+    "english": "Big Morning"
+  },
+  {
+    "targetText": "বড়-সন্ধ্যা",
+    "english": "Big Evening"
+  },
+  {
+    "targetText": "বড়-রাত",
+    "english": "Big Night"
+  },
+  {
+    "targetText": "ছোট-পানি",
+    "english": "Small Water"
+  },
+  {
+    "targetText": "ছোট-খাবার",
+    "english": "Small Food"
+  },
+  {
+    "targetText": "ছোট-চা",
+    "english": "Small Tea"
+  },
+  {
+    "targetText": "ছোট-কফি",
+    "english": "Small Coffee"
+  },
+  {
+    "targetText": "ছোট-দুধ",
+    "english": "Small Milk"
+  },
+  {
+    "targetText": "ছোট-রুটি",
+    "english": "Small Bread"
+  },
+  {
+    "targetText": "ছোট-ভাত",
+    "english": "Small Rice"
+  },
+  {
+    "targetText": "ছোট-লবণ",
+    "english": "Small Salt"
+  },
+  {
+    "targetText": "ছোট-চিনি",
+    "english": "Small Sugar"
+  },
+  {
+    "targetText": "ছোট-ফল",
+    "english": "Small Fruit"
+  },
+  {
+    "targetText": "ছোট-সবজি",
+    "english": "Small Vegetables"
+  },
+  {
+    "targetText": "ছোট-কলা",
+    "english": "Small Banana"
+  },
+  {
+    "targetText": "ছোট-আপেল",
+    "english": "Small Apple"
+  },
+  {
+    "targetText": "ছোট-আম",
+    "english": "Small Mango"
+  },
+  {
+    "targetText": "ছোট-কমলা",
+    "english": "Small Orange"
+  },
+  {
+    "targetText": "ছোট-ডিম",
+    "english": "Small Egg"
+  },
+  {
+    "targetText": "ছোট-মাছ",
+    "english": "Small Fish"
+  },
+  {
+    "targetText": "ছোট-মুরগি",
+    "english": "Small Chicken"
+  },
+  {
+    "targetText": "ছোট-নাশতা",
+    "english": "Small Breakfast"
+  },
+  {
+    "targetText": "ছোট-বই",
+    "english": "Small Book"
+  },
+  {
+    "targetText": "ছোট-কলম",
+    "english": "Small Pen"
+  },
+  {
+    "targetText": "ছোট-পেন্সিল",
+    "english": "Small Pencil"
+  },
+  {
+    "targetText": "ছোট-খাতা",
+    "english": "Small Notebook"
+  },
+  {
+    "targetText": "ছোট-কাগজ",
+    "english": "Small Paper"
+  },
+  {
+    "targetText": "ছোট-ব্যাগ",
+    "english": "Small Bag"
+  },
+  {
+    "targetText": "ছোট-স্কুল",
+    "english": "Small School"
+  },
+  {
+    "targetText": "ছোট-ক্লাস",
+    "english": "Small Class"
+  },
+  {
+    "targetText": "ছোট-শিক্ষক",
+    "english": "Small Teacher"
+  },
+  {
+    "targetText": "ছোট-ছাত্র",
+    "english": "Small Student"
+  },
+  {
+    "targetText": "ছোট-পরীক্ষা",
+    "english": "Small Exam"
+  },
+  {
+    "targetText": "ছোট-প্রশ্ন",
+    "english": "Small Question"
+  },
+  {
+    "targetText": "ছোট-উত্তর",
+    "english": "Small Answer"
+  },
+  {
+    "targetText": "ছোট-পাঠ",
+    "english": "Small Lesson"
+  },
+  {
+    "targetText": "ছোট-অনুশীলন",
+    "english": "Small Practice"
+  },
+  {
+    "targetText": "ছোট-উচ্চারণ",
+    "english": "Small Pronunciation"
+  },
+  {
+    "targetText": "ছোট-বাড়ি",
+    "english": "Small House"
+  },
+  {
+    "targetText": "ছোট-ঘর",
+    "english": "Small Room"
+  },
+  {
+    "targetText": "ছোট-রান্নাঘর",
+    "english": "Small Kitchen"
+  },
+  {
+    "targetText": "ছোট-বাথরুম",
+    "english": "Small Bathroom"
+  },
+  {
+    "targetText": "ছোট-বিছানা",
+    "english": "Small Bed"
+  },
+  {
+    "targetText": "ছোট-চেয়ার",
+    "english": "Small Chair"
+  },
+  {
+    "targetText": "ছোট-টেবিল",
+    "english": "Small Table"
+  },
+  {
+    "targetText": "ছোট-দরজা",
+    "english": "Small Door"
+  },
+  {
+    "targetText": "ছোট-জানালা",
+    "english": "Small Window"
+  },
+  {
+    "targetText": "ছোট-চাবি",
+    "english": "Small Key"
+  },
+  {
+    "targetText": "ছোট-মা",
+    "english": "Small Mother"
+  },
+  {
+    "targetText": "ছোট-বাবা",
+    "english": "Small Father"
+  },
+  {
+    "targetText": "ছোট-ভাই",
+    "english": "Small Brother"
+  },
+  {
+    "targetText": "ছোট-বোন",
+    "english": "Small Sister"
+  },
+  {
+    "targetText": "ছোট-বন্ধু",
+    "english": "Small Friend"
+  },
+  {
+    "targetText": "ছোট-পরিবার",
+    "english": "Small Family"
+  },
+  {
+    "targetText": "ছোট-শিশু",
+    "english": "Small Child"
+  },
+  {
+    "targetText": "ছোট-নাম",
+    "english": "Small Name"
+  },
+  {
+    "targetText": "ছোট-ফোন",
+    "english": "Small Phone"
+  },
+  {
+    "targetText": "ছোট-কম্পিউটার",
+    "english": "Small Computer"
+  },
+  {
+    "targetText": "ছোট-ইন্টারনেট",
+    "english": "Small Internet"
+  },
+  {
+    "targetText": "ছোট-বার্তা",
+    "english": "Small Message"
+  },
+  {
+    "targetText": "ছোট-টাকা",
+    "english": "Small Money"
+  },
+  {
+    "targetText": "ছোট-দাম",
+    "english": "Small Price"
+  },
+  {
+    "targetText": "ছোট-বাজার",
+    "english": "Small Market"
+  },
+  {
+    "targetText": "ছোট-দোকান",
+    "english": "Small Shop"
+  },
+  {
+    "targetText": "ছোট-বিল",
+    "english": "Small Bill"
+  },
+  {
+    "targetText": "ছোট-কার্ড",
+    "english": "Small Card"
+  },
+  {
+    "targetText": "ছোট-ব্যাংক",
+    "english": "Small Bank"
+  },
+  {
+    "targetText": "ছোট-বাস",
+    "english": "Small Bus"
+  },
+  {
+    "targetText": "ছোট-ট্রেন",
+    "english": "Small Train"
+  },
+  {
+    "targetText": "ছোট-ট্যাক্সি",
+    "english": "Small Taxi"
+  },
+  {
+    "targetText": "ছোট-গাড়ি",
+    "english": "Small Car"
+  },
+  {
+    "targetText": "ছোট-বাইক",
+    "english": "Small Bike"
+  },
+  {
+    "targetText": "ছোট-টিকিট",
+    "english": "Small Ticket"
+  },
+  {
+    "targetText": "ছোট-স্টেশন",
+    "english": "Small Station"
+  },
+  {
+    "targetText": "ছোট-বিমানবন্দর",
+    "english": "Small Airport"
+  },
+  {
+    "targetText": "ছোট-হোটেল",
+    "english": "Small Hotel"
+  },
+  {
+    "targetText": "ছোট-রেস্টুরেন্ট",
+    "english": "Small Restaurant"
+  },
+  {
+    "targetText": "ছোট-মানচিত্র",
+    "english": "Small Map"
+  },
+  {
+    "targetText": "ছোট-ঠিকানা",
+    "english": "Small Address"
+  },
+  {
+    "targetText": "ছোট-ডাক্তার",
+    "english": "Small Doctor"
+  },
+  {
+    "targetText": "ছোট-হাসপাতাল",
+    "english": "Small Hospital"
+  },
+  {
+    "targetText": "ছোট-ওষুধ",
+    "english": "Small Medicine"
+  },
+  {
+    "targetText": "ছোট-জ্বর",
+    "english": "Small Fever"
+  },
+  {
+    "targetText": "ছোট-ব্যথা",
+    "english": "Small Pain"
+  },
+  {
+    "targetText": "ছোট-সাহায্য",
+    "english": "Small Help"
+  },
+  {
+    "targetText": "ছোট-বৃষ্টি",
+    "english": "Small Rain"
+  },
+  {
+    "targetText": "ছোট-সূর্য",
+    "english": "Small Sun"
+  },
+  {
+    "targetText": "ছোট-বাতাস",
+    "english": "Small Wind"
+  },
+  {
+    "targetText": "ছোট-ঠান্ডা",
+    "english": "Small Cold"
+  },
+  {
+    "targetText": "ছোট-গরম",
+    "english": "Small Heat"
+  },
+  {
+    "targetText": "ছোট-সময়",
+    "english": "Small Time"
+  },
+  {
+    "targetText": "ছোট-আজ",
+    "english": "Small Today"
+  },
+  {
+    "targetText": "ছোট-আগামীকাল",
+    "english": "Small Tomorrow"
+  },
+  {
+    "targetText": "ছোট-গতকাল",
+    "english": "Small Yesterday"
+  },
+  {
+    "targetText": "ছোট-সকাল",
+    "english": "Small Morning"
+  },
+  {
+    "targetText": "ছোট-সন্ধ্যা",
+    "english": "Small Evening"
+  },
+  {
+    "targetText": "ছোট-রাত",
+    "english": "Small Night"
+  },
+  {
+    "targetText": "নতুন-পানি",
+    "english": "New Water"
+  },
+  {
+    "targetText": "নতুন-খাবার",
+    "english": "New Food"
+  },
+  {
+    "targetText": "নতুন-চা",
+    "english": "New Tea"
+  },
+  {
+    "targetText": "নতুন-কফি",
+    "english": "New Coffee"
+  },
+  {
+    "targetText": "নতুন-দুধ",
+    "english": "New Milk"
+  },
+  {
+    "targetText": "নতুন-রুটি",
+    "english": "New Bread"
+  },
+  {
+    "targetText": "নতুন-ভাত",
+    "english": "New Rice"
+  },
+  {
+    "targetText": "নতুন-লবণ",
+    "english": "New Salt"
+  },
+  {
+    "targetText": "নতুন-চিনি",
+    "english": "New Sugar"
+  },
+  {
+    "targetText": "নতুন-ফল",
+    "english": "New Fruit"
+  },
+  {
+    "targetText": "নতুন-সবজি",
+    "english": "New Vegetables"
+  },
+  {
+    "targetText": "নতুন-কলা",
+    "english": "New Banana"
+  },
+  {
+    "targetText": "নতুন-আপেল",
+    "english": "New Apple"
+  },
+  {
+    "targetText": "নতুন-আম",
+    "english": "New Mango"
+  },
+  {
+    "targetText": "নতুন-কমলা",
+    "english": "New Orange"
+  },
+  {
+    "targetText": "নতুন-ডিম",
+    "english": "New Egg"
+  },
+  {
+    "targetText": "নতুন-মাছ",
+    "english": "New Fish"
+  },
+  {
+    "targetText": "নতুন-মুরগি",
+    "english": "New Chicken"
+  },
+  {
+    "targetText": "নতুন-নাশতা",
+    "english": "New Breakfast"
+  },
+  {
+    "targetText": "নতুন-বই",
+    "english": "New Book"
+  },
+  {
+    "targetText": "নতুন-কলম",
+    "english": "New Pen"
+  },
+  {
+    "targetText": "নতুন-পেন্সিল",
+    "english": "New Pencil"
+  },
+  {
+    "targetText": "নতুন-খাতা",
+    "english": "New Notebook"
+  },
+  {
+    "targetText": "নতুন-কাগজ",
+    "english": "New Paper"
+  },
+  {
+    "targetText": "নতুন-ব্যাগ",
+    "english": "New Bag"
+  },
+  {
+    "targetText": "নতুন-স্কুল",
+    "english": "New School"
+  },
+  {
+    "targetText": "নতুন-ক্লাস",
+    "english": "New Class"
+  },
+  {
+    "targetText": "নতুন-শিক্ষক",
+    "english": "New Teacher"
+  },
+  {
+    "targetText": "নতুন-ছাত্র",
+    "english": "New Student"
+  },
+  {
+    "targetText": "নতুন-পরীক্ষা",
+    "english": "New Exam"
+  },
+  {
+    "targetText": "নতুন-প্রশ্ন",
+    "english": "New Question"
+  },
+  {
+    "targetText": "নতুন-উত্তর",
+    "english": "New Answer"
+  },
+  {
+    "targetText": "নতুন-পাঠ",
+    "english": "New Lesson"
+  },
+  {
+    "targetText": "নতুন-অনুশীলন",
+    "english": "New Practice"
+  },
+  {
+    "targetText": "নতুন-উচ্চারণ",
+    "english": "New Pronunciation"
+  },
+  {
+    "targetText": "নতুন-বাড়ি",
+    "english": "New House"
+  },
+  {
+    "targetText": "নতুন-ঘর",
+    "english": "New Room"
+  },
+  {
+    "targetText": "নতুন-রান্নাঘর",
+    "english": "New Kitchen"
+  },
+  {
+    "targetText": "নতুন-বাথরুম",
+    "english": "New Bathroom"
+  },
+  {
+    "targetText": "নতুন-বিছানা",
+    "english": "New Bed"
+  },
+  {
+    "targetText": "নতুন-চেয়ার",
+    "english": "New Chair"
+  },
+  {
+    "targetText": "নতুন-টেবিল",
+    "english": "New Table"
+  },
+  {
+    "targetText": "নতুন-দরজা",
+    "english": "New Door"
+  },
+  {
+    "targetText": "নতুন-জানালা",
+    "english": "New Window"
+  },
+  {
+    "targetText": "নতুন-চাবি",
+    "english": "New Key"
+  },
+  {
+    "targetText": "নতুন-মা",
+    "english": "New Mother"
+  },
+  {
+    "targetText": "নতুন-বাবা",
+    "english": "New Father"
+  },
+  {
+    "targetText": "নতুন-ভাই",
+    "english": "New Brother"
+  },
+  {
+    "targetText": "নতুন-বোন",
+    "english": "New Sister"
+  },
+  {
+    "targetText": "নতুন-বন্ধু",
+    "english": "New Friend"
+  },
+  {
+    "targetText": "নতুন-পরিবার",
+    "english": "New Family"
+  },
+  {
+    "targetText": "নতুন-শিশু",
+    "english": "New Child"
+  },
+  {
+    "targetText": "নতুন-নাম",
+    "english": "New Name"
+  },
+  {
+    "targetText": "নতুন-ফোন",
+    "english": "New Phone"
+  },
+  {
+    "targetText": "নতুন-কম্পিউটার",
+    "english": "New Computer"
+  },
+  {
+    "targetText": "নতুন-ইন্টারনেট",
+    "english": "New Internet"
+  },
+  {
+    "targetText": "নতুন-বার্তা",
+    "english": "New Message"
+  },
+  {
+    "targetText": "নতুন-টাকা",
+    "english": "New Money"
+  },
+  {
+    "targetText": "নতুন-দাম",
+    "english": "New Price"
+  },
+  {
+    "targetText": "নতুন-বাজার",
+    "english": "New Market"
+  },
+  {
+    "targetText": "নতুন-দোকান",
+    "english": "New Shop"
+  },
+  {
+    "targetText": "নতুন-বিল",
+    "english": "New Bill"
+  },
+  {
+    "targetText": "নতুন-কার্ড",
+    "english": "New Card"
+  },
+  {
+    "targetText": "নতুন-ব্যাংক",
+    "english": "New Bank"
+  },
+  {
+    "targetText": "নতুন-বাস",
+    "english": "New Bus"
+  },
+  {
+    "targetText": "নতুন-ট্রেন",
+    "english": "New Train"
+  },
+  {
+    "targetText": "নতুন-ট্যাক্সি",
+    "english": "New Taxi"
+  },
+  {
+    "targetText": "নতুন-গাড়ি",
+    "english": "New Car"
+  },
+  {
+    "targetText": "নতুন-বাইক",
+    "english": "New Bike"
+  },
+  {
+    "targetText": "নতুন-টিকিট",
+    "english": "New Ticket"
+  },
+  {
+    "targetText": "নতুন-স্টেশন",
+    "english": "New Station"
+  },
+  {
+    "targetText": "নতুন-বিমানবন্দর",
+    "english": "New Airport"
+  },
+  {
+    "targetText": "নতুন-হোটেল",
+    "english": "New Hotel"
+  },
+  {
+    "targetText": "নতুন-রেস্টুরেন্ট",
+    "english": "New Restaurant"
+  },
+  {
+    "targetText": "নতুন-মানচিত্র",
+    "english": "New Map"
+  },
+  {
+    "targetText": "নতুন-ঠিকানা",
+    "english": "New Address"
+  },
+  {
+    "targetText": "নতুন-ডাক্তার",
+    "english": "New Doctor"
+  },
+  {
+    "targetText": "নতুন-হাসপাতাল",
+    "english": "New Hospital"
+  },
+  {
+    "targetText": "নতুন-ওষুধ",
+    "english": "New Medicine"
+  },
+  {
+    "targetText": "নতুন-জ্বর",
+    "english": "New Fever"
+  },
+  {
+    "targetText": "নতুন-ব্যথা",
+    "english": "New Pain"
+  },
+  {
+    "targetText": "নতুন-সাহায্য",
+    "english": "New Help"
+  },
+  {
+    "targetText": "নতুন-বৃষ্টি",
+    "english": "New Rain"
+  },
+  {
+    "targetText": "নতুন-সূর্য",
+    "english": "New Sun"
+  },
+  {
+    "targetText": "নতুন-বাতাস",
+    "english": "New Wind"
+  },
+  {
+    "targetText": "নতুন-ঠান্ডা",
+    "english": "New Cold"
+  },
+  {
+    "targetText": "নতুন-গরম",
+    "english": "New Heat"
+  },
+  {
+    "targetText": "নতুন-সময়",
+    "english": "New Time"
+  },
+  {
+    "targetText": "নতুন-আজ",
+    "english": "New Today"
+  },
+  {
+    "targetText": "নতুন-আগামীকাল",
+    "english": "New Tomorrow"
+  },
+  {
+    "targetText": "নতুন-গতকাল",
+    "english": "New Yesterday"
+  },
+  {
+    "targetText": "নতুন-সকাল",
+    "english": "New Morning"
+  },
+  {
+    "targetText": "নতুন-সন্ধ্যা",
+    "english": "New Evening"
+  },
+  {
+    "targetText": "নতুন-রাত",
+    "english": "New Night"
+  },
+  {
+    "targetText": "পুরোনো-পানি",
+    "english": "Old Water"
+  },
+  {
+    "targetText": "পুরোনো-খাবার",
+    "english": "Old Food"
+  },
+  {
+    "targetText": "পুরোনো-চা",
+    "english": "Old Tea"
+  },
+  {
+    "targetText": "পুরোনো-কফি",
+    "english": "Old Coffee"
+  },
+  {
+    "targetText": "পুরোনো-দুধ",
+    "english": "Old Milk"
+  },
+  {
+    "targetText": "পুরোনো-রুটি",
+    "english": "Old Bread"
+  },
+  {
+    "targetText": "পুরোনো-ভাত",
+    "english": "Old Rice"
+  },
+  {
+    "targetText": "পুরোনো-লবণ",
+    "english": "Old Salt"
+  },
+  {
+    "targetText": "পুরোনো-চিনি",
+    "english": "Old Sugar"
+  },
+  {
+    "targetText": "পুরোনো-ফল",
+    "english": "Old Fruit"
+  },
+  {
+    "targetText": "পুরোনো-সবজি",
+    "english": "Old Vegetables"
+  },
+  {
+    "targetText": "পুরোনো-কলা",
+    "english": "Old Banana"
+  },
+  {
+    "targetText": "পুরোনো-আপেল",
+    "english": "Old Apple"
+  },
+  {
+    "targetText": "পুরোনো-আম",
+    "english": "Old Mango"
+  },
+  {
+    "targetText": "পুরোনো-কমলা",
+    "english": "Old Orange"
+  },
+  {
+    "targetText": "পুরোনো-ডিম",
+    "english": "Old Egg"
+  },
+  {
+    "targetText": "পুরোনো-মাছ",
+    "english": "Old Fish"
+  },
+  {
+    "targetText": "পুরোনো-মুরগি",
+    "english": "Old Chicken"
+  },
+  {
+    "targetText": "পুরোনো-নাশতা",
+    "english": "Old Breakfast"
+  },
+  {
+    "targetText": "পুরোনো-বই",
+    "english": "Old Book"
+  },
+  {
+    "targetText": "পুরোনো-কলম",
+    "english": "Old Pen"
+  },
+  {
+    "targetText": "পুরোনো-পেন্সিল",
+    "english": "Old Pencil"
+  },
+  {
+    "targetText": "পুরোনো-খাতা",
+    "english": "Old Notebook"
+  },
+  {
+    "targetText": "পুরোনো-কাগজ",
+    "english": "Old Paper"
+  },
+  {
+    "targetText": "পুরোনো-ব্যাগ",
+    "english": "Old Bag"
+  },
+  {
+    "targetText": "পুরোনো-স্কুল",
+    "english": "Old School"
+  },
+  {
+    "targetText": "পুরোনো-ক্লাস",
+    "english": "Old Class"
+  },
+  {
+    "targetText": "পুরোনো-শিক্ষক",
+    "english": "Old Teacher"
+  },
+  {
+    "targetText": "পুরোনো-ছাত্র",
+    "english": "Old Student"
+  },
+  {
+    "targetText": "পুরোনো-পরীক্ষা",
+    "english": "Old Exam"
+  },
+  {
+    "targetText": "পুরোনো-প্রশ্ন",
+    "english": "Old Question"
+  },
+  {
+    "targetText": "পুরোনো-উত্তর",
+    "english": "Old Answer"
+  },
+  {
+    "targetText": "পুরোনো-পাঠ",
+    "english": "Old Lesson"
+  },
+  {
+    "targetText": "পুরোনো-অনুশীলন",
+    "english": "Old Practice"
+  },
+  {
+    "targetText": "পুরোনো-উচ্চারণ",
+    "english": "Old Pronunciation"
+  },
+  {
+    "targetText": "পুরোনো-বাড়ি",
+    "english": "Old House"
+  },
+  {
+    "targetText": "পুরোনো-ঘর",
+    "english": "Old Room"
+  },
+  {
+    "targetText": "পুরোনো-রান্নাঘর",
+    "english": "Old Kitchen"
+  },
+  {
+    "targetText": "পুরোনো-বাথরুম",
+    "english": "Old Bathroom"
+  },
+  {
+    "targetText": "পুরোনো-বিছানা",
+    "english": "Old Bed"
+  },
+  {
+    "targetText": "পুরোনো-চেয়ার",
+    "english": "Old Chair"
+  },
+  {
+    "targetText": "পুরোনো-টেবিল",
+    "english": "Old Table"
+  },
+  {
+    "targetText": "পুরোনো-দরজা",
+    "english": "Old Door"
+  },
+  {
+    "targetText": "পুরোনো-জানালা",
+    "english": "Old Window"
+  },
+  {
+    "targetText": "পুরোনো-চাবি",
+    "english": "Old Key"
+  },
+  {
+    "targetText": "পুরোনো-মা",
+    "english": "Old Mother"
+  },
+  {
+    "targetText": "পুরোনো-বাবা",
+    "english": "Old Father"
+  },
+  {
+    "targetText": "পুরোনো-ভাই",
+    "english": "Old Brother"
+  },
+  {
+    "targetText": "পুরোনো-বোন",
+    "english": "Old Sister"
+  },
+  {
+    "targetText": "পুরোনো-বন্ধু",
+    "english": "Old Friend"
+  },
+  {
+    "targetText": "পুরোনো-পরিবার",
+    "english": "Old Family"
+  },
+  {
+    "targetText": "পুরোনো-শিশু",
+    "english": "Old Child"
+  },
+  {
+    "targetText": "পুরোনো-নাম",
+    "english": "Old Name"
+  },
+  {
+    "targetText": "পুরোনো-ফোন",
+    "english": "Old Phone"
+  },
+  {
+    "targetText": "পুরোনো-কম্পিউটার",
+    "english": "Old Computer"
+  },
+  {
+    "targetText": "পুরোনো-ইন্টারনেট",
+    "english": "Old Internet"
+  },
+  {
+    "targetText": "পুরোনো-বার্তা",
+    "english": "Old Message"
+  },
+  {
+    "targetText": "পুরোনো-টাকা",
+    "english": "Old Money"
+  },
+  {
+    "targetText": "পুরোনো-দাম",
+    "english": "Old Price"
+  },
+  {
+    "targetText": "পুরোনো-বাজার",
+    "english": "Old Market"
+  },
+  {
+    "targetText": "পুরোনো-দোকান",
+    "english": "Old Shop"
+  },
+  {
+    "targetText": "পুরোনো-বিল",
+    "english": "Old Bill"
+  },
+  {
+    "targetText": "পুরোনো-কার্ড",
+    "english": "Old Card"
+  },
+  {
+    "targetText": "পুরোনো-ব্যাংক",
+    "english": "Old Bank"
+  },
+  {
+    "targetText": "পুরোনো-বাস",
+    "english": "Old Bus"
+  },
+  {
+    "targetText": "পুরোনো-ট্রেন",
+    "english": "Old Train"
+  },
+  {
+    "targetText": "পুরোনো-ট্যাক্সি",
+    "english": "Old Taxi"
+  },
+  {
+    "targetText": "পুরোনো-গাড়ি",
+    "english": "Old Car"
+  },
+  {
+    "targetText": "পুরোনো-বাইক",
+    "english": "Old Bike"
+  },
+  {
+    "targetText": "পুরোনো-টিকিট",
+    "english": "Old Ticket"
+  },
+  {
+    "targetText": "পুরোনো-স্টেশন",
+    "english": "Old Station"
+  },
+  {
+    "targetText": "পুরোনো-বিমানবন্দর",
+    "english": "Old Airport"
+  },
+  {
+    "targetText": "পুরোনো-হোটেল",
+    "english": "Old Hotel"
+  },
+  {
+    "targetText": "পুরোনো-রেস্টুরেন্ট",
+    "english": "Old Restaurant"
+  },
+  {
+    "targetText": "পুরোনো-মানচিত্র",
+    "english": "Old Map"
+  },
+  {
+    "targetText": "পুরোনো-ঠিকানা",
+    "english": "Old Address"
+  },
+  {
+    "targetText": "পুরোনো-ডাক্তার",
+    "english": "Old Doctor"
+  },
+  {
+    "targetText": "পুরোনো-হাসপাতাল",
+    "english": "Old Hospital"
+  },
+  {
+    "targetText": "পুরোনো-ওষুধ",
+    "english": "Old Medicine"
+  },
+  {
+    "targetText": "পুরোনো-জ্বর",
+    "english": "Old Fever"
+  },
+  {
+    "targetText": "পুরোনো-ব্যথা",
+    "english": "Old Pain"
+  },
+  {
+    "targetText": "পুরোনো-সাহায্য",
+    "english": "Old Help"
+  },
+  {
+    "targetText": "পুরোনো-বৃষ্টি",
+    "english": "Old Rain"
+  },
+  {
+    "targetText": "পুরোনো-সূর্য",
+    "english": "Old Sun"
+  },
+  {
+    "targetText": "পুরোনো-বাতাস",
+    "english": "Old Wind"
+  },
+  {
+    "targetText": "পুরোনো-ঠান্ডা",
+    "english": "Old Cold"
+  },
+  {
+    "targetText": "পুরোনো-গরম",
+    "english": "Old Heat"
+  },
+  {
+    "targetText": "পুরোনো-সময়",
+    "english": "Old Time"
+  },
+  {
+    "targetText": "পুরোনো-আজ",
+    "english": "Old Today"
+  },
+  {
+    "targetText": "পুরোনো-আগামীকাল",
+    "english": "Old Tomorrow"
+  },
+  {
+    "targetText": "পুরোনো-গতকাল",
+    "english": "Old Yesterday"
+  },
+  {
+    "targetText": "পুরোনো-সকাল",
+    "english": "Old Morning"
+  },
+  {
+    "targetText": "পুরোনো-সন্ধ্যা",
+    "english": "Old Evening"
+  },
+  {
+    "targetText": "পুরোনো-রাত",
+    "english": "Old Night"
+  },
+  {
+    "targetText": "পরিষ্কার-পানি",
+    "english": "Clean Water"
+  },
+  {
+    "targetText": "পরিষ্কার-খাবার",
+    "english": "Clean Food"
+  },
+  {
+    "targetText": "পরিষ্কার-চা",
+    "english": "Clean Tea"
+  },
+  {
+    "targetText": "পরিষ্কার-কফি",
+    "english": "Clean Coffee"
+  },
+  {
+    "targetText": "পরিষ্কার-দুধ",
+    "english": "Clean Milk"
+  },
+  {
+    "targetText": "পরিষ্কার-রুটি",
+    "english": "Clean Bread"
+  },
+  {
+    "targetText": "পরিষ্কার-ভাত",
+    "english": "Clean Rice"
+  },
+  {
+    "targetText": "পরিষ্কার-লবণ",
+    "english": "Clean Salt"
+  },
+  {
+    "targetText": "পরিষ্কার-চিনি",
+    "english": "Clean Sugar"
+  },
+  {
+    "targetText": "পরিষ্কার-ফল",
+    "english": "Clean Fruit"
+  },
+  {
+    "targetText": "পরিষ্কার-সবজি",
+    "english": "Clean Vegetables"
+  },
+  {
+    "targetText": "পরিষ্কার-কলা",
+    "english": "Clean Banana"
+  },
+  {
+    "targetText": "পরিষ্কার-আপেল",
+    "english": "Clean Apple"
+  },
+  {
+    "targetText": "পরিষ্কার-আম",
+    "english": "Clean Mango"
+  },
+  {
+    "targetText": "পরিষ্কার-কমলা",
+    "english": "Clean Orange"
+  },
+  {
+    "targetText": "পরিষ্কার-ডিম",
+    "english": "Clean Egg"
+  },
+  {
+    "targetText": "পরিষ্কার-মাছ",
+    "english": "Clean Fish"
+  },
+  {
+    "targetText": "পরিষ্কার-মুরগি",
+    "english": "Clean Chicken"
+  },
+  {
+    "targetText": "পরিষ্কার-নাশতা",
+    "english": "Clean Breakfast"
+  },
+  {
+    "targetText": "পরিষ্কার-বই",
+    "english": "Clean Book"
+  },
+  {
+    "targetText": "পরিষ্কার-কলম",
+    "english": "Clean Pen"
+  },
+  {
+    "targetText": "পরিষ্কার-পেন্সিল",
+    "english": "Clean Pencil"
+  },
+  {
+    "targetText": "পরিষ্কার-খাতা",
+    "english": "Clean Notebook"
+  },
+  {
+    "targetText": "পরিষ্কার-কাগজ",
+    "english": "Clean Paper"
+  },
+  {
+    "targetText": "পরিষ্কার-ব্যাগ",
+    "english": "Clean Bag"
+  },
+  {
+    "targetText": "পরিষ্কার-স্কুল",
+    "english": "Clean School"
+  },
+  {
+    "targetText": "পরিষ্কার-ক্লাস",
+    "english": "Clean Class"
+  },
+  {
+    "targetText": "পরিষ্কার-শিক্ষক",
+    "english": "Clean Teacher"
+  },
+  {
+    "targetText": "পরিষ্কার-ছাত্র",
+    "english": "Clean Student"
+  },
+  {
+    "targetText": "পরিষ্কার-পরীক্ষা",
+    "english": "Clean Exam"
+  },
+  {
+    "targetText": "পরিষ্কার-প্রশ্ন",
+    "english": "Clean Question"
+  },
+  {
+    "targetText": "পরিষ্কার-উত্তর",
+    "english": "Clean Answer"
+  },
+  {
+    "targetText": "পরিষ্কার-পাঠ",
+    "english": "Clean Lesson"
+  },
+  {
+    "targetText": "পরিষ্কার-অনুশীলন",
+    "english": "Clean Practice"
+  },
+  {
+    "targetText": "পরিষ্কার-উচ্চারণ",
+    "english": "Clean Pronunciation"
+  },
+  {
+    "targetText": "পরিষ্কার-বাড়ি",
+    "english": "Clean House"
+  },
+  {
+    "targetText": "পরিষ্কার-ঘর",
+    "english": "Clean Room"
+  },
+  {
+    "targetText": "পরিষ্কার-রান্নাঘর",
+    "english": "Clean Kitchen"
+  },
+  {
+    "targetText": "পরিষ্কার-বাথরুম",
+    "english": "Clean Bathroom"
+  },
+  {
+    "targetText": "পরিষ্কার-বিছানা",
+    "english": "Clean Bed"
+  },
+  {
+    "targetText": "পরিষ্কার-চেয়ার",
+    "english": "Clean Chair"
+  },
+  {
+    "targetText": "পরিষ্কার-টেবিল",
+    "english": "Clean Table"
+  },
+  {
+    "targetText": "পরিষ্কার-দরজা",
+    "english": "Clean Door"
+  },
+  {
+    "targetText": "পরিষ্কার-জানালা",
+    "english": "Clean Window"
+  },
+  {
+    "targetText": "পরিষ্কার-চাবি",
+    "english": "Clean Key"
+  },
+  {
+    "targetText": "পরিষ্কার-মা",
+    "english": "Clean Mother"
+  },
+  {
+    "targetText": "পরিষ্কার-বাবা",
+    "english": "Clean Father"
+  },
+  {
+    "targetText": "পরিষ্কার-ভাই",
+    "english": "Clean Brother"
+  },
+  {
+    "targetText": "পরিষ্কার-বোন",
+    "english": "Clean Sister"
+  },
+  {
+    "targetText": "পরিষ্কার-বন্ধু",
+    "english": "Clean Friend"
+  },
+  {
+    "targetText": "পরিষ্কার-পরিবার",
+    "english": "Clean Family"
+  },
+  {
+    "targetText": "পরিষ্কার-শিশু",
+    "english": "Clean Child"
+  },
+  {
+    "targetText": "পরিষ্কার-নাম",
+    "english": "Clean Name"
+  },
+  {
+    "targetText": "পরিষ্কার-ফোন",
+    "english": "Clean Phone"
+  },
+  {
+    "targetText": "পরিষ্কার-কম্পিউটার",
+    "english": "Clean Computer"
+  },
+  {
+    "targetText": "পরিষ্কার-ইন্টারনেট",
+    "english": "Clean Internet"
+  },
+  {
+    "targetText": "পরিষ্কার-বার্তা",
+    "english": "Clean Message"
+  },
+  {
+    "targetText": "পরিষ্কার-টাকা",
+    "english": "Clean Money"
+  },
+  {
+    "targetText": "পরিষ্কার-দাম",
+    "english": "Clean Price"
+  },
+  {
+    "targetText": "পরিষ্কার-বাজার",
+    "english": "Clean Market"
+  },
+  {
+    "targetText": "পরিষ্কার-দোকান",
+    "english": "Clean Shop"
+  },
+  {
+    "targetText": "পরিষ্কার-বিল",
+    "english": "Clean Bill"
+  },
+  {
+    "targetText": "পরিষ্কার-কার্ড",
+    "english": "Clean Card"
+  },
+  {
+    "targetText": "পরিষ্কার-ব্যাংক",
+    "english": "Clean Bank"
+  },
+  {
+    "targetText": "পরিষ্কার-বাস",
+    "english": "Clean Bus"
+  },
+  {
+    "targetText": "পরিষ্কার-ট্রেন",
+    "english": "Clean Train"
+  },
+  {
+    "targetText": "পরিষ্কার-ট্যাক্সি",
+    "english": "Clean Taxi"
+  },
+  {
+    "targetText": "পরিষ্কার-গাড়ি",
+    "english": "Clean Car"
+  },
+  {
+    "targetText": "পরিষ্কার-বাইক",
+    "english": "Clean Bike"
+  },
+  {
+    "targetText": "পরিষ্কার-টিকিট",
+    "english": "Clean Ticket"
+  },
+  {
+    "targetText": "পরিষ্কার-স্টেশন",
+    "english": "Clean Station"
+  },
+  {
+    "targetText": "পরিষ্কার-বিমানবন্দর",
+    "english": "Clean Airport"
+  },
+  {
+    "targetText": "পরিষ্কার-হোটেল",
+    "english": "Clean Hotel"
+  },
+  {
+    "targetText": "পরিষ্কার-রেস্টুরেন্ট",
+    "english": "Clean Restaurant"
+  },
+  {
+    "targetText": "পরিষ্কার-মানচিত্র",
+    "english": "Clean Map"
+  },
+  {
+    "targetText": "পরিষ্কার-ঠিকানা",
+    "english": "Clean Address"
+  },
+  {
+    "targetText": "পরিষ্কার-ডাক্তার",
+    "english": "Clean Doctor"
+  },
+  {
+    "targetText": "পরিষ্কার-হাসপাতাল",
+    "english": "Clean Hospital"
+  },
+  {
+    "targetText": "পরিষ্কার-ওষুধ",
+    "english": "Clean Medicine"
+  },
+  {
+    "targetText": "পরিষ্কার-জ্বর",
+    "english": "Clean Fever"
+  },
+  {
+    "targetText": "পরিষ্কার-ব্যথা",
+    "english": "Clean Pain"
+  },
+  {
+    "targetText": "পরিষ্কার-সাহায্য",
+    "english": "Clean Help"
+  },
+  {
+    "targetText": "পরিষ্কার-বৃষ্টি",
+    "english": "Clean Rain"
+  },
+  {
+    "targetText": "পরিষ্কার-সূর্য",
+    "english": "Clean Sun"
+  },
+  {
+    "targetText": "পরিষ্কার-বাতাস",
+    "english": "Clean Wind"
+  },
+  {
+    "targetText": "পরিষ্কার-ঠান্ডা",
+    "english": "Clean Cold"
+  },
+  {
+    "targetText": "পরিষ্কার-গরম",
+    "english": "Clean Heat"
+  },
+  {
+    "targetText": "পরিষ্কার-সময়",
+    "english": "Clean Time"
+  },
+  {
+    "targetText": "পরিষ্কার-আজ",
+    "english": "Clean Today"
+  },
+  {
+    "targetText": "পরিষ্কার-আগামীকাল",
+    "english": "Clean Tomorrow"
+  },
+  {
+    "targetText": "পরিষ্কার-গতকাল",
+    "english": "Clean Yesterday"
+  },
+  {
+    "targetText": "পরিষ্কার-সকাল",
+    "english": "Clean Morning"
+  },
+  {
+    "targetText": "পরিষ্কার-সন্ধ্যা",
+    "english": "Clean Evening"
+  },
+  {
+    "targetText": "পরিষ্কার-রাত",
+    "english": "Clean Night"
+  },
+  {
+    "targetText": "সুস্বাদু-পানি",
+    "english": "Tasty Water"
+  },
+  {
+    "targetText": "সুস্বাদু-খাবার",
+    "english": "Tasty Food"
+  },
+  {
+    "targetText": "সুস্বাদু-চা",
+    "english": "Tasty Tea"
+  },
+  {
+    "targetText": "সুস্বাদু-কফি",
+    "english": "Tasty Coffee"
+  },
+  {
+    "targetText": "সুস্বাদু-দুধ",
+    "english": "Tasty Milk"
+  },
+  {
+    "targetText": "সুস্বাদু-রুটি",
+    "english": "Tasty Bread"
+  },
+  {
+    "targetText": "সুস্বাদু-ভাত",
+    "english": "Tasty Rice"
+  },
+  {
+    "targetText": "সুস্বাদু-লবণ",
+    "english": "Tasty Salt"
+  },
+  {
+    "targetText": "সুস্বাদু-চিনি",
+    "english": "Tasty Sugar"
+  },
+  {
+    "targetText": "সুস্বাদু-ফল",
+    "english": "Tasty Fruit"
+  },
+  {
+    "targetText": "সুস্বাদু-সবজি",
+    "english": "Tasty Vegetables"
+  },
+  {
+    "targetText": "সুস্বাদু-কলা",
+    "english": "Tasty Banana"
+  },
+  {
+    "targetText": "সুস্বাদু-আপেল",
+    "english": "Tasty Apple"
+  },
+  {
+    "targetText": "সুস্বাদু-আম",
+    "english": "Tasty Mango"
+  },
+  {
+    "targetText": "সুস্বাদু-কমলা",
+    "english": "Tasty Orange"
+  },
+  {
+    "targetText": "সুস্বাদু-ডিম",
+    "english": "Tasty Egg"
+  },
+  {
+    "targetText": "সুস্বাদু-মাছ",
+    "english": "Tasty Fish"
+  },
+  {
+    "targetText": "সুস্বাদু-মুরগি",
+    "english": "Tasty Chicken"
+  },
+  {
+    "targetText": "সুস্বাদু-নাশতা",
+    "english": "Tasty Breakfast"
+  },
+  {
+    "targetText": "সুস্বাদু-বই",
+    "english": "Tasty Book"
+  },
+  {
+    "targetText": "সুস্বাদু-কলম",
+    "english": "Tasty Pen"
+  },
+  {
+    "targetText": "সুস্বাদু-পেন্সিল",
+    "english": "Tasty Pencil"
+  },
+  {
+    "targetText": "সুস্বাদু-খাতা",
+    "english": "Tasty Notebook"
+  },
+  {
+    "targetText": "সুস্বাদু-কাগজ",
+    "english": "Tasty Paper"
+  },
+  {
+    "targetText": "সুস্বাদু-ব্যাগ",
+    "english": "Tasty Bag"
+  },
+  {
+    "targetText": "সুস্বাদু-স্কুল",
+    "english": "Tasty School"
+  },
+  {
+    "targetText": "সুস্বাদু-ক্লাস",
+    "english": "Tasty Class"
+  },
+  {
+    "targetText": "সুস্বাদু-শিক্ষক",
+    "english": "Tasty Teacher"
+  },
+  {
+    "targetText": "সুস্বাদু-ছাত্র",
+    "english": "Tasty Student"
+  },
+  {
+    "targetText": "সুস্বাদু-পরীক্ষা",
+    "english": "Tasty Exam"
+  },
+  {
+    "targetText": "সুস্বাদু-প্রশ্ন",
+    "english": "Tasty Question"
+  },
+  {
+    "targetText": "সুস্বাদু-উত্তর",
+    "english": "Tasty Answer"
+  },
+  {
+    "targetText": "সুস্বাদু-পাঠ",
+    "english": "Tasty Lesson"
+  },
+  {
+    "targetText": "সুস্বাদু-অনুশীলন",
+    "english": "Tasty Practice"
+  },
+  {
+    "targetText": "সুস্বাদু-উচ্চারণ",
+    "english": "Tasty Pronunciation"
+  },
+  {
+    "targetText": "সুস্বাদু-বাড়ি",
+    "english": "Tasty House"
+  },
+  {
+    "targetText": "সুস্বাদু-ঘর",
+    "english": "Tasty Room"
+  },
+  {
+    "targetText": "সুস্বাদু-রান্নাঘর",
+    "english": "Tasty Kitchen"
+  },
+  {
+    "targetText": "সুস্বাদু-বাথরুম",
+    "english": "Tasty Bathroom"
+  },
+  {
+    "targetText": "সুস্বাদু-বিছানা",
+    "english": "Tasty Bed"
+  },
+  {
+    "targetText": "সুস্বাদু-চেয়ার",
+    "english": "Tasty Chair"
+  },
+  {
+    "targetText": "সুস্বাদু-টেবিল",
+    "english": "Tasty Table"
+  },
+  {
+    "targetText": "সুস্বাদু-দরজা",
+    "english": "Tasty Door"
+  },
+  {
+    "targetText": "সুস্বাদু-জানালা",
+    "english": "Tasty Window"
+  },
+  {
+    "targetText": "সুস্বাদু-চাবি",
+    "english": "Tasty Key"
+  },
+  {
+    "targetText": "সুস্বাদু-মা",
+    "english": "Tasty Mother"
+  },
+  {
+    "targetText": "সুস্বাদু-বাবা",
+    "english": "Tasty Father"
+  },
+  {
+    "targetText": "সুস্বাদু-ভাই",
+    "english": "Tasty Brother"
+  },
+  {
+    "targetText": "সুস্বাদু-বোন",
+    "english": "Tasty Sister"
+  },
+  {
+    "targetText": "সুস্বাদু-বন্ধু",
+    "english": "Tasty Friend"
+  },
+  {
+    "targetText": "সুস্বাদু-পরিবার",
+    "english": "Tasty Family"
+  },
+  {
+    "targetText": "সুস্বাদু-শিশু",
+    "english": "Tasty Child"
+  },
+  {
+    "targetText": "সুস্বাদু-নাম",
+    "english": "Tasty Name"
+  },
+  {
+    "targetText": "সুস্বাদু-ফোন",
+    "english": "Tasty Phone"
+  },
+  {
+    "targetText": "সুস্বাদু-কম্পিউটার",
+    "english": "Tasty Computer"
+  },
+  {
+    "targetText": "সুস্বাদু-ইন্টারনেট",
+    "english": "Tasty Internet"
+  },
+  {
+    "targetText": "সুস্বাদু-বার্তা",
+    "english": "Tasty Message"
+  },
+  {
+    "targetText": "সুস্বাদু-টাকা",
+    "english": "Tasty Money"
+  },
+  {
+    "targetText": "সুস্বাদু-দাম",
+    "english": "Tasty Price"
+  },
+  {
+    "targetText": "সুস্বাদু-বাজার",
+    "english": "Tasty Market"
+  },
+  {
+    "targetText": "সুস্বাদু-দোকান",
+    "english": "Tasty Shop"
+  },
+  {
+    "targetText": "সুস্বাদু-বিল",
+    "english": "Tasty Bill"
+  },
+  {
+    "targetText": "সুস্বাদু-কার্ড",
+    "english": "Tasty Card"
+  },
+  {
+    "targetText": "সুস্বাদু-ব্যাংক",
+    "english": "Tasty Bank"
+  },
+  {
+    "targetText": "সুস্বাদু-বাস",
+    "english": "Tasty Bus"
+  },
+  {
+    "targetText": "সুস্বাদু-ট্রেন",
+    "english": "Tasty Train"
+  },
+  {
+    "targetText": "সুস্বাদু-ট্যাক্সি",
+    "english": "Tasty Taxi"
+  },
+  {
+    "targetText": "সুস্বাদু-গাড়ি",
+    "english": "Tasty Car"
+  },
+  {
+    "targetText": "সুস্বাদু-বাইক",
+    "english": "Tasty Bike"
+  },
+  {
+    "targetText": "সুস্বাদু-টিকিট",
+    "english": "Tasty Ticket"
+  },
+  {
+    "targetText": "সুস্বাদু-স্টেশন",
+    "english": "Tasty Station"
+  },
+  {
+    "targetText": "সুস্বাদু-বিমানবন্দর",
+    "english": "Tasty Airport"
+  },
+  {
+    "targetText": "সুস্বাদু-হোটেল",
+    "english": "Tasty Hotel"
+  },
+  {
+    "targetText": "সুস্বাদু-রেস্টুরেন্ট",
+    "english": "Tasty Restaurant"
+  },
+  {
+    "targetText": "সুস্বাদু-মানচিত্র",
+    "english": "Tasty Map"
+  },
+  {
+    "targetText": "সুস্বাদু-ঠিকানা",
+    "english": "Tasty Address"
+  },
+  {
+    "targetText": "সুস্বাদু-ডাক্তার",
+    "english": "Tasty Doctor"
+  },
+  {
+    "targetText": "সুস্বাদু-হাসপাতাল",
+    "english": "Tasty Hospital"
+  },
+  {
+    "targetText": "সুস্বাদু-ওষুধ",
+    "english": "Tasty Medicine"
+  },
+  {
+    "targetText": "সুস্বাদু-জ্বর",
+    "english": "Tasty Fever"
+  },
+  {
+    "targetText": "সুস্বাদু-ব্যথা",
+    "english": "Tasty Pain"
+  },
+  {
+    "targetText": "সুস্বাদু-সাহায্য",
+    "english": "Tasty Help"
+  },
+  {
+    "targetText": "সুস্বাদু-বৃষ্টি",
+    "english": "Tasty Rain"
+  },
+  {
+    "targetText": "সুস্বাদু-সূর্য",
+    "english": "Tasty Sun"
+  },
+  {
+    "targetText": "সুস্বাদু-বাতাস",
+    "english": "Tasty Wind"
+  },
+  {
+    "targetText": "সুস্বাদু-ঠান্ডা",
+    "english": "Tasty Cold"
+  },
+  {
+    "targetText": "সুস্বাদু-গরম",
+    "english": "Tasty Heat"
+  },
+  {
+    "targetText": "সুস্বাদু-সময়",
+    "english": "Tasty Time"
+  },
+  {
+    "targetText": "সুস্বাদু-আজ",
+    "english": "Tasty Today"
+  },
+  {
+    "targetText": "সুস্বাদু-আগামীকাল",
+    "english": "Tasty Tomorrow"
+  },
+  {
+    "targetText": "সুস্বাদু-গতকাল",
+    "english": "Tasty Yesterday"
+  },
+  {
+    "targetText": "সুস্বাদু-সকাল",
+    "english": "Tasty Morning"
+  },
+  {
+    "targetText": "সুস্বাদু-সন্ধ্যা",
+    "english": "Tasty Evening"
+  },
+  {
+    "targetText": "সুস্বাদু-রাত",
+    "english": "Tasty Night"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-পানি",
+    "english": "Important Water"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-খাবার",
+    "english": "Important Food"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-চা",
+    "english": "Important Tea"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-কফি",
+    "english": "Important Coffee"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-দুধ",
+    "english": "Important Milk"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-রুটি",
+    "english": "Important Bread"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ভাত",
+    "english": "Important Rice"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-লবণ",
+    "english": "Important Salt"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-চিনি",
+    "english": "Important Sugar"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ফল",
+    "english": "Important Fruit"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-সবজি",
+    "english": "Important Vegetables"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-কলা",
+    "english": "Important Banana"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-আপেল",
+    "english": "Important Apple"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-আম",
+    "english": "Important Mango"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-কমলা",
+    "english": "Important Orange"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ডিম",
+    "english": "Important Egg"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-মাছ",
+    "english": "Important Fish"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-মুরগি",
+    "english": "Important Chicken"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-নাশতা",
+    "english": "Important Breakfast"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বই",
+    "english": "Important Book"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-কলম",
+    "english": "Important Pen"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-পেন্সিল",
+    "english": "Important Pencil"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-খাতা",
+    "english": "Important Notebook"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-কাগজ",
+    "english": "Important Paper"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ব্যাগ",
+    "english": "Important Bag"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-স্কুল",
+    "english": "Important School"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ক্লাস",
+    "english": "Important Class"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-শিক্ষক",
+    "english": "Important Teacher"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ছাত্র",
+    "english": "Important Student"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-পরীক্ষা",
+    "english": "Important Exam"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-প্রশ্ন",
+    "english": "Important Question"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-উত্তর",
+    "english": "Important Answer"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-পাঠ",
+    "english": "Important Lesson"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-অনুশীলন",
+    "english": "Important Practice"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-উচ্চারণ",
+    "english": "Important Pronunciation"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বাড়ি",
+    "english": "Important House"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ঘর",
+    "english": "Important Room"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-রান্নাঘর",
+    "english": "Important Kitchen"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বাথরুম",
+    "english": "Important Bathroom"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বিছানা",
+    "english": "Important Bed"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-চেয়ার",
+    "english": "Important Chair"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-টেবিল",
+    "english": "Important Table"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-দরজা",
+    "english": "Important Door"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-জানালা",
+    "english": "Important Window"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-চাবি",
+    "english": "Important Key"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-মা",
+    "english": "Important Mother"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বাবা",
+    "english": "Important Father"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ভাই",
+    "english": "Important Brother"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বোন",
+    "english": "Important Sister"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বন্ধু",
+    "english": "Important Friend"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-পরিবার",
+    "english": "Important Family"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-শিশু",
+    "english": "Important Child"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-নাম",
+    "english": "Important Name"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ফোন",
+    "english": "Important Phone"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-কম্পিউটার",
+    "english": "Important Computer"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ইন্টারনেট",
+    "english": "Important Internet"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বার্তা",
+    "english": "Important Message"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-টাকা",
+    "english": "Important Money"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-দাম",
+    "english": "Important Price"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বাজার",
+    "english": "Important Market"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-দোকান",
+    "english": "Important Shop"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বিল",
+    "english": "Important Bill"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-কার্ড",
+    "english": "Important Card"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ব্যাংক",
+    "english": "Important Bank"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বাস",
+    "english": "Important Bus"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ট্রেন",
+    "english": "Important Train"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ট্যাক্সি",
+    "english": "Important Taxi"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-গাড়ি",
+    "english": "Important Car"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বাইক",
+    "english": "Important Bike"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-টিকিট",
+    "english": "Important Ticket"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-স্টেশন",
+    "english": "Important Station"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বিমানবন্দর",
+    "english": "Important Airport"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-হোটেল",
+    "english": "Important Hotel"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-রেস্টুরেন্ট",
+    "english": "Important Restaurant"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-মানচিত্র",
+    "english": "Important Map"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ঠিকানা",
+    "english": "Important Address"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ডাক্তার",
+    "english": "Important Doctor"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-হাসপাতাল",
+    "english": "Important Hospital"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ওষুধ",
+    "english": "Important Medicine"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-জ্বর",
+    "english": "Important Fever"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ব্যথা",
+    "english": "Important Pain"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-সাহায্য",
+    "english": "Important Help"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বৃষ্টি",
+    "english": "Important Rain"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-সূর্য",
+    "english": "Important Sun"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-বাতাস",
+    "english": "Important Wind"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-ঠান্ডা",
+    "english": "Important Cold"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-গরম",
+    "english": "Important Heat"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-সময়",
+    "english": "Important Time"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-আজ",
+    "english": "Important Today"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-আগামীকাল",
+    "english": "Important Tomorrow"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-গতকাল",
+    "english": "Important Yesterday"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-সকাল",
+    "english": "Important Morning"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-সন্ধ্যা",
+    "english": "Important Evening"
+  },
+  {
+    "targetText": "গুরুত্বপূর্ণ-রাত",
+    "english": "Important Night"
+  },
+  {
+    "targetText": "সুন্দর-পানি",
+    "english": "Beautiful Water"
+  },
+  {
+    "targetText": "সুন্দর-খাবার",
+    "english": "Beautiful Food"
+  },
+  {
+    "targetText": "সুন্দর-চা",
+    "english": "Beautiful Tea"
+  },
+  {
+    "targetText": "সুন্দর-কফি",
+    "english": "Beautiful Coffee"
+  },
+  {
+    "targetText": "সুন্দর-দুধ",
+    "english": "Beautiful Milk"
+  },
+  {
+    "targetText": "সুন্দর-রুটি",
+    "english": "Beautiful Bread"
+  },
+  {
+    "targetText": "সুন্দর-ভাত",
+    "english": "Beautiful Rice"
+  },
+  {
+    "targetText": "সুন্দর-লবণ",
+    "english": "Beautiful Salt"
+  },
+  {
+    "targetText": "সুন্দর-চিনি",
+    "english": "Beautiful Sugar"
+  },
+  {
+    "targetText": "সুন্দর-ফল",
+    "english": "Beautiful Fruit"
+  },
+  {
+    "targetText": "সুন্দর-সবজি",
+    "english": "Beautiful Vegetables"
+  },
+  {
+    "targetText": "সুন্দর-কলা",
+    "english": "Beautiful Banana"
+  },
+  {
+    "targetText": "সুন্দর-আপেল",
+    "english": "Beautiful Apple"
+  },
+  {
+    "targetText": "সুন্দর-আম",
+    "english": "Beautiful Mango"
+  },
+  {
+    "targetText": "সুন্দর-কমলা",
+    "english": "Beautiful Orange"
+  },
+  {
+    "targetText": "সুন্দর-ডিম",
+    "english": "Beautiful Egg"
+  },
+  {
+    "targetText": "সুন্দর-মাছ",
+    "english": "Beautiful Fish"
+  },
+  {
+    "targetText": "সুন্দর-মুরগি",
+    "english": "Beautiful Chicken"
+  },
+  {
+    "targetText": "সুন্দর-নাশতা",
+    "english": "Beautiful Breakfast"
+  },
+  {
+    "targetText": "সুন্দর-বই",
+    "english": "Beautiful Book"
+  },
+  {
+    "targetText": "সুন্দর-কলম",
+    "english": "Beautiful Pen"
+  },
+  {
+    "targetText": "সুন্দর-পেন্সিল",
+    "english": "Beautiful Pencil"
+  },
+  {
+    "targetText": "সুন্দর-খাতা",
+    "english": "Beautiful Notebook"
+  },
+  {
+    "targetText": "সুন্দর-কাগজ",
+    "english": "Beautiful Paper"
+  },
+  {
+    "targetText": "সুন্দর-ব্যাগ",
+    "english": "Beautiful Bag"
+  },
+  {
+    "targetText": "সুন্দর-স্কুল",
+    "english": "Beautiful School"
+  },
+  {
+    "targetText": "সুন্দর-ক্লাস",
+    "english": "Beautiful Class"
+  },
+  {
+    "targetText": "সুন্দর-শিক্ষক",
+    "english": "Beautiful Teacher"
+  },
+  {
+    "targetText": "সুন্দর-ছাত্র",
+    "english": "Beautiful Student"
+  },
+  {
+    "targetText": "সুন্দর-পরীক্ষা",
+    "english": "Beautiful Exam"
+  },
+  {
+    "targetText": "সুন্দর-প্রশ্ন",
+    "english": "Beautiful Question"
+  },
+  {
+    "targetText": "সুন্দর-উত্তর",
+    "english": "Beautiful Answer"
+  },
+  {
+    "targetText": "সুন্দর-পাঠ",
+    "english": "Beautiful Lesson"
+  },
+  {
+    "targetText": "সুন্দর-অনুশীলন",
+    "english": "Beautiful Practice"
+  },
+  {
+    "targetText": "সুন্দর-উচ্চারণ",
+    "english": "Beautiful Pronunciation"
+  },
+  {
+    "targetText": "সুন্দর-বাড়ি",
+    "english": "Beautiful House"
+  },
+  {
+    "targetText": "সুন্দর-ঘর",
+    "english": "Beautiful Room"
+  },
+  {
+    "targetText": "সুন্দর-রান্নাঘর",
+    "english": "Beautiful Kitchen"
+  },
+  {
+    "targetText": "সুন্দর-বাথরুম",
+    "english": "Beautiful Bathroom"
+  },
+  {
+    "targetText": "সুন্দর-বিছানা",
+    "english": "Beautiful Bed"
+  },
+  {
+    "targetText": "সুন্দর-চেয়ার",
+    "english": "Beautiful Chair"
+  },
+  {
+    "targetText": "সুন্দর-টেবিল",
+    "english": "Beautiful Table"
+  },
+  {
+    "targetText": "সুন্দর-দরজা",
+    "english": "Beautiful Door"
+  },
+  {
+    "targetText": "সুন্দর-জানালা",
+    "english": "Beautiful Window"
+  },
+  {
+    "targetText": "সুন্দর-চাবি",
+    "english": "Beautiful Key"
+  },
+  {
+    "targetText": "সুন্দর-মা",
+    "english": "Beautiful Mother"
+  },
+  {
+    "targetText": "সুন্দর-বাবা",
+    "english": "Beautiful Father"
+  },
+  {
+    "targetText": "সুন্দর-ভাই",
+    "english": "Beautiful Brother"
+  },
+  {
+    "targetText": "সুন্দর-বোন",
+    "english": "Beautiful Sister"
+  },
+  {
+    "targetText": "সুন্দর-বন্ধু",
+    "english": "Beautiful Friend"
+  },
+  {
+    "targetText": "সুন্দর-পরিবার",
+    "english": "Beautiful Family"
+  },
+  {
+    "targetText": "সুন্দর-শিশু",
+    "english": "Beautiful Child"
+  },
+  {
+    "targetText": "সুন্দর-নাম",
+    "english": "Beautiful Name"
+  },
+  {
+    "targetText": "সুন্দর-ফোন",
+    "english": "Beautiful Phone"
+  },
+  {
+    "targetText": "সুন্দর-কম্পিউটার",
+    "english": "Beautiful Computer"
+  },
+  {
+    "targetText": "সুন্দর-ইন্টারনেট",
+    "english": "Beautiful Internet"
+  },
+  {
+    "targetText": "সুন্দর-বার্তা",
+    "english": "Beautiful Message"
+  },
+  {
+    "targetText": "সুন্দর-টাকা",
+    "english": "Beautiful Money"
+  },
+  {
+    "targetText": "সুন্দর-দাম",
+    "english": "Beautiful Price"
+  },
+  {
+    "targetText": "সুন্দর-বাজার",
+    "english": "Beautiful Market"
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "targetText": "আমি পানি চাই।",
+    "english": "I want water."
+  },
+  {
+    "targetText": "দয়া করে আমাকে পানি দিন।",
+    "english": "Please give me water."
+  },
+  {
+    "targetText": "পানি কোথায়?",
+    "english": "Where is the water?"
+  },
+  {
+    "targetText": "এটা আমার পানি।",
+    "english": "This is my water."
+  },
+  {
+    "targetText": "আপনার কাছে কি পানি আছে?",
+    "english": "Do you have water?"
+  },
+  {
+    "targetText": "আমি পানি পছন্দ করি।",
+    "english": "I like water."
+  },
+  {
+    "targetText": "আমি পানি পছন্দ করি না।",
+    "english": "I don't like water."
+  },
+  {
+    "targetText": "আমি পানি খুঁজছি।",
+    "english": "I am looking for water."
+  },
+  {
+    "targetText": "এটা খুব ভালো পানি।",
+    "english": "This is a very good water."
+  },
+  {
+    "targetText": "এটা কি পানি?",
+    "english": "Is this water?"
+  },
+  {
+    "targetText": "আমি খাবার চাই।",
+    "english": "I want food."
+  },
+  {
+    "targetText": "দয়া করে আমাকে খাবার দিন।",
+    "english": "Please give me food."
+  },
+  {
+    "targetText": "খাবার কোথায়?",
+    "english": "Where is the food?"
+  },
+  {
+    "targetText": "এটা আমার খাবার।",
+    "english": "This is my food."
+  },
+  {
+    "targetText": "আপনার কাছে কি খাবার আছে?",
+    "english": "Do you have food?"
+  },
+  {
+    "targetText": "আমি খাবার পছন্দ করি।",
+    "english": "I like food."
+  },
+  {
+    "targetText": "আমি খাবার পছন্দ করি না।",
+    "english": "I don't like food."
+  },
+  {
+    "targetText": "আমি খাবার খুঁজছি।",
+    "english": "I am looking for food."
+  },
+  {
+    "targetText": "এটা খুব ভালো খাবার।",
+    "english": "This is a very good food."
+  },
+  {
+    "targetText": "এটা কি খাবার?",
+    "english": "Is this food?"
+  },
+  {
+    "targetText": "আমি চা চাই।",
+    "english": "I want tea."
+  },
+  {
+    "targetText": "দয়া করে আমাকে চা দিন।",
+    "english": "Please give me tea."
+  },
+  {
+    "targetText": "চা কোথায়?",
+    "english": "Where is the tea?"
+  },
+  {
+    "targetText": "এটা আমার চা।",
+    "english": "This is my tea."
+  },
+  {
+    "targetText": "আপনার কাছে কি চা আছে?",
+    "english": "Do you have tea?"
+  },
+  {
+    "targetText": "আমি চা পছন্দ করি।",
+    "english": "I like tea."
+  },
+  {
+    "targetText": "আমি চা পছন্দ করি না।",
+    "english": "I don't like tea."
+  },
+  {
+    "targetText": "আমি চা খুঁজছি।",
+    "english": "I am looking for tea."
+  },
+  {
+    "targetText": "এটা খুব ভালো চা।",
+    "english": "This is a very good tea."
+  },
+  {
+    "targetText": "এটা কি চা?",
+    "english": "Is this tea?"
+  },
+  {
+    "targetText": "আমি কফি চাই।",
+    "english": "I want coffee."
+  },
+  {
+    "targetText": "দয়া করে আমাকে কফি দিন।",
+    "english": "Please give me coffee."
+  },
+  {
+    "targetText": "কফি কোথায়?",
+    "english": "Where is the coffee?"
+  },
+  {
+    "targetText": "এটা আমার কফি।",
+    "english": "This is my coffee."
+  },
+  {
+    "targetText": "আপনার কাছে কি কফি আছে?",
+    "english": "Do you have coffee?"
+  },
+  {
+    "targetText": "আমি কফি পছন্দ করি।",
+    "english": "I like coffee."
+  },
+  {
+    "targetText": "আমি কফি পছন্দ করি না।",
+    "english": "I don't like coffee."
+  },
+  {
+    "targetText": "আমি কফি খুঁজছি।",
+    "english": "I am looking for coffee."
+  },
+  {
+    "targetText": "এটা খুব ভালো কফি।",
+    "english": "This is a very good coffee."
+  },
+  {
+    "targetText": "এটা কি কফি?",
+    "english": "Is this coffee?"
+  },
+  {
+    "targetText": "আমি দুধ চাই।",
+    "english": "I want milk."
+  },
+  {
+    "targetText": "দয়া করে আমাকে দুধ দিন।",
+    "english": "Please give me milk."
+  },
+  {
+    "targetText": "দুধ কোথায়?",
+    "english": "Where is the milk?"
+  },
+  {
+    "targetText": "এটা আমার দুধ।",
+    "english": "This is my milk."
+  },
+  {
+    "targetText": "আপনার কাছে কি দুধ আছে?",
+    "english": "Do you have milk?"
+  },
+  {
+    "targetText": "আমি দুধ পছন্দ করি।",
+    "english": "I like milk."
+  },
+  {
+    "targetText": "আমি দুধ পছন্দ করি না।",
+    "english": "I don't like milk."
+  },
+  {
+    "targetText": "আমি দুধ খুঁজছি।",
+    "english": "I am looking for milk."
+  },
+  {
+    "targetText": "এটা খুব ভালো দুধ।",
+    "english": "This is a very good milk."
+  },
+  {
+    "targetText": "এটা কি দুধ?",
+    "english": "Is this milk?"
+  },
+  {
+    "targetText": "আমি রুটি চাই।",
+    "english": "I want bread."
+  },
+  {
+    "targetText": "দয়া করে আমাকে রুটি দিন।",
+    "english": "Please give me bread."
+  },
+  {
+    "targetText": "রুটি কোথায়?",
+    "english": "Where is the bread?"
+  },
+  {
+    "targetText": "এটা আমার রুটি।",
+    "english": "This is my bread."
+  },
+  {
+    "targetText": "আপনার কাছে কি রুটি আছে?",
+    "english": "Do you have bread?"
+  },
+  {
+    "targetText": "আমি রুটি পছন্দ করি।",
+    "english": "I like bread."
+  },
+  {
+    "targetText": "আমি রুটি পছন্দ করি না।",
+    "english": "I don't like bread."
+  },
+  {
+    "targetText": "আমি রুটি খুঁজছি।",
+    "english": "I am looking for bread."
+  },
+  {
+    "targetText": "এটা খুব ভালো রুটি।",
+    "english": "This is a very good bread."
+  },
+  {
+    "targetText": "এটা কি রুটি?",
+    "english": "Is this bread?"
+  },
+  {
+    "targetText": "আমি ভাত চাই।",
+    "english": "I want rice."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ভাত দিন।",
+    "english": "Please give me rice."
+  },
+  {
+    "targetText": "ভাত কোথায়?",
+    "english": "Where is the rice?"
+  },
+  {
+    "targetText": "এটা আমার ভাত।",
+    "english": "This is my rice."
+  },
+  {
+    "targetText": "আপনার কাছে কি ভাত আছে?",
+    "english": "Do you have rice?"
+  },
+  {
+    "targetText": "আমি ভাত পছন্দ করি।",
+    "english": "I like rice."
+  },
+  {
+    "targetText": "আমি ভাত পছন্দ করি না।",
+    "english": "I don't like rice."
+  },
+  {
+    "targetText": "আমি ভাত খুঁজছি।",
+    "english": "I am looking for rice."
+  },
+  {
+    "targetText": "এটা খুব ভালো ভাত।",
+    "english": "This is a very good rice."
+  },
+  {
+    "targetText": "এটা কি ভাত?",
+    "english": "Is this rice?"
+  },
+  {
+    "targetText": "আমি লবণ চাই।",
+    "english": "I want salt."
+  },
+  {
+    "targetText": "দয়া করে আমাকে লবণ দিন।",
+    "english": "Please give me salt."
+  },
+  {
+    "targetText": "লবণ কোথায়?",
+    "english": "Where is the salt?"
+  },
+  {
+    "targetText": "এটা আমার লবণ।",
+    "english": "This is my salt."
+  },
+  {
+    "targetText": "আপনার কাছে কি লবণ আছে?",
+    "english": "Do you have salt?"
+  },
+  {
+    "targetText": "আমি লবণ পছন্দ করি।",
+    "english": "I like salt."
+  },
+  {
+    "targetText": "আমি লবণ পছন্দ করি না।",
+    "english": "I don't like salt."
+  },
+  {
+    "targetText": "আমি লবণ খুঁজছি।",
+    "english": "I am looking for salt."
+  },
+  {
+    "targetText": "এটা খুব ভালো লবণ।",
+    "english": "This is a very good salt."
+  },
+  {
+    "targetText": "এটা কি লবণ?",
+    "english": "Is this salt?"
+  },
+  {
+    "targetText": "আমি চিনি চাই।",
+    "english": "I want sugar."
+  },
+  {
+    "targetText": "দয়া করে আমাকে চিনি দিন।",
+    "english": "Please give me sugar."
+  },
+  {
+    "targetText": "চিনি কোথায়?",
+    "english": "Where is the sugar?"
+  },
+  {
+    "targetText": "এটা আমার চিনি।",
+    "english": "This is my sugar."
+  },
+  {
+    "targetText": "আপনার কাছে কি চিনি আছে?",
+    "english": "Do you have sugar?"
+  },
+  {
+    "targetText": "আমি চিনি পছন্দ করি।",
+    "english": "I like sugar."
+  },
+  {
+    "targetText": "আমি চিনি পছন্দ করি না।",
+    "english": "I don't like sugar."
+  },
+  {
+    "targetText": "আমি চিনি খুঁজছি।",
+    "english": "I am looking for sugar."
+  },
+  {
+    "targetText": "এটা খুব ভালো চিনি।",
+    "english": "This is a very good sugar."
+  },
+  {
+    "targetText": "এটা কি চিনি?",
+    "english": "Is this sugar?"
+  },
+  {
+    "targetText": "আমি ফল চাই।",
+    "english": "I want fruit."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ফল দিন।",
+    "english": "Please give me fruit."
+  },
+  {
+    "targetText": "ফল কোথায়?",
+    "english": "Where is the fruit?"
+  },
+  {
+    "targetText": "এটা আমার ফল।",
+    "english": "This is my fruit."
+  },
+  {
+    "targetText": "আপনার কাছে কি ফল আছে?",
+    "english": "Do you have fruit?"
+  },
+  {
+    "targetText": "আমি ফল পছন্দ করি।",
+    "english": "I like fruit."
+  },
+  {
+    "targetText": "আমি ফল পছন্দ করি না।",
+    "english": "I don't like fruit."
+  },
+  {
+    "targetText": "আমি ফল খুঁজছি।",
+    "english": "I am looking for fruit."
+  },
+  {
+    "targetText": "এটা খুব ভালো ফল।",
+    "english": "This is a very good fruit."
+  },
+  {
+    "targetText": "এটা কি ফল?",
+    "english": "Is this fruit?"
+  },
+  {
+    "targetText": "আমি সবজি চাই।",
+    "english": "I want vegetables."
+  },
+  {
+    "targetText": "দয়া করে আমাকে সবজি দিন।",
+    "english": "Please give me vegetables."
+  },
+  {
+    "targetText": "সবজি কোথায়?",
+    "english": "Where is the vegetables?"
+  },
+  {
+    "targetText": "এটা আমার সবজি।",
+    "english": "This is my vegetables."
+  },
+  {
+    "targetText": "আপনার কাছে কি সবজি আছে?",
+    "english": "Do you have vegetables?"
+  },
+  {
+    "targetText": "আমি সবজি পছন্দ করি।",
+    "english": "I like vegetables."
+  },
+  {
+    "targetText": "আমি সবজি পছন্দ করি না।",
+    "english": "I don't like vegetables."
+  },
+  {
+    "targetText": "আমি সবজি খুঁজছি।",
+    "english": "I am looking for vegetables."
+  },
+  {
+    "targetText": "এটা খুব ভালো সবজি।",
+    "english": "This is a very good vegetables."
+  },
+  {
+    "targetText": "এটা কি সবজি?",
+    "english": "Is this vegetables?"
+  },
+  {
+    "targetText": "আমি কলা চাই।",
+    "english": "I want banana."
+  },
+  {
+    "targetText": "দয়া করে আমাকে কলা দিন।",
+    "english": "Please give me banana."
+  },
+  {
+    "targetText": "কলা কোথায়?",
+    "english": "Where is the banana?"
+  },
+  {
+    "targetText": "এটা আমার কলা।",
+    "english": "This is my banana."
+  },
+  {
+    "targetText": "আপনার কাছে কি কলা আছে?",
+    "english": "Do you have banana?"
+  },
+  {
+    "targetText": "আমি কলা পছন্দ করি।",
+    "english": "I like banana."
+  },
+  {
+    "targetText": "আমি কলা পছন্দ করি না।",
+    "english": "I don't like banana."
+  },
+  {
+    "targetText": "আমি কলা খুঁজছি।",
+    "english": "I am looking for banana."
+  },
+  {
+    "targetText": "এটা খুব ভালো কলা।",
+    "english": "This is a very good banana."
+  },
+  {
+    "targetText": "এটা কি কলা?",
+    "english": "Is this banana?"
+  },
+  {
+    "targetText": "আমি আপেল চাই।",
+    "english": "I want apple."
+  },
+  {
+    "targetText": "দয়া করে আমাকে আপেল দিন।",
+    "english": "Please give me apple."
+  },
+  {
+    "targetText": "আপেল কোথায়?",
+    "english": "Where is the apple?"
+  },
+  {
+    "targetText": "এটা আমার আপেল।",
+    "english": "This is my apple."
+  },
+  {
+    "targetText": "আপনার কাছে কি আপেল আছে?",
+    "english": "Do you have apple?"
+  },
+  {
+    "targetText": "আমি আপেল পছন্দ করি।",
+    "english": "I like apple."
+  },
+  {
+    "targetText": "আমি আপেল পছন্দ করি না।",
+    "english": "I don't like apple."
+  },
+  {
+    "targetText": "আমি আপেল খুঁজছি।",
+    "english": "I am looking for apple."
+  },
+  {
+    "targetText": "এটা খুব ভালো আপেল।",
+    "english": "This is a very good apple."
+  },
+  {
+    "targetText": "এটা কি আপেল?",
+    "english": "Is this apple?"
+  },
+  {
+    "targetText": "আমি আম চাই।",
+    "english": "I want mango."
+  },
+  {
+    "targetText": "দয়া করে আমাকে আম দিন।",
+    "english": "Please give me mango."
+  },
+  {
+    "targetText": "আম কোথায়?",
+    "english": "Where is the mango?"
+  },
+  {
+    "targetText": "এটা আমার আম।",
+    "english": "This is my mango."
+  },
+  {
+    "targetText": "আপনার কাছে কি আম আছে?",
+    "english": "Do you have mango?"
+  },
+  {
+    "targetText": "আমি আম পছন্দ করি।",
+    "english": "I like mango."
+  },
+  {
+    "targetText": "আমি আম পছন্দ করি না।",
+    "english": "I don't like mango."
+  },
+  {
+    "targetText": "আমি আম খুঁজছি।",
+    "english": "I am looking for mango."
+  },
+  {
+    "targetText": "এটা খুব ভালো আম।",
+    "english": "This is a very good mango."
+  },
+  {
+    "targetText": "এটা কি আম?",
+    "english": "Is this mango?"
+  },
+  {
+    "targetText": "আমি কমলা চাই।",
+    "english": "I want orange."
+  },
+  {
+    "targetText": "দয়া করে আমাকে কমলা দিন।",
+    "english": "Please give me orange."
+  },
+  {
+    "targetText": "কমলা কোথায়?",
+    "english": "Where is the orange?"
+  },
+  {
+    "targetText": "এটা আমার কমলা।",
+    "english": "This is my orange."
+  },
+  {
+    "targetText": "আপনার কাছে কি কমলা আছে?",
+    "english": "Do you have orange?"
+  },
+  {
+    "targetText": "আমি কমলা পছন্দ করি।",
+    "english": "I like orange."
+  },
+  {
+    "targetText": "আমি কমলা পছন্দ করি না।",
+    "english": "I don't like orange."
+  },
+  {
+    "targetText": "আমি কমলা খুঁজছি।",
+    "english": "I am looking for orange."
+  },
+  {
+    "targetText": "এটা খুব ভালো কমলা।",
+    "english": "This is a very good orange."
+  },
+  {
+    "targetText": "এটা কি কমলা?",
+    "english": "Is this orange?"
+  },
+  {
+    "targetText": "আমি ডিম চাই।",
+    "english": "I want egg."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ডিম দিন।",
+    "english": "Please give me egg."
+  },
+  {
+    "targetText": "ডিম কোথায়?",
+    "english": "Where is the egg?"
+  },
+  {
+    "targetText": "এটা আমার ডিম।",
+    "english": "This is my egg."
+  },
+  {
+    "targetText": "আপনার কাছে কি ডিম আছে?",
+    "english": "Do you have egg?"
+  },
+  {
+    "targetText": "আমি ডিম পছন্দ করি।",
+    "english": "I like egg."
+  },
+  {
+    "targetText": "আমি ডিম পছন্দ করি না।",
+    "english": "I don't like egg."
+  },
+  {
+    "targetText": "আমি ডিম খুঁজছি।",
+    "english": "I am looking for egg."
+  },
+  {
+    "targetText": "এটা খুব ভালো ডিম।",
+    "english": "This is a very good egg."
+  },
+  {
+    "targetText": "এটা কি ডিম?",
+    "english": "Is this egg?"
+  },
+  {
+    "targetText": "আমি মাছ চাই।",
+    "english": "I want fish."
+  },
+  {
+    "targetText": "দয়া করে আমাকে মাছ দিন।",
+    "english": "Please give me fish."
+  },
+  {
+    "targetText": "মাছ কোথায়?",
+    "english": "Where is the fish?"
+  },
+  {
+    "targetText": "এটা আমার মাছ।",
+    "english": "This is my fish."
+  },
+  {
+    "targetText": "আপনার কাছে কি মাছ আছে?",
+    "english": "Do you have fish?"
+  },
+  {
+    "targetText": "আমি মাছ পছন্দ করি।",
+    "english": "I like fish."
+  },
+  {
+    "targetText": "আমি মাছ পছন্দ করি না।",
+    "english": "I don't like fish."
+  },
+  {
+    "targetText": "আমি মাছ খুঁজছি।",
+    "english": "I am looking for fish."
+  },
+  {
+    "targetText": "এটা খুব ভালো মাছ।",
+    "english": "This is a very good fish."
+  },
+  {
+    "targetText": "এটা কি মাছ?",
+    "english": "Is this fish?"
+  },
+  {
+    "targetText": "আমি মুরগি চাই।",
+    "english": "I want chicken."
+  },
+  {
+    "targetText": "দয়া করে আমাকে মুরগি দিন।",
+    "english": "Please give me chicken."
+  },
+  {
+    "targetText": "মুরগি কোথায়?",
+    "english": "Where is the chicken?"
+  },
+  {
+    "targetText": "এটা আমার মুরগি।",
+    "english": "This is my chicken."
+  },
+  {
+    "targetText": "আপনার কাছে কি মুরগি আছে?",
+    "english": "Do you have chicken?"
+  },
+  {
+    "targetText": "আমি মুরগি পছন্দ করি।",
+    "english": "I like chicken."
+  },
+  {
+    "targetText": "আমি মুরগি পছন্দ করি না।",
+    "english": "I don't like chicken."
+  },
+  {
+    "targetText": "আমি মুরগি খুঁজছি।",
+    "english": "I am looking for chicken."
+  },
+  {
+    "targetText": "এটা খুব ভালো মুরগি।",
+    "english": "This is a very good chicken."
+  },
+  {
+    "targetText": "এটা কি মুরগি?",
+    "english": "Is this chicken?"
+  },
+  {
+    "targetText": "আমি নাশতা চাই।",
+    "english": "I want breakfast."
+  },
+  {
+    "targetText": "দয়া করে আমাকে নাশতা দিন।",
+    "english": "Please give me breakfast."
+  },
+  {
+    "targetText": "নাশতা কোথায়?",
+    "english": "Where is the breakfast?"
+  },
+  {
+    "targetText": "এটা আমার নাশতা।",
+    "english": "This is my breakfast."
+  },
+  {
+    "targetText": "আপনার কাছে কি নাশতা আছে?",
+    "english": "Do you have breakfast?"
+  },
+  {
+    "targetText": "আমি নাশতা পছন্দ করি।",
+    "english": "I like breakfast."
+  },
+  {
+    "targetText": "আমি নাশতা পছন্দ করি না।",
+    "english": "I don't like breakfast."
+  },
+  {
+    "targetText": "আমি নাশতা খুঁজছি।",
+    "english": "I am looking for breakfast."
+  },
+  {
+    "targetText": "এটা খুব ভালো নাশতা।",
+    "english": "This is a very good breakfast."
+  },
+  {
+    "targetText": "এটা কি নাশতা?",
+    "english": "Is this breakfast?"
+  },
+  {
+    "targetText": "আমি দুপুরের খাবার চাই।",
+    "english": "I want lunch."
+  },
+  {
+    "targetText": "দয়া করে আমাকে দুপুরের খাবার দিন।",
+    "english": "Please give me lunch."
+  },
+  {
+    "targetText": "দুপুরের খাবার কোথায়?",
+    "english": "Where is the lunch?"
+  },
+  {
+    "targetText": "এটা আমার দুপুরের খাবার।",
+    "english": "This is my lunch."
+  },
+  {
+    "targetText": "আপনার কাছে কি দুপুরের খাবার আছে?",
+    "english": "Do you have lunch?"
+  },
+  {
+    "targetText": "আমি দুপুরের খাবার পছন্দ করি।",
+    "english": "I like lunch."
+  },
+  {
+    "targetText": "আমি দুপুরের খাবার পছন্দ করি না।",
+    "english": "I don't like lunch."
+  },
+  {
+    "targetText": "আমি দুপুরের খাবার খুঁজছি।",
+    "english": "I am looking for lunch."
+  },
+  {
+    "targetText": "এটা খুব ভালো দুপুরের খাবার।",
+    "english": "This is a very good lunch."
+  },
+  {
+    "targetText": "এটা কি দুপুরের খাবার?",
+    "english": "Is this lunch?"
+  },
+  {
+    "targetText": "আমি রাতের খাবার চাই।",
+    "english": "I want dinner."
+  },
+  {
+    "targetText": "দয়া করে আমাকে রাতের খাবার দিন।",
+    "english": "Please give me dinner."
+  },
+  {
+    "targetText": "রাতের খাবার কোথায়?",
+    "english": "Where is the dinner?"
+  },
+  {
+    "targetText": "এটা আমার রাতের খাবার।",
+    "english": "This is my dinner."
+  },
+  {
+    "targetText": "আপনার কাছে কি রাতের খাবার আছে?",
+    "english": "Do you have dinner?"
+  },
+  {
+    "targetText": "আমি রাতের খাবার পছন্দ করি।",
+    "english": "I like dinner."
+  },
+  {
+    "targetText": "আমি রাতের খাবার পছন্দ করি না।",
+    "english": "I don't like dinner."
+  },
+  {
+    "targetText": "আমি রাতের খাবার খুঁজছি।",
+    "english": "I am looking for dinner."
+  },
+  {
+    "targetText": "এটা খুব ভালো রাতের খাবার।",
+    "english": "This is a very good dinner."
+  },
+  {
+    "targetText": "এটা কি রাতের খাবার?",
+    "english": "Is this dinner?"
+  },
+  {
+    "targetText": "আমি বই চাই।",
+    "english": "I want book."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বই দিন।",
+    "english": "Please give me book."
+  },
+  {
+    "targetText": "বই কোথায়?",
+    "english": "Where is the book?"
+  },
+  {
+    "targetText": "এটা আমার বই।",
+    "english": "This is my book."
+  },
+  {
+    "targetText": "আপনার কাছে কি বই আছে?",
+    "english": "Do you have book?"
+  },
+  {
+    "targetText": "আমি বই পছন্দ করি।",
+    "english": "I like book."
+  },
+  {
+    "targetText": "আমি বই পছন্দ করি না।",
+    "english": "I don't like book."
+  },
+  {
+    "targetText": "আমি বই খুঁজছি।",
+    "english": "I am looking for book."
+  },
+  {
+    "targetText": "এটা খুব ভালো বই।",
+    "english": "This is a very good book."
+  },
+  {
+    "targetText": "এটা কি বই?",
+    "english": "Is this book?"
+  },
+  {
+    "targetText": "আমি কলম চাই।",
+    "english": "I want pen."
+  },
+  {
+    "targetText": "দয়া করে আমাকে কলম দিন।",
+    "english": "Please give me pen."
+  },
+  {
+    "targetText": "কলম কোথায়?",
+    "english": "Where is the pen?"
+  },
+  {
+    "targetText": "এটা আমার কলম।",
+    "english": "This is my pen."
+  },
+  {
+    "targetText": "আপনার কাছে কি কলম আছে?",
+    "english": "Do you have pen?"
+  },
+  {
+    "targetText": "আমি কলম পছন্দ করি।",
+    "english": "I like pen."
+  },
+  {
+    "targetText": "আমি কলম পছন্দ করি না।",
+    "english": "I don't like pen."
+  },
+  {
+    "targetText": "আমি কলম খুঁজছি।",
+    "english": "I am looking for pen."
+  },
+  {
+    "targetText": "এটা খুব ভালো কলম।",
+    "english": "This is a very good pen."
+  },
+  {
+    "targetText": "এটা কি কলম?",
+    "english": "Is this pen?"
+  },
+  {
+    "targetText": "আমি পেন্সিল চাই।",
+    "english": "I want pencil."
+  },
+  {
+    "targetText": "দয়া করে আমাকে পেন্সিল দিন।",
+    "english": "Please give me pencil."
+  },
+  {
+    "targetText": "পেন্সিল কোথায়?",
+    "english": "Where is the pencil?"
+  },
+  {
+    "targetText": "এটা আমার পেন্সিল।",
+    "english": "This is my pencil."
+  },
+  {
+    "targetText": "আপনার কাছে কি পেন্সিল আছে?",
+    "english": "Do you have pencil?"
+  },
+  {
+    "targetText": "আমি পেন্সিল পছন্দ করি।",
+    "english": "I like pencil."
+  },
+  {
+    "targetText": "আমি পেন্সিল পছন্দ করি না।",
+    "english": "I don't like pencil."
+  },
+  {
+    "targetText": "আমি পেন্সিল খুঁজছি।",
+    "english": "I am looking for pencil."
+  },
+  {
+    "targetText": "এটা খুব ভালো পেন্সিল।",
+    "english": "This is a very good pencil."
+  },
+  {
+    "targetText": "এটা কি পেন্সিল?",
+    "english": "Is this pencil?"
+  },
+  {
+    "targetText": "আমি খাতা চাই।",
+    "english": "I want notebook."
+  },
+  {
+    "targetText": "দয়া করে আমাকে খাতা দিন।",
+    "english": "Please give me notebook."
+  },
+  {
+    "targetText": "খাতা কোথায়?",
+    "english": "Where is the notebook?"
+  },
+  {
+    "targetText": "এটা আমার খাতা।",
+    "english": "This is my notebook."
+  },
+  {
+    "targetText": "আপনার কাছে কি খাতা আছে?",
+    "english": "Do you have notebook?"
+  },
+  {
+    "targetText": "আমি খাতা পছন্দ করি।",
+    "english": "I like notebook."
+  },
+  {
+    "targetText": "আমি খাতা পছন্দ করি না।",
+    "english": "I don't like notebook."
+  },
+  {
+    "targetText": "আমি খাতা খুঁজছি।",
+    "english": "I am looking for notebook."
+  },
+  {
+    "targetText": "এটা খুব ভালো খাতা।",
+    "english": "This is a very good notebook."
+  },
+  {
+    "targetText": "এটা কি খাতা?",
+    "english": "Is this notebook?"
+  },
+  {
+    "targetText": "আমি কাগজ চাই।",
+    "english": "I want paper."
+  },
+  {
+    "targetText": "দয়া করে আমাকে কাগজ দিন।",
+    "english": "Please give me paper."
+  },
+  {
+    "targetText": "কাগজ কোথায়?",
+    "english": "Where is the paper?"
+  },
+  {
+    "targetText": "এটা আমার কাগজ।",
+    "english": "This is my paper."
+  },
+  {
+    "targetText": "আপনার কাছে কি কাগজ আছে?",
+    "english": "Do you have paper?"
+  },
+  {
+    "targetText": "আমি কাগজ পছন্দ করি।",
+    "english": "I like paper."
+  },
+  {
+    "targetText": "আমি কাগজ পছন্দ করি না।",
+    "english": "I don't like paper."
+  },
+  {
+    "targetText": "আমি কাগজ খুঁজছি।",
+    "english": "I am looking for paper."
+  },
+  {
+    "targetText": "এটা খুব ভালো কাগজ।",
+    "english": "This is a very good paper."
+  },
+  {
+    "targetText": "এটা কি কাগজ?",
+    "english": "Is this paper?"
+  },
+  {
+    "targetText": "আমি ব্যাগ চাই।",
+    "english": "I want bag."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ব্যাগ দিন।",
+    "english": "Please give me bag."
+  },
+  {
+    "targetText": "ব্যাগ কোথায়?",
+    "english": "Where is the bag?"
+  },
+  {
+    "targetText": "এটা আমার ব্যাগ।",
+    "english": "This is my bag."
+  },
+  {
+    "targetText": "আপনার কাছে কি ব্যাগ আছে?",
+    "english": "Do you have bag?"
+  },
+  {
+    "targetText": "আমি ব্যাগ পছন্দ করি।",
+    "english": "I like bag."
+  },
+  {
+    "targetText": "আমি ব্যাগ পছন্দ করি না।",
+    "english": "I don't like bag."
+  },
+  {
+    "targetText": "আমি ব্যাগ খুঁজছি।",
+    "english": "I am looking for bag."
+  },
+  {
+    "targetText": "এটা খুব ভালো ব্যাগ।",
+    "english": "This is a very good bag."
+  },
+  {
+    "targetText": "এটা কি ব্যাগ?",
+    "english": "Is this bag?"
+  },
+  {
+    "targetText": "আমি স্কুল চাই।",
+    "english": "I want school."
+  },
+  {
+    "targetText": "দয়া করে আমাকে স্কুল দিন।",
+    "english": "Please give me school."
+  },
+  {
+    "targetText": "স্কুল কোথায়?",
+    "english": "Where is the school?"
+  },
+  {
+    "targetText": "এটা আমার স্কুল।",
+    "english": "This is my school."
+  },
+  {
+    "targetText": "আপনার কাছে কি স্কুল আছে?",
+    "english": "Do you have school?"
+  },
+  {
+    "targetText": "আমি স্কুল পছন্দ করি।",
+    "english": "I like school."
+  },
+  {
+    "targetText": "আমি স্কুল পছন্দ করি না।",
+    "english": "I don't like school."
+  },
+  {
+    "targetText": "আমি স্কুল খুঁজছি।",
+    "english": "I am looking for school."
+  },
+  {
+    "targetText": "এটা খুব ভালো স্কুল।",
+    "english": "This is a very good school."
+  },
+  {
+    "targetText": "এটা কি স্কুল?",
+    "english": "Is this school?"
+  },
+  {
+    "targetText": "আমি ক্লাস চাই।",
+    "english": "I want class."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ক্লাস দিন।",
+    "english": "Please give me class."
+  },
+  {
+    "targetText": "ক্লাস কোথায়?",
+    "english": "Where is the class?"
+  },
+  {
+    "targetText": "এটা আমার ক্লাস।",
+    "english": "This is my class."
+  },
+  {
+    "targetText": "আপনার কাছে কি ক্লাস আছে?",
+    "english": "Do you have class?"
+  },
+  {
+    "targetText": "আমি ক্লাস পছন্দ করি।",
+    "english": "I like class."
+  },
+  {
+    "targetText": "আমি ক্লাস পছন্দ করি না।",
+    "english": "I don't like class."
+  },
+  {
+    "targetText": "আমি ক্লাস খুঁজছি।",
+    "english": "I am looking for class."
+  },
+  {
+    "targetText": "এটা খুব ভালো ক্লাস।",
+    "english": "This is a very good class."
+  },
+  {
+    "targetText": "এটা কি ক্লাস?",
+    "english": "Is this class?"
+  },
+  {
+    "targetText": "আমি শিক্ষক চাই।",
+    "english": "I want teacher."
+  },
+  {
+    "targetText": "দয়া করে আমাকে শিক্ষক দিন।",
+    "english": "Please give me teacher."
+  },
+  {
+    "targetText": "শিক্ষক কোথায়?",
+    "english": "Where is the teacher?"
+  },
+  {
+    "targetText": "এটা আমার শিক্ষক।",
+    "english": "This is my teacher."
+  },
+  {
+    "targetText": "আপনার কাছে কি শিক্ষক আছে?",
+    "english": "Do you have teacher?"
+  },
+  {
+    "targetText": "আমি শিক্ষক পছন্দ করি।",
+    "english": "I like teacher."
+  },
+  {
+    "targetText": "আমি শিক্ষক পছন্দ করি না।",
+    "english": "I don't like teacher."
+  },
+  {
+    "targetText": "আমি শিক্ষক খুঁজছি।",
+    "english": "I am looking for teacher."
+  },
+  {
+    "targetText": "এটা খুব ভালো শিক্ষক।",
+    "english": "This is a very good teacher."
+  },
+  {
+    "targetText": "এটা কি শিক্ষক?",
+    "english": "Is this teacher?"
+  },
+  {
+    "targetText": "আমি ছাত্র চাই।",
+    "english": "I want student."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ছাত্র দিন।",
+    "english": "Please give me student."
+  },
+  {
+    "targetText": "ছাত্র কোথায়?",
+    "english": "Where is the student?"
+  },
+  {
+    "targetText": "এটা আমার ছাত্র।",
+    "english": "This is my student."
+  },
+  {
+    "targetText": "আপনার কাছে কি ছাত্র আছে?",
+    "english": "Do you have student?"
+  },
+  {
+    "targetText": "আমি ছাত্র পছন্দ করি।",
+    "english": "I like student."
+  },
+  {
+    "targetText": "আমি ছাত্র পছন্দ করি না।",
+    "english": "I don't like student."
+  },
+  {
+    "targetText": "আমি ছাত্র খুঁজছি।",
+    "english": "I am looking for student."
+  },
+  {
+    "targetText": "এটা খুব ভালো ছাত্র।",
+    "english": "This is a very good student."
+  },
+  {
+    "targetText": "এটা কি ছাত্র?",
+    "english": "Is this student?"
+  },
+  {
+    "targetText": "আমি বাড়ির কাজ চাই।",
+    "english": "I want homework."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বাড়ির কাজ দিন।",
+    "english": "Please give me homework."
+  },
+  {
+    "targetText": "বাড়ির কাজ কোথায়?",
+    "english": "Where is the homework?"
+  },
+  {
+    "targetText": "এটা আমার বাড়ির কাজ।",
+    "english": "This is my homework."
+  },
+  {
+    "targetText": "আপনার কাছে কি বাড়ির কাজ আছে?",
+    "english": "Do you have homework?"
+  },
+  {
+    "targetText": "আমি বাড়ির কাজ পছন্দ করি।",
+    "english": "I like homework."
+  },
+  {
+    "targetText": "আমি বাড়ির কাজ পছন্দ করি না।",
+    "english": "I don't like homework."
+  },
+  {
+    "targetText": "আমি বাড়ির কাজ খুঁজছি।",
+    "english": "I am looking for homework."
+  },
+  {
+    "targetText": "এটা খুব ভালো বাড়ির কাজ।",
+    "english": "This is a very good homework."
+  },
+  {
+    "targetText": "এটা কি বাড়ির কাজ?",
+    "english": "Is this homework?"
+  },
+  {
+    "targetText": "আমি পরীক্ষা চাই।",
+    "english": "I want exam."
+  },
+  {
+    "targetText": "দয়া করে আমাকে পরীক্ষা দিন।",
+    "english": "Please give me exam."
+  },
+  {
+    "targetText": "পরীক্ষা কোথায়?",
+    "english": "Where is the exam?"
+  },
+  {
+    "targetText": "এটা আমার পরীক্ষা।",
+    "english": "This is my exam."
+  },
+  {
+    "targetText": "আপনার কাছে কি পরীক্ষা আছে?",
+    "english": "Do you have exam?"
+  },
+  {
+    "targetText": "আমি পরীক্ষা পছন্দ করি।",
+    "english": "I like exam."
+  },
+  {
+    "targetText": "আমি পরীক্ষা পছন্দ করি না।",
+    "english": "I don't like exam."
+  },
+  {
+    "targetText": "আমি পরীক্ষা খুঁজছি।",
+    "english": "I am looking for exam."
+  },
+  {
+    "targetText": "এটা খুব ভালো পরীক্ষা।",
+    "english": "This is a very good exam."
+  },
+  {
+    "targetText": "এটা কি পরীক্ষা?",
+    "english": "Is this exam?"
+  },
+  {
+    "targetText": "আমি প্রশ্ন চাই।",
+    "english": "I want question."
+  },
+  {
+    "targetText": "দয়া করে আমাকে প্রশ্ন দিন।",
+    "english": "Please give me question."
+  },
+  {
+    "targetText": "প্রশ্ন কোথায়?",
+    "english": "Where is the question?"
+  },
+  {
+    "targetText": "এটা আমার প্রশ্ন।",
+    "english": "This is my question."
+  },
+  {
+    "targetText": "আপনার কাছে কি প্রশ্ন আছে?",
+    "english": "Do you have question?"
+  },
+  {
+    "targetText": "আমি প্রশ্ন পছন্দ করি।",
+    "english": "I like question."
+  },
+  {
+    "targetText": "আমি প্রশ্ন পছন্দ করি না।",
+    "english": "I don't like question."
+  },
+  {
+    "targetText": "আমি প্রশ্ন খুঁজছি।",
+    "english": "I am looking for question."
+  },
+  {
+    "targetText": "এটা খুব ভালো প্রশ্ন।",
+    "english": "This is a very good question."
+  },
+  {
+    "targetText": "এটা কি প্রশ্ন?",
+    "english": "Is this question?"
+  },
+  {
+    "targetText": "আমি উত্তর চাই।",
+    "english": "I want answer."
+  },
+  {
+    "targetText": "দয়া করে আমাকে উত্তর দিন।",
+    "english": "Please give me answer."
+  },
+  {
+    "targetText": "উত্তর কোথায়?",
+    "english": "Where is the answer?"
+  },
+  {
+    "targetText": "এটা আমার উত্তর।",
+    "english": "This is my answer."
+  },
+  {
+    "targetText": "আপনার কাছে কি উত্তর আছে?",
+    "english": "Do you have answer?"
+  },
+  {
+    "targetText": "আমি উত্তর পছন্দ করি।",
+    "english": "I like answer."
+  },
+  {
+    "targetText": "আমি উত্তর পছন্দ করি না।",
+    "english": "I don't like answer."
+  },
+  {
+    "targetText": "আমি উত্তর খুঁজছি।",
+    "english": "I am looking for answer."
+  },
+  {
+    "targetText": "এটা খুব ভালো উত্তর।",
+    "english": "This is a very good answer."
+  },
+  {
+    "targetText": "এটা কি উত্তর?",
+    "english": "Is this answer?"
+  },
+  {
+    "targetText": "আমি পাঠ চাই।",
+    "english": "I want lesson."
+  },
+  {
+    "targetText": "দয়া করে আমাকে পাঠ দিন।",
+    "english": "Please give me lesson."
+  },
+  {
+    "targetText": "পাঠ কোথায়?",
+    "english": "Where is the lesson?"
+  },
+  {
+    "targetText": "এটা আমার পাঠ।",
+    "english": "This is my lesson."
+  },
+  {
+    "targetText": "আপনার কাছে কি পাঠ আছে?",
+    "english": "Do you have lesson?"
+  },
+  {
+    "targetText": "আমি পাঠ পছন্দ করি।",
+    "english": "I like lesson."
+  },
+  {
+    "targetText": "আমি পাঠ পছন্দ করি না।",
+    "english": "I don't like lesson."
+  },
+  {
+    "targetText": "আমি পাঠ খুঁজছি।",
+    "english": "I am looking for lesson."
+  },
+  {
+    "targetText": "এটা খুব ভালো পাঠ।",
+    "english": "This is a very good lesson."
+  },
+  {
+    "targetText": "এটা কি পাঠ?",
+    "english": "Is this lesson?"
+  },
+  {
+    "targetText": "আমি অনুশীলন চাই।",
+    "english": "I want practice."
+  },
+  {
+    "targetText": "দয়া করে আমাকে অনুশীলন দিন।",
+    "english": "Please give me practice."
+  },
+  {
+    "targetText": "অনুশীলন কোথায়?",
+    "english": "Where is the practice?"
+  },
+  {
+    "targetText": "এটা আমার অনুশীলন।",
+    "english": "This is my practice."
+  },
+  {
+    "targetText": "আপনার কাছে কি অনুশীলন আছে?",
+    "english": "Do you have practice?"
+  },
+  {
+    "targetText": "আমি অনুশীলন পছন্দ করি।",
+    "english": "I like practice."
+  },
+  {
+    "targetText": "আমি অনুশীলন পছন্দ করি না।",
+    "english": "I don't like practice."
+  },
+  {
+    "targetText": "আমি অনুশীলন খুঁজছি।",
+    "english": "I am looking for practice."
+  },
+  {
+    "targetText": "এটা খুব ভালো অনুশীলন।",
+    "english": "This is a very good practice."
+  },
+  {
+    "targetText": "এটা কি অনুশীলন?",
+    "english": "Is this practice?"
+  },
+  {
+    "targetText": "আমি উচ্চারণ চাই।",
+    "english": "I want pronunciation."
+  },
+  {
+    "targetText": "দয়া করে আমাকে উচ্চারণ দিন।",
+    "english": "Please give me pronunciation."
+  },
+  {
+    "targetText": "উচ্চারণ কোথায়?",
+    "english": "Where is the pronunciation?"
+  },
+  {
+    "targetText": "এটা আমার উচ্চারণ।",
+    "english": "This is my pronunciation."
+  },
+  {
+    "targetText": "আপনার কাছে কি উচ্চারণ আছে?",
+    "english": "Do you have pronunciation?"
+  },
+  {
+    "targetText": "আমি উচ্চারণ পছন্দ করি।",
+    "english": "I like pronunciation."
+  },
+  {
+    "targetText": "আমি উচ্চারণ পছন্দ করি না।",
+    "english": "I don't like pronunciation."
+  },
+  {
+    "targetText": "আমি উচ্চারণ খুঁজছি।",
+    "english": "I am looking for pronunciation."
+  },
+  {
+    "targetText": "এটা খুব ভালো উচ্চারণ।",
+    "english": "This is a very good pronunciation."
+  },
+  {
+    "targetText": "এটা কি উচ্চারণ?",
+    "english": "Is this pronunciation?"
+  },
+  {
+    "targetText": "আমি বাড়ি চাই।",
+    "english": "I want house."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বাড়ি দিন।",
+    "english": "Please give me house."
+  },
+  {
+    "targetText": "বাড়ি কোথায়?",
+    "english": "Where is the house?"
+  },
+  {
+    "targetText": "এটা আমার বাড়ি।",
+    "english": "This is my house."
+  },
+  {
+    "targetText": "আপনার কাছে কি বাড়ি আছে?",
+    "english": "Do you have house?"
+  },
+  {
+    "targetText": "আমি বাড়ি পছন্দ করি।",
+    "english": "I like house."
+  },
+  {
+    "targetText": "আমি বাড়ি পছন্দ করি না।",
+    "english": "I don't like house."
+  },
+  {
+    "targetText": "আমি বাড়ি খুঁজছি।",
+    "english": "I am looking for house."
+  },
+  {
+    "targetText": "এটা খুব ভালো বাড়ি।",
+    "english": "This is a very good house."
+  },
+  {
+    "targetText": "এটা কি বাড়ি?",
+    "english": "Is this house?"
+  },
+  {
+    "targetText": "আমি ঘর চাই।",
+    "english": "I want room."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ঘর দিন।",
+    "english": "Please give me room."
+  },
+  {
+    "targetText": "ঘর কোথায়?",
+    "english": "Where is the room?"
+  },
+  {
+    "targetText": "এটা আমার ঘর।",
+    "english": "This is my room."
+  },
+  {
+    "targetText": "আপনার কাছে কি ঘর আছে?",
+    "english": "Do you have room?"
+  },
+  {
+    "targetText": "আমি ঘর পছন্দ করি।",
+    "english": "I like room."
+  },
+  {
+    "targetText": "আমি ঘর পছন্দ করি না।",
+    "english": "I don't like room."
+  },
+  {
+    "targetText": "আমি ঘর খুঁজছি।",
+    "english": "I am looking for room."
+  },
+  {
+    "targetText": "এটা খুব ভালো ঘর।",
+    "english": "This is a very good room."
+  },
+  {
+    "targetText": "এটা কি ঘর?",
+    "english": "Is this room?"
+  },
+  {
+    "targetText": "আমি রান্নাঘর চাই।",
+    "english": "I want kitchen."
+  },
+  {
+    "targetText": "দয়া করে আমাকে রান্নাঘর দিন।",
+    "english": "Please give me kitchen."
+  },
+  {
+    "targetText": "রান্নাঘর কোথায়?",
+    "english": "Where is the kitchen?"
+  },
+  {
+    "targetText": "এটা আমার রান্নাঘর।",
+    "english": "This is my kitchen."
+  },
+  {
+    "targetText": "আপনার কাছে কি রান্নাঘর আছে?",
+    "english": "Do you have kitchen?"
+  },
+  {
+    "targetText": "আমি রান্নাঘর পছন্দ করি।",
+    "english": "I like kitchen."
+  },
+  {
+    "targetText": "আমি রান্নাঘর পছন্দ করি না।",
+    "english": "I don't like kitchen."
+  },
+  {
+    "targetText": "আমি রান্নাঘর খুঁজছি।",
+    "english": "I am looking for kitchen."
+  },
+  {
+    "targetText": "এটা খুব ভালো রান্নাঘর।",
+    "english": "This is a very good kitchen."
+  },
+  {
+    "targetText": "এটা কি রান্নাঘর?",
+    "english": "Is this kitchen?"
+  },
+  {
+    "targetText": "আমি বাথরুম চাই।",
+    "english": "I want bathroom."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বাথরুম দিন।",
+    "english": "Please give me bathroom."
+  },
+  {
+    "targetText": "বাথরুম কোথায়?",
+    "english": "Where is the bathroom?"
+  },
+  {
+    "targetText": "এটা আমার বাথরুম।",
+    "english": "This is my bathroom."
+  },
+  {
+    "targetText": "আপনার কাছে কি বাথরুম আছে?",
+    "english": "Do you have bathroom?"
+  },
+  {
+    "targetText": "আমি বাথরুম পছন্দ করি।",
+    "english": "I like bathroom."
+  },
+  {
+    "targetText": "আমি বাথরুম পছন্দ করি না।",
+    "english": "I don't like bathroom."
+  },
+  {
+    "targetText": "আমি বাথরুম খুঁজছি।",
+    "english": "I am looking for bathroom."
+  },
+  {
+    "targetText": "এটা খুব ভালো বাথরুম।",
+    "english": "This is a very good bathroom."
+  },
+  {
+    "targetText": "এটা কি বাথরুম?",
+    "english": "Is this bathroom?"
+  },
+  {
+    "targetText": "আমি বিছানা চাই।",
+    "english": "I want bed."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বিছানা দিন।",
+    "english": "Please give me bed."
+  },
+  {
+    "targetText": "বিছানা কোথায়?",
+    "english": "Where is the bed?"
+  },
+  {
+    "targetText": "এটা আমার বিছানা।",
+    "english": "This is my bed."
+  },
+  {
+    "targetText": "আপনার কাছে কি বিছানা আছে?",
+    "english": "Do you have bed?"
+  },
+  {
+    "targetText": "আমি বিছানা পছন্দ করি।",
+    "english": "I like bed."
+  },
+  {
+    "targetText": "আমি বিছানা পছন্দ করি না।",
+    "english": "I don't like bed."
+  },
+  {
+    "targetText": "আমি বিছানা খুঁজছি।",
+    "english": "I am looking for bed."
+  },
+  {
+    "targetText": "এটা খুব ভালো বিছানা।",
+    "english": "This is a very good bed."
+  },
+  {
+    "targetText": "এটা কি বিছানা?",
+    "english": "Is this bed?"
+  },
+  {
+    "targetText": "আমি চেয়ার চাই।",
+    "english": "I want chair."
+  },
+  {
+    "targetText": "দয়া করে আমাকে চেয়ার দিন।",
+    "english": "Please give me chair."
+  },
+  {
+    "targetText": "চেয়ার কোথায়?",
+    "english": "Where is the chair?"
+  },
+  {
+    "targetText": "এটা আমার চেয়ার।",
+    "english": "This is my chair."
+  },
+  {
+    "targetText": "আপনার কাছে কি চেয়ার আছে?",
+    "english": "Do you have chair?"
+  },
+  {
+    "targetText": "আমি চেয়ার পছন্দ করি।",
+    "english": "I like chair."
+  },
+  {
+    "targetText": "আমি চেয়ার পছন্দ করি না।",
+    "english": "I don't like chair."
+  },
+  {
+    "targetText": "আমি চেয়ার খুঁজছি।",
+    "english": "I am looking for chair."
+  },
+  {
+    "targetText": "এটা খুব ভালো চেয়ার।",
+    "english": "This is a very good chair."
+  },
+  {
+    "targetText": "এটা কি চেয়ার?",
+    "english": "Is this chair?"
+  },
+  {
+    "targetText": "আমি টেবিল চাই।",
+    "english": "I want table."
+  },
+  {
+    "targetText": "দয়া করে আমাকে টেবিল দিন।",
+    "english": "Please give me table."
+  },
+  {
+    "targetText": "টেবিল কোথায়?",
+    "english": "Where is the table?"
+  },
+  {
+    "targetText": "এটা আমার টেবিল।",
+    "english": "This is my table."
+  },
+  {
+    "targetText": "আপনার কাছে কি টেবিল আছে?",
+    "english": "Do you have table?"
+  },
+  {
+    "targetText": "আমি টেবিল পছন্দ করি।",
+    "english": "I like table."
+  },
+  {
+    "targetText": "আমি টেবিল পছন্দ করি না।",
+    "english": "I don't like table."
+  },
+  {
+    "targetText": "আমি টেবিল খুঁজছি।",
+    "english": "I am looking for table."
+  },
+  {
+    "targetText": "এটা খুব ভালো টেবিল।",
+    "english": "This is a very good table."
+  },
+  {
+    "targetText": "এটা কি টেবিল?",
+    "english": "Is this table?"
+  },
+  {
+    "targetText": "আমি দরজা চাই।",
+    "english": "I want door."
+  },
+  {
+    "targetText": "দয়া করে আমাকে দরজা দিন।",
+    "english": "Please give me door."
+  },
+  {
+    "targetText": "দরজা কোথায়?",
+    "english": "Where is the door?"
+  },
+  {
+    "targetText": "এটা আমার দরজা।",
+    "english": "This is my door."
+  },
+  {
+    "targetText": "আপনার কাছে কি দরজা আছে?",
+    "english": "Do you have door?"
+  },
+  {
+    "targetText": "আমি দরজা পছন্দ করি।",
+    "english": "I like door."
+  },
+  {
+    "targetText": "আমি দরজা পছন্দ করি না।",
+    "english": "I don't like door."
+  },
+  {
+    "targetText": "আমি দরজা খুঁজছি।",
+    "english": "I am looking for door."
+  },
+  {
+    "targetText": "এটা খুব ভালো দরজা।",
+    "english": "This is a very good door."
+  },
+  {
+    "targetText": "এটা কি দরজা?",
+    "english": "Is this door?"
+  },
+  {
+    "targetText": "আমি জানালা চাই।",
+    "english": "I want window."
+  },
+  {
+    "targetText": "দয়া করে আমাকে জানালা দিন।",
+    "english": "Please give me window."
+  },
+  {
+    "targetText": "জানালা কোথায়?",
+    "english": "Where is the window?"
+  },
+  {
+    "targetText": "এটা আমার জানালা।",
+    "english": "This is my window."
+  },
+  {
+    "targetText": "আপনার কাছে কি জানালা আছে?",
+    "english": "Do you have window?"
+  },
+  {
+    "targetText": "আমি জানালা পছন্দ করি।",
+    "english": "I like window."
+  },
+  {
+    "targetText": "আমি জানালা পছন্দ করি না।",
+    "english": "I don't like window."
+  },
+  {
+    "targetText": "আমি জানালা খুঁজছি।",
+    "english": "I am looking for window."
+  },
+  {
+    "targetText": "এটা খুব ভালো জানালা।",
+    "english": "This is a very good window."
+  },
+  {
+    "targetText": "এটা কি জানালা?",
+    "english": "Is this window?"
+  },
+  {
+    "targetText": "আমি চাবি চাই।",
+    "english": "I want key."
+  },
+  {
+    "targetText": "দয়া করে আমাকে চাবি দিন।",
+    "english": "Please give me key."
+  },
+  {
+    "targetText": "চাবি কোথায়?",
+    "english": "Where is the key?"
+  },
+  {
+    "targetText": "এটা আমার চাবি।",
+    "english": "This is my key."
+  },
+  {
+    "targetText": "আপনার কাছে কি চাবি আছে?",
+    "english": "Do you have key?"
+  },
+  {
+    "targetText": "আমি চাবি পছন্দ করি।",
+    "english": "I like key."
+  },
+  {
+    "targetText": "আমি চাবি পছন্দ করি না।",
+    "english": "I don't like key."
+  },
+  {
+    "targetText": "আমি চাবি খুঁজছি।",
+    "english": "I am looking for key."
+  },
+  {
+    "targetText": "এটা খুব ভালো চাবি।",
+    "english": "This is a very good key."
+  },
+  {
+    "targetText": "এটা কি চাবি?",
+    "english": "Is this key?"
+  },
+  {
+    "targetText": "আমি মা চাই।",
+    "english": "I want mother."
+  },
+  {
+    "targetText": "দয়া করে আমাকে মা দিন।",
+    "english": "Please give me mother."
+  },
+  {
+    "targetText": "মা কোথায়?",
+    "english": "Where is the mother?"
+  },
+  {
+    "targetText": "এটা আমার মা।",
+    "english": "This is my mother."
+  },
+  {
+    "targetText": "আপনার কাছে কি মা আছে?",
+    "english": "Do you have mother?"
+  },
+  {
+    "targetText": "আমি মা পছন্দ করি।",
+    "english": "I like mother."
+  },
+  {
+    "targetText": "আমি মা পছন্দ করি না।",
+    "english": "I don't like mother."
+  },
+  {
+    "targetText": "আমি মা খুঁজছি।",
+    "english": "I am looking for mother."
+  },
+  {
+    "targetText": "এটা খুব ভালো মা।",
+    "english": "This is a very good mother."
+  },
+  {
+    "targetText": "এটা কি মা?",
+    "english": "Is this mother?"
+  },
+  {
+    "targetText": "আমি বাবা চাই।",
+    "english": "I want father."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বাবা দিন।",
+    "english": "Please give me father."
+  },
+  {
+    "targetText": "বাবা কোথায়?",
+    "english": "Where is the father?"
+  },
+  {
+    "targetText": "এটা আমার বাবা।",
+    "english": "This is my father."
+  },
+  {
+    "targetText": "আপনার কাছে কি বাবা আছে?",
+    "english": "Do you have father?"
+  },
+  {
+    "targetText": "আমি বাবা পছন্দ করি।",
+    "english": "I like father."
+  },
+  {
+    "targetText": "আমি বাবা পছন্দ করি না।",
+    "english": "I don't like father."
+  },
+  {
+    "targetText": "আমি বাবা খুঁজছি।",
+    "english": "I am looking for father."
+  },
+  {
+    "targetText": "এটা খুব ভালো বাবা।",
+    "english": "This is a very good father."
+  },
+  {
+    "targetText": "এটা কি বাবা?",
+    "english": "Is this father?"
+  },
+  {
+    "targetText": "আমি ভাই চাই।",
+    "english": "I want brother."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ভাই দিন।",
+    "english": "Please give me brother."
+  },
+  {
+    "targetText": "ভাই কোথায়?",
+    "english": "Where is the brother?"
+  },
+  {
+    "targetText": "এটা আমার ভাই।",
+    "english": "This is my brother."
+  },
+  {
+    "targetText": "আপনার কাছে কি ভাই আছে?",
+    "english": "Do you have brother?"
+  },
+  {
+    "targetText": "আমি ভাই পছন্দ করি।",
+    "english": "I like brother."
+  },
+  {
+    "targetText": "আমি ভাই পছন্দ করি না।",
+    "english": "I don't like brother."
+  },
+  {
+    "targetText": "আমি ভাই খুঁজছি।",
+    "english": "I am looking for brother."
+  },
+  {
+    "targetText": "এটা খুব ভালো ভাই।",
+    "english": "This is a very good brother."
+  },
+  {
+    "targetText": "এটা কি ভাই?",
+    "english": "Is this brother?"
+  },
+  {
+    "targetText": "আমি বোন চাই।",
+    "english": "I want sister."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বোন দিন।",
+    "english": "Please give me sister."
+  },
+  {
+    "targetText": "বোন কোথায়?",
+    "english": "Where is the sister?"
+  },
+  {
+    "targetText": "এটা আমার বোন।",
+    "english": "This is my sister."
+  },
+  {
+    "targetText": "আপনার কাছে কি বোন আছে?",
+    "english": "Do you have sister?"
+  },
+  {
+    "targetText": "আমি বোন পছন্দ করি।",
+    "english": "I like sister."
+  },
+  {
+    "targetText": "আমি বোন পছন্দ করি না।",
+    "english": "I don't like sister."
+  },
+  {
+    "targetText": "আমি বোন খুঁজছি।",
+    "english": "I am looking for sister."
+  },
+  {
+    "targetText": "এটা খুব ভালো বোন।",
+    "english": "This is a very good sister."
+  },
+  {
+    "targetText": "এটা কি বোন?",
+    "english": "Is this sister?"
+  },
+  {
+    "targetText": "আমি বন্ধু চাই।",
+    "english": "I want friend."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বন্ধু দিন।",
+    "english": "Please give me friend."
+  },
+  {
+    "targetText": "বন্ধু কোথায়?",
+    "english": "Where is the friend?"
+  },
+  {
+    "targetText": "এটা আমার বন্ধু।",
+    "english": "This is my friend."
+  },
+  {
+    "targetText": "আপনার কাছে কি বন্ধু আছে?",
+    "english": "Do you have friend?"
+  },
+  {
+    "targetText": "আমি বন্ধু পছন্দ করি।",
+    "english": "I like friend."
+  },
+  {
+    "targetText": "আমি বন্ধু পছন্দ করি না।",
+    "english": "I don't like friend."
+  },
+  {
+    "targetText": "আমি বন্ধু খুঁজছি।",
+    "english": "I am looking for friend."
+  },
+  {
+    "targetText": "এটা খুব ভালো বন্ধু।",
+    "english": "This is a very good friend."
+  },
+  {
+    "targetText": "এটা কি বন্ধু?",
+    "english": "Is this friend?"
+  },
+  {
+    "targetText": "আমি পরিবার চাই।",
+    "english": "I want family."
+  },
+  {
+    "targetText": "দয়া করে আমাকে পরিবার দিন।",
+    "english": "Please give me family."
+  },
+  {
+    "targetText": "পরিবার কোথায়?",
+    "english": "Where is the family?"
+  },
+  {
+    "targetText": "এটা আমার পরিবার।",
+    "english": "This is my family."
+  },
+  {
+    "targetText": "আপনার কাছে কি পরিবার আছে?",
+    "english": "Do you have family?"
+  },
+  {
+    "targetText": "আমি পরিবার পছন্দ করি।",
+    "english": "I like family."
+  },
+  {
+    "targetText": "আমি পরিবার পছন্দ করি না।",
+    "english": "I don't like family."
+  },
+  {
+    "targetText": "আমি পরিবার খুঁজছি।",
+    "english": "I am looking for family."
+  },
+  {
+    "targetText": "এটা খুব ভালো পরিবার।",
+    "english": "This is a very good family."
+  },
+  {
+    "targetText": "এটা কি পরিবার?",
+    "english": "Is this family?"
+  },
+  {
+    "targetText": "আমি শিশু চাই।",
+    "english": "I want child."
+  },
+  {
+    "targetText": "দয়া করে আমাকে শিশু দিন।",
+    "english": "Please give me child."
+  },
+  {
+    "targetText": "শিশু কোথায়?",
+    "english": "Where is the child?"
+  },
+  {
+    "targetText": "এটা আমার শিশু।",
+    "english": "This is my child."
+  },
+  {
+    "targetText": "আপনার কাছে কি শিশু আছে?",
+    "english": "Do you have child?"
+  },
+  {
+    "targetText": "আমি শিশু পছন্দ করি।",
+    "english": "I like child."
+  },
+  {
+    "targetText": "আমি শিশু পছন্দ করি না।",
+    "english": "I don't like child."
+  },
+  {
+    "targetText": "আমি শিশু খুঁজছি।",
+    "english": "I am looking for child."
+  },
+  {
+    "targetText": "এটা খুব ভালো শিশু।",
+    "english": "This is a very good child."
+  },
+  {
+    "targetText": "এটা কি শিশু?",
+    "english": "Is this child?"
+  },
+  {
+    "targetText": "আমি নাম চাই।",
+    "english": "I want name."
+  },
+  {
+    "targetText": "দয়া করে আমাকে নাম দিন।",
+    "english": "Please give me name."
+  },
+  {
+    "targetText": "নাম কোথায়?",
+    "english": "Where is the name?"
+  },
+  {
+    "targetText": "এটা আমার নাম।",
+    "english": "This is my name."
+  },
+  {
+    "targetText": "আপনার কাছে কি নাম আছে?",
+    "english": "Do you have name?"
+  },
+  {
+    "targetText": "আমি নাম পছন্দ করি।",
+    "english": "I like name."
+  },
+  {
+    "targetText": "আমি নাম পছন্দ করি না।",
+    "english": "I don't like name."
+  },
+  {
+    "targetText": "আমি নাম খুঁজছি।",
+    "english": "I am looking for name."
+  },
+  {
+    "targetText": "এটা খুব ভালো নাম।",
+    "english": "This is a very good name."
+  },
+  {
+    "targetText": "এটা কি নাম?",
+    "english": "Is this name?"
+  },
+  {
+    "targetText": "আমি ফোন চাই।",
+    "english": "I want phone."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ফোন দিন।",
+    "english": "Please give me phone."
+  },
+  {
+    "targetText": "ফোন কোথায়?",
+    "english": "Where is the phone?"
+  },
+  {
+    "targetText": "এটা আমার ফোন।",
+    "english": "This is my phone."
+  },
+  {
+    "targetText": "আপনার কাছে কি ফোন আছে?",
+    "english": "Do you have phone?"
+  },
+  {
+    "targetText": "আমি ফোন পছন্দ করি।",
+    "english": "I like phone."
+  },
+  {
+    "targetText": "আমি ফোন পছন্দ করি না।",
+    "english": "I don't like phone."
+  },
+  {
+    "targetText": "আমি ফোন খুঁজছি।",
+    "english": "I am looking for phone."
+  },
+  {
+    "targetText": "এটা খুব ভালো ফোন।",
+    "english": "This is a very good phone."
+  },
+  {
+    "targetText": "এটা কি ফোন?",
+    "english": "Is this phone?"
+  },
+  {
+    "targetText": "আমি কম্পিউটার চাই।",
+    "english": "I want computer."
+  },
+  {
+    "targetText": "দয়া করে আমাকে কম্পিউটার দিন।",
+    "english": "Please give me computer."
+  },
+  {
+    "targetText": "কম্পিউটার কোথায়?",
+    "english": "Where is the computer?"
+  },
+  {
+    "targetText": "এটা আমার কম্পিউটার।",
+    "english": "This is my computer."
+  },
+  {
+    "targetText": "আপনার কাছে কি কম্পিউটার আছে?",
+    "english": "Do you have computer?"
+  },
+  {
+    "targetText": "আমি কম্পিউটার পছন্দ করি।",
+    "english": "I like computer."
+  },
+  {
+    "targetText": "আমি কম্পিউটার পছন্দ করি না।",
+    "english": "I don't like computer."
+  },
+  {
+    "targetText": "আমি কম্পিউটার খুঁজছি।",
+    "english": "I am looking for computer."
+  },
+  {
+    "targetText": "এটা খুব ভালো কম্পিউটার।",
+    "english": "This is a very good computer."
+  },
+  {
+    "targetText": "এটা কি কম্পিউটার?",
+    "english": "Is this computer?"
+  },
+  {
+    "targetText": "আমি ইন্টারনেট চাই।",
+    "english": "I want internet."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ইন্টারনেট দিন।",
+    "english": "Please give me internet."
+  },
+  {
+    "targetText": "ইন্টারনেট কোথায়?",
+    "english": "Where is the internet?"
+  },
+  {
+    "targetText": "এটা আমার ইন্টারনেট।",
+    "english": "This is my internet."
+  },
+  {
+    "targetText": "আপনার কাছে কি ইন্টারনেট আছে?",
+    "english": "Do you have internet?"
+  },
+  {
+    "targetText": "আমি ইন্টারনেট পছন্দ করি।",
+    "english": "I like internet."
+  },
+  {
+    "targetText": "আমি ইন্টারনেট পছন্দ করি না।",
+    "english": "I don't like internet."
+  },
+  {
+    "targetText": "আমি ইন্টারনেট খুঁজছি।",
+    "english": "I am looking for internet."
+  },
+  {
+    "targetText": "এটা খুব ভালো ইন্টারনেট।",
+    "english": "This is a very good internet."
+  },
+  {
+    "targetText": "এটা কি ইন্টারনেট?",
+    "english": "Is this internet?"
+  },
+  {
+    "targetText": "আমি বার্তা চাই।",
+    "english": "I want message."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বার্তা দিন।",
+    "english": "Please give me message."
+  },
+  {
+    "targetText": "বার্তা কোথায়?",
+    "english": "Where is the message?"
+  },
+  {
+    "targetText": "এটা আমার বার্তা।",
+    "english": "This is my message."
+  },
+  {
+    "targetText": "আপনার কাছে কি বার্তা আছে?",
+    "english": "Do you have message?"
+  },
+  {
+    "targetText": "আমি বার্তা পছন্দ করি।",
+    "english": "I like message."
+  },
+  {
+    "targetText": "আমি বার্তা পছন্দ করি না।",
+    "english": "I don't like message."
+  },
+  {
+    "targetText": "আমি বার্তা খুঁজছি।",
+    "english": "I am looking for message."
+  },
+  {
+    "targetText": "এটা খুব ভালো বার্তা।",
+    "english": "This is a very good message."
+  },
+  {
+    "targetText": "এটা কি বার্তা?",
+    "english": "Is this message?"
+  },
+  {
+    "targetText": "আমি টাকা চাই।",
+    "english": "I want money."
+  },
+  {
+    "targetText": "দয়া করে আমাকে টাকা দিন।",
+    "english": "Please give me money."
+  },
+  {
+    "targetText": "টাকা কোথায়?",
+    "english": "Where is the money?"
+  },
+  {
+    "targetText": "এটা আমার টাকা।",
+    "english": "This is my money."
+  },
+  {
+    "targetText": "আপনার কাছে কি টাকা আছে?",
+    "english": "Do you have money?"
+  },
+  {
+    "targetText": "আমি টাকা পছন্দ করি।",
+    "english": "I like money."
+  },
+  {
+    "targetText": "আমি টাকা পছন্দ করি না।",
+    "english": "I don't like money."
+  },
+  {
+    "targetText": "আমি টাকা খুঁজছি।",
+    "english": "I am looking for money."
+  },
+  {
+    "targetText": "এটা খুব ভালো টাকা।",
+    "english": "This is a very good money."
+  },
+  {
+    "targetText": "এটা কি টাকা?",
+    "english": "Is this money?"
+  },
+  {
+    "targetText": "আমি দাম চাই।",
+    "english": "I want price."
+  },
+  {
+    "targetText": "দয়া করে আমাকে দাম দিন।",
+    "english": "Please give me price."
+  },
+  {
+    "targetText": "দাম কোথায়?",
+    "english": "Where is the price?"
+  },
+  {
+    "targetText": "এটা আমার দাম।",
+    "english": "This is my price."
+  },
+  {
+    "targetText": "আপনার কাছে কি দাম আছে?",
+    "english": "Do you have price?"
+  },
+  {
+    "targetText": "আমি দাম পছন্দ করি।",
+    "english": "I like price."
+  },
+  {
+    "targetText": "আমি দাম পছন্দ করি না।",
+    "english": "I don't like price."
+  },
+  {
+    "targetText": "আমি দাম খুঁজছি।",
+    "english": "I am looking for price."
+  },
+  {
+    "targetText": "এটা খুব ভালো দাম।",
+    "english": "This is a very good price."
+  },
+  {
+    "targetText": "এটা কি দাম?",
+    "english": "Is this price?"
+  },
+  {
+    "targetText": "আমি বাজার চাই।",
+    "english": "I want market."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বাজার দিন।",
+    "english": "Please give me market."
+  },
+  {
+    "targetText": "বাজার কোথায়?",
+    "english": "Where is the market?"
+  },
+  {
+    "targetText": "এটা আমার বাজার।",
+    "english": "This is my market."
+  },
+  {
+    "targetText": "আপনার কাছে কি বাজার আছে?",
+    "english": "Do you have market?"
+  },
+  {
+    "targetText": "আমি বাজার পছন্দ করি।",
+    "english": "I like market."
+  },
+  {
+    "targetText": "আমি বাজার পছন্দ করি না।",
+    "english": "I don't like market."
+  },
+  {
+    "targetText": "আমি বাজার খুঁজছি।",
+    "english": "I am looking for market."
+  },
+  {
+    "targetText": "এটা খুব ভালো বাজার।",
+    "english": "This is a very good market."
+  },
+  {
+    "targetText": "এটা কি বাজার?",
+    "english": "Is this market?"
+  },
+  {
+    "targetText": "আমি দোকান চাই।",
+    "english": "I want shop."
+  },
+  {
+    "targetText": "দয়া করে আমাকে দোকান দিন।",
+    "english": "Please give me shop."
+  },
+  {
+    "targetText": "দোকান কোথায়?",
+    "english": "Where is the shop?"
+  },
+  {
+    "targetText": "এটা আমার দোকান।",
+    "english": "This is my shop."
+  },
+  {
+    "targetText": "আপনার কাছে কি দোকান আছে?",
+    "english": "Do you have shop?"
+  },
+  {
+    "targetText": "আমি দোকান পছন্দ করি।",
+    "english": "I like shop."
+  },
+  {
+    "targetText": "আমি দোকান পছন্দ করি না।",
+    "english": "I don't like shop."
+  },
+  {
+    "targetText": "আমি দোকান খুঁজছি।",
+    "english": "I am looking for shop."
+  },
+  {
+    "targetText": "এটা খুব ভালো দোকান।",
+    "english": "This is a very good shop."
+  },
+  {
+    "targetText": "এটা কি দোকান?",
+    "english": "Is this shop?"
+  },
+  {
+    "targetText": "আমি বিল চাই।",
+    "english": "I want bill."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বিল দিন।",
+    "english": "Please give me bill."
+  },
+  {
+    "targetText": "বিল কোথায়?",
+    "english": "Where is the bill?"
+  },
+  {
+    "targetText": "এটা আমার বিল।",
+    "english": "This is my bill."
+  },
+  {
+    "targetText": "আপনার কাছে কি বিল আছে?",
+    "english": "Do you have bill?"
+  },
+  {
+    "targetText": "আমি বিল পছন্দ করি।",
+    "english": "I like bill."
+  },
+  {
+    "targetText": "আমি বিল পছন্দ করি না।",
+    "english": "I don't like bill."
+  },
+  {
+    "targetText": "আমি বিল খুঁজছি।",
+    "english": "I am looking for bill."
+  },
+  {
+    "targetText": "এটা খুব ভালো বিল।",
+    "english": "This is a very good bill."
+  },
+  {
+    "targetText": "এটা কি বিল?",
+    "english": "Is this bill?"
+  },
+  {
+    "targetText": "আমি কার্ড চাই।",
+    "english": "I want card."
+  },
+  {
+    "targetText": "দয়া করে আমাকে কার্ড দিন।",
+    "english": "Please give me card."
+  },
+  {
+    "targetText": "কার্ড কোথায়?",
+    "english": "Where is the card?"
+  },
+  {
+    "targetText": "এটা আমার কার্ড।",
+    "english": "This is my card."
+  },
+  {
+    "targetText": "আপনার কাছে কি কার্ড আছে?",
+    "english": "Do you have card?"
+  },
+  {
+    "targetText": "আমি কার্ড পছন্দ করি।",
+    "english": "I like card."
+  },
+  {
+    "targetText": "আমি কার্ড পছন্দ করি না।",
+    "english": "I don't like card."
+  },
+  {
+    "targetText": "আমি কার্ড খুঁজছি।",
+    "english": "I am looking for card."
+  },
+  {
+    "targetText": "এটা খুব ভালো কার্ড।",
+    "english": "This is a very good card."
+  },
+  {
+    "targetText": "এটা কি কার্ড?",
+    "english": "Is this card?"
+  },
+  {
+    "targetText": "আমি ব্যাংক চাই।",
+    "english": "I want bank."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ব্যাংক দিন।",
+    "english": "Please give me bank."
+  },
+  {
+    "targetText": "ব্যাংক কোথায়?",
+    "english": "Where is the bank?"
+  },
+  {
+    "targetText": "এটা আমার ব্যাংক।",
+    "english": "This is my bank."
+  },
+  {
+    "targetText": "আপনার কাছে কি ব্যাংক আছে?",
+    "english": "Do you have bank?"
+  },
+  {
+    "targetText": "আমি ব্যাংক পছন্দ করি।",
+    "english": "I like bank."
+  },
+  {
+    "targetText": "আমি ব্যাংক পছন্দ করি না।",
+    "english": "I don't like bank."
+  },
+  {
+    "targetText": "আমি ব্যাংক খুঁজছি।",
+    "english": "I am looking for bank."
+  },
+  {
+    "targetText": "এটা খুব ভালো ব্যাংক।",
+    "english": "This is a very good bank."
+  },
+  {
+    "targetText": "এটা কি ব্যাংক?",
+    "english": "Is this bank?"
+  },
+  {
+    "targetText": "আমি বাস চাই।",
+    "english": "I want bus."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বাস দিন।",
+    "english": "Please give me bus."
+  },
+  {
+    "targetText": "বাস কোথায়?",
+    "english": "Where is the bus?"
+  },
+  {
+    "targetText": "এটা আমার বাস।",
+    "english": "This is my bus."
+  },
+  {
+    "targetText": "আপনার কাছে কি বাস আছে?",
+    "english": "Do you have bus?"
+  },
+  {
+    "targetText": "আমি বাস পছন্দ করি।",
+    "english": "I like bus."
+  },
+  {
+    "targetText": "আমি বাস পছন্দ করি না।",
+    "english": "I don't like bus."
+  },
+  {
+    "targetText": "আমি বাস খুঁজছি।",
+    "english": "I am looking for bus."
+  },
+  {
+    "targetText": "এটা খুব ভালো বাস।",
+    "english": "This is a very good bus."
+  },
+  {
+    "targetText": "এটা কি বাস?",
+    "english": "Is this bus?"
+  },
+  {
+    "targetText": "আমি ট্রেন চাই।",
+    "english": "I want train."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ট্রেন দিন।",
+    "english": "Please give me train."
+  },
+  {
+    "targetText": "ট্রেন কোথায়?",
+    "english": "Where is the train?"
+  },
+  {
+    "targetText": "এটা আমার ট্রেন।",
+    "english": "This is my train."
+  },
+  {
+    "targetText": "আপনার কাছে কি ট্রেন আছে?",
+    "english": "Do you have train?"
+  },
+  {
+    "targetText": "আমি ট্রেন পছন্দ করি।",
+    "english": "I like train."
+  },
+  {
+    "targetText": "আমি ট্রেন পছন্দ করি না।",
+    "english": "I don't like train."
+  },
+  {
+    "targetText": "আমি ট্রেন খুঁজছি।",
+    "english": "I am looking for train."
+  },
+  {
+    "targetText": "এটা খুব ভালো ট্রেন।",
+    "english": "This is a very good train."
+  },
+  {
+    "targetText": "এটা কি ট্রেন?",
+    "english": "Is this train?"
+  },
+  {
+    "targetText": "আমি ট্যাক্সি চাই।",
+    "english": "I want taxi."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ট্যাক্সি দিন।",
+    "english": "Please give me taxi."
+  },
+  {
+    "targetText": "ট্যাক্সি কোথায়?",
+    "english": "Where is the taxi?"
+  },
+  {
+    "targetText": "এটা আমার ট্যাক্সি।",
+    "english": "This is my taxi."
+  },
+  {
+    "targetText": "আপনার কাছে কি ট্যাক্সি আছে?",
+    "english": "Do you have taxi?"
+  },
+  {
+    "targetText": "আমি ট্যাক্সি পছন্দ করি।",
+    "english": "I like taxi."
+  },
+  {
+    "targetText": "আমি ট্যাক্সি পছন্দ করি না।",
+    "english": "I don't like taxi."
+  },
+  {
+    "targetText": "আমি ট্যাক্সি খুঁজছি।",
+    "english": "I am looking for taxi."
+  },
+  {
+    "targetText": "এটা খুব ভালো ট্যাক্সি।",
+    "english": "This is a very good taxi."
+  },
+  {
+    "targetText": "এটা কি ট্যাক্সি?",
+    "english": "Is this taxi?"
+  },
+  {
+    "targetText": "আমি গাড়ি চাই।",
+    "english": "I want car."
+  },
+  {
+    "targetText": "দয়া করে আমাকে গাড়ি দিন।",
+    "english": "Please give me car."
+  },
+  {
+    "targetText": "গাড়ি কোথায়?",
+    "english": "Where is the car?"
+  },
+  {
+    "targetText": "এটা আমার গাড়ি।",
+    "english": "This is my car."
+  },
+  {
+    "targetText": "আপনার কাছে কি গাড়ি আছে?",
+    "english": "Do you have car?"
+  },
+  {
+    "targetText": "আমি গাড়ি পছন্দ করি।",
+    "english": "I like car."
+  },
+  {
+    "targetText": "আমি গাড়ি পছন্দ করি না।",
+    "english": "I don't like car."
+  },
+  {
+    "targetText": "আমি গাড়ি খুঁজছি।",
+    "english": "I am looking for car."
+  },
+  {
+    "targetText": "এটা খুব ভালো গাড়ি।",
+    "english": "This is a very good car."
+  },
+  {
+    "targetText": "এটা কি গাড়ি?",
+    "english": "Is this car?"
+  },
+  {
+    "targetText": "আমি বাইক চাই।",
+    "english": "I want bike."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বাইক দিন।",
+    "english": "Please give me bike."
+  },
+  {
+    "targetText": "বাইক কোথায়?",
+    "english": "Where is the bike?"
+  },
+  {
+    "targetText": "এটা আমার বাইক।",
+    "english": "This is my bike."
+  },
+  {
+    "targetText": "আপনার কাছে কি বাইক আছে?",
+    "english": "Do you have bike?"
+  },
+  {
+    "targetText": "আমি বাইক পছন্দ করি।",
+    "english": "I like bike."
+  },
+  {
+    "targetText": "আমি বাইক পছন্দ করি না।",
+    "english": "I don't like bike."
+  },
+  {
+    "targetText": "আমি বাইক খুঁজছি।",
+    "english": "I am looking for bike."
+  },
+  {
+    "targetText": "এটা খুব ভালো বাইক।",
+    "english": "This is a very good bike."
+  },
+  {
+    "targetText": "এটা কি বাইক?",
+    "english": "Is this bike?"
+  },
+  {
+    "targetText": "আমি টিকিট চাই।",
+    "english": "I want ticket."
+  },
+  {
+    "targetText": "দয়া করে আমাকে টিকিট দিন।",
+    "english": "Please give me ticket."
+  },
+  {
+    "targetText": "টিকিট কোথায়?",
+    "english": "Where is the ticket?"
+  },
+  {
+    "targetText": "এটা আমার টিকিট।",
+    "english": "This is my ticket."
+  },
+  {
+    "targetText": "আপনার কাছে কি টিকিট আছে?",
+    "english": "Do you have ticket?"
+  },
+  {
+    "targetText": "আমি টিকিট পছন্দ করি।",
+    "english": "I like ticket."
+  },
+  {
+    "targetText": "আমি টিকিট পছন্দ করি না।",
+    "english": "I don't like ticket."
+  },
+  {
+    "targetText": "আমি টিকিট খুঁজছি।",
+    "english": "I am looking for ticket."
+  },
+  {
+    "targetText": "এটা খুব ভালো টিকিট।",
+    "english": "This is a very good ticket."
+  },
+  {
+    "targetText": "এটা কি টিকিট?",
+    "english": "Is this ticket?"
+  },
+  {
+    "targetText": "আমি স্টেশন চাই।",
+    "english": "I want station."
+  },
+  {
+    "targetText": "দয়া করে আমাকে স্টেশন দিন।",
+    "english": "Please give me station."
+  },
+  {
+    "targetText": "স্টেশন কোথায়?",
+    "english": "Where is the station?"
+  },
+  {
+    "targetText": "এটা আমার স্টেশন।",
+    "english": "This is my station."
+  },
+  {
+    "targetText": "আপনার কাছে কি স্টেশন আছে?",
+    "english": "Do you have station?"
+  },
+  {
+    "targetText": "আমি স্টেশন পছন্দ করি।",
+    "english": "I like station."
+  },
+  {
+    "targetText": "আমি স্টেশন পছন্দ করি না।",
+    "english": "I don't like station."
+  },
+  {
+    "targetText": "আমি স্টেশন খুঁজছি।",
+    "english": "I am looking for station."
+  },
+  {
+    "targetText": "এটা খুব ভালো স্টেশন।",
+    "english": "This is a very good station."
+  },
+  {
+    "targetText": "এটা কি স্টেশন?",
+    "english": "Is this station?"
+  },
+  {
+    "targetText": "আমি বিমানবন্দর চাই।",
+    "english": "I want airport."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বিমানবন্দর দিন।",
+    "english": "Please give me airport."
+  },
+  {
+    "targetText": "বিমানবন্দর কোথায়?",
+    "english": "Where is the airport?"
+  },
+  {
+    "targetText": "এটা আমার বিমানবন্দর।",
+    "english": "This is my airport."
+  },
+  {
+    "targetText": "আপনার কাছে কি বিমানবন্দর আছে?",
+    "english": "Do you have airport?"
+  },
+  {
+    "targetText": "আমি বিমানবন্দর পছন্দ করি।",
+    "english": "I like airport."
+  },
+  {
+    "targetText": "আমি বিমানবন্দর পছন্দ করি না।",
+    "english": "I don't like airport."
+  },
+  {
+    "targetText": "আমি বিমানবন্দর খুঁজছি।",
+    "english": "I am looking for airport."
+  },
+  {
+    "targetText": "এটা খুব ভালো বিমানবন্দর।",
+    "english": "This is a very good airport."
+  },
+  {
+    "targetText": "এটা কি বিমানবন্দর?",
+    "english": "Is this airport?"
+  },
+  {
+    "targetText": "আমি হোটেল চাই।",
+    "english": "I want hotel."
+  },
+  {
+    "targetText": "দয়া করে আমাকে হোটেল দিন।",
+    "english": "Please give me hotel."
+  },
+  {
+    "targetText": "হোটেল কোথায়?",
+    "english": "Where is the hotel?"
+  },
+  {
+    "targetText": "এটা আমার হোটেল।",
+    "english": "This is my hotel."
+  },
+  {
+    "targetText": "আপনার কাছে কি হোটেল আছে?",
+    "english": "Do you have hotel?"
+  },
+  {
+    "targetText": "আমি হোটেল পছন্দ করি।",
+    "english": "I like hotel."
+  },
+  {
+    "targetText": "আমি হোটেল পছন্দ করি না।",
+    "english": "I don't like hotel."
+  },
+  {
+    "targetText": "আমি হোটেল খুঁজছি।",
+    "english": "I am looking for hotel."
+  },
+  {
+    "targetText": "এটা খুব ভালো হোটেল।",
+    "english": "This is a very good hotel."
+  },
+  {
+    "targetText": "এটা কি হোটেল?",
+    "english": "Is this hotel?"
+  },
+  {
+    "targetText": "আমি রেস্টুরেন্ট চাই।",
+    "english": "I want restaurant."
+  },
+  {
+    "targetText": "দয়া করে আমাকে রেস্টুরেন্ট দিন।",
+    "english": "Please give me restaurant."
+  },
+  {
+    "targetText": "রেস্টুরেন্ট কোথায়?",
+    "english": "Where is the restaurant?"
+  },
+  {
+    "targetText": "এটা আমার রেস্টুরেন্ট।",
+    "english": "This is my restaurant."
+  },
+  {
+    "targetText": "আপনার কাছে কি রেস্টুরেন্ট আছে?",
+    "english": "Do you have restaurant?"
+  },
+  {
+    "targetText": "আমি রেস্টুরেন্ট পছন্দ করি।",
+    "english": "I like restaurant."
+  },
+  {
+    "targetText": "আমি রেস্টুরেন্ট পছন্দ করি না।",
+    "english": "I don't like restaurant."
+  },
+  {
+    "targetText": "আমি রেস্টুরেন্ট খুঁজছি।",
+    "english": "I am looking for restaurant."
+  },
+  {
+    "targetText": "এটা খুব ভালো রেস্টুরেন্ট।",
+    "english": "This is a very good restaurant."
+  },
+  {
+    "targetText": "এটা কি রেস্টুরেন্ট?",
+    "english": "Is this restaurant?"
+  },
+  {
+    "targetText": "আমি মানচিত্র চাই।",
+    "english": "I want map."
+  },
+  {
+    "targetText": "দয়া করে আমাকে মানচিত্র দিন।",
+    "english": "Please give me map."
+  },
+  {
+    "targetText": "মানচিত্র কোথায়?",
+    "english": "Where is the map?"
+  },
+  {
+    "targetText": "এটা আমার মানচিত্র।",
+    "english": "This is my map."
+  },
+  {
+    "targetText": "আপনার কাছে কি মানচিত্র আছে?",
+    "english": "Do you have map?"
+  },
+  {
+    "targetText": "আমি মানচিত্র পছন্দ করি।",
+    "english": "I like map."
+  },
+  {
+    "targetText": "আমি মানচিত্র পছন্দ করি না।",
+    "english": "I don't like map."
+  },
+  {
+    "targetText": "আমি মানচিত্র খুঁজছি।",
+    "english": "I am looking for map."
+  },
+  {
+    "targetText": "এটা খুব ভালো মানচিত্র।",
+    "english": "This is a very good map."
+  },
+  {
+    "targetText": "এটা কি মানচিত্র?",
+    "english": "Is this map?"
+  },
+  {
+    "targetText": "আমি ঠিকানা চাই।",
+    "english": "I want address."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ঠিকানা দিন।",
+    "english": "Please give me address."
+  },
+  {
+    "targetText": "ঠিকানা কোথায়?",
+    "english": "Where is the address?"
+  },
+  {
+    "targetText": "এটা আমার ঠিকানা।",
+    "english": "This is my address."
+  },
+  {
+    "targetText": "আপনার কাছে কি ঠিকানা আছে?",
+    "english": "Do you have address?"
+  },
+  {
+    "targetText": "আমি ঠিকানা পছন্দ করি।",
+    "english": "I like address."
+  },
+  {
+    "targetText": "আমি ঠিকানা পছন্দ করি না।",
+    "english": "I don't like address."
+  },
+  {
+    "targetText": "আমি ঠিকানা খুঁজছি।",
+    "english": "I am looking for address."
+  },
+  {
+    "targetText": "এটা খুব ভালো ঠিকানা।",
+    "english": "This is a very good address."
+  },
+  {
+    "targetText": "এটা কি ঠিকানা?",
+    "english": "Is this address?"
+  },
+  {
+    "targetText": "আমি ডাক্তার চাই।",
+    "english": "I want doctor."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ডাক্তার দিন।",
+    "english": "Please give me doctor."
+  },
+  {
+    "targetText": "ডাক্তার কোথায়?",
+    "english": "Where is the doctor?"
+  },
+  {
+    "targetText": "এটা আমার ডাক্তার।",
+    "english": "This is my doctor."
+  },
+  {
+    "targetText": "আপনার কাছে কি ডাক্তার আছে?",
+    "english": "Do you have doctor?"
+  },
+  {
+    "targetText": "আমি ডাক্তার পছন্দ করি।",
+    "english": "I like doctor."
+  },
+  {
+    "targetText": "আমি ডাক্তার পছন্দ করি না।",
+    "english": "I don't like doctor."
+  },
+  {
+    "targetText": "আমি ডাক্তার খুঁজছি।",
+    "english": "I am looking for doctor."
+  },
+  {
+    "targetText": "এটা খুব ভালো ডাক্তার।",
+    "english": "This is a very good doctor."
+  },
+  {
+    "targetText": "এটা কি ডাক্তার?",
+    "english": "Is this doctor?"
+  },
+  {
+    "targetText": "আমি হাসপাতাল চাই।",
+    "english": "I want hospital."
+  },
+  {
+    "targetText": "দয়া করে আমাকে হাসপাতাল দিন।",
+    "english": "Please give me hospital."
+  },
+  {
+    "targetText": "হাসপাতাল কোথায়?",
+    "english": "Where is the hospital?"
+  },
+  {
+    "targetText": "এটা আমার হাসপাতাল।",
+    "english": "This is my hospital."
+  },
+  {
+    "targetText": "আপনার কাছে কি হাসপাতাল আছে?",
+    "english": "Do you have hospital?"
+  },
+  {
+    "targetText": "আমি হাসপাতাল পছন্দ করি।",
+    "english": "I like hospital."
+  },
+  {
+    "targetText": "আমি হাসপাতাল পছন্দ করি না।",
+    "english": "I don't like hospital."
+  },
+  {
+    "targetText": "আমি হাসপাতাল খুঁজছি।",
+    "english": "I am looking for hospital."
+  },
+  {
+    "targetText": "এটা খুব ভালো হাসপাতাল।",
+    "english": "This is a very good hospital."
+  },
+  {
+    "targetText": "এটা কি হাসপাতাল?",
+    "english": "Is this hospital?"
+  },
+  {
+    "targetText": "আমি ওষুধ চাই।",
+    "english": "I want medicine."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ওষুধ দিন।",
+    "english": "Please give me medicine."
+  },
+  {
+    "targetText": "ওষুধ কোথায়?",
+    "english": "Where is the medicine?"
+  },
+  {
+    "targetText": "এটা আমার ওষুধ।",
+    "english": "This is my medicine."
+  },
+  {
+    "targetText": "আপনার কাছে কি ওষুধ আছে?",
+    "english": "Do you have medicine?"
+  },
+  {
+    "targetText": "আমি ওষুধ পছন্দ করি।",
+    "english": "I like medicine."
+  },
+  {
+    "targetText": "আমি ওষুধ পছন্দ করি না।",
+    "english": "I don't like medicine."
+  },
+  {
+    "targetText": "আমি ওষুধ খুঁজছি।",
+    "english": "I am looking for medicine."
+  },
+  {
+    "targetText": "এটা খুব ভালো ওষুধ।",
+    "english": "This is a very good medicine."
+  },
+  {
+    "targetText": "এটা কি ওষুধ?",
+    "english": "Is this medicine?"
+  },
+  {
+    "targetText": "আমি জ্বর চাই।",
+    "english": "I want fever."
+  },
+  {
+    "targetText": "দয়া করে আমাকে জ্বর দিন।",
+    "english": "Please give me fever."
+  },
+  {
+    "targetText": "জ্বর কোথায়?",
+    "english": "Where is the fever?"
+  },
+  {
+    "targetText": "এটা আমার জ্বর।",
+    "english": "This is my fever."
+  },
+  {
+    "targetText": "আপনার কাছে কি জ্বর আছে?",
+    "english": "Do you have fever?"
+  },
+  {
+    "targetText": "আমি জ্বর পছন্দ করি।",
+    "english": "I like fever."
+  },
+  {
+    "targetText": "আমি জ্বর পছন্দ করি না।",
+    "english": "I don't like fever."
+  },
+  {
+    "targetText": "আমি জ্বর খুঁজছি।",
+    "english": "I am looking for fever."
+  },
+  {
+    "targetText": "এটা খুব ভালো জ্বর।",
+    "english": "This is a very good fever."
+  },
+  {
+    "targetText": "এটা কি জ্বর?",
+    "english": "Is this fever?"
+  },
+  {
+    "targetText": "আমি ব্যথা চাই।",
+    "english": "I want pain."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ব্যথা দিন।",
+    "english": "Please give me pain."
+  },
+  {
+    "targetText": "ব্যথা কোথায়?",
+    "english": "Where is the pain?"
+  },
+  {
+    "targetText": "এটা আমার ব্যথা।",
+    "english": "This is my pain."
+  },
+  {
+    "targetText": "আপনার কাছে কি ব্যথা আছে?",
+    "english": "Do you have pain?"
+  },
+  {
+    "targetText": "আমি ব্যথা পছন্দ করি।",
+    "english": "I like pain."
+  },
+  {
+    "targetText": "আমি ব্যথা পছন্দ করি না।",
+    "english": "I don't like pain."
+  },
+  {
+    "targetText": "আমি ব্যথা খুঁজছি।",
+    "english": "I am looking for pain."
+  },
+  {
+    "targetText": "এটা খুব ভালো ব্যথা।",
+    "english": "This is a very good pain."
+  },
+  {
+    "targetText": "এটা কি ব্যথা?",
+    "english": "Is this pain?"
+  },
+  {
+    "targetText": "আমি সাহায্য চাই।",
+    "english": "I want help."
+  },
+  {
+    "targetText": "দয়া করে আমাকে সাহায্য দিন।",
+    "english": "Please give me help."
+  },
+  {
+    "targetText": "সাহায্য কোথায়?",
+    "english": "Where is the help?"
+  },
+  {
+    "targetText": "এটা আমার সাহায্য।",
+    "english": "This is my help."
+  },
+  {
+    "targetText": "আপনার কাছে কি সাহায্য আছে?",
+    "english": "Do you have help?"
+  },
+  {
+    "targetText": "আমি সাহায্য পছন্দ করি।",
+    "english": "I like help."
+  },
+  {
+    "targetText": "আমি সাহায্য পছন্দ করি না।",
+    "english": "I don't like help."
+  },
+  {
+    "targetText": "আমি সাহায্য খুঁজছি।",
+    "english": "I am looking for help."
+  },
+  {
+    "targetText": "এটা খুব ভালো সাহায্য।",
+    "english": "This is a very good help."
+  },
+  {
+    "targetText": "এটা কি সাহায্য?",
+    "english": "Is this help?"
+  },
+  {
+    "targetText": "আমি জরুরি অবস্থা চাই।",
+    "english": "I want emergency."
+  },
+  {
+    "targetText": "দয়া করে আমাকে জরুরি অবস্থা দিন।",
+    "english": "Please give me emergency."
+  },
+  {
+    "targetText": "জরুরি অবস্থা কোথায়?",
+    "english": "Where is the emergency?"
+  },
+  {
+    "targetText": "এটা আমার জরুরি অবস্থা।",
+    "english": "This is my emergency."
+  },
+  {
+    "targetText": "আপনার কাছে কি জরুরি অবস্থা আছে?",
+    "english": "Do you have emergency?"
+  },
+  {
+    "targetText": "আমি জরুরি অবস্থা পছন্দ করি।",
+    "english": "I like emergency."
+  },
+  {
+    "targetText": "আমি জরুরি অবস্থা পছন্দ করি না।",
+    "english": "I don't like emergency."
+  },
+  {
+    "targetText": "আমি জরুরি অবস্থা খুঁজছি।",
+    "english": "I am looking for emergency."
+  },
+  {
+    "targetText": "এটা খুব ভালো জরুরি অবস্থা।",
+    "english": "This is a very good emergency."
+  },
+  {
+    "targetText": "এটা কি জরুরি অবস্থা?",
+    "english": "Is this emergency?"
+  },
+  {
+    "targetText": "আমি বৃষ্টি চাই।",
+    "english": "I want rain."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বৃষ্টি দিন।",
+    "english": "Please give me rain."
+  },
+  {
+    "targetText": "বৃষ্টি কোথায়?",
+    "english": "Where is the rain?"
+  },
+  {
+    "targetText": "এটা আমার বৃষ্টি।",
+    "english": "This is my rain."
+  },
+  {
+    "targetText": "আপনার কাছে কি বৃষ্টি আছে?",
+    "english": "Do you have rain?"
+  },
+  {
+    "targetText": "আমি বৃষ্টি পছন্দ করি।",
+    "english": "I like rain."
+  },
+  {
+    "targetText": "আমি বৃষ্টি পছন্দ করি না।",
+    "english": "I don't like rain."
+  },
+  {
+    "targetText": "আমি বৃষ্টি খুঁজছি।",
+    "english": "I am looking for rain."
+  },
+  {
+    "targetText": "এটা খুব ভালো বৃষ্টি।",
+    "english": "This is a very good rain."
+  },
+  {
+    "targetText": "এটা কি বৃষ্টি?",
+    "english": "Is this rain?"
+  },
+  {
+    "targetText": "আমি সূর্য চাই।",
+    "english": "I want sun."
+  },
+  {
+    "targetText": "দয়া করে আমাকে সূর্য দিন।",
+    "english": "Please give me sun."
+  },
+  {
+    "targetText": "সূর্য কোথায়?",
+    "english": "Where is the sun?"
+  },
+  {
+    "targetText": "এটা আমার সূর্য।",
+    "english": "This is my sun."
+  },
+  {
+    "targetText": "আপনার কাছে কি সূর্য আছে?",
+    "english": "Do you have sun?"
+  },
+  {
+    "targetText": "আমি সূর্য পছন্দ করি।",
+    "english": "I like sun."
+  },
+  {
+    "targetText": "আমি সূর্য পছন্দ করি না।",
+    "english": "I don't like sun."
+  },
+  {
+    "targetText": "আমি সূর্য খুঁজছি।",
+    "english": "I am looking for sun."
+  },
+  {
+    "targetText": "এটা খুব ভালো সূর্য।",
+    "english": "This is a very good sun."
+  },
+  {
+    "targetText": "এটা কি সূর্য?",
+    "english": "Is this sun?"
+  },
+  {
+    "targetText": "আমি বাতাস চাই।",
+    "english": "I want wind."
+  },
+  {
+    "targetText": "দয়া করে আমাকে বাতাস দিন।",
+    "english": "Please give me wind."
+  },
+  {
+    "targetText": "বাতাস কোথায়?",
+    "english": "Where is the wind?"
+  },
+  {
+    "targetText": "এটা আমার বাতাস।",
+    "english": "This is my wind."
+  },
+  {
+    "targetText": "আপনার কাছে কি বাতাস আছে?",
+    "english": "Do you have wind?"
+  },
+  {
+    "targetText": "আমি বাতাস পছন্দ করি।",
+    "english": "I like wind."
+  },
+  {
+    "targetText": "আমি বাতাস পছন্দ করি না।",
+    "english": "I don't like wind."
+  },
+  {
+    "targetText": "আমি বাতাস খুঁজছি।",
+    "english": "I am looking for wind."
+  },
+  {
+    "targetText": "এটা খুব ভালো বাতাস।",
+    "english": "This is a very good wind."
+  },
+  {
+    "targetText": "এটা কি বাতাস?",
+    "english": "Is this wind?"
+  },
+  {
+    "targetText": "আমি ঠান্ডা চাই।",
+    "english": "I want cold."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ঠান্ডা দিন।",
+    "english": "Please give me cold."
+  },
+  {
+    "targetText": "ঠান্ডা কোথায়?",
+    "english": "Where is the cold?"
+  },
+  {
+    "targetText": "এটা আমার ঠান্ডা।",
+    "english": "This is my cold."
+  },
+  {
+    "targetText": "আপনার কাছে কি ঠান্ডা আছে?",
+    "english": "Do you have cold?"
+  },
+  {
+    "targetText": "আমি ঠান্ডা পছন্দ করি।",
+    "english": "I like cold."
+  },
+  {
+    "targetText": "আমি ঠান্ডা পছন্দ করি না।",
+    "english": "I don't like cold."
+  },
+  {
+    "targetText": "আমি ঠান্ডা খুঁজছি।",
+    "english": "I am looking for cold."
+  },
+  {
+    "targetText": "এটা খুব ভালো ঠান্ডা।",
+    "english": "This is a very good cold."
+  },
+  {
+    "targetText": "এটা কি ঠান্ডা?",
+    "english": "Is this cold?"
+  },
+  {
+    "targetText": "আমি গরম চাই।",
+    "english": "I want heat."
+  },
+  {
+    "targetText": "দয়া করে আমাকে গরম দিন।",
+    "english": "Please give me heat."
+  },
+  {
+    "targetText": "গরম কোথায়?",
+    "english": "Where is the heat?"
+  },
+  {
+    "targetText": "এটা আমার গরম।",
+    "english": "This is my heat."
+  },
+  {
+    "targetText": "আপনার কাছে কি গরম আছে?",
+    "english": "Do you have heat?"
+  },
+  {
+    "targetText": "আমি গরম পছন্দ করি।",
+    "english": "I like heat."
+  },
+  {
+    "targetText": "আমি গরম পছন্দ করি না।",
+    "english": "I don't like heat."
+  },
+  {
+    "targetText": "আমি গরম খুঁজছি।",
+    "english": "I am looking for heat."
+  },
+  {
+    "targetText": "এটা খুব ভালো গরম।",
+    "english": "This is a very good heat."
+  },
+  {
+    "targetText": "এটা কি গরম?",
+    "english": "Is this heat?"
+  },
+  {
+    "targetText": "আমি সময় চাই।",
+    "english": "I want time."
+  },
+  {
+    "targetText": "দয়া করে আমাকে সময় দিন।",
+    "english": "Please give me time."
+  },
+  {
+    "targetText": "সময় কোথায়?",
+    "english": "Where is the time?"
+  },
+  {
+    "targetText": "এটা আমার সময়।",
+    "english": "This is my time."
+  },
+  {
+    "targetText": "আপনার কাছে কি সময় আছে?",
+    "english": "Do you have time?"
+  },
+  {
+    "targetText": "আমি সময় পছন্দ করি।",
+    "english": "I like time."
+  },
+  {
+    "targetText": "আমি সময় পছন্দ করি না।",
+    "english": "I don't like time."
+  },
+  {
+    "targetText": "আমি সময় খুঁজছি।",
+    "english": "I am looking for time."
+  },
+  {
+    "targetText": "এটা খুব ভালো সময়।",
+    "english": "This is a very good time."
+  },
+  {
+    "targetText": "এটা কি সময়?",
+    "english": "Is this time?"
+  },
+  {
+    "targetText": "আমি আজ চাই।",
+    "english": "I want today."
+  },
+  {
+    "targetText": "দয়া করে আমাকে আজ দিন।",
+    "english": "Please give me today."
+  },
+  {
+    "targetText": "আজ কোথায়?",
+    "english": "Where is the today?"
+  },
+  {
+    "targetText": "এটা আমার আজ।",
+    "english": "This is my today."
+  },
+  {
+    "targetText": "আপনার কাছে কি আজ আছে?",
+    "english": "Do you have today?"
+  },
+  {
+    "targetText": "আমি আজ পছন্দ করি।",
+    "english": "I like today."
+  },
+  {
+    "targetText": "আমি আজ পছন্দ করি না।",
+    "english": "I don't like today."
+  },
+  {
+    "targetText": "আমি আজ খুঁজছি।",
+    "english": "I am looking for today."
+  },
+  {
+    "targetText": "এটা খুব ভালো আজ।",
+    "english": "This is a very good today."
+  },
+  {
+    "targetText": "এটা কি আজ?",
+    "english": "Is this today?"
+  },
+  {
+    "targetText": "আমি আগামীকাল চাই।",
+    "english": "I want tomorrow."
+  },
+  {
+    "targetText": "দয়া করে আমাকে আগামীকাল দিন।",
+    "english": "Please give me tomorrow."
+  },
+  {
+    "targetText": "আগামীকাল কোথায়?",
+    "english": "Where is the tomorrow?"
+  },
+  {
+    "targetText": "এটা আমার আগামীকাল।",
+    "english": "This is my tomorrow."
+  },
+  {
+    "targetText": "আপনার কাছে কি আগামীকাল আছে?",
+    "english": "Do you have tomorrow?"
+  },
+  {
+    "targetText": "আমি আগামীকাল পছন্দ করি।",
+    "english": "I like tomorrow."
+  },
+  {
+    "targetText": "আমি আগামীকাল পছন্দ করি না।",
+    "english": "I don't like tomorrow."
+  },
+  {
+    "targetText": "আমি আগামীকাল খুঁজছি।",
+    "english": "I am looking for tomorrow."
+  },
+  {
+    "targetText": "এটা খুব ভালো আগামীকাল।",
+    "english": "This is a very good tomorrow."
+  },
+  {
+    "targetText": "এটা কি আগামীকাল?",
+    "english": "Is this tomorrow?"
+  },
+  {
+    "targetText": "আমি গতকাল চাই।",
+    "english": "I want yesterday."
+  },
+  {
+    "targetText": "দয়া করে আমাকে গতকাল দিন।",
+    "english": "Please give me yesterday."
+  },
+  {
+    "targetText": "গতকাল কোথায়?",
+    "english": "Where is the yesterday?"
+  },
+  {
+    "targetText": "এটা আমার গতকাল।",
+    "english": "This is my yesterday."
+  },
+  {
+    "targetText": "আপনার কাছে কি গতকাল আছে?",
+    "english": "Do you have yesterday?"
+  },
+  {
+    "targetText": "আমি গতকাল পছন্দ করি।",
+    "english": "I like yesterday."
+  },
+  {
+    "targetText": "আমি গতকাল পছন্দ করি না।",
+    "english": "I don't like yesterday."
+  },
+  {
+    "targetText": "আমি গতকাল খুঁজছি।",
+    "english": "I am looking for yesterday."
+  },
+  {
+    "targetText": "এটা খুব ভালো গতকাল।",
+    "english": "This is a very good yesterday."
+  },
+  {
+    "targetText": "এটা কি গতকাল?",
+    "english": "Is this yesterday?"
+  },
+  {
+    "targetText": "আমি সকাল চাই।",
+    "english": "I want morning."
+  },
+  {
+    "targetText": "দয়া করে আমাকে সকাল দিন।",
+    "english": "Please give me morning."
+  },
+  {
+    "targetText": "সকাল কোথায়?",
+    "english": "Where is the morning?"
+  },
+  {
+    "targetText": "এটা আমার সকাল।",
+    "english": "This is my morning."
+  },
+  {
+    "targetText": "আপনার কাছে কি সকাল আছে?",
+    "english": "Do you have morning?"
+  },
+  {
+    "targetText": "আমি সকাল পছন্দ করি।",
+    "english": "I like morning."
+  },
+  {
+    "targetText": "আমি সকাল পছন্দ করি না।",
+    "english": "I don't like morning."
+  },
+  {
+    "targetText": "আমি সকাল খুঁজছি।",
+    "english": "I am looking for morning."
+  },
+  {
+    "targetText": "এটা খুব ভালো সকাল।",
+    "english": "This is a very good morning."
+  },
+  {
+    "targetText": "এটা কি সকাল?",
+    "english": "Is this morning?"
+  },
+  {
+    "targetText": "আমি সন্ধ্যা চাই।",
+    "english": "I want evening."
+  },
+  {
+    "targetText": "দয়া করে আমাকে সন্ধ্যা দিন।",
+    "english": "Please give me evening."
+  },
+  {
+    "targetText": "সন্ধ্যা কোথায়?",
+    "english": "Where is the evening?"
+  },
+  {
+    "targetText": "এটা আমার সন্ধ্যা।",
+    "english": "This is my evening."
+  },
+  {
+    "targetText": "আপনার কাছে কি সন্ধ্যা আছে?",
+    "english": "Do you have evening?"
+  },
+  {
+    "targetText": "আমি সন্ধ্যা পছন্দ করি।",
+    "english": "I like evening."
+  },
+  {
+    "targetText": "আমি সন্ধ্যা পছন্দ করি না।",
+    "english": "I don't like evening."
+  },
+  {
+    "targetText": "আমি সন্ধ্যা খুঁজছি।",
+    "english": "I am looking for evening."
+  },
+  {
+    "targetText": "এটা খুব ভালো সন্ধ্যা।",
+    "english": "This is a very good evening."
+  },
+  {
+    "targetText": "এটা কি সন্ধ্যা?",
+    "english": "Is this evening?"
+  },
+  {
+    "targetText": "আমি রাত চাই।",
+    "english": "I want night."
+  },
+  {
+    "targetText": "দয়া করে আমাকে রাত দিন।",
+    "english": "Please give me night."
+  },
+  {
+    "targetText": "রাত কোথায়?",
+    "english": "Where is the night?"
+  },
+  {
+    "targetText": "এটা আমার রাত।",
+    "english": "This is my night."
+  },
+  {
+    "targetText": "আপনার কাছে কি রাত আছে?",
+    "english": "Do you have night?"
+  },
+  {
+    "targetText": "আমি রাত পছন্দ করি।",
+    "english": "I like night."
+  },
+  {
+    "targetText": "আমি রাত পছন্দ করি না।",
+    "english": "I don't like night."
+  },
+  {
+    "targetText": "আমি রাত খুঁজছি।",
+    "english": "I am looking for night."
+  },
+  {
+    "targetText": "এটা খুব ভালো রাত।",
+    "english": "This is a very good night."
+  },
+  {
+    "targetText": "এটা কি রাত?",
+    "english": "Is this night?"
+  },
+  {
+    "targetText": "আমি ভালো পানি চাই।",
+    "english": "I want good water."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ভালো পানি দিন।",
+    "english": "Please give me good water."
+  },
+  {
+    "targetText": "ভালো পানি কোথায়?",
+    "english": "Where is the good water?"
+  },
+  {
+    "targetText": "এটা আমার ভালো পানি।",
+    "english": "This is my good water."
+  },
+  {
+    "targetText": "আপনার কাছে কি ভালো পানি আছে?",
+    "english": "Do you have good water?"
+  },
+  {
+    "targetText": "আমি ভালো খাবার চাই।",
+    "english": "I want good food."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ভালো খাবার দিন।",
+    "english": "Please give me good food."
+  },
+  {
+    "targetText": "ভালো খাবার কোথায়?",
+    "english": "Where is the good food?"
+  },
+  {
+    "targetText": "এটা আমার ভালো খাবার।",
+    "english": "This is my good food."
+  },
+  {
+    "targetText": "আপনার কাছে কি ভালো খাবার আছে?",
+    "english": "Do you have good food?"
+  },
+  {
+    "targetText": "আমি ভালো চা চাই।",
+    "english": "I want good tea."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ভালো চা দিন।",
+    "english": "Please give me good tea."
+  },
+  {
+    "targetText": "ভালো চা কোথায়?",
+    "english": "Where is the good tea?"
+  },
+  {
+    "targetText": "এটা আমার ভালো চা।",
+    "english": "This is my good tea."
+  },
+  {
+    "targetText": "আপনার কাছে কি ভালো চা আছে?",
+    "english": "Do you have good tea?"
+  },
+  {
+    "targetText": "আমি ভালো কফি চাই।",
+    "english": "I want good coffee."
+  },
+  {
+    "targetText": "দয়া করে আমাকে ভালো কফি দিন।",
+    "english": "Please give me good coffee."
+  },
+  {
+    "targetText": "ভালো কফি কোথায়?",
+    "english": "Where is the good coffee?"
+  },
+  {
+    "targetText": "এটা আমার ভালো কফি।",
+    "english": "This is my good coffee."
+  },
+  {
+    "targetText": "আপনার কাছে কি ভালো কফি আছে?",
+    "english": "Do you have good coffee?"
+  }
+]

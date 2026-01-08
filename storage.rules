@@ -1,0 +1,18 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    // NOTE: Storage rules cannot query Firestore to check roles.
+    // We keep recordings non-guessable (user UID + random submission id) and
+    // rely on Firestore rules to restrict who learns the download URL.
+    // For stricter control, migrate to custom claims + role checks here.
+
+    match /pronunciationRecordings/{uid}/{fileName} {
+      allow write: if signedIn() && request.auth.uid == uid;
+      allow read: if signedIn();
+    }
+  }
+}

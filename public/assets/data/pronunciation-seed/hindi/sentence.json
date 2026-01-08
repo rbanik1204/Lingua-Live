@@ -1,0 +1,4002 @@
+[
+  {
+    "targetText": "मुझे पानी चाहिए।",
+    "english": "I need water."
+  },
+  {
+    "targetText": "कृपया मुझे पानी दीजिए।",
+    "english": "Please give me water."
+  },
+  {
+    "targetText": "पानी कहाँ है?",
+    "english": "Where is the water?"
+  },
+  {
+    "targetText": "यह मेरा पानी है।",
+    "english": "This is my water."
+  },
+  {
+    "targetText": "क्या आपके पास पानी है?",
+    "english": "Do you have water?"
+  },
+  {
+    "targetText": "मुझे पानी पसंद है।",
+    "english": "I like water."
+  },
+  {
+    "targetText": "मुझे पानी पसंद नहीं है।",
+    "english": "I don't like water."
+  },
+  {
+    "targetText": "मैं पानी ढूँढ रहा हूँ।",
+    "english": "I am looking for water."
+  },
+  {
+    "targetText": "यह पानी बहुत अच्छा है।",
+    "english": "This is a very good water."
+  },
+  {
+    "targetText": "क्या यह पानी है?",
+    "english": "Is this water?"
+  },
+  {
+    "targetText": "मुझे खाना चाहिए।",
+    "english": "I need food."
+  },
+  {
+    "targetText": "कृपया मुझे खाना दीजिए।",
+    "english": "Please give me food."
+  },
+  {
+    "targetText": "खाना कहाँ है?",
+    "english": "Where is the food?"
+  },
+  {
+    "targetText": "यह मेरा खाना है।",
+    "english": "This is my food."
+  },
+  {
+    "targetText": "क्या आपके पास खाना है?",
+    "english": "Do you have food?"
+  },
+  {
+    "targetText": "मुझे खाना पसंद है।",
+    "english": "I like food."
+  },
+  {
+    "targetText": "मुझे खाना पसंद नहीं है।",
+    "english": "I don't like food."
+  },
+  {
+    "targetText": "मैं खाना ढूँढ रहा हूँ।",
+    "english": "I am looking for food."
+  },
+  {
+    "targetText": "यह खाना बहुत अच्छा है।",
+    "english": "This is a very good food."
+  },
+  {
+    "targetText": "क्या यह खाना है?",
+    "english": "Is this food?"
+  },
+  {
+    "targetText": "मुझे चाय चाहिए।",
+    "english": "I need tea."
+  },
+  {
+    "targetText": "कृपया मुझे चाय दीजिए।",
+    "english": "Please give me tea."
+  },
+  {
+    "targetText": "चाय कहाँ है?",
+    "english": "Where is the tea?"
+  },
+  {
+    "targetText": "यह मेरा चाय है।",
+    "english": "This is my tea."
+  },
+  {
+    "targetText": "क्या आपके पास चाय है?",
+    "english": "Do you have tea?"
+  },
+  {
+    "targetText": "मुझे चाय पसंद है।",
+    "english": "I like tea."
+  },
+  {
+    "targetText": "मुझे चाय पसंद नहीं है।",
+    "english": "I don't like tea."
+  },
+  {
+    "targetText": "मैं चाय ढूँढ रहा हूँ।",
+    "english": "I am looking for tea."
+  },
+  {
+    "targetText": "यह चाय बहुत अच्छा है।",
+    "english": "This is a very good tea."
+  },
+  {
+    "targetText": "क्या यह चाय है?",
+    "english": "Is this tea?"
+  },
+  {
+    "targetText": "मुझे कॉफ़ी चाहिए।",
+    "english": "I need coffee."
+  },
+  {
+    "targetText": "कृपया मुझे कॉफ़ी दीजिए।",
+    "english": "Please give me coffee."
+  },
+  {
+    "targetText": "कॉफ़ी कहाँ है?",
+    "english": "Where is the coffee?"
+  },
+  {
+    "targetText": "यह मेरा कॉफ़ी है।",
+    "english": "This is my coffee."
+  },
+  {
+    "targetText": "क्या आपके पास कॉफ़ी है?",
+    "english": "Do you have coffee?"
+  },
+  {
+    "targetText": "मुझे कॉफ़ी पसंद है।",
+    "english": "I like coffee."
+  },
+  {
+    "targetText": "मुझे कॉफ़ी पसंद नहीं है।",
+    "english": "I don't like coffee."
+  },
+  {
+    "targetText": "मैं कॉफ़ी ढूँढ रहा हूँ।",
+    "english": "I am looking for coffee."
+  },
+  {
+    "targetText": "यह कॉफ़ी बहुत अच्छा है।",
+    "english": "This is a very good coffee."
+  },
+  {
+    "targetText": "क्या यह कॉफ़ी है?",
+    "english": "Is this coffee?"
+  },
+  {
+    "targetText": "मुझे दूध चाहिए।",
+    "english": "I need milk."
+  },
+  {
+    "targetText": "कृपया मुझे दूध दीजिए।",
+    "english": "Please give me milk."
+  },
+  {
+    "targetText": "दूध कहाँ है?",
+    "english": "Where is the milk?"
+  },
+  {
+    "targetText": "यह मेरा दूध है।",
+    "english": "This is my milk."
+  },
+  {
+    "targetText": "क्या आपके पास दूध है?",
+    "english": "Do you have milk?"
+  },
+  {
+    "targetText": "मुझे दूध पसंद है।",
+    "english": "I like milk."
+  },
+  {
+    "targetText": "मुझे दूध पसंद नहीं है।",
+    "english": "I don't like milk."
+  },
+  {
+    "targetText": "मैं दूध ढूँढ रहा हूँ।",
+    "english": "I am looking for milk."
+  },
+  {
+    "targetText": "यह दूध बहुत अच्छा है।",
+    "english": "This is a very good milk."
+  },
+  {
+    "targetText": "क्या यह दूध है?",
+    "english": "Is this milk?"
+  },
+  {
+    "targetText": "मुझे रोटी चाहिए।",
+    "english": "I need bread."
+  },
+  {
+    "targetText": "कृपया मुझे रोटी दीजिए।",
+    "english": "Please give me bread."
+  },
+  {
+    "targetText": "रोटी कहाँ है?",
+    "english": "Where is the bread?"
+  },
+  {
+    "targetText": "यह मेरा रोटी है।",
+    "english": "This is my bread."
+  },
+  {
+    "targetText": "क्या आपके पास रोटी है?",
+    "english": "Do you have bread?"
+  },
+  {
+    "targetText": "मुझे रोटी पसंद है।",
+    "english": "I like bread."
+  },
+  {
+    "targetText": "मुझे रोटी पसंद नहीं है।",
+    "english": "I don't like bread."
+  },
+  {
+    "targetText": "मैं रोटी ढूँढ रहा हूँ।",
+    "english": "I am looking for bread."
+  },
+  {
+    "targetText": "यह रोटी बहुत अच्छा है।",
+    "english": "This is a very good bread."
+  },
+  {
+    "targetText": "क्या यह रोटी है?",
+    "english": "Is this bread?"
+  },
+  {
+    "targetText": "मुझे चावल चाहिए।",
+    "english": "I need rice."
+  },
+  {
+    "targetText": "कृपया मुझे चावल दीजिए।",
+    "english": "Please give me rice."
+  },
+  {
+    "targetText": "चावल कहाँ है?",
+    "english": "Where is the rice?"
+  },
+  {
+    "targetText": "यह मेरा चावल है।",
+    "english": "This is my rice."
+  },
+  {
+    "targetText": "क्या आपके पास चावल है?",
+    "english": "Do you have rice?"
+  },
+  {
+    "targetText": "मुझे चावल पसंद है।",
+    "english": "I like rice."
+  },
+  {
+    "targetText": "मुझे चावल पसंद नहीं है।",
+    "english": "I don't like rice."
+  },
+  {
+    "targetText": "मैं चावल ढूँढ रहा हूँ।",
+    "english": "I am looking for rice."
+  },
+  {
+    "targetText": "यह चावल बहुत अच्छा है।",
+    "english": "This is a very good rice."
+  },
+  {
+    "targetText": "क्या यह चावल है?",
+    "english": "Is this rice?"
+  },
+  {
+    "targetText": "मुझे नमक चाहिए।",
+    "english": "I need salt."
+  },
+  {
+    "targetText": "कृपया मुझे नमक दीजिए।",
+    "english": "Please give me salt."
+  },
+  {
+    "targetText": "नमक कहाँ है?",
+    "english": "Where is the salt?"
+  },
+  {
+    "targetText": "यह मेरा नमक है।",
+    "english": "This is my salt."
+  },
+  {
+    "targetText": "क्या आपके पास नमक है?",
+    "english": "Do you have salt?"
+  },
+  {
+    "targetText": "मुझे नमक पसंद है।",
+    "english": "I like salt."
+  },
+  {
+    "targetText": "मुझे नमक पसंद नहीं है।",
+    "english": "I don't like salt."
+  },
+  {
+    "targetText": "मैं नमक ढूँढ रहा हूँ।",
+    "english": "I am looking for salt."
+  },
+  {
+    "targetText": "यह नमक बहुत अच्छा है।",
+    "english": "This is a very good salt."
+  },
+  {
+    "targetText": "क्या यह नमक है?",
+    "english": "Is this salt?"
+  },
+  {
+    "targetText": "मुझे चीनी चाहिए।",
+    "english": "I need sugar."
+  },
+  {
+    "targetText": "कृपया मुझे चीनी दीजिए।",
+    "english": "Please give me sugar."
+  },
+  {
+    "targetText": "चीनी कहाँ है?",
+    "english": "Where is the sugar?"
+  },
+  {
+    "targetText": "यह मेरा चीनी है।",
+    "english": "This is my sugar."
+  },
+  {
+    "targetText": "क्या आपके पास चीनी है?",
+    "english": "Do you have sugar?"
+  },
+  {
+    "targetText": "मुझे चीनी पसंद है।",
+    "english": "I like sugar."
+  },
+  {
+    "targetText": "मुझे चीनी पसंद नहीं है।",
+    "english": "I don't like sugar."
+  },
+  {
+    "targetText": "मैं चीनी ढूँढ रहा हूँ।",
+    "english": "I am looking for sugar."
+  },
+  {
+    "targetText": "यह चीनी बहुत अच्छा है।",
+    "english": "This is a very good sugar."
+  },
+  {
+    "targetText": "क्या यह चीनी है?",
+    "english": "Is this sugar?"
+  },
+  {
+    "targetText": "मुझे फल चाहिए।",
+    "english": "I need fruit."
+  },
+  {
+    "targetText": "कृपया मुझे फल दीजिए।",
+    "english": "Please give me fruit."
+  },
+  {
+    "targetText": "फल कहाँ है?",
+    "english": "Where is the fruit?"
+  },
+  {
+    "targetText": "यह मेरा फल है।",
+    "english": "This is my fruit."
+  },
+  {
+    "targetText": "क्या आपके पास फल है?",
+    "english": "Do you have fruit?"
+  },
+  {
+    "targetText": "मुझे फल पसंद है।",
+    "english": "I like fruit."
+  },
+  {
+    "targetText": "मुझे फल पसंद नहीं है।",
+    "english": "I don't like fruit."
+  },
+  {
+    "targetText": "मैं फल ढूँढ रहा हूँ।",
+    "english": "I am looking for fruit."
+  },
+  {
+    "targetText": "यह फल बहुत अच्छा है।",
+    "english": "This is a very good fruit."
+  },
+  {
+    "targetText": "क्या यह फल है?",
+    "english": "Is this fruit?"
+  },
+  {
+    "targetText": "मुझे सब्ज़ी चाहिए।",
+    "english": "I need vegetables."
+  },
+  {
+    "targetText": "कृपया मुझे सब्ज़ी दीजिए।",
+    "english": "Please give me vegetables."
+  },
+  {
+    "targetText": "सब्ज़ी कहाँ है?",
+    "english": "Where is the vegetables?"
+  },
+  {
+    "targetText": "यह मेरा सब्ज़ी है।",
+    "english": "This is my vegetables."
+  },
+  {
+    "targetText": "क्या आपके पास सब्ज़ी है?",
+    "english": "Do you have vegetables?"
+  },
+  {
+    "targetText": "मुझे सब्ज़ी पसंद है।",
+    "english": "I like vegetables."
+  },
+  {
+    "targetText": "मुझे सब्ज़ी पसंद नहीं है।",
+    "english": "I don't like vegetables."
+  },
+  {
+    "targetText": "मैं सब्ज़ी ढूँढ रहा हूँ।",
+    "english": "I am looking for vegetables."
+  },
+  {
+    "targetText": "यह सब्ज़ी बहुत अच्छा है।",
+    "english": "This is a very good vegetables."
+  },
+  {
+    "targetText": "क्या यह सब्ज़ी है?",
+    "english": "Is this vegetables?"
+  },
+  {
+    "targetText": "मुझे केला चाहिए।",
+    "english": "I need banana."
+  },
+  {
+    "targetText": "कृपया मुझे केला दीजिए।",
+    "english": "Please give me banana."
+  },
+  {
+    "targetText": "केला कहाँ है?",
+    "english": "Where is the banana?"
+  },
+  {
+    "targetText": "यह मेरा केला है।",
+    "english": "This is my banana."
+  },
+  {
+    "targetText": "क्या आपके पास केला है?",
+    "english": "Do you have banana?"
+  },
+  {
+    "targetText": "मुझे केला पसंद है।",
+    "english": "I like banana."
+  },
+  {
+    "targetText": "मुझे केला पसंद नहीं है।",
+    "english": "I don't like banana."
+  },
+  {
+    "targetText": "मैं केला ढूँढ रहा हूँ।",
+    "english": "I am looking for banana."
+  },
+  {
+    "targetText": "यह केला बहुत अच्छा है।",
+    "english": "This is a very good banana."
+  },
+  {
+    "targetText": "क्या यह केला है?",
+    "english": "Is this banana?"
+  },
+  {
+    "targetText": "मुझे सेब चाहिए।",
+    "english": "I need apple."
+  },
+  {
+    "targetText": "कृपया मुझे सेब दीजिए।",
+    "english": "Please give me apple."
+  },
+  {
+    "targetText": "सेब कहाँ है?",
+    "english": "Where is the apple?"
+  },
+  {
+    "targetText": "यह मेरा सेब है।",
+    "english": "This is my apple."
+  },
+  {
+    "targetText": "क्या आपके पास सेब है?",
+    "english": "Do you have apple?"
+  },
+  {
+    "targetText": "मुझे सेब पसंद है।",
+    "english": "I like apple."
+  },
+  {
+    "targetText": "मुझे सेब पसंद नहीं है।",
+    "english": "I don't like apple."
+  },
+  {
+    "targetText": "मैं सेब ढूँढ रहा हूँ।",
+    "english": "I am looking for apple."
+  },
+  {
+    "targetText": "यह सेब बहुत अच्छा है।",
+    "english": "This is a very good apple."
+  },
+  {
+    "targetText": "क्या यह सेब है?",
+    "english": "Is this apple?"
+  },
+  {
+    "targetText": "मुझे आम चाहिए।",
+    "english": "I need mango."
+  },
+  {
+    "targetText": "कृपया मुझे आम दीजिए।",
+    "english": "Please give me mango."
+  },
+  {
+    "targetText": "आम कहाँ है?",
+    "english": "Where is the mango?"
+  },
+  {
+    "targetText": "यह मेरा आम है।",
+    "english": "This is my mango."
+  },
+  {
+    "targetText": "क्या आपके पास आम है?",
+    "english": "Do you have mango?"
+  },
+  {
+    "targetText": "मुझे आम पसंद है।",
+    "english": "I like mango."
+  },
+  {
+    "targetText": "मुझे आम पसंद नहीं है।",
+    "english": "I don't like mango."
+  },
+  {
+    "targetText": "मैं आम ढूँढ रहा हूँ।",
+    "english": "I am looking for mango."
+  },
+  {
+    "targetText": "यह आम बहुत अच्छा है।",
+    "english": "This is a very good mango."
+  },
+  {
+    "targetText": "क्या यह आम है?",
+    "english": "Is this mango?"
+  },
+  {
+    "targetText": "मुझे संतरा चाहिए।",
+    "english": "I need orange."
+  },
+  {
+    "targetText": "कृपया मुझे संतरा दीजिए।",
+    "english": "Please give me orange."
+  },
+  {
+    "targetText": "संतरा कहाँ है?",
+    "english": "Where is the orange?"
+  },
+  {
+    "targetText": "यह मेरा संतरा है।",
+    "english": "This is my orange."
+  },
+  {
+    "targetText": "क्या आपके पास संतरा है?",
+    "english": "Do you have orange?"
+  },
+  {
+    "targetText": "मुझे संतरा पसंद है।",
+    "english": "I like orange."
+  },
+  {
+    "targetText": "मुझे संतरा पसंद नहीं है।",
+    "english": "I don't like orange."
+  },
+  {
+    "targetText": "मैं संतरा ढूँढ रहा हूँ।",
+    "english": "I am looking for orange."
+  },
+  {
+    "targetText": "यह संतरा बहुत अच्छा है।",
+    "english": "This is a very good orange."
+  },
+  {
+    "targetText": "क्या यह संतरा है?",
+    "english": "Is this orange?"
+  },
+  {
+    "targetText": "मुझे अंडा चाहिए।",
+    "english": "I need egg."
+  },
+  {
+    "targetText": "कृपया मुझे अंडा दीजिए।",
+    "english": "Please give me egg."
+  },
+  {
+    "targetText": "अंडा कहाँ है?",
+    "english": "Where is the egg?"
+  },
+  {
+    "targetText": "यह मेरा अंडा है।",
+    "english": "This is my egg."
+  },
+  {
+    "targetText": "क्या आपके पास अंडा है?",
+    "english": "Do you have egg?"
+  },
+  {
+    "targetText": "मुझे अंडा पसंद है।",
+    "english": "I like egg."
+  },
+  {
+    "targetText": "मुझे अंडा पसंद नहीं है।",
+    "english": "I don't like egg."
+  },
+  {
+    "targetText": "मैं अंडा ढूँढ रहा हूँ।",
+    "english": "I am looking for egg."
+  },
+  {
+    "targetText": "यह अंडा बहुत अच्छा है।",
+    "english": "This is a very good egg."
+  },
+  {
+    "targetText": "क्या यह अंडा है?",
+    "english": "Is this egg?"
+  },
+  {
+    "targetText": "मुझे मछली चाहिए।",
+    "english": "I need fish."
+  },
+  {
+    "targetText": "कृपया मुझे मछली दीजिए।",
+    "english": "Please give me fish."
+  },
+  {
+    "targetText": "मछली कहाँ है?",
+    "english": "Where is the fish?"
+  },
+  {
+    "targetText": "यह मेरा मछली है।",
+    "english": "This is my fish."
+  },
+  {
+    "targetText": "क्या आपके पास मछली है?",
+    "english": "Do you have fish?"
+  },
+  {
+    "targetText": "मुझे मछली पसंद है।",
+    "english": "I like fish."
+  },
+  {
+    "targetText": "मुझे मछली पसंद नहीं है।",
+    "english": "I don't like fish."
+  },
+  {
+    "targetText": "मैं मछली ढूँढ रहा हूँ।",
+    "english": "I am looking for fish."
+  },
+  {
+    "targetText": "यह मछली बहुत अच्छा है।",
+    "english": "This is a very good fish."
+  },
+  {
+    "targetText": "क्या यह मछली है?",
+    "english": "Is this fish?"
+  },
+  {
+    "targetText": "मुझे चिकन चाहिए।",
+    "english": "I need chicken."
+  },
+  {
+    "targetText": "कृपया मुझे चिकन दीजिए।",
+    "english": "Please give me chicken."
+  },
+  {
+    "targetText": "चिकन कहाँ है?",
+    "english": "Where is the chicken?"
+  },
+  {
+    "targetText": "यह मेरा चिकन है।",
+    "english": "This is my chicken."
+  },
+  {
+    "targetText": "क्या आपके पास चिकन है?",
+    "english": "Do you have chicken?"
+  },
+  {
+    "targetText": "मुझे चिकन पसंद है।",
+    "english": "I like chicken."
+  },
+  {
+    "targetText": "मुझे चिकन पसंद नहीं है।",
+    "english": "I don't like chicken."
+  },
+  {
+    "targetText": "मैं चिकन ढूँढ रहा हूँ।",
+    "english": "I am looking for chicken."
+  },
+  {
+    "targetText": "यह चिकन बहुत अच्छा है।",
+    "english": "This is a very good chicken."
+  },
+  {
+    "targetText": "क्या यह चिकन है?",
+    "english": "Is this chicken?"
+  },
+  {
+    "targetText": "मुझे नाश्ता चाहिए।",
+    "english": "I need breakfast."
+  },
+  {
+    "targetText": "कृपया मुझे नाश्ता दीजिए।",
+    "english": "Please give me breakfast."
+  },
+  {
+    "targetText": "नाश्ता कहाँ है?",
+    "english": "Where is the breakfast?"
+  },
+  {
+    "targetText": "यह मेरा नाश्ता है।",
+    "english": "This is my breakfast."
+  },
+  {
+    "targetText": "क्या आपके पास नाश्ता है?",
+    "english": "Do you have breakfast?"
+  },
+  {
+    "targetText": "मुझे नाश्ता पसंद है।",
+    "english": "I like breakfast."
+  },
+  {
+    "targetText": "मुझे नाश्ता पसंद नहीं है।",
+    "english": "I don't like breakfast."
+  },
+  {
+    "targetText": "मैं नाश्ता ढूँढ रहा हूँ।",
+    "english": "I am looking for breakfast."
+  },
+  {
+    "targetText": "यह नाश्ता बहुत अच्छा है।",
+    "english": "This is a very good breakfast."
+  },
+  {
+    "targetText": "क्या यह नाश्ता है?",
+    "english": "Is this breakfast?"
+  },
+  {
+    "targetText": "मुझे दोपहर का खाना चाहिए।",
+    "english": "I need lunch."
+  },
+  {
+    "targetText": "कृपया मुझे दोपहर का खाना दीजिए।",
+    "english": "Please give me lunch."
+  },
+  {
+    "targetText": "दोपहर का खाना कहाँ है?",
+    "english": "Where is the lunch?"
+  },
+  {
+    "targetText": "यह मेरा दोपहर का खाना है।",
+    "english": "This is my lunch."
+  },
+  {
+    "targetText": "क्या आपके पास दोपहर का खाना है?",
+    "english": "Do you have lunch?"
+  },
+  {
+    "targetText": "मुझे दोपहर का खाना पसंद है।",
+    "english": "I like lunch."
+  },
+  {
+    "targetText": "मुझे दोपहर का खाना पसंद नहीं है।",
+    "english": "I don't like lunch."
+  },
+  {
+    "targetText": "मैं दोपहर का खाना ढूँढ रहा हूँ।",
+    "english": "I am looking for lunch."
+  },
+  {
+    "targetText": "यह दोपहर का खाना बहुत अच्छा है।",
+    "english": "This is a very good lunch."
+  },
+  {
+    "targetText": "क्या यह दोपहर का खाना है?",
+    "english": "Is this lunch?"
+  },
+  {
+    "targetText": "मुझे रात का खाना चाहिए।",
+    "english": "I need dinner."
+  },
+  {
+    "targetText": "कृपया मुझे रात का खाना दीजिए।",
+    "english": "Please give me dinner."
+  },
+  {
+    "targetText": "रात का खाना कहाँ है?",
+    "english": "Where is the dinner?"
+  },
+  {
+    "targetText": "यह मेरा रात का खाना है।",
+    "english": "This is my dinner."
+  },
+  {
+    "targetText": "क्या आपके पास रात का खाना है?",
+    "english": "Do you have dinner?"
+  },
+  {
+    "targetText": "मुझे रात का खाना पसंद है।",
+    "english": "I like dinner."
+  },
+  {
+    "targetText": "मुझे रात का खाना पसंद नहीं है।",
+    "english": "I don't like dinner."
+  },
+  {
+    "targetText": "मैं रात का खाना ढूँढ रहा हूँ।",
+    "english": "I am looking for dinner."
+  },
+  {
+    "targetText": "यह रात का खाना बहुत अच्छा है।",
+    "english": "This is a very good dinner."
+  },
+  {
+    "targetText": "क्या यह रात का खाना है?",
+    "english": "Is this dinner?"
+  },
+  {
+    "targetText": "मुझे किताब चाहिए।",
+    "english": "I need book."
+  },
+  {
+    "targetText": "कृपया मुझे किताब दीजिए।",
+    "english": "Please give me book."
+  },
+  {
+    "targetText": "किताब कहाँ है?",
+    "english": "Where is the book?"
+  },
+  {
+    "targetText": "यह मेरा किताब है।",
+    "english": "This is my book."
+  },
+  {
+    "targetText": "क्या आपके पास किताब है?",
+    "english": "Do you have book?"
+  },
+  {
+    "targetText": "मुझे किताब पसंद है।",
+    "english": "I like book."
+  },
+  {
+    "targetText": "मुझे किताब पसंद नहीं है।",
+    "english": "I don't like book."
+  },
+  {
+    "targetText": "मैं किताब ढूँढ रहा हूँ।",
+    "english": "I am looking for book."
+  },
+  {
+    "targetText": "यह किताब बहुत अच्छा है।",
+    "english": "This is a very good book."
+  },
+  {
+    "targetText": "क्या यह किताब है?",
+    "english": "Is this book?"
+  },
+  {
+    "targetText": "मुझे कलम चाहिए।",
+    "english": "I need pen."
+  },
+  {
+    "targetText": "कृपया मुझे कलम दीजिए।",
+    "english": "Please give me pen."
+  },
+  {
+    "targetText": "कलम कहाँ है?",
+    "english": "Where is the pen?"
+  },
+  {
+    "targetText": "यह मेरा कलम है।",
+    "english": "This is my pen."
+  },
+  {
+    "targetText": "क्या आपके पास कलम है?",
+    "english": "Do you have pen?"
+  },
+  {
+    "targetText": "मुझे कलम पसंद है।",
+    "english": "I like pen."
+  },
+  {
+    "targetText": "मुझे कलम पसंद नहीं है।",
+    "english": "I don't like pen."
+  },
+  {
+    "targetText": "मैं कलम ढूँढ रहा हूँ।",
+    "english": "I am looking for pen."
+  },
+  {
+    "targetText": "यह कलम बहुत अच्छा है।",
+    "english": "This is a very good pen."
+  },
+  {
+    "targetText": "क्या यह कलम है?",
+    "english": "Is this pen?"
+  },
+  {
+    "targetText": "मुझे पेंसिल चाहिए।",
+    "english": "I need pencil."
+  },
+  {
+    "targetText": "कृपया मुझे पेंसिल दीजिए।",
+    "english": "Please give me pencil."
+  },
+  {
+    "targetText": "पेंसिल कहाँ है?",
+    "english": "Where is the pencil?"
+  },
+  {
+    "targetText": "यह मेरा पेंसिल है।",
+    "english": "This is my pencil."
+  },
+  {
+    "targetText": "क्या आपके पास पेंसिल है?",
+    "english": "Do you have pencil?"
+  },
+  {
+    "targetText": "मुझे पेंसिल पसंद है।",
+    "english": "I like pencil."
+  },
+  {
+    "targetText": "मुझे पेंसिल पसंद नहीं है।",
+    "english": "I don't like pencil."
+  },
+  {
+    "targetText": "मैं पेंसिल ढूँढ रहा हूँ।",
+    "english": "I am looking for pencil."
+  },
+  {
+    "targetText": "यह पेंसिल बहुत अच्छा है।",
+    "english": "This is a very good pencil."
+  },
+  {
+    "targetText": "क्या यह पेंसिल है?",
+    "english": "Is this pencil?"
+  },
+  {
+    "targetText": "मुझे कॉपी चाहिए।",
+    "english": "I need notebook."
+  },
+  {
+    "targetText": "कृपया मुझे कॉपी दीजिए।",
+    "english": "Please give me notebook."
+  },
+  {
+    "targetText": "कॉपी कहाँ है?",
+    "english": "Where is the notebook?"
+  },
+  {
+    "targetText": "यह मेरा कॉपी है।",
+    "english": "This is my notebook."
+  },
+  {
+    "targetText": "क्या आपके पास कॉपी है?",
+    "english": "Do you have notebook?"
+  },
+  {
+    "targetText": "मुझे कॉपी पसंद है।",
+    "english": "I like notebook."
+  },
+  {
+    "targetText": "मुझे कॉपी पसंद नहीं है।",
+    "english": "I don't like notebook."
+  },
+  {
+    "targetText": "मैं कॉपी ढूँढ रहा हूँ।",
+    "english": "I am looking for notebook."
+  },
+  {
+    "targetText": "यह कॉपी बहुत अच्छा है।",
+    "english": "This is a very good notebook."
+  },
+  {
+    "targetText": "क्या यह कॉपी है?",
+    "english": "Is this notebook?"
+  },
+  {
+    "targetText": "मुझे कागज़ चाहिए।",
+    "english": "I need paper."
+  },
+  {
+    "targetText": "कृपया मुझे कागज़ दीजिए।",
+    "english": "Please give me paper."
+  },
+  {
+    "targetText": "कागज़ कहाँ है?",
+    "english": "Where is the paper?"
+  },
+  {
+    "targetText": "यह मेरा कागज़ है।",
+    "english": "This is my paper."
+  },
+  {
+    "targetText": "क्या आपके पास कागज़ है?",
+    "english": "Do you have paper?"
+  },
+  {
+    "targetText": "मुझे कागज़ पसंद है।",
+    "english": "I like paper."
+  },
+  {
+    "targetText": "मुझे कागज़ पसंद नहीं है।",
+    "english": "I don't like paper."
+  },
+  {
+    "targetText": "मैं कागज़ ढूँढ रहा हूँ।",
+    "english": "I am looking for paper."
+  },
+  {
+    "targetText": "यह कागज़ बहुत अच्छा है।",
+    "english": "This is a very good paper."
+  },
+  {
+    "targetText": "क्या यह कागज़ है?",
+    "english": "Is this paper?"
+  },
+  {
+    "targetText": "मुझे बैग चाहिए।",
+    "english": "I need bag."
+  },
+  {
+    "targetText": "कृपया मुझे बैग दीजिए।",
+    "english": "Please give me bag."
+  },
+  {
+    "targetText": "बैग कहाँ है?",
+    "english": "Where is the bag?"
+  },
+  {
+    "targetText": "यह मेरा बैग है।",
+    "english": "This is my bag."
+  },
+  {
+    "targetText": "क्या आपके पास बैग है?",
+    "english": "Do you have bag?"
+  },
+  {
+    "targetText": "मुझे बैग पसंद है।",
+    "english": "I like bag."
+  },
+  {
+    "targetText": "मुझे बैग पसंद नहीं है।",
+    "english": "I don't like bag."
+  },
+  {
+    "targetText": "मैं बैग ढूँढ रहा हूँ।",
+    "english": "I am looking for bag."
+  },
+  {
+    "targetText": "यह बैग बहुत अच्छा है।",
+    "english": "This is a very good bag."
+  },
+  {
+    "targetText": "क्या यह बैग है?",
+    "english": "Is this bag?"
+  },
+  {
+    "targetText": "मुझे स्कूल चाहिए।",
+    "english": "I need school."
+  },
+  {
+    "targetText": "कृपया मुझे स्कूल दीजिए।",
+    "english": "Please give me school."
+  },
+  {
+    "targetText": "स्कूल कहाँ है?",
+    "english": "Where is the school?"
+  },
+  {
+    "targetText": "यह मेरा स्कूल है।",
+    "english": "This is my school."
+  },
+  {
+    "targetText": "क्या आपके पास स्कूल है?",
+    "english": "Do you have school?"
+  },
+  {
+    "targetText": "मुझे स्कूल पसंद है।",
+    "english": "I like school."
+  },
+  {
+    "targetText": "मुझे स्कूल पसंद नहीं है।",
+    "english": "I don't like school."
+  },
+  {
+    "targetText": "मैं स्कूल ढूँढ रहा हूँ।",
+    "english": "I am looking for school."
+  },
+  {
+    "targetText": "यह स्कूल बहुत अच्छा है।",
+    "english": "This is a very good school."
+  },
+  {
+    "targetText": "क्या यह स्कूल है?",
+    "english": "Is this school?"
+  },
+  {
+    "targetText": "मुझे कक्षा चाहिए।",
+    "english": "I need class."
+  },
+  {
+    "targetText": "कृपया मुझे कक्षा दीजिए।",
+    "english": "Please give me class."
+  },
+  {
+    "targetText": "कक्षा कहाँ है?",
+    "english": "Where is the class?"
+  },
+  {
+    "targetText": "यह मेरा कक्षा है।",
+    "english": "This is my class."
+  },
+  {
+    "targetText": "क्या आपके पास कक्षा है?",
+    "english": "Do you have class?"
+  },
+  {
+    "targetText": "मुझे कक्षा पसंद है।",
+    "english": "I like class."
+  },
+  {
+    "targetText": "मुझे कक्षा पसंद नहीं है।",
+    "english": "I don't like class."
+  },
+  {
+    "targetText": "मैं कक्षा ढूँढ रहा हूँ।",
+    "english": "I am looking for class."
+  },
+  {
+    "targetText": "यह कक्षा बहुत अच्छा है।",
+    "english": "This is a very good class."
+  },
+  {
+    "targetText": "क्या यह कक्षा है?",
+    "english": "Is this class?"
+  },
+  {
+    "targetText": "मुझे शिक्षक चाहिए।",
+    "english": "I need teacher."
+  },
+  {
+    "targetText": "कृपया मुझे शिक्षक दीजिए।",
+    "english": "Please give me teacher."
+  },
+  {
+    "targetText": "शिक्षक कहाँ है?",
+    "english": "Where is the teacher?"
+  },
+  {
+    "targetText": "यह मेरा शिक्षक है।",
+    "english": "This is my teacher."
+  },
+  {
+    "targetText": "क्या आपके पास शिक्षक है?",
+    "english": "Do you have teacher?"
+  },
+  {
+    "targetText": "मुझे शिक्षक पसंद है।",
+    "english": "I like teacher."
+  },
+  {
+    "targetText": "मुझे शिक्षक पसंद नहीं है।",
+    "english": "I don't like teacher."
+  },
+  {
+    "targetText": "मैं शिक्षक ढूँढ रहा हूँ।",
+    "english": "I am looking for teacher."
+  },
+  {
+    "targetText": "यह शिक्षक बहुत अच्छा है।",
+    "english": "This is a very good teacher."
+  },
+  {
+    "targetText": "क्या यह शिक्षक है?",
+    "english": "Is this teacher?"
+  },
+  {
+    "targetText": "मुझे छात्र चाहिए।",
+    "english": "I need student."
+  },
+  {
+    "targetText": "कृपया मुझे छात्र दीजिए।",
+    "english": "Please give me student."
+  },
+  {
+    "targetText": "छात्र कहाँ है?",
+    "english": "Where is the student?"
+  },
+  {
+    "targetText": "यह मेरा छात्र है।",
+    "english": "This is my student."
+  },
+  {
+    "targetText": "क्या आपके पास छात्र है?",
+    "english": "Do you have student?"
+  },
+  {
+    "targetText": "मुझे छात्र पसंद है।",
+    "english": "I like student."
+  },
+  {
+    "targetText": "मुझे छात्र पसंद नहीं है।",
+    "english": "I don't like student."
+  },
+  {
+    "targetText": "मैं छात्र ढूँढ रहा हूँ।",
+    "english": "I am looking for student."
+  },
+  {
+    "targetText": "यह छात्र बहुत अच्छा है।",
+    "english": "This is a very good student."
+  },
+  {
+    "targetText": "क्या यह छात्र है?",
+    "english": "Is this student?"
+  },
+  {
+    "targetText": "मुझे गृहकार्य चाहिए।",
+    "english": "I need homework."
+  },
+  {
+    "targetText": "कृपया मुझे गृहकार्य दीजिए।",
+    "english": "Please give me homework."
+  },
+  {
+    "targetText": "गृहकार्य कहाँ है?",
+    "english": "Where is the homework?"
+  },
+  {
+    "targetText": "यह मेरा गृहकार्य है।",
+    "english": "This is my homework."
+  },
+  {
+    "targetText": "क्या आपके पास गृहकार्य है?",
+    "english": "Do you have homework?"
+  },
+  {
+    "targetText": "मुझे गृहकार्य पसंद है।",
+    "english": "I like homework."
+  },
+  {
+    "targetText": "मुझे गृहकार्य पसंद नहीं है।",
+    "english": "I don't like homework."
+  },
+  {
+    "targetText": "मैं गृहकार्य ढूँढ रहा हूँ।",
+    "english": "I am looking for homework."
+  },
+  {
+    "targetText": "यह गृहकार्य बहुत अच्छा है।",
+    "english": "This is a very good homework."
+  },
+  {
+    "targetText": "क्या यह गृहकार्य है?",
+    "english": "Is this homework?"
+  },
+  {
+    "targetText": "मुझे परीक्षा चाहिए।",
+    "english": "I need exam."
+  },
+  {
+    "targetText": "कृपया मुझे परीक्षा दीजिए।",
+    "english": "Please give me exam."
+  },
+  {
+    "targetText": "परीक्षा कहाँ है?",
+    "english": "Where is the exam?"
+  },
+  {
+    "targetText": "यह मेरा परीक्षा है।",
+    "english": "This is my exam."
+  },
+  {
+    "targetText": "क्या आपके पास परीक्षा है?",
+    "english": "Do you have exam?"
+  },
+  {
+    "targetText": "मुझे परीक्षा पसंद है।",
+    "english": "I like exam."
+  },
+  {
+    "targetText": "मुझे परीक्षा पसंद नहीं है।",
+    "english": "I don't like exam."
+  },
+  {
+    "targetText": "मैं परीक्षा ढूँढ रहा हूँ।",
+    "english": "I am looking for exam."
+  },
+  {
+    "targetText": "यह परीक्षा बहुत अच्छा है।",
+    "english": "This is a very good exam."
+  },
+  {
+    "targetText": "क्या यह परीक्षा है?",
+    "english": "Is this exam?"
+  },
+  {
+    "targetText": "मुझे प्रश्न चाहिए।",
+    "english": "I need question."
+  },
+  {
+    "targetText": "कृपया मुझे प्रश्न दीजिए।",
+    "english": "Please give me question."
+  },
+  {
+    "targetText": "प्रश्न कहाँ है?",
+    "english": "Where is the question?"
+  },
+  {
+    "targetText": "यह मेरा प्रश्न है।",
+    "english": "This is my question."
+  },
+  {
+    "targetText": "क्या आपके पास प्रश्न है?",
+    "english": "Do you have question?"
+  },
+  {
+    "targetText": "मुझे प्रश्न पसंद है।",
+    "english": "I like question."
+  },
+  {
+    "targetText": "मुझे प्रश्न पसंद नहीं है।",
+    "english": "I don't like question."
+  },
+  {
+    "targetText": "मैं प्रश्न ढूँढ रहा हूँ।",
+    "english": "I am looking for question."
+  },
+  {
+    "targetText": "यह प्रश्न बहुत अच्छा है।",
+    "english": "This is a very good question."
+  },
+  {
+    "targetText": "क्या यह प्रश्न है?",
+    "english": "Is this question?"
+  },
+  {
+    "targetText": "मुझे उत्तर चाहिए।",
+    "english": "I need answer."
+  },
+  {
+    "targetText": "कृपया मुझे उत्तर दीजिए।",
+    "english": "Please give me answer."
+  },
+  {
+    "targetText": "उत्तर कहाँ है?",
+    "english": "Where is the answer?"
+  },
+  {
+    "targetText": "यह मेरा उत्तर है।",
+    "english": "This is my answer."
+  },
+  {
+    "targetText": "क्या आपके पास उत्तर है?",
+    "english": "Do you have answer?"
+  },
+  {
+    "targetText": "मुझे उत्तर पसंद है।",
+    "english": "I like answer."
+  },
+  {
+    "targetText": "मुझे उत्तर पसंद नहीं है।",
+    "english": "I don't like answer."
+  },
+  {
+    "targetText": "मैं उत्तर ढूँढ रहा हूँ।",
+    "english": "I am looking for answer."
+  },
+  {
+    "targetText": "यह उत्तर बहुत अच्छा है।",
+    "english": "This is a very good answer."
+  },
+  {
+    "targetText": "क्या यह उत्तर है?",
+    "english": "Is this answer?"
+  },
+  {
+    "targetText": "मुझे पाठ चाहिए।",
+    "english": "I need lesson."
+  },
+  {
+    "targetText": "कृपया मुझे पाठ दीजिए।",
+    "english": "Please give me lesson."
+  },
+  {
+    "targetText": "पाठ कहाँ है?",
+    "english": "Where is the lesson?"
+  },
+  {
+    "targetText": "यह मेरा पाठ है।",
+    "english": "This is my lesson."
+  },
+  {
+    "targetText": "क्या आपके पास पाठ है?",
+    "english": "Do you have lesson?"
+  },
+  {
+    "targetText": "मुझे पाठ पसंद है।",
+    "english": "I like lesson."
+  },
+  {
+    "targetText": "मुझे पाठ पसंद नहीं है।",
+    "english": "I don't like lesson."
+  },
+  {
+    "targetText": "मैं पाठ ढूँढ रहा हूँ।",
+    "english": "I am looking for lesson."
+  },
+  {
+    "targetText": "यह पाठ बहुत अच्छा है।",
+    "english": "This is a very good lesson."
+  },
+  {
+    "targetText": "क्या यह पाठ है?",
+    "english": "Is this lesson?"
+  },
+  {
+    "targetText": "मुझे अभ्यास चाहिए।",
+    "english": "I need practice."
+  },
+  {
+    "targetText": "कृपया मुझे अभ्यास दीजिए।",
+    "english": "Please give me practice."
+  },
+  {
+    "targetText": "अभ्यास कहाँ है?",
+    "english": "Where is the practice?"
+  },
+  {
+    "targetText": "यह मेरा अभ्यास है।",
+    "english": "This is my practice."
+  },
+  {
+    "targetText": "क्या आपके पास अभ्यास है?",
+    "english": "Do you have practice?"
+  },
+  {
+    "targetText": "मुझे अभ्यास पसंद है।",
+    "english": "I like practice."
+  },
+  {
+    "targetText": "मुझे अभ्यास पसंद नहीं है।",
+    "english": "I don't like practice."
+  },
+  {
+    "targetText": "मैं अभ्यास ढूँढ रहा हूँ।",
+    "english": "I am looking for practice."
+  },
+  {
+    "targetText": "यह अभ्यास बहुत अच्छा है।",
+    "english": "This is a very good practice."
+  },
+  {
+    "targetText": "क्या यह अभ्यास है?",
+    "english": "Is this practice?"
+  },
+  {
+    "targetText": "मुझे उच्चारण चाहिए।",
+    "english": "I need pronunciation."
+  },
+  {
+    "targetText": "कृपया मुझे उच्चारण दीजिए।",
+    "english": "Please give me pronunciation."
+  },
+  {
+    "targetText": "उच्चारण कहाँ है?",
+    "english": "Where is the pronunciation?"
+  },
+  {
+    "targetText": "यह मेरा उच्चारण है।",
+    "english": "This is my pronunciation."
+  },
+  {
+    "targetText": "क्या आपके पास उच्चारण है?",
+    "english": "Do you have pronunciation?"
+  },
+  {
+    "targetText": "मुझे उच्चारण पसंद है।",
+    "english": "I like pronunciation."
+  },
+  {
+    "targetText": "मुझे उच्चारण पसंद नहीं है।",
+    "english": "I don't like pronunciation."
+  },
+  {
+    "targetText": "मैं उच्चारण ढूँढ रहा हूँ।",
+    "english": "I am looking for pronunciation."
+  },
+  {
+    "targetText": "यह उच्चारण बहुत अच्छा है।",
+    "english": "This is a very good pronunciation."
+  },
+  {
+    "targetText": "क्या यह उच्चारण है?",
+    "english": "Is this pronunciation?"
+  },
+  {
+    "targetText": "मुझे घर चाहिए।",
+    "english": "I need house."
+  },
+  {
+    "targetText": "कृपया मुझे घर दीजिए।",
+    "english": "Please give me house."
+  },
+  {
+    "targetText": "घर कहाँ है?",
+    "english": "Where is the house?"
+  },
+  {
+    "targetText": "यह मेरा घर है।",
+    "english": "This is my house."
+  },
+  {
+    "targetText": "क्या आपके पास घर है?",
+    "english": "Do you have house?"
+  },
+  {
+    "targetText": "मुझे घर पसंद है।",
+    "english": "I like house."
+  },
+  {
+    "targetText": "मुझे घर पसंद नहीं है।",
+    "english": "I don't like house."
+  },
+  {
+    "targetText": "मैं घर ढूँढ रहा हूँ।",
+    "english": "I am looking for house."
+  },
+  {
+    "targetText": "यह घर बहुत अच्छा है।",
+    "english": "This is a very good house."
+  },
+  {
+    "targetText": "क्या यह घर है?",
+    "english": "Is this house?"
+  },
+  {
+    "targetText": "मुझे कमरा चाहिए।",
+    "english": "I need room."
+  },
+  {
+    "targetText": "कृपया मुझे कमरा दीजिए।",
+    "english": "Please give me room."
+  },
+  {
+    "targetText": "कमरा कहाँ है?",
+    "english": "Where is the room?"
+  },
+  {
+    "targetText": "यह मेरा कमरा है।",
+    "english": "This is my room."
+  },
+  {
+    "targetText": "क्या आपके पास कमरा है?",
+    "english": "Do you have room?"
+  },
+  {
+    "targetText": "मुझे कमरा पसंद है।",
+    "english": "I like room."
+  },
+  {
+    "targetText": "मुझे कमरा पसंद नहीं है।",
+    "english": "I don't like room."
+  },
+  {
+    "targetText": "मैं कमरा ढूँढ रहा हूँ।",
+    "english": "I am looking for room."
+  },
+  {
+    "targetText": "यह कमरा बहुत अच्छा है।",
+    "english": "This is a very good room."
+  },
+  {
+    "targetText": "क्या यह कमरा है?",
+    "english": "Is this room?"
+  },
+  {
+    "targetText": "मुझे रसोई चाहिए।",
+    "english": "I need kitchen."
+  },
+  {
+    "targetText": "कृपया मुझे रसोई दीजिए।",
+    "english": "Please give me kitchen."
+  },
+  {
+    "targetText": "रसोई कहाँ है?",
+    "english": "Where is the kitchen?"
+  },
+  {
+    "targetText": "यह मेरा रसोई है।",
+    "english": "This is my kitchen."
+  },
+  {
+    "targetText": "क्या आपके पास रसोई है?",
+    "english": "Do you have kitchen?"
+  },
+  {
+    "targetText": "मुझे रसोई पसंद है।",
+    "english": "I like kitchen."
+  },
+  {
+    "targetText": "मुझे रसोई पसंद नहीं है।",
+    "english": "I don't like kitchen."
+  },
+  {
+    "targetText": "मैं रसोई ढूँढ रहा हूँ।",
+    "english": "I am looking for kitchen."
+  },
+  {
+    "targetText": "यह रसोई बहुत अच्छा है।",
+    "english": "This is a very good kitchen."
+  },
+  {
+    "targetText": "क्या यह रसोई है?",
+    "english": "Is this kitchen?"
+  },
+  {
+    "targetText": "मुझे बाथरूम चाहिए।",
+    "english": "I need bathroom."
+  },
+  {
+    "targetText": "कृपया मुझे बाथरूम दीजिए।",
+    "english": "Please give me bathroom."
+  },
+  {
+    "targetText": "बाथरूम कहाँ है?",
+    "english": "Where is the bathroom?"
+  },
+  {
+    "targetText": "यह मेरा बाथरूम है।",
+    "english": "This is my bathroom."
+  },
+  {
+    "targetText": "क्या आपके पास बाथरूम है?",
+    "english": "Do you have bathroom?"
+  },
+  {
+    "targetText": "मुझे बाथरूम पसंद है।",
+    "english": "I like bathroom."
+  },
+  {
+    "targetText": "मुझे बाथरूम पसंद नहीं है।",
+    "english": "I don't like bathroom."
+  },
+  {
+    "targetText": "मैं बाथरूम ढूँढ रहा हूँ।",
+    "english": "I am looking for bathroom."
+  },
+  {
+    "targetText": "यह बाथरूम बहुत अच्छा है।",
+    "english": "This is a very good bathroom."
+  },
+  {
+    "targetText": "क्या यह बाथरूम है?",
+    "english": "Is this bathroom?"
+  },
+  {
+    "targetText": "मुझे बिस्तर चाहिए।",
+    "english": "I need bed."
+  },
+  {
+    "targetText": "कृपया मुझे बिस्तर दीजिए।",
+    "english": "Please give me bed."
+  },
+  {
+    "targetText": "बिस्तर कहाँ है?",
+    "english": "Where is the bed?"
+  },
+  {
+    "targetText": "यह मेरा बिस्तर है।",
+    "english": "This is my bed."
+  },
+  {
+    "targetText": "क्या आपके पास बिस्तर है?",
+    "english": "Do you have bed?"
+  },
+  {
+    "targetText": "मुझे बिस्तर पसंद है।",
+    "english": "I like bed."
+  },
+  {
+    "targetText": "मुझे बिस्तर पसंद नहीं है।",
+    "english": "I don't like bed."
+  },
+  {
+    "targetText": "मैं बिस्तर ढूँढ रहा हूँ।",
+    "english": "I am looking for bed."
+  },
+  {
+    "targetText": "यह बिस्तर बहुत अच्छा है।",
+    "english": "This is a very good bed."
+  },
+  {
+    "targetText": "क्या यह बिस्तर है?",
+    "english": "Is this bed?"
+  },
+  {
+    "targetText": "मुझे कुर्सी चाहिए।",
+    "english": "I need chair."
+  },
+  {
+    "targetText": "कृपया मुझे कुर्सी दीजिए।",
+    "english": "Please give me chair."
+  },
+  {
+    "targetText": "कुर्सी कहाँ है?",
+    "english": "Where is the chair?"
+  },
+  {
+    "targetText": "यह मेरा कुर्सी है।",
+    "english": "This is my chair."
+  },
+  {
+    "targetText": "क्या आपके पास कुर्सी है?",
+    "english": "Do you have chair?"
+  },
+  {
+    "targetText": "मुझे कुर्सी पसंद है।",
+    "english": "I like chair."
+  },
+  {
+    "targetText": "मुझे कुर्सी पसंद नहीं है।",
+    "english": "I don't like chair."
+  },
+  {
+    "targetText": "मैं कुर्सी ढूँढ रहा हूँ।",
+    "english": "I am looking for chair."
+  },
+  {
+    "targetText": "यह कुर्सी बहुत अच्छा है।",
+    "english": "This is a very good chair."
+  },
+  {
+    "targetText": "क्या यह कुर्सी है?",
+    "english": "Is this chair?"
+  },
+  {
+    "targetText": "मुझे मेज़ चाहिए।",
+    "english": "I need table."
+  },
+  {
+    "targetText": "कृपया मुझे मेज़ दीजिए।",
+    "english": "Please give me table."
+  },
+  {
+    "targetText": "मेज़ कहाँ है?",
+    "english": "Where is the table?"
+  },
+  {
+    "targetText": "यह मेरा मेज़ है।",
+    "english": "This is my table."
+  },
+  {
+    "targetText": "क्या आपके पास मेज़ है?",
+    "english": "Do you have table?"
+  },
+  {
+    "targetText": "मुझे मेज़ पसंद है।",
+    "english": "I like table."
+  },
+  {
+    "targetText": "मुझे मेज़ पसंद नहीं है।",
+    "english": "I don't like table."
+  },
+  {
+    "targetText": "मैं मेज़ ढूँढ रहा हूँ।",
+    "english": "I am looking for table."
+  },
+  {
+    "targetText": "यह मेज़ बहुत अच्छा है।",
+    "english": "This is a very good table."
+  },
+  {
+    "targetText": "क्या यह मेज़ है?",
+    "english": "Is this table?"
+  },
+  {
+    "targetText": "मुझे दरवाज़ा चाहिए।",
+    "english": "I need door."
+  },
+  {
+    "targetText": "कृपया मुझे दरवाज़ा दीजिए।",
+    "english": "Please give me door."
+  },
+  {
+    "targetText": "दरवाज़ा कहाँ है?",
+    "english": "Where is the door?"
+  },
+  {
+    "targetText": "यह मेरा दरवाज़ा है।",
+    "english": "This is my door."
+  },
+  {
+    "targetText": "क्या आपके पास दरवाज़ा है?",
+    "english": "Do you have door?"
+  },
+  {
+    "targetText": "मुझे दरवाज़ा पसंद है।",
+    "english": "I like door."
+  },
+  {
+    "targetText": "मुझे दरवाज़ा पसंद नहीं है।",
+    "english": "I don't like door."
+  },
+  {
+    "targetText": "मैं दरवाज़ा ढूँढ रहा हूँ।",
+    "english": "I am looking for door."
+  },
+  {
+    "targetText": "यह दरवाज़ा बहुत अच्छा है।",
+    "english": "This is a very good door."
+  },
+  {
+    "targetText": "क्या यह दरवाज़ा है?",
+    "english": "Is this door?"
+  },
+  {
+    "targetText": "मुझे खिड़की चाहिए।",
+    "english": "I need window."
+  },
+  {
+    "targetText": "कृपया मुझे खिड़की दीजिए।",
+    "english": "Please give me window."
+  },
+  {
+    "targetText": "खिड़की कहाँ है?",
+    "english": "Where is the window?"
+  },
+  {
+    "targetText": "यह मेरा खिड़की है।",
+    "english": "This is my window."
+  },
+  {
+    "targetText": "क्या आपके पास खिड़की है?",
+    "english": "Do you have window?"
+  },
+  {
+    "targetText": "मुझे खिड़की पसंद है।",
+    "english": "I like window."
+  },
+  {
+    "targetText": "मुझे खिड़की पसंद नहीं है।",
+    "english": "I don't like window."
+  },
+  {
+    "targetText": "मैं खिड़की ढूँढ रहा हूँ।",
+    "english": "I am looking for window."
+  },
+  {
+    "targetText": "यह खिड़की बहुत अच्छा है।",
+    "english": "This is a very good window."
+  },
+  {
+    "targetText": "क्या यह खिड़की है?",
+    "english": "Is this window?"
+  },
+  {
+    "targetText": "मुझे चाबी चाहिए।",
+    "english": "I need key."
+  },
+  {
+    "targetText": "कृपया मुझे चाबी दीजिए।",
+    "english": "Please give me key."
+  },
+  {
+    "targetText": "चाबी कहाँ है?",
+    "english": "Where is the key?"
+  },
+  {
+    "targetText": "यह मेरा चाबी है।",
+    "english": "This is my key."
+  },
+  {
+    "targetText": "क्या आपके पास चाबी है?",
+    "english": "Do you have key?"
+  },
+  {
+    "targetText": "मुझे चाबी पसंद है।",
+    "english": "I like key."
+  },
+  {
+    "targetText": "मुझे चाबी पसंद नहीं है।",
+    "english": "I don't like key."
+  },
+  {
+    "targetText": "मैं चाबी ढूँढ रहा हूँ।",
+    "english": "I am looking for key."
+  },
+  {
+    "targetText": "यह चाबी बहुत अच्छा है।",
+    "english": "This is a very good key."
+  },
+  {
+    "targetText": "क्या यह चाबी है?",
+    "english": "Is this key?"
+  },
+  {
+    "targetText": "मुझे माँ चाहिए।",
+    "english": "I need mother."
+  },
+  {
+    "targetText": "कृपया मुझे माँ दीजिए।",
+    "english": "Please give me mother."
+  },
+  {
+    "targetText": "माँ कहाँ है?",
+    "english": "Where is the mother?"
+  },
+  {
+    "targetText": "यह मेरा माँ है।",
+    "english": "This is my mother."
+  },
+  {
+    "targetText": "क्या आपके पास माँ है?",
+    "english": "Do you have mother?"
+  },
+  {
+    "targetText": "मुझे माँ पसंद है।",
+    "english": "I like mother."
+  },
+  {
+    "targetText": "मुझे माँ पसंद नहीं है।",
+    "english": "I don't like mother."
+  },
+  {
+    "targetText": "मैं माँ ढूँढ रहा हूँ।",
+    "english": "I am looking for mother."
+  },
+  {
+    "targetText": "यह माँ बहुत अच्छा है।",
+    "english": "This is a very good mother."
+  },
+  {
+    "targetText": "क्या यह माँ है?",
+    "english": "Is this mother?"
+  },
+  {
+    "targetText": "मुझे पिता चाहिए।",
+    "english": "I need father."
+  },
+  {
+    "targetText": "कृपया मुझे पिता दीजिए।",
+    "english": "Please give me father."
+  },
+  {
+    "targetText": "पिता कहाँ है?",
+    "english": "Where is the father?"
+  },
+  {
+    "targetText": "यह मेरा पिता है।",
+    "english": "This is my father."
+  },
+  {
+    "targetText": "क्या आपके पास पिता है?",
+    "english": "Do you have father?"
+  },
+  {
+    "targetText": "मुझे पिता पसंद है।",
+    "english": "I like father."
+  },
+  {
+    "targetText": "मुझे पिता पसंद नहीं है।",
+    "english": "I don't like father."
+  },
+  {
+    "targetText": "मैं पिता ढूँढ रहा हूँ।",
+    "english": "I am looking for father."
+  },
+  {
+    "targetText": "यह पिता बहुत अच्छा है।",
+    "english": "This is a very good father."
+  },
+  {
+    "targetText": "क्या यह पिता है?",
+    "english": "Is this father?"
+  },
+  {
+    "targetText": "मुझे भाई चाहिए।",
+    "english": "I need brother."
+  },
+  {
+    "targetText": "कृपया मुझे भाई दीजिए।",
+    "english": "Please give me brother."
+  },
+  {
+    "targetText": "भाई कहाँ है?",
+    "english": "Where is the brother?"
+  },
+  {
+    "targetText": "यह मेरा भाई है।",
+    "english": "This is my brother."
+  },
+  {
+    "targetText": "क्या आपके पास भाई है?",
+    "english": "Do you have brother?"
+  },
+  {
+    "targetText": "मुझे भाई पसंद है।",
+    "english": "I like brother."
+  },
+  {
+    "targetText": "मुझे भाई पसंद नहीं है।",
+    "english": "I don't like brother."
+  },
+  {
+    "targetText": "मैं भाई ढूँढ रहा हूँ।",
+    "english": "I am looking for brother."
+  },
+  {
+    "targetText": "यह भाई बहुत अच्छा है।",
+    "english": "This is a very good brother."
+  },
+  {
+    "targetText": "क्या यह भाई है?",
+    "english": "Is this brother?"
+  },
+  {
+    "targetText": "मुझे बहन चाहिए।",
+    "english": "I need sister."
+  },
+  {
+    "targetText": "कृपया मुझे बहन दीजिए।",
+    "english": "Please give me sister."
+  },
+  {
+    "targetText": "बहन कहाँ है?",
+    "english": "Where is the sister?"
+  },
+  {
+    "targetText": "यह मेरा बहन है।",
+    "english": "This is my sister."
+  },
+  {
+    "targetText": "क्या आपके पास बहन है?",
+    "english": "Do you have sister?"
+  },
+  {
+    "targetText": "मुझे बहन पसंद है।",
+    "english": "I like sister."
+  },
+  {
+    "targetText": "मुझे बहन पसंद नहीं है।",
+    "english": "I don't like sister."
+  },
+  {
+    "targetText": "मैं बहन ढूँढ रहा हूँ।",
+    "english": "I am looking for sister."
+  },
+  {
+    "targetText": "यह बहन बहुत अच्छा है।",
+    "english": "This is a very good sister."
+  },
+  {
+    "targetText": "क्या यह बहन है?",
+    "english": "Is this sister?"
+  },
+  {
+    "targetText": "मुझे दोस्त चाहिए।",
+    "english": "I need friend."
+  },
+  {
+    "targetText": "कृपया मुझे दोस्त दीजिए।",
+    "english": "Please give me friend."
+  },
+  {
+    "targetText": "दोस्त कहाँ है?",
+    "english": "Where is the friend?"
+  },
+  {
+    "targetText": "यह मेरा दोस्त है।",
+    "english": "This is my friend."
+  },
+  {
+    "targetText": "क्या आपके पास दोस्त है?",
+    "english": "Do you have friend?"
+  },
+  {
+    "targetText": "मुझे दोस्त पसंद है।",
+    "english": "I like friend."
+  },
+  {
+    "targetText": "मुझे दोस्त पसंद नहीं है।",
+    "english": "I don't like friend."
+  },
+  {
+    "targetText": "मैं दोस्त ढूँढ रहा हूँ।",
+    "english": "I am looking for friend."
+  },
+  {
+    "targetText": "यह दोस्त बहुत अच्छा है।",
+    "english": "This is a very good friend."
+  },
+  {
+    "targetText": "क्या यह दोस्त है?",
+    "english": "Is this friend?"
+  },
+  {
+    "targetText": "मुझे परिवार चाहिए।",
+    "english": "I need family."
+  },
+  {
+    "targetText": "कृपया मुझे परिवार दीजिए।",
+    "english": "Please give me family."
+  },
+  {
+    "targetText": "परिवार कहाँ है?",
+    "english": "Where is the family?"
+  },
+  {
+    "targetText": "यह मेरा परिवार है।",
+    "english": "This is my family."
+  },
+  {
+    "targetText": "क्या आपके पास परिवार है?",
+    "english": "Do you have family?"
+  },
+  {
+    "targetText": "मुझे परिवार पसंद है।",
+    "english": "I like family."
+  },
+  {
+    "targetText": "मुझे परिवार पसंद नहीं है।",
+    "english": "I don't like family."
+  },
+  {
+    "targetText": "मैं परिवार ढूँढ रहा हूँ।",
+    "english": "I am looking for family."
+  },
+  {
+    "targetText": "यह परिवार बहुत अच्छा है।",
+    "english": "This is a very good family."
+  },
+  {
+    "targetText": "क्या यह परिवार है?",
+    "english": "Is this family?"
+  },
+  {
+    "targetText": "मुझे बच्चा चाहिए।",
+    "english": "I need child."
+  },
+  {
+    "targetText": "कृपया मुझे बच्चा दीजिए।",
+    "english": "Please give me child."
+  },
+  {
+    "targetText": "बच्चा कहाँ है?",
+    "english": "Where is the child?"
+  },
+  {
+    "targetText": "यह मेरा बच्चा है।",
+    "english": "This is my child."
+  },
+  {
+    "targetText": "क्या आपके पास बच्चा है?",
+    "english": "Do you have child?"
+  },
+  {
+    "targetText": "मुझे बच्चा पसंद है।",
+    "english": "I like child."
+  },
+  {
+    "targetText": "मुझे बच्चा पसंद नहीं है।",
+    "english": "I don't like child."
+  },
+  {
+    "targetText": "मैं बच्चा ढूँढ रहा हूँ।",
+    "english": "I am looking for child."
+  },
+  {
+    "targetText": "यह बच्चा बहुत अच्छा है।",
+    "english": "This is a very good child."
+  },
+  {
+    "targetText": "क्या यह बच्चा है?",
+    "english": "Is this child?"
+  },
+  {
+    "targetText": "मुझे नाम चाहिए।",
+    "english": "I need name."
+  },
+  {
+    "targetText": "कृपया मुझे नाम दीजिए।",
+    "english": "Please give me name."
+  },
+  {
+    "targetText": "नाम कहाँ है?",
+    "english": "Where is the name?"
+  },
+  {
+    "targetText": "यह मेरा नाम है।",
+    "english": "This is my name."
+  },
+  {
+    "targetText": "क्या आपके पास नाम है?",
+    "english": "Do you have name?"
+  },
+  {
+    "targetText": "मुझे नाम पसंद है।",
+    "english": "I like name."
+  },
+  {
+    "targetText": "मुझे नाम पसंद नहीं है।",
+    "english": "I don't like name."
+  },
+  {
+    "targetText": "मैं नाम ढूँढ रहा हूँ।",
+    "english": "I am looking for name."
+  },
+  {
+    "targetText": "यह नाम बहुत अच्छा है।",
+    "english": "This is a very good name."
+  },
+  {
+    "targetText": "क्या यह नाम है?",
+    "english": "Is this name?"
+  },
+  {
+    "targetText": "मुझे फोन चाहिए।",
+    "english": "I need phone."
+  },
+  {
+    "targetText": "कृपया मुझे फोन दीजिए।",
+    "english": "Please give me phone."
+  },
+  {
+    "targetText": "फोन कहाँ है?",
+    "english": "Where is the phone?"
+  },
+  {
+    "targetText": "यह मेरा फोन है।",
+    "english": "This is my phone."
+  },
+  {
+    "targetText": "क्या आपके पास फोन है?",
+    "english": "Do you have phone?"
+  },
+  {
+    "targetText": "मुझे फोन पसंद है।",
+    "english": "I like phone."
+  },
+  {
+    "targetText": "मुझे फोन पसंद नहीं है।",
+    "english": "I don't like phone."
+  },
+  {
+    "targetText": "मैं फोन ढूँढ रहा हूँ।",
+    "english": "I am looking for phone."
+  },
+  {
+    "targetText": "यह फोन बहुत अच्छा है।",
+    "english": "This is a very good phone."
+  },
+  {
+    "targetText": "क्या यह फोन है?",
+    "english": "Is this phone?"
+  },
+  {
+    "targetText": "मुझे कंप्यूटर चाहिए।",
+    "english": "I need computer."
+  },
+  {
+    "targetText": "कृपया मुझे कंप्यूटर दीजिए।",
+    "english": "Please give me computer."
+  },
+  {
+    "targetText": "कंप्यूटर कहाँ है?",
+    "english": "Where is the computer?"
+  },
+  {
+    "targetText": "यह मेरा कंप्यूटर है।",
+    "english": "This is my computer."
+  },
+  {
+    "targetText": "क्या आपके पास कंप्यूटर है?",
+    "english": "Do you have computer?"
+  },
+  {
+    "targetText": "मुझे कंप्यूटर पसंद है।",
+    "english": "I like computer."
+  },
+  {
+    "targetText": "मुझे कंप्यूटर पसंद नहीं है।",
+    "english": "I don't like computer."
+  },
+  {
+    "targetText": "मैं कंप्यूटर ढूँढ रहा हूँ।",
+    "english": "I am looking for computer."
+  },
+  {
+    "targetText": "यह कंप्यूटर बहुत अच्छा है।",
+    "english": "This is a very good computer."
+  },
+  {
+    "targetText": "क्या यह कंप्यूटर है?",
+    "english": "Is this computer?"
+  },
+  {
+    "targetText": "मुझे इंटरनेट चाहिए।",
+    "english": "I need internet."
+  },
+  {
+    "targetText": "कृपया मुझे इंटरनेट दीजिए।",
+    "english": "Please give me internet."
+  },
+  {
+    "targetText": "इंटरनेट कहाँ है?",
+    "english": "Where is the internet?"
+  },
+  {
+    "targetText": "यह मेरा इंटरनेट है।",
+    "english": "This is my internet."
+  },
+  {
+    "targetText": "क्या आपके पास इंटरनेट है?",
+    "english": "Do you have internet?"
+  },
+  {
+    "targetText": "मुझे इंटरनेट पसंद है।",
+    "english": "I like internet."
+  },
+  {
+    "targetText": "मुझे इंटरनेट पसंद नहीं है।",
+    "english": "I don't like internet."
+  },
+  {
+    "targetText": "मैं इंटरनेट ढूँढ रहा हूँ।",
+    "english": "I am looking for internet."
+  },
+  {
+    "targetText": "यह इंटरनेट बहुत अच्छा है।",
+    "english": "This is a very good internet."
+  },
+  {
+    "targetText": "क्या यह इंटरनेट है?",
+    "english": "Is this internet?"
+  },
+  {
+    "targetText": "मुझे संदेश चाहिए।",
+    "english": "I need message."
+  },
+  {
+    "targetText": "कृपया मुझे संदेश दीजिए।",
+    "english": "Please give me message."
+  },
+  {
+    "targetText": "संदेश कहाँ है?",
+    "english": "Where is the message?"
+  },
+  {
+    "targetText": "यह मेरा संदेश है।",
+    "english": "This is my message."
+  },
+  {
+    "targetText": "क्या आपके पास संदेश है?",
+    "english": "Do you have message?"
+  },
+  {
+    "targetText": "मुझे संदेश पसंद है।",
+    "english": "I like message."
+  },
+  {
+    "targetText": "मुझे संदेश पसंद नहीं है।",
+    "english": "I don't like message."
+  },
+  {
+    "targetText": "मैं संदेश ढूँढ रहा हूँ।",
+    "english": "I am looking for message."
+  },
+  {
+    "targetText": "यह संदेश बहुत अच्छा है।",
+    "english": "This is a very good message."
+  },
+  {
+    "targetText": "क्या यह संदेश है?",
+    "english": "Is this message?"
+  },
+  {
+    "targetText": "मुझे पैसा चाहिए।",
+    "english": "I need money."
+  },
+  {
+    "targetText": "कृपया मुझे पैसा दीजिए।",
+    "english": "Please give me money."
+  },
+  {
+    "targetText": "पैसा कहाँ है?",
+    "english": "Where is the money?"
+  },
+  {
+    "targetText": "यह मेरा पैसा है।",
+    "english": "This is my money."
+  },
+  {
+    "targetText": "क्या आपके पास पैसा है?",
+    "english": "Do you have money?"
+  },
+  {
+    "targetText": "मुझे पैसा पसंद है।",
+    "english": "I like money."
+  },
+  {
+    "targetText": "मुझे पैसा पसंद नहीं है।",
+    "english": "I don't like money."
+  },
+  {
+    "targetText": "मैं पैसा ढूँढ रहा हूँ।",
+    "english": "I am looking for money."
+  },
+  {
+    "targetText": "यह पैसा बहुत अच्छा है।",
+    "english": "This is a very good money."
+  },
+  {
+    "targetText": "क्या यह पैसा है?",
+    "english": "Is this money?"
+  },
+  {
+    "targetText": "मुझे कीमत चाहिए।",
+    "english": "I need price."
+  },
+  {
+    "targetText": "कृपया मुझे कीमत दीजिए।",
+    "english": "Please give me price."
+  },
+  {
+    "targetText": "कीमत कहाँ है?",
+    "english": "Where is the price?"
+  },
+  {
+    "targetText": "यह मेरा कीमत है।",
+    "english": "This is my price."
+  },
+  {
+    "targetText": "क्या आपके पास कीमत है?",
+    "english": "Do you have price?"
+  },
+  {
+    "targetText": "मुझे कीमत पसंद है।",
+    "english": "I like price."
+  },
+  {
+    "targetText": "मुझे कीमत पसंद नहीं है।",
+    "english": "I don't like price."
+  },
+  {
+    "targetText": "मैं कीमत ढूँढ रहा हूँ।",
+    "english": "I am looking for price."
+  },
+  {
+    "targetText": "यह कीमत बहुत अच्छा है।",
+    "english": "This is a very good price."
+  },
+  {
+    "targetText": "क्या यह कीमत है?",
+    "english": "Is this price?"
+  },
+  {
+    "targetText": "मुझे बाज़ार चाहिए।",
+    "english": "I need market."
+  },
+  {
+    "targetText": "कृपया मुझे बाज़ार दीजिए।",
+    "english": "Please give me market."
+  },
+  {
+    "targetText": "बाज़ार कहाँ है?",
+    "english": "Where is the market?"
+  },
+  {
+    "targetText": "यह मेरा बाज़ार है।",
+    "english": "This is my market."
+  },
+  {
+    "targetText": "क्या आपके पास बाज़ार है?",
+    "english": "Do you have market?"
+  },
+  {
+    "targetText": "मुझे बाज़ार पसंद है।",
+    "english": "I like market."
+  },
+  {
+    "targetText": "मुझे बाज़ार पसंद नहीं है।",
+    "english": "I don't like market."
+  },
+  {
+    "targetText": "मैं बाज़ार ढूँढ रहा हूँ।",
+    "english": "I am looking for market."
+  },
+  {
+    "targetText": "यह बाज़ार बहुत अच्छा है।",
+    "english": "This is a very good market."
+  },
+  {
+    "targetText": "क्या यह बाज़ार है?",
+    "english": "Is this market?"
+  },
+  {
+    "targetText": "मुझे दुकान चाहिए।",
+    "english": "I need shop."
+  },
+  {
+    "targetText": "कृपया मुझे दुकान दीजिए।",
+    "english": "Please give me shop."
+  },
+  {
+    "targetText": "दुकान कहाँ है?",
+    "english": "Where is the shop?"
+  },
+  {
+    "targetText": "यह मेरा दुकान है।",
+    "english": "This is my shop."
+  },
+  {
+    "targetText": "क्या आपके पास दुकान है?",
+    "english": "Do you have shop?"
+  },
+  {
+    "targetText": "मुझे दुकान पसंद है।",
+    "english": "I like shop."
+  },
+  {
+    "targetText": "मुझे दुकान पसंद नहीं है।",
+    "english": "I don't like shop."
+  },
+  {
+    "targetText": "मैं दुकान ढूँढ रहा हूँ।",
+    "english": "I am looking for shop."
+  },
+  {
+    "targetText": "यह दुकान बहुत अच्छा है।",
+    "english": "This is a very good shop."
+  },
+  {
+    "targetText": "क्या यह दुकान है?",
+    "english": "Is this shop?"
+  },
+  {
+    "targetText": "मुझे बिल चाहिए।",
+    "english": "I need bill."
+  },
+  {
+    "targetText": "कृपया मुझे बिल दीजिए।",
+    "english": "Please give me bill."
+  },
+  {
+    "targetText": "बिल कहाँ है?",
+    "english": "Where is the bill?"
+  },
+  {
+    "targetText": "यह मेरा बिल है।",
+    "english": "This is my bill."
+  },
+  {
+    "targetText": "क्या आपके पास बिल है?",
+    "english": "Do you have bill?"
+  },
+  {
+    "targetText": "मुझे बिल पसंद है।",
+    "english": "I like bill."
+  },
+  {
+    "targetText": "मुझे बिल पसंद नहीं है।",
+    "english": "I don't like bill."
+  },
+  {
+    "targetText": "मैं बिल ढूँढ रहा हूँ।",
+    "english": "I am looking for bill."
+  },
+  {
+    "targetText": "यह बिल बहुत अच्छा है।",
+    "english": "This is a very good bill."
+  },
+  {
+    "targetText": "क्या यह बिल है?",
+    "english": "Is this bill?"
+  },
+  {
+    "targetText": "मुझे कार्ड चाहिए।",
+    "english": "I need card."
+  },
+  {
+    "targetText": "कृपया मुझे कार्ड दीजिए।",
+    "english": "Please give me card."
+  },
+  {
+    "targetText": "कार्ड कहाँ है?",
+    "english": "Where is the card?"
+  },
+  {
+    "targetText": "यह मेरा कार्ड है।",
+    "english": "This is my card."
+  },
+  {
+    "targetText": "क्या आपके पास कार्ड है?",
+    "english": "Do you have card?"
+  },
+  {
+    "targetText": "मुझे कार्ड पसंद है।",
+    "english": "I like card."
+  },
+  {
+    "targetText": "मुझे कार्ड पसंद नहीं है।",
+    "english": "I don't like card."
+  },
+  {
+    "targetText": "मैं कार्ड ढूँढ रहा हूँ।",
+    "english": "I am looking for card."
+  },
+  {
+    "targetText": "यह कार्ड बहुत अच्छा है।",
+    "english": "This is a very good card."
+  },
+  {
+    "targetText": "क्या यह कार्ड है?",
+    "english": "Is this card?"
+  },
+  {
+    "targetText": "मुझे बैंक चाहिए।",
+    "english": "I need bank."
+  },
+  {
+    "targetText": "कृपया मुझे बैंक दीजिए।",
+    "english": "Please give me bank."
+  },
+  {
+    "targetText": "बैंक कहाँ है?",
+    "english": "Where is the bank?"
+  },
+  {
+    "targetText": "यह मेरा बैंक है।",
+    "english": "This is my bank."
+  },
+  {
+    "targetText": "क्या आपके पास बैंक है?",
+    "english": "Do you have bank?"
+  },
+  {
+    "targetText": "मुझे बैंक पसंद है।",
+    "english": "I like bank."
+  },
+  {
+    "targetText": "मुझे बैंक पसंद नहीं है।",
+    "english": "I don't like bank."
+  },
+  {
+    "targetText": "मैं बैंक ढूँढ रहा हूँ।",
+    "english": "I am looking for bank."
+  },
+  {
+    "targetText": "यह बैंक बहुत अच्छा है।",
+    "english": "This is a very good bank."
+  },
+  {
+    "targetText": "क्या यह बैंक है?",
+    "english": "Is this bank?"
+  },
+  {
+    "targetText": "मुझे बस चाहिए।",
+    "english": "I need bus."
+  },
+  {
+    "targetText": "कृपया मुझे बस दीजिए।",
+    "english": "Please give me bus."
+  },
+  {
+    "targetText": "बस कहाँ है?",
+    "english": "Where is the bus?"
+  },
+  {
+    "targetText": "यह मेरा बस है।",
+    "english": "This is my bus."
+  },
+  {
+    "targetText": "क्या आपके पास बस है?",
+    "english": "Do you have bus?"
+  },
+  {
+    "targetText": "मुझे बस पसंद है।",
+    "english": "I like bus."
+  },
+  {
+    "targetText": "मुझे बस पसंद नहीं है।",
+    "english": "I don't like bus."
+  },
+  {
+    "targetText": "मैं बस ढूँढ रहा हूँ।",
+    "english": "I am looking for bus."
+  },
+  {
+    "targetText": "यह बस बहुत अच्छा है।",
+    "english": "This is a very good bus."
+  },
+  {
+    "targetText": "क्या यह बस है?",
+    "english": "Is this bus?"
+  },
+  {
+    "targetText": "मुझे ट्रेन चाहिए।",
+    "english": "I need train."
+  },
+  {
+    "targetText": "कृपया मुझे ट्रेन दीजिए।",
+    "english": "Please give me train."
+  },
+  {
+    "targetText": "ट्रेन कहाँ है?",
+    "english": "Where is the train?"
+  },
+  {
+    "targetText": "यह मेरा ट्रेन है।",
+    "english": "This is my train."
+  },
+  {
+    "targetText": "क्या आपके पास ट्रेन है?",
+    "english": "Do you have train?"
+  },
+  {
+    "targetText": "मुझे ट्रेन पसंद है।",
+    "english": "I like train."
+  },
+  {
+    "targetText": "मुझे ट्रेन पसंद नहीं है।",
+    "english": "I don't like train."
+  },
+  {
+    "targetText": "मैं ट्रेन ढूँढ रहा हूँ।",
+    "english": "I am looking for train."
+  },
+  {
+    "targetText": "यह ट्रेन बहुत अच्छा है।",
+    "english": "This is a very good train."
+  },
+  {
+    "targetText": "क्या यह ट्रेन है?",
+    "english": "Is this train?"
+  },
+  {
+    "targetText": "मुझे टैक्सी चाहिए।",
+    "english": "I need taxi."
+  },
+  {
+    "targetText": "कृपया मुझे टैक्सी दीजिए।",
+    "english": "Please give me taxi."
+  },
+  {
+    "targetText": "टैक्सी कहाँ है?",
+    "english": "Where is the taxi?"
+  },
+  {
+    "targetText": "यह मेरा टैक्सी है।",
+    "english": "This is my taxi."
+  },
+  {
+    "targetText": "क्या आपके पास टैक्सी है?",
+    "english": "Do you have taxi?"
+  },
+  {
+    "targetText": "मुझे टैक्सी पसंद है।",
+    "english": "I like taxi."
+  },
+  {
+    "targetText": "मुझे टैक्सी पसंद नहीं है।",
+    "english": "I don't like taxi."
+  },
+  {
+    "targetText": "मैं टैक्सी ढूँढ रहा हूँ।",
+    "english": "I am looking for taxi."
+  },
+  {
+    "targetText": "यह टैक्सी बहुत अच्छा है।",
+    "english": "This is a very good taxi."
+  },
+  {
+    "targetText": "क्या यह टैक्सी है?",
+    "english": "Is this taxi?"
+  },
+  {
+    "targetText": "मुझे कार चाहिए।",
+    "english": "I need car."
+  },
+  {
+    "targetText": "कृपया मुझे कार दीजिए।",
+    "english": "Please give me car."
+  },
+  {
+    "targetText": "कार कहाँ है?",
+    "english": "Where is the car?"
+  },
+  {
+    "targetText": "यह मेरा कार है।",
+    "english": "This is my car."
+  },
+  {
+    "targetText": "क्या आपके पास कार है?",
+    "english": "Do you have car?"
+  },
+  {
+    "targetText": "मुझे कार पसंद है।",
+    "english": "I like car."
+  },
+  {
+    "targetText": "मुझे कार पसंद नहीं है।",
+    "english": "I don't like car."
+  },
+  {
+    "targetText": "मैं कार ढूँढ रहा हूँ।",
+    "english": "I am looking for car."
+  },
+  {
+    "targetText": "यह कार बहुत अच्छा है।",
+    "english": "This is a very good car."
+  },
+  {
+    "targetText": "क्या यह कार है?",
+    "english": "Is this car?"
+  },
+  {
+    "targetText": "मुझे बाइक चाहिए।",
+    "english": "I need bike."
+  },
+  {
+    "targetText": "कृपया मुझे बाइक दीजिए।",
+    "english": "Please give me bike."
+  },
+  {
+    "targetText": "बाइक कहाँ है?",
+    "english": "Where is the bike?"
+  },
+  {
+    "targetText": "यह मेरा बाइक है।",
+    "english": "This is my bike."
+  },
+  {
+    "targetText": "क्या आपके पास बाइक है?",
+    "english": "Do you have bike?"
+  },
+  {
+    "targetText": "मुझे बाइक पसंद है।",
+    "english": "I like bike."
+  },
+  {
+    "targetText": "मुझे बाइक पसंद नहीं है।",
+    "english": "I don't like bike."
+  },
+  {
+    "targetText": "मैं बाइक ढूँढ रहा हूँ।",
+    "english": "I am looking for bike."
+  },
+  {
+    "targetText": "यह बाइक बहुत अच्छा है।",
+    "english": "This is a very good bike."
+  },
+  {
+    "targetText": "क्या यह बाइक है?",
+    "english": "Is this bike?"
+  },
+  {
+    "targetText": "मुझे टिकट चाहिए।",
+    "english": "I need ticket."
+  },
+  {
+    "targetText": "कृपया मुझे टिकट दीजिए।",
+    "english": "Please give me ticket."
+  },
+  {
+    "targetText": "टिकट कहाँ है?",
+    "english": "Where is the ticket?"
+  },
+  {
+    "targetText": "यह मेरा टिकट है।",
+    "english": "This is my ticket."
+  },
+  {
+    "targetText": "क्या आपके पास टिकट है?",
+    "english": "Do you have ticket?"
+  },
+  {
+    "targetText": "मुझे टिकट पसंद है।",
+    "english": "I like ticket."
+  },
+  {
+    "targetText": "मुझे टिकट पसंद नहीं है।",
+    "english": "I don't like ticket."
+  },
+  {
+    "targetText": "मैं टिकट ढूँढ रहा हूँ।",
+    "english": "I am looking for ticket."
+  },
+  {
+    "targetText": "यह टिकट बहुत अच्छा है।",
+    "english": "This is a very good ticket."
+  },
+  {
+    "targetText": "क्या यह टिकट है?",
+    "english": "Is this ticket?"
+  },
+  {
+    "targetText": "मुझे स्टेशन चाहिए।",
+    "english": "I need station."
+  },
+  {
+    "targetText": "कृपया मुझे स्टेशन दीजिए।",
+    "english": "Please give me station."
+  },
+  {
+    "targetText": "स्टेशन कहाँ है?",
+    "english": "Where is the station?"
+  },
+  {
+    "targetText": "यह मेरा स्टेशन है।",
+    "english": "This is my station."
+  },
+  {
+    "targetText": "क्या आपके पास स्टेशन है?",
+    "english": "Do you have station?"
+  },
+  {
+    "targetText": "मुझे स्टेशन पसंद है।",
+    "english": "I like station."
+  },
+  {
+    "targetText": "मुझे स्टेशन पसंद नहीं है।",
+    "english": "I don't like station."
+  },
+  {
+    "targetText": "मैं स्टेशन ढूँढ रहा हूँ।",
+    "english": "I am looking for station."
+  },
+  {
+    "targetText": "यह स्टेशन बहुत अच्छा है।",
+    "english": "This is a very good station."
+  },
+  {
+    "targetText": "क्या यह स्टेशन है?",
+    "english": "Is this station?"
+  },
+  {
+    "targetText": "मुझे हवाई अड्डा चाहिए।",
+    "english": "I need airport."
+  },
+  {
+    "targetText": "कृपया मुझे हवाई अड्डा दीजिए।",
+    "english": "Please give me airport."
+  },
+  {
+    "targetText": "हवाई अड्डा कहाँ है?",
+    "english": "Where is the airport?"
+  },
+  {
+    "targetText": "यह मेरा हवाई अड्डा है।",
+    "english": "This is my airport."
+  },
+  {
+    "targetText": "क्या आपके पास हवाई अड्डा है?",
+    "english": "Do you have airport?"
+  },
+  {
+    "targetText": "मुझे हवाई अड्डा पसंद है।",
+    "english": "I like airport."
+  },
+  {
+    "targetText": "मुझे हवाई अड्डा पसंद नहीं है।",
+    "english": "I don't like airport."
+  },
+  {
+    "targetText": "मैं हवाई अड्डा ढूँढ रहा हूँ।",
+    "english": "I am looking for airport."
+  },
+  {
+    "targetText": "यह हवाई अड्डा बहुत अच्छा है।",
+    "english": "This is a very good airport."
+  },
+  {
+    "targetText": "क्या यह हवाई अड्डा है?",
+    "english": "Is this airport?"
+  },
+  {
+    "targetText": "मुझे होटल चाहिए।",
+    "english": "I need hotel."
+  },
+  {
+    "targetText": "कृपया मुझे होटल दीजिए।",
+    "english": "Please give me hotel."
+  },
+  {
+    "targetText": "होटल कहाँ है?",
+    "english": "Where is the hotel?"
+  },
+  {
+    "targetText": "यह मेरा होटल है।",
+    "english": "This is my hotel."
+  },
+  {
+    "targetText": "क्या आपके पास होटल है?",
+    "english": "Do you have hotel?"
+  },
+  {
+    "targetText": "मुझे होटल पसंद है।",
+    "english": "I like hotel."
+  },
+  {
+    "targetText": "मुझे होटल पसंद नहीं है।",
+    "english": "I don't like hotel."
+  },
+  {
+    "targetText": "मैं होटल ढूँढ रहा हूँ।",
+    "english": "I am looking for hotel."
+  },
+  {
+    "targetText": "यह होटल बहुत अच्छा है।",
+    "english": "This is a very good hotel."
+  },
+  {
+    "targetText": "क्या यह होटल है?",
+    "english": "Is this hotel?"
+  },
+  {
+    "targetText": "मुझे रेस्टोरेंट चाहिए।",
+    "english": "I need restaurant."
+  },
+  {
+    "targetText": "कृपया मुझे रेस्टोरेंट दीजिए।",
+    "english": "Please give me restaurant."
+  },
+  {
+    "targetText": "रेस्टोरेंट कहाँ है?",
+    "english": "Where is the restaurant?"
+  },
+  {
+    "targetText": "यह मेरा रेस्टोरेंट है।",
+    "english": "This is my restaurant."
+  },
+  {
+    "targetText": "क्या आपके पास रेस्टोरेंट है?",
+    "english": "Do you have restaurant?"
+  },
+  {
+    "targetText": "मुझे रेस्टोरेंट पसंद है।",
+    "english": "I like restaurant."
+  },
+  {
+    "targetText": "मुझे रेस्टोरेंट पसंद नहीं है।",
+    "english": "I don't like restaurant."
+  },
+  {
+    "targetText": "मैं रेस्टोरेंट ढूँढ रहा हूँ।",
+    "english": "I am looking for restaurant."
+  },
+  {
+    "targetText": "यह रेस्टोरेंट बहुत अच्छा है।",
+    "english": "This is a very good restaurant."
+  },
+  {
+    "targetText": "क्या यह रेस्टोरेंट है?",
+    "english": "Is this restaurant?"
+  },
+  {
+    "targetText": "मुझे नक्शा चाहिए।",
+    "english": "I need map."
+  },
+  {
+    "targetText": "कृपया मुझे नक्शा दीजिए।",
+    "english": "Please give me map."
+  },
+  {
+    "targetText": "नक्शा कहाँ है?",
+    "english": "Where is the map?"
+  },
+  {
+    "targetText": "यह मेरा नक्शा है।",
+    "english": "This is my map."
+  },
+  {
+    "targetText": "क्या आपके पास नक्शा है?",
+    "english": "Do you have map?"
+  },
+  {
+    "targetText": "मुझे नक्शा पसंद है।",
+    "english": "I like map."
+  },
+  {
+    "targetText": "मुझे नक्शा पसंद नहीं है।",
+    "english": "I don't like map."
+  },
+  {
+    "targetText": "मैं नक्शा ढूँढ रहा हूँ।",
+    "english": "I am looking for map."
+  },
+  {
+    "targetText": "यह नक्शा बहुत अच्छा है।",
+    "english": "This is a very good map."
+  },
+  {
+    "targetText": "क्या यह नक्शा है?",
+    "english": "Is this map?"
+  },
+  {
+    "targetText": "मुझे पता चाहिए।",
+    "english": "I need address."
+  },
+  {
+    "targetText": "कृपया मुझे पता दीजिए।",
+    "english": "Please give me address."
+  },
+  {
+    "targetText": "पता कहाँ है?",
+    "english": "Where is the address?"
+  },
+  {
+    "targetText": "यह मेरा पता है।",
+    "english": "This is my address."
+  },
+  {
+    "targetText": "क्या आपके पास पता है?",
+    "english": "Do you have address?"
+  },
+  {
+    "targetText": "मुझे पता पसंद है।",
+    "english": "I like address."
+  },
+  {
+    "targetText": "मुझे पता पसंद नहीं है।",
+    "english": "I don't like address."
+  },
+  {
+    "targetText": "मैं पता ढूँढ रहा हूँ।",
+    "english": "I am looking for address."
+  },
+  {
+    "targetText": "यह पता बहुत अच्छा है।",
+    "english": "This is a very good address."
+  },
+  {
+    "targetText": "क्या यह पता है?",
+    "english": "Is this address?"
+  },
+  {
+    "targetText": "मुझे डॉक्टर चाहिए।",
+    "english": "I need doctor."
+  },
+  {
+    "targetText": "कृपया मुझे डॉक्टर दीजिए।",
+    "english": "Please give me doctor."
+  },
+  {
+    "targetText": "डॉक्टर कहाँ है?",
+    "english": "Where is the doctor?"
+  },
+  {
+    "targetText": "यह मेरा डॉक्टर है।",
+    "english": "This is my doctor."
+  },
+  {
+    "targetText": "क्या आपके पास डॉक्टर है?",
+    "english": "Do you have doctor?"
+  },
+  {
+    "targetText": "मुझे डॉक्टर पसंद है।",
+    "english": "I like doctor."
+  },
+  {
+    "targetText": "मुझे डॉक्टर पसंद नहीं है।",
+    "english": "I don't like doctor."
+  },
+  {
+    "targetText": "मैं डॉक्टर ढूँढ रहा हूँ।",
+    "english": "I am looking for doctor."
+  },
+  {
+    "targetText": "यह डॉक्टर बहुत अच्छा है।",
+    "english": "This is a very good doctor."
+  },
+  {
+    "targetText": "क्या यह डॉक्टर है?",
+    "english": "Is this doctor?"
+  },
+  {
+    "targetText": "मुझे अस्पताल चाहिए।",
+    "english": "I need hospital."
+  },
+  {
+    "targetText": "कृपया मुझे अस्पताल दीजिए।",
+    "english": "Please give me hospital."
+  },
+  {
+    "targetText": "अस्पताल कहाँ है?",
+    "english": "Where is the hospital?"
+  },
+  {
+    "targetText": "यह मेरा अस्पताल है।",
+    "english": "This is my hospital."
+  },
+  {
+    "targetText": "क्या आपके पास अस्पताल है?",
+    "english": "Do you have hospital?"
+  },
+  {
+    "targetText": "मुझे अस्पताल पसंद है।",
+    "english": "I like hospital."
+  },
+  {
+    "targetText": "मुझे अस्पताल पसंद नहीं है।",
+    "english": "I don't like hospital."
+  },
+  {
+    "targetText": "मैं अस्पताल ढूँढ रहा हूँ।",
+    "english": "I am looking for hospital."
+  },
+  {
+    "targetText": "यह अस्पताल बहुत अच्छा है।",
+    "english": "This is a very good hospital."
+  },
+  {
+    "targetText": "क्या यह अस्पताल है?",
+    "english": "Is this hospital?"
+  },
+  {
+    "targetText": "मुझे दवा चाहिए।",
+    "english": "I need medicine."
+  },
+  {
+    "targetText": "कृपया मुझे दवा दीजिए।",
+    "english": "Please give me medicine."
+  },
+  {
+    "targetText": "दवा कहाँ है?",
+    "english": "Where is the medicine?"
+  },
+  {
+    "targetText": "यह मेरा दवा है।",
+    "english": "This is my medicine."
+  },
+  {
+    "targetText": "क्या आपके पास दवा है?",
+    "english": "Do you have medicine?"
+  },
+  {
+    "targetText": "मुझे दवा पसंद है।",
+    "english": "I like medicine."
+  },
+  {
+    "targetText": "मुझे दवा पसंद नहीं है।",
+    "english": "I don't like medicine."
+  },
+  {
+    "targetText": "मैं दवा ढूँढ रहा हूँ।",
+    "english": "I am looking for medicine."
+  },
+  {
+    "targetText": "यह दवा बहुत अच्छा है।",
+    "english": "This is a very good medicine."
+  },
+  {
+    "targetText": "क्या यह दवा है?",
+    "english": "Is this medicine?"
+  },
+  {
+    "targetText": "मुझे बुखार चाहिए।",
+    "english": "I need fever."
+  },
+  {
+    "targetText": "कृपया मुझे बुखार दीजिए।",
+    "english": "Please give me fever."
+  },
+  {
+    "targetText": "बुखार कहाँ है?",
+    "english": "Where is the fever?"
+  },
+  {
+    "targetText": "यह मेरा बुखार है।",
+    "english": "This is my fever."
+  },
+  {
+    "targetText": "क्या आपके पास बुखार है?",
+    "english": "Do you have fever?"
+  },
+  {
+    "targetText": "मुझे बुखार पसंद है।",
+    "english": "I like fever."
+  },
+  {
+    "targetText": "मुझे बुखार पसंद नहीं है।",
+    "english": "I don't like fever."
+  },
+  {
+    "targetText": "मैं बुखार ढूँढ रहा हूँ।",
+    "english": "I am looking for fever."
+  },
+  {
+    "targetText": "यह बुखार बहुत अच्छा है।",
+    "english": "This is a very good fever."
+  },
+  {
+    "targetText": "क्या यह बुखार है?",
+    "english": "Is this fever?"
+  },
+  {
+    "targetText": "मुझे दर्द चाहिए।",
+    "english": "I need pain."
+  },
+  {
+    "targetText": "कृपया मुझे दर्द दीजिए।",
+    "english": "Please give me pain."
+  },
+  {
+    "targetText": "दर्द कहाँ है?",
+    "english": "Where is the pain?"
+  },
+  {
+    "targetText": "यह मेरा दर्द है।",
+    "english": "This is my pain."
+  },
+  {
+    "targetText": "क्या आपके पास दर्द है?",
+    "english": "Do you have pain?"
+  },
+  {
+    "targetText": "मुझे दर्द पसंद है।",
+    "english": "I like pain."
+  },
+  {
+    "targetText": "मुझे दर्द पसंद नहीं है।",
+    "english": "I don't like pain."
+  },
+  {
+    "targetText": "मैं दर्द ढूँढ रहा हूँ।",
+    "english": "I am looking for pain."
+  },
+  {
+    "targetText": "यह दर्द बहुत अच्छा है।",
+    "english": "This is a very good pain."
+  },
+  {
+    "targetText": "क्या यह दर्द है?",
+    "english": "Is this pain?"
+  },
+  {
+    "targetText": "मुझे मदद चाहिए।",
+    "english": "I need help."
+  },
+  {
+    "targetText": "कृपया मुझे मदद दीजिए।",
+    "english": "Please give me help."
+  },
+  {
+    "targetText": "मदद कहाँ है?",
+    "english": "Where is the help?"
+  },
+  {
+    "targetText": "यह मेरा मदद है।",
+    "english": "This is my help."
+  },
+  {
+    "targetText": "क्या आपके पास मदद है?",
+    "english": "Do you have help?"
+  },
+  {
+    "targetText": "मुझे मदद पसंद है।",
+    "english": "I like help."
+  },
+  {
+    "targetText": "मुझे मदद पसंद नहीं है।",
+    "english": "I don't like help."
+  },
+  {
+    "targetText": "मैं मदद ढूँढ रहा हूँ।",
+    "english": "I am looking for help."
+  },
+  {
+    "targetText": "यह मदद बहुत अच्छा है।",
+    "english": "This is a very good help."
+  },
+  {
+    "targetText": "क्या यह मदद है?",
+    "english": "Is this help?"
+  },
+  {
+    "targetText": "मुझे आपातकाल चाहिए।",
+    "english": "I need emergency."
+  },
+  {
+    "targetText": "कृपया मुझे आपातकाल दीजिए।",
+    "english": "Please give me emergency."
+  },
+  {
+    "targetText": "आपातकाल कहाँ है?",
+    "english": "Where is the emergency?"
+  },
+  {
+    "targetText": "यह मेरा आपातकाल है।",
+    "english": "This is my emergency."
+  },
+  {
+    "targetText": "क्या आपके पास आपातकाल है?",
+    "english": "Do you have emergency?"
+  },
+  {
+    "targetText": "मुझे आपातकाल पसंद है।",
+    "english": "I like emergency."
+  },
+  {
+    "targetText": "मुझे आपातकाल पसंद नहीं है।",
+    "english": "I don't like emergency."
+  },
+  {
+    "targetText": "मैं आपातकाल ढूँढ रहा हूँ।",
+    "english": "I am looking for emergency."
+  },
+  {
+    "targetText": "यह आपातकाल बहुत अच्छा है।",
+    "english": "This is a very good emergency."
+  },
+  {
+    "targetText": "क्या यह आपातकाल है?",
+    "english": "Is this emergency?"
+  },
+  {
+    "targetText": "मुझे बारिश चाहिए।",
+    "english": "I need rain."
+  },
+  {
+    "targetText": "कृपया मुझे बारिश दीजिए।",
+    "english": "Please give me rain."
+  },
+  {
+    "targetText": "बारिश कहाँ है?",
+    "english": "Where is the rain?"
+  },
+  {
+    "targetText": "यह मेरा बारिश है।",
+    "english": "This is my rain."
+  },
+  {
+    "targetText": "क्या आपके पास बारिश है?",
+    "english": "Do you have rain?"
+  },
+  {
+    "targetText": "मुझे बारिश पसंद है।",
+    "english": "I like rain."
+  },
+  {
+    "targetText": "मुझे बारिश पसंद नहीं है।",
+    "english": "I don't like rain."
+  },
+  {
+    "targetText": "मैं बारिश ढूँढ रहा हूँ।",
+    "english": "I am looking for rain."
+  },
+  {
+    "targetText": "यह बारिश बहुत अच्छा है।",
+    "english": "This is a very good rain."
+  },
+  {
+    "targetText": "क्या यह बारिश है?",
+    "english": "Is this rain?"
+  },
+  {
+    "targetText": "मुझे सूरज चाहिए।",
+    "english": "I need sun."
+  },
+  {
+    "targetText": "कृपया मुझे सूरज दीजिए।",
+    "english": "Please give me sun."
+  },
+  {
+    "targetText": "सूरज कहाँ है?",
+    "english": "Where is the sun?"
+  },
+  {
+    "targetText": "यह मेरा सूरज है।",
+    "english": "This is my sun."
+  },
+  {
+    "targetText": "क्या आपके पास सूरज है?",
+    "english": "Do you have sun?"
+  },
+  {
+    "targetText": "मुझे सूरज पसंद है।",
+    "english": "I like sun."
+  },
+  {
+    "targetText": "मुझे सूरज पसंद नहीं है।",
+    "english": "I don't like sun."
+  },
+  {
+    "targetText": "मैं सूरज ढूँढ रहा हूँ।",
+    "english": "I am looking for sun."
+  },
+  {
+    "targetText": "यह सूरज बहुत अच्छा है।",
+    "english": "This is a very good sun."
+  },
+  {
+    "targetText": "क्या यह सूरज है?",
+    "english": "Is this sun?"
+  },
+  {
+    "targetText": "मुझे हवा चाहिए।",
+    "english": "I need wind."
+  },
+  {
+    "targetText": "कृपया मुझे हवा दीजिए।",
+    "english": "Please give me wind."
+  },
+  {
+    "targetText": "हवा कहाँ है?",
+    "english": "Where is the wind?"
+  },
+  {
+    "targetText": "यह मेरा हवा है।",
+    "english": "This is my wind."
+  },
+  {
+    "targetText": "क्या आपके पास हवा है?",
+    "english": "Do you have wind?"
+  },
+  {
+    "targetText": "मुझे हवा पसंद है।",
+    "english": "I like wind."
+  },
+  {
+    "targetText": "मुझे हवा पसंद नहीं है।",
+    "english": "I don't like wind."
+  },
+  {
+    "targetText": "मैं हवा ढूँढ रहा हूँ।",
+    "english": "I am looking for wind."
+  },
+  {
+    "targetText": "यह हवा बहुत अच्छा है।",
+    "english": "This is a very good wind."
+  },
+  {
+    "targetText": "क्या यह हवा है?",
+    "english": "Is this wind?"
+  },
+  {
+    "targetText": "मुझे ठंड चाहिए।",
+    "english": "I need cold."
+  },
+  {
+    "targetText": "कृपया मुझे ठंड दीजिए।",
+    "english": "Please give me cold."
+  },
+  {
+    "targetText": "ठंड कहाँ है?",
+    "english": "Where is the cold?"
+  },
+  {
+    "targetText": "यह मेरा ठंड है।",
+    "english": "This is my cold."
+  },
+  {
+    "targetText": "क्या आपके पास ठंड है?",
+    "english": "Do you have cold?"
+  },
+  {
+    "targetText": "मुझे ठंड पसंद है।",
+    "english": "I like cold."
+  },
+  {
+    "targetText": "मुझे ठंड पसंद नहीं है।",
+    "english": "I don't like cold."
+  },
+  {
+    "targetText": "मैं ठंड ढूँढ रहा हूँ।",
+    "english": "I am looking for cold."
+  },
+  {
+    "targetText": "यह ठंड बहुत अच्छा है।",
+    "english": "This is a very good cold."
+  },
+  {
+    "targetText": "क्या यह ठंड है?",
+    "english": "Is this cold?"
+  },
+  {
+    "targetText": "मुझे गर्मी चाहिए।",
+    "english": "I need heat."
+  },
+  {
+    "targetText": "कृपया मुझे गर्मी दीजिए।",
+    "english": "Please give me heat."
+  },
+  {
+    "targetText": "गर्मी कहाँ है?",
+    "english": "Where is the heat?"
+  },
+  {
+    "targetText": "यह मेरा गर्मी है।",
+    "english": "This is my heat."
+  },
+  {
+    "targetText": "क्या आपके पास गर्मी है?",
+    "english": "Do you have heat?"
+  },
+  {
+    "targetText": "मुझे गर्मी पसंद है।",
+    "english": "I like heat."
+  },
+  {
+    "targetText": "मुझे गर्मी पसंद नहीं है।",
+    "english": "I don't like heat."
+  },
+  {
+    "targetText": "मैं गर्मी ढूँढ रहा हूँ।",
+    "english": "I am looking for heat."
+  },
+  {
+    "targetText": "यह गर्मी बहुत अच्छा है।",
+    "english": "This is a very good heat."
+  },
+  {
+    "targetText": "क्या यह गर्मी है?",
+    "english": "Is this heat?"
+  },
+  {
+    "targetText": "मुझे समय चाहिए।",
+    "english": "I need time."
+  },
+  {
+    "targetText": "कृपया मुझे समय दीजिए।",
+    "english": "Please give me time."
+  },
+  {
+    "targetText": "समय कहाँ है?",
+    "english": "Where is the time?"
+  },
+  {
+    "targetText": "यह मेरा समय है।",
+    "english": "This is my time."
+  },
+  {
+    "targetText": "क्या आपके पास समय है?",
+    "english": "Do you have time?"
+  },
+  {
+    "targetText": "मुझे समय पसंद है।",
+    "english": "I like time."
+  },
+  {
+    "targetText": "मुझे समय पसंद नहीं है।",
+    "english": "I don't like time."
+  },
+  {
+    "targetText": "मैं समय ढूँढ रहा हूँ।",
+    "english": "I am looking for time."
+  },
+  {
+    "targetText": "यह समय बहुत अच्छा है।",
+    "english": "This is a very good time."
+  },
+  {
+    "targetText": "क्या यह समय है?",
+    "english": "Is this time?"
+  },
+  {
+    "targetText": "मुझे आज चाहिए।",
+    "english": "I need today."
+  },
+  {
+    "targetText": "कृपया मुझे आज दीजिए।",
+    "english": "Please give me today."
+  },
+  {
+    "targetText": "आज कहाँ है?",
+    "english": "Where is the today?"
+  },
+  {
+    "targetText": "यह मेरा आज है।",
+    "english": "This is my today."
+  },
+  {
+    "targetText": "क्या आपके पास आज है?",
+    "english": "Do you have today?"
+  },
+  {
+    "targetText": "मुझे आज पसंद है।",
+    "english": "I like today."
+  },
+  {
+    "targetText": "मुझे आज पसंद नहीं है।",
+    "english": "I don't like today."
+  },
+  {
+    "targetText": "मैं आज ढूँढ रहा हूँ।",
+    "english": "I am looking for today."
+  },
+  {
+    "targetText": "यह आज बहुत अच्छा है।",
+    "english": "This is a very good today."
+  },
+  {
+    "targetText": "क्या यह आज है?",
+    "english": "Is this today?"
+  },
+  {
+    "targetText": "मुझे कल चाहिए।",
+    "english": "I need tomorrow."
+  },
+  {
+    "targetText": "कृपया मुझे कल दीजिए।",
+    "english": "Please give me tomorrow."
+  },
+  {
+    "targetText": "कल कहाँ है?",
+    "english": "Where is the tomorrow?"
+  },
+  {
+    "targetText": "यह मेरा कल है।",
+    "english": "This is my tomorrow."
+  },
+  {
+    "targetText": "क्या आपके पास कल है?",
+    "english": "Do you have tomorrow?"
+  },
+  {
+    "targetText": "मुझे कल पसंद है।",
+    "english": "I like tomorrow."
+  },
+  {
+    "targetText": "मुझे कल पसंद नहीं है।",
+    "english": "I don't like tomorrow."
+  },
+  {
+    "targetText": "मैं कल ढूँढ रहा हूँ।",
+    "english": "I am looking for tomorrow."
+  },
+  {
+    "targetText": "यह कल बहुत अच्छा है।",
+    "english": "This is a very good tomorrow."
+  },
+  {
+    "targetText": "क्या यह कल है?",
+    "english": "Is this tomorrow?"
+  },
+  {
+    "targetText": "मुझे सुबह चाहिए।",
+    "english": "I need morning."
+  },
+  {
+    "targetText": "कृपया मुझे सुबह दीजिए।",
+    "english": "Please give me morning."
+  },
+  {
+    "targetText": "सुबह कहाँ है?",
+    "english": "Where is the morning?"
+  },
+  {
+    "targetText": "यह मेरा सुबह है।",
+    "english": "This is my morning."
+  },
+  {
+    "targetText": "क्या आपके पास सुबह है?",
+    "english": "Do you have morning?"
+  },
+  {
+    "targetText": "मुझे सुबह पसंद है।",
+    "english": "I like morning."
+  },
+  {
+    "targetText": "मुझे सुबह पसंद नहीं है।",
+    "english": "I don't like morning."
+  },
+  {
+    "targetText": "मैं सुबह ढूँढ रहा हूँ।",
+    "english": "I am looking for morning."
+  },
+  {
+    "targetText": "यह सुबह बहुत अच्छा है।",
+    "english": "This is a very good morning."
+  },
+  {
+    "targetText": "क्या यह सुबह है?",
+    "english": "Is this morning?"
+  },
+  {
+    "targetText": "मुझे शाम चाहिए।",
+    "english": "I need evening."
+  },
+  {
+    "targetText": "कृपया मुझे शाम दीजिए।",
+    "english": "Please give me evening."
+  },
+  {
+    "targetText": "शाम कहाँ है?",
+    "english": "Where is the evening?"
+  },
+  {
+    "targetText": "यह मेरा शाम है।",
+    "english": "This is my evening."
+  },
+  {
+    "targetText": "क्या आपके पास शाम है?",
+    "english": "Do you have evening?"
+  },
+  {
+    "targetText": "मुझे शाम पसंद है।",
+    "english": "I like evening."
+  },
+  {
+    "targetText": "मुझे शाम पसंद नहीं है।",
+    "english": "I don't like evening."
+  },
+  {
+    "targetText": "मैं शाम ढूँढ रहा हूँ।",
+    "english": "I am looking for evening."
+  },
+  {
+    "targetText": "यह शाम बहुत अच्छा है।",
+    "english": "This is a very good evening."
+  },
+  {
+    "targetText": "क्या यह शाम है?",
+    "english": "Is this evening?"
+  },
+  {
+    "targetText": "मुझे रात चाहिए।",
+    "english": "I need night."
+  },
+  {
+    "targetText": "कृपया मुझे रात दीजिए।",
+    "english": "Please give me night."
+  },
+  {
+    "targetText": "रात कहाँ है?",
+    "english": "Where is the night?"
+  },
+  {
+    "targetText": "यह मेरा रात है।",
+    "english": "This is my night."
+  },
+  {
+    "targetText": "क्या आपके पास रात है?",
+    "english": "Do you have night?"
+  },
+  {
+    "targetText": "मुझे रात पसंद है।",
+    "english": "I like night."
+  },
+  {
+    "targetText": "मुझे रात पसंद नहीं है।",
+    "english": "I don't like night."
+  },
+  {
+    "targetText": "मैं रात ढूँढ रहा हूँ।",
+    "english": "I am looking for night."
+  },
+  {
+    "targetText": "यह रात बहुत अच्छा है।",
+    "english": "This is a very good night."
+  },
+  {
+    "targetText": "क्या यह रात है?",
+    "english": "Is this night?"
+  },
+  {
+    "targetText": "मुझे अच्छा पानी चाहिए।",
+    "english": "I need good water."
+  },
+  {
+    "targetText": "कृपया मुझे अच्छा पानी दीजिए।",
+    "english": "Please give me good water."
+  },
+  {
+    "targetText": "अच्छा पानी कहाँ है?",
+    "english": "Where is the good water?"
+  },
+  {
+    "targetText": "यह मेरा अच्छा पानी है।",
+    "english": "This is my good water."
+  },
+  {
+    "targetText": "क्या आपके पास अच्छा पानी है?",
+    "english": "Do you have good water?"
+  },
+  {
+    "targetText": "मुझे अच्छा खाना चाहिए।",
+    "english": "I need good food."
+  },
+  {
+    "targetText": "कृपया मुझे अच्छा खाना दीजिए।",
+    "english": "Please give me good food."
+  },
+  {
+    "targetText": "अच्छा खाना कहाँ है?",
+    "english": "Where is the good food?"
+  },
+  {
+    "targetText": "यह मेरा अच्छा खाना है।",
+    "english": "This is my good food."
+  },
+  {
+    "targetText": "क्या आपके पास अच्छा खाना है?",
+    "english": "Do you have good food?"
+  },
+  {
+    "targetText": "मुझे अच्छा चाय चाहिए।",
+    "english": "I need good tea."
+  },
+  {
+    "targetText": "कृपया मुझे अच्छा चाय दीजिए।",
+    "english": "Please give me good tea."
+  },
+  {
+    "targetText": "अच्छा चाय कहाँ है?",
+    "english": "Where is the good tea?"
+  },
+  {
+    "targetText": "यह मेरा अच्छा चाय है।",
+    "english": "This is my good tea."
+  },
+  {
+    "targetText": "क्या आपके पास अच्छा चाय है?",
+    "english": "Do you have good tea?"
+  },
+  {
+    "targetText": "मुझे अच्छा कॉफ़ी चाहिए।",
+    "english": "I need good coffee."
+  },
+  {
+    "targetText": "कृपया मुझे अच्छा कॉफ़ी दीजिए।",
+    "english": "Please give me good coffee."
+  },
+  {
+    "targetText": "अच्छा कॉफ़ी कहाँ है?",
+    "english": "Where is the good coffee?"
+  },
+  {
+    "targetText": "यह मेरा अच्छा कॉफ़ी है।",
+    "english": "This is my good coffee."
+  },
+  {
+    "targetText": "क्या आपके पास अच्छा कॉफ़ी है?",
+    "english": "Do you have good coffee?"
+  },
+  {
+    "targetText": "मुझे अच्छा दूध चाहिए।",
+    "english": "I need good milk."
+  },
+  {
+    "targetText": "कृपया मुझे अच्छा दूध दीजिए।",
+    "english": "Please give me good milk."
+  },
+  {
+    "targetText": "अच्छा दूध कहाँ है?",
+    "english": "Where is the good milk?"
+  },
+  {
+    "targetText": "यह मेरा अच्छा दूध है।",
+    "english": "This is my good milk."
+  },
+  {
+    "targetText": "क्या आपके पास अच्छा दूध है?",
+    "english": "Do you have good milk?"
+  },
+  {
+    "targetText": "मुझे अच्छा रोटी चाहिए।",
+    "english": "I need good bread."
+  },
+  {
+    "targetText": "कृपया मुझे अच्छा रोटी दीजिए।",
+    "english": "Please give me good bread."
+  },
+  {
+    "targetText": "अच्छा रोटी कहाँ है?",
+    "english": "Where is the good bread?"
+  },
+  {
+    "targetText": "यह मेरा अच्छा रोटी है।",
+    "english": "This is my good bread."
+  },
+  {
+    "targetText": "क्या आपके पास अच्छा रोटी है?",
+    "english": "Do you have good bread?"
+  }
+]

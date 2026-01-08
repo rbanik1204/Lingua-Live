@@ -1,0 +1,370 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function userDoc() {
+      return get(/databases/$(database)/documents/users/$(request.auth.uid));
+    }
+
+    function role() {
+      return userDoc().data.role;
+    }
+
+    function isTeacher() {
+      return signedIn() && (role() == 'teacher' || role() == 'admin');
+    }
+
+    function isInstructorEmail() {
+      return signedIn() && request.auth.token.email == 'nandini.nandini01@gmail.com';
+    }
+
+    function isSessionOwner(sessionId) {
+      return isTeacher()
+        && get(/databases/$(database)/documents/liveSessions/$(sessionId)).data.startedByUid == request.auth.uid;
+    }
+
+    function isKicked(sessionId) {
+      return exists(/databases/$(database)/documents/liveSessions/$(sessionId)/participants/$(request.auth.uid))
+        && get(/databases/$(database)/documents/liveSessions/$(sessionId)/participants/$(request.auth.uid)).data.kicked == true;
+    }
+
+    function isChatBanned(sessionId) {
+      return exists(/databases/$(database)/documents/liveSessions/$(sessionId)/bans/$(request.auth.uid));
+    }
+
+    function isEnrolled(courseId) {
+      return signedIn() && exists(/databases/$(database)/documents/enrollments/$(courseId + '__' + request.auth.uid));
+    }
+
+    match /users/{userId} {
+      allow read: if signedIn() && request.auth.uid == userId;
+
+      // Allow creating your own profile doc, but prevent self-escalation.
+      allow create: if signedIn()
+        && request.auth.uid == userId
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.email == request.auth.token.email
+        // Role must match default rule: teacher email => teacher else student
+        && ((isInstructorEmail() && request.resource.data.role == 'teacher')
+            || (!isInstructorEmail() && request.resource.data.role == 'student'));
+
+      // Allow updating your own profile but do NOT allow changing role/uid/createdAt.
+      allow update: if signedIn()
+        && request.auth.uid == userId
+        && request.resource.data.uid == resource.data.uid
+        && request.resource.data.createdAt == resource.data.createdAt
+        && (
+          // Normal users cannot change role.
+          request.resource.data.role == resource.data.role
+          // Authorized instructor emails can promote themselves from student -> teacher only.
+          || (isInstructorEmail() && resource.data.role == 'student' && request.resource.data.role == 'teacher')
+        );
+
+      allow delete: if false;
+    }
+
+    match /courses/{courseId} {
+      allow read: if isTeacher() || (resource.data.isPublished == true) || isEnrolled(courseId);
+
+      allow create: if isTeacher()
+        && request.resource.data.createdByUid == request.auth.uid;
+
+      allow update, delete: if isTeacher()
+        && resource.data.createdByUid == request.auth.uid
+        && request.resource.data.createdByUid == resource.data.createdByUid;
+
+      match /homework/{homeworkId} {
+        allow read: if isTeacher() || isEnrolled(courseId);
+
+        allow create: if isTeacher()
+          && request.resource.data.createdByUid == request.auth.uid;
+
+        allow update, delete: if isTeacher()
+          && resource.data.createdByUid == request.auth.uid
+          && request.resource.data.createdByUid == resource.data.createdByUid;
+
+        match /submissions/{userId} {
+          allow read: if isTeacher() || (signedIn() && request.auth.uid == userId);
+
+          // Student submits their own work.
+          allow create, update: if signedIn()
+            && request.auth.uid == userId
+            && isEnrolled(courseId)
+            && request.resource.data.userId == request.auth.uid;
+
+          // Teacher can review/update feedback.
+          allow update: if isTeacher();
+
+          allow delete: if false;
+        }
+      }
+    }
+
+    match /enrollments/{enrollmentId} {
+      allow read: if isTeacher() || (signedIn() && resource.data.userId == request.auth.uid);
+
+      allow create: if signedIn()
+        && request.resource.data.userId == request.auth.uid
+        && enrollmentId == (request.resource.data.courseId + '__' + request.auth.uid);
+
+      allow delete: if signedIn() && resource.data.userId == request.auth.uid;
+      allow update: if false;
+    }
+
+    match /liveSessions/{sessionId} {
+      allow read: if isTeacher() || isEnrolled(resource.data.courseId);
+
+      allow create: if isTeacher()
+        && request.resource.data.startedByUid == request.auth.uid
+        && request.resource.data.status == 'active';
+
+      allow update: if isTeacher()
+        && resource.data.startedByUid == request.auth.uid
+        && request.resource.data.courseId == resource.data.courseId
+        && request.resource.data.startedByUid == resource.data.startedByUid;
+
+      allow delete: if false;
+
+      match /messages/{messageId} {
+        allow read: if isTeacher() || isEnrolled(get(/databases/$(database)/documents/liveSessions/$(sessionId)).data.courseId);
+
+        allow create: if signedIn()
+          && request.resource.data.senderUid == request.auth.uid
+          && request.resource.data.senderRole == role()
+          && !isChatBanned(sessionId)
+          && !isKicked(sessionId);
+
+        allow update, delete: if false;
+      }
+
+      match /participants/{userId} {
+        allow read: if isTeacher() || isEnrolled(get(/databases/$(database)/documents/liveSessions/$(sessionId)).data.courseId);
+
+        // Students can create/update their own participant presence.
+        allow create, update: if signedIn()
+          && request.auth.uid == userId
+          && isEnrolled(get(/databases/$(database)/documents/liveSessions/$(sessionId)).data.courseId)
+          && request.resource.data.uid == request.auth.uid;
+
+        // Session owner (teacher) can moderate participants (kick/un-kick).
+        allow update: if isSessionOwner(sessionId);
+
+        allow delete: if false;
+      }
+
+      match /bans/{userId} {
+        allow read: if isSessionOwner(sessionId);
+        allow create, update, delete: if isSessionOwner(sessionId);
+      }
+
+      match /reports/{reportId} {
+        allow read: if isSessionOwner(sessionId);
+
+        allow create: if signedIn()
+          && isEnrolled(get(/databases/$(database)/documents/liveSessions/$(sessionId)).data.courseId)
+          && request.resource.data.reportedByUid == request.auth.uid
+          && request.resource.data.status == 'open';
+
+        allow update: if isSessionOwner(sessionId);
+        allow delete: if false;
+      }
+    }
+
+    // Per-course external meeting link (e.g., Zoom) that enrolled students can join.
+    // Doc id is the courseId.
+    match /courseMeetings/{courseId} {
+      allow read: if isTeacher() || isEnrolled(courseId);
+
+      // Only the teacher who created the course can create/update the meeting link.
+      allow create: if isTeacher()
+        && get(/databases/$(database)/documents/courses/$(courseId)).data.createdByUid == request.auth.uid
+        && request.resource.data.courseId == courseId
+        && request.resource.data.createdByUid == request.auth.uid
+        && request.resource.data.provider in ['zoom']
+        && request.resource.data.joinUrl is string
+        && request.resource.data.status == 'active';
+
+      allow update: if isTeacher()
+        && resource.data.createdByUid == request.auth.uid
+        && get(/databases/$(database)/documents/courses/$(courseId)).data.createdByUid == request.auth.uid
+        && request.resource.data.courseId == resource.data.courseId
+        && request.resource.data.createdByUid == resource.data.createdByUid
+        && request.resource.data.provider == resource.data.provider
+        && request.resource.data.joinUrl is string;
+
+      allow delete: if false;
+    }
+
+    // Pronunciation library items.
+    match /pronunciationItems/{itemId} {
+      allow read: if signedIn();
+
+      allow create: if isTeacher()
+        && request.resource.data.language in ['Bengali', 'Hindi', 'English']
+        && request.resource.data.type in ['letter', 'word', 'sentence']
+        && request.resource.data.targetText is string
+        && request.resource.data.createdByUid == request.auth.uid;
+
+      allow update: if isTeacher();
+      allow delete: if isTeacher();
+    }
+
+    // Lesson content management
+    match /lessonContent/{lessonId} {
+      allow read: if signedIn();
+      allow create: if isTeacher();
+      allow update: if isTeacher();
+      allow delete: if isTeacher();
+    }
+
+    // Vocabulary items for lessons
+    match /vocabularyItems/{vocabId} {
+      allow read: if signedIn();
+      allow create: if isTeacher();
+      allow update: if isTeacher();
+      allow delete: if isTeacher();
+    }
+
+    // Practice sentences for lessons
+    match /practiceSentences/{sentenceId} {
+      allow read: if signedIn();
+      allow create: if isTeacher();
+      allow update: if isTeacher();
+      allow delete: if isTeacher();
+    }
+
+    // Introduction sections
+    match /introductionSections/{introId} {
+      allow read: if signedIn();
+      allow create: if isTeacher();
+      allow update: if isTeacher();
+      allow delete: if isTeacher();
+    }
+
+    // Daily quizzes
+    match /dailyQuizzes/{quizId} {
+      allow read: if signedIn();
+      allow create: if isTeacher();
+      allow update: if isTeacher();
+      allow delete: if isTeacher();
+    }
+
+    // Quiz answers
+    match /quizAnswers/{answerId} {
+      allow read: if isTeacher() || (signedIn() && resource.data.userId == request.auth.uid);
+      allow create: if signedIn() && request.resource.data.userId == request.auth.uid;
+      allow update: if false;
+      allow delete: if false;
+    }
+
+    // Student shoutouts
+    match /shoutouts/{shoutoutId} {
+      allow read: if signedIn();
+      allow create: if isTeacher();
+      allow update: if isTeacher();
+      allow delete: if isTeacher();
+    }
+
+    // Student audio submissions for teacher review.
+    match /pronunciationSubmissions/{submissionId} {
+      allow read: if isTeacher() || (signedIn() && resource.data.userId == request.auth.uid);
+
+      allow create: if signedIn()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.language in ['Bengali', 'Hindi', 'English']
+        && request.resource.data.type in ['letter', 'word', 'sentence']
+        && request.resource.data.audioUrl is string
+        && request.resource.data.storagePath is string
+        && request.resource.data.status == 'submitted';
+
+      // Teacher can mark reviewed.
+      allow update: if isTeacher();
+      allow delete: if false;
+    }
+
+    // Booking system for trial sessions.
+    match /bookings/{bookingId} {
+      // Anyone can read bookings (to check slot availability).
+      allow read: if signedIn();
+
+      // Any signed-in user can create a booking.
+      allow create: if signedIn()
+        && request.resource.data.studentEmail is string
+        && request.resource.data.studentName is string
+        && request.resource.data.date is string
+        && request.resource.data.time is string
+        && request.resource.data.status == 'pending';
+
+      // Only teacher can update bookings (confirm/reject).
+      allow update: if isTeacher();
+
+      // Teacher can delete bookings.
+      allow delete: if isTeacher();
+    }
+
+    // Teacher blocked time slots
+    match /blockedSlots/{slotId} {
+      // Anyone can read blocked slots (to check availability)
+      allow read: if signedIn();
+      
+      // Only teachers can create blocked slots
+      allow create: if isTeacher()
+        && request.resource.data.teacherId is string
+        && request.resource.data.date is string
+        && request.resource.data.time is string
+        && request.resource.data.duration is number;
+      
+      // Only the teacher who created the block can delete it
+      allow delete: if isTeacher() && resource.data.teacherId == request.auth.uid;
+      
+      // No updates allowed
+      allow update: if false;
+    }
+
+    // Payment records
+    match /payments/{paymentId} {
+      // Users can read their own payments, teachers can read all
+      allow read: if isTeacher() || (signedIn() && resource.data.userId == request.auth.uid);
+      
+      // Users can create payment records
+      allow create: if signedIn()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.status == 'pending';
+      
+      // Only teachers can update (approve/reject)
+      allow update: if isTeacher();
+      
+      allow delete: if false;
+    }
+
+    // User purchases
+    match /userPurchases/{userId} {
+      // Users can read their own purchases, teachers can read all
+      allow read: if isTeacher() || (signedIn() && userId == request.auth.uid);
+      
+      // Only teachers can write/update purchases (after payment approval)
+      allow create, update: if isTeacher();
+      
+      allow delete: if false;
+    }
+
+    // Scheduled classes - teachers manage their class schedule
+    match /scheduledClasses/{classId} {
+      // Teachers can read their own scheduled classes
+      allow read: if isTeacher() && resource.data.teacherId == request.auth.uid;
+      
+      // Teachers can create scheduled classes
+      allow create: if isTeacher() && request.resource.data.teacherId == request.auth.uid;
+      
+      // Teachers can update their own scheduled classes
+      allow update: if isTeacher() && resource.data.teacherId == request.auth.uid;
+      
+      // Teachers can delete their own scheduled classes
+      allow delete: if isTeacher() && resource.data.teacherId == request.auth.uid;
+    }
+  }
+}
+

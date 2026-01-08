@@ -1,0 +1,4002 @@
+[
+  {
+    "targetText": "Water",
+    "english": "Water"
+  },
+  {
+    "targetText": "Food",
+    "english": "Food"
+  },
+  {
+    "targetText": "Tea",
+    "english": "Tea"
+  },
+  {
+    "targetText": "Coffee",
+    "english": "Coffee"
+  },
+  {
+    "targetText": "Milk",
+    "english": "Milk"
+  },
+  {
+    "targetText": "Bread",
+    "english": "Bread"
+  },
+  {
+    "targetText": "Rice",
+    "english": "Rice"
+  },
+  {
+    "targetText": "Salt",
+    "english": "Salt"
+  },
+  {
+    "targetText": "Sugar",
+    "english": "Sugar"
+  },
+  {
+    "targetText": "Fruit",
+    "english": "Fruit"
+  },
+  {
+    "targetText": "Vegetables",
+    "english": "Vegetables"
+  },
+  {
+    "targetText": "Banana",
+    "english": "Banana"
+  },
+  {
+    "targetText": "Apple",
+    "english": "Apple"
+  },
+  {
+    "targetText": "Mango",
+    "english": "Mango"
+  },
+  {
+    "targetText": "Orange",
+    "english": "Orange"
+  },
+  {
+    "targetText": "Egg",
+    "english": "Egg"
+  },
+  {
+    "targetText": "Fish",
+    "english": "Fish"
+  },
+  {
+    "targetText": "Chicken",
+    "english": "Chicken"
+  },
+  {
+    "targetText": "Breakfast",
+    "english": "Breakfast"
+  },
+  {
+    "targetText": "Lunch",
+    "english": "Lunch"
+  },
+  {
+    "targetText": "Dinner",
+    "english": "Dinner"
+  },
+  {
+    "targetText": "Book",
+    "english": "Book"
+  },
+  {
+    "targetText": "Pen",
+    "english": "Pen"
+  },
+  {
+    "targetText": "Pencil",
+    "english": "Pencil"
+  },
+  {
+    "targetText": "Notebook",
+    "english": "Notebook"
+  },
+  {
+    "targetText": "Paper",
+    "english": "Paper"
+  },
+  {
+    "targetText": "Bag",
+    "english": "Bag"
+  },
+  {
+    "targetText": "School",
+    "english": "School"
+  },
+  {
+    "targetText": "Class",
+    "english": "Class"
+  },
+  {
+    "targetText": "Teacher",
+    "english": "Teacher"
+  },
+  {
+    "targetText": "Student",
+    "english": "Student"
+  },
+  {
+    "targetText": "Homework",
+    "english": "Homework"
+  },
+  {
+    "targetText": "Exam",
+    "english": "Exam"
+  },
+  {
+    "targetText": "Question",
+    "english": "Question"
+  },
+  {
+    "targetText": "Answer",
+    "english": "Answer"
+  },
+  {
+    "targetText": "Lesson",
+    "english": "Lesson"
+  },
+  {
+    "targetText": "Practice",
+    "english": "Practice"
+  },
+  {
+    "targetText": "Pronunciation",
+    "english": "Pronunciation"
+  },
+  {
+    "targetText": "House",
+    "english": "House"
+  },
+  {
+    "targetText": "Room",
+    "english": "Room"
+  },
+  {
+    "targetText": "Kitchen",
+    "english": "Kitchen"
+  },
+  {
+    "targetText": "Bathroom",
+    "english": "Bathroom"
+  },
+  {
+    "targetText": "Bed",
+    "english": "Bed"
+  },
+  {
+    "targetText": "Chair",
+    "english": "Chair"
+  },
+  {
+    "targetText": "Table",
+    "english": "Table"
+  },
+  {
+    "targetText": "Door",
+    "english": "Door"
+  },
+  {
+    "targetText": "Window",
+    "english": "Window"
+  },
+  {
+    "targetText": "Key",
+    "english": "Key"
+  },
+  {
+    "targetText": "Mother",
+    "english": "Mother"
+  },
+  {
+    "targetText": "Father",
+    "english": "Father"
+  },
+  {
+    "targetText": "Brother",
+    "english": "Brother"
+  },
+  {
+    "targetText": "Sister",
+    "english": "Sister"
+  },
+  {
+    "targetText": "Friend",
+    "english": "Friend"
+  },
+  {
+    "targetText": "Family",
+    "english": "Family"
+  },
+  {
+    "targetText": "Child",
+    "english": "Child"
+  },
+  {
+    "targetText": "Name",
+    "english": "Name"
+  },
+  {
+    "targetText": "Phone",
+    "english": "Phone"
+  },
+  {
+    "targetText": "Computer",
+    "english": "Computer"
+  },
+  {
+    "targetText": "Internet",
+    "english": "Internet"
+  },
+  {
+    "targetText": "Message",
+    "english": "Message"
+  },
+  {
+    "targetText": "Money",
+    "english": "Money"
+  },
+  {
+    "targetText": "Price",
+    "english": "Price"
+  },
+  {
+    "targetText": "Market",
+    "english": "Market"
+  },
+  {
+    "targetText": "Shop",
+    "english": "Shop"
+  },
+  {
+    "targetText": "Bill",
+    "english": "Bill"
+  },
+  {
+    "targetText": "Card",
+    "english": "Card"
+  },
+  {
+    "targetText": "Bank",
+    "english": "Bank"
+  },
+  {
+    "targetText": "Bus",
+    "english": "Bus"
+  },
+  {
+    "targetText": "Train",
+    "english": "Train"
+  },
+  {
+    "targetText": "Taxi",
+    "english": "Taxi"
+  },
+  {
+    "targetText": "Car",
+    "english": "Car"
+  },
+  {
+    "targetText": "Bike",
+    "english": "Bike"
+  },
+  {
+    "targetText": "Ticket",
+    "english": "Ticket"
+  },
+  {
+    "targetText": "Station",
+    "english": "Station"
+  },
+  {
+    "targetText": "Airport",
+    "english": "Airport"
+  },
+  {
+    "targetText": "Hotel",
+    "english": "Hotel"
+  },
+  {
+    "targetText": "Restaurant",
+    "english": "Restaurant"
+  },
+  {
+    "targetText": "Map",
+    "english": "Map"
+  },
+  {
+    "targetText": "Address",
+    "english": "Address"
+  },
+  {
+    "targetText": "Doctor",
+    "english": "Doctor"
+  },
+  {
+    "targetText": "Hospital",
+    "english": "Hospital"
+  },
+  {
+    "targetText": "Medicine",
+    "english": "Medicine"
+  },
+  {
+    "targetText": "Fever",
+    "english": "Fever"
+  },
+  {
+    "targetText": "Pain",
+    "english": "Pain"
+  },
+  {
+    "targetText": "Help",
+    "english": "Help"
+  },
+  {
+    "targetText": "Emergency",
+    "english": "Emergency"
+  },
+  {
+    "targetText": "Rain",
+    "english": "Rain"
+  },
+  {
+    "targetText": "Sun",
+    "english": "Sun"
+  },
+  {
+    "targetText": "Wind",
+    "english": "Wind"
+  },
+  {
+    "targetText": "Cold",
+    "english": "Cold"
+  },
+  {
+    "targetText": "Heat",
+    "english": "Heat"
+  },
+  {
+    "targetText": "Time",
+    "english": "Time"
+  },
+  {
+    "targetText": "Today",
+    "english": "Today"
+  },
+  {
+    "targetText": "Tomorrow",
+    "english": "Tomorrow"
+  },
+  {
+    "targetText": "Yesterday",
+    "english": "Yesterday"
+  },
+  {
+    "targetText": "Morning",
+    "english": "Morning"
+  },
+  {
+    "targetText": "Evening",
+    "english": "Evening"
+  },
+  {
+    "targetText": "Night",
+    "english": "Night"
+  },
+  {
+    "targetText": "Good-Water",
+    "english": "Good Water"
+  },
+  {
+    "targetText": "Good-Food",
+    "english": "Good Food"
+  },
+  {
+    "targetText": "Good-Tea",
+    "english": "Good Tea"
+  },
+  {
+    "targetText": "Good-Coffee",
+    "english": "Good Coffee"
+  },
+  {
+    "targetText": "Good-Milk",
+    "english": "Good Milk"
+  },
+  {
+    "targetText": "Good-Bread",
+    "english": "Good Bread"
+  },
+  {
+    "targetText": "Good-Rice",
+    "english": "Good Rice"
+  },
+  {
+    "targetText": "Good-Salt",
+    "english": "Good Salt"
+  },
+  {
+    "targetText": "Good-Sugar",
+    "english": "Good Sugar"
+  },
+  {
+    "targetText": "Good-Fruit",
+    "english": "Good Fruit"
+  },
+  {
+    "targetText": "Good-Vegetables",
+    "english": "Good Vegetables"
+  },
+  {
+    "targetText": "Good-Banana",
+    "english": "Good Banana"
+  },
+  {
+    "targetText": "Good-Apple",
+    "english": "Good Apple"
+  },
+  {
+    "targetText": "Good-Mango",
+    "english": "Good Mango"
+  },
+  {
+    "targetText": "Good-Orange",
+    "english": "Good Orange"
+  },
+  {
+    "targetText": "Good-Egg",
+    "english": "Good Egg"
+  },
+  {
+    "targetText": "Good-Fish",
+    "english": "Good Fish"
+  },
+  {
+    "targetText": "Good-Chicken",
+    "english": "Good Chicken"
+  },
+  {
+    "targetText": "Good-Breakfast",
+    "english": "Good Breakfast"
+  },
+  {
+    "targetText": "Good-Lunch",
+    "english": "Good Lunch"
+  },
+  {
+    "targetText": "Good-Dinner",
+    "english": "Good Dinner"
+  },
+  {
+    "targetText": "Good-Book",
+    "english": "Good Book"
+  },
+  {
+    "targetText": "Good-Pen",
+    "english": "Good Pen"
+  },
+  {
+    "targetText": "Good-Pencil",
+    "english": "Good Pencil"
+  },
+  {
+    "targetText": "Good-Notebook",
+    "english": "Good Notebook"
+  },
+  {
+    "targetText": "Good-Paper",
+    "english": "Good Paper"
+  },
+  {
+    "targetText": "Good-Bag",
+    "english": "Good Bag"
+  },
+  {
+    "targetText": "Good-School",
+    "english": "Good School"
+  },
+  {
+    "targetText": "Good-Class",
+    "english": "Good Class"
+  },
+  {
+    "targetText": "Good-Teacher",
+    "english": "Good Teacher"
+  },
+  {
+    "targetText": "Good-Student",
+    "english": "Good Student"
+  },
+  {
+    "targetText": "Good-Homework",
+    "english": "Good Homework"
+  },
+  {
+    "targetText": "Good-Exam",
+    "english": "Good Exam"
+  },
+  {
+    "targetText": "Good-Question",
+    "english": "Good Question"
+  },
+  {
+    "targetText": "Good-Answer",
+    "english": "Good Answer"
+  },
+  {
+    "targetText": "Good-Lesson",
+    "english": "Good Lesson"
+  },
+  {
+    "targetText": "Good-Practice",
+    "english": "Good Practice"
+  },
+  {
+    "targetText": "Good-Pronunciation",
+    "english": "Good Pronunciation"
+  },
+  {
+    "targetText": "Good-House",
+    "english": "Good House"
+  },
+  {
+    "targetText": "Good-Room",
+    "english": "Good Room"
+  },
+  {
+    "targetText": "Good-Kitchen",
+    "english": "Good Kitchen"
+  },
+  {
+    "targetText": "Good-Bathroom",
+    "english": "Good Bathroom"
+  },
+  {
+    "targetText": "Good-Bed",
+    "english": "Good Bed"
+  },
+  {
+    "targetText": "Good-Chair",
+    "english": "Good Chair"
+  },
+  {
+    "targetText": "Good-Table",
+    "english": "Good Table"
+  },
+  {
+    "targetText": "Good-Door",
+    "english": "Good Door"
+  },
+  {
+    "targetText": "Good-Window",
+    "english": "Good Window"
+  },
+  {
+    "targetText": "Good-Key",
+    "english": "Good Key"
+  },
+  {
+    "targetText": "Good-Mother",
+    "english": "Good Mother"
+  },
+  {
+    "targetText": "Good-Father",
+    "english": "Good Father"
+  },
+  {
+    "targetText": "Good-Brother",
+    "english": "Good Brother"
+  },
+  {
+    "targetText": "Good-Sister",
+    "english": "Good Sister"
+  },
+  {
+    "targetText": "Good-Friend",
+    "english": "Good Friend"
+  },
+  {
+    "targetText": "Good-Family",
+    "english": "Good Family"
+  },
+  {
+    "targetText": "Good-Child",
+    "english": "Good Child"
+  },
+  {
+    "targetText": "Good-Name",
+    "english": "Good Name"
+  },
+  {
+    "targetText": "Good-Phone",
+    "english": "Good Phone"
+  },
+  {
+    "targetText": "Good-Computer",
+    "english": "Good Computer"
+  },
+  {
+    "targetText": "Good-Internet",
+    "english": "Good Internet"
+  },
+  {
+    "targetText": "Good-Message",
+    "english": "Good Message"
+  },
+  {
+    "targetText": "Good-Money",
+    "english": "Good Money"
+  },
+  {
+    "targetText": "Good-Price",
+    "english": "Good Price"
+  },
+  {
+    "targetText": "Good-Market",
+    "english": "Good Market"
+  },
+  {
+    "targetText": "Good-Shop",
+    "english": "Good Shop"
+  },
+  {
+    "targetText": "Good-Bill",
+    "english": "Good Bill"
+  },
+  {
+    "targetText": "Good-Card",
+    "english": "Good Card"
+  },
+  {
+    "targetText": "Good-Bank",
+    "english": "Good Bank"
+  },
+  {
+    "targetText": "Good-Bus",
+    "english": "Good Bus"
+  },
+  {
+    "targetText": "Good-Train",
+    "english": "Good Train"
+  },
+  {
+    "targetText": "Good-Taxi",
+    "english": "Good Taxi"
+  },
+  {
+    "targetText": "Good-Car",
+    "english": "Good Car"
+  },
+  {
+    "targetText": "Good-Bike",
+    "english": "Good Bike"
+  },
+  {
+    "targetText": "Good-Ticket",
+    "english": "Good Ticket"
+  },
+  {
+    "targetText": "Good-Station",
+    "english": "Good Station"
+  },
+  {
+    "targetText": "Good-Airport",
+    "english": "Good Airport"
+  },
+  {
+    "targetText": "Good-Hotel",
+    "english": "Good Hotel"
+  },
+  {
+    "targetText": "Good-Restaurant",
+    "english": "Good Restaurant"
+  },
+  {
+    "targetText": "Good-Map",
+    "english": "Good Map"
+  },
+  {
+    "targetText": "Good-Address",
+    "english": "Good Address"
+  },
+  {
+    "targetText": "Good-Doctor",
+    "english": "Good Doctor"
+  },
+  {
+    "targetText": "Good-Hospital",
+    "english": "Good Hospital"
+  },
+  {
+    "targetText": "Good-Medicine",
+    "english": "Good Medicine"
+  },
+  {
+    "targetText": "Good-Fever",
+    "english": "Good Fever"
+  },
+  {
+    "targetText": "Good-Pain",
+    "english": "Good Pain"
+  },
+  {
+    "targetText": "Good-Help",
+    "english": "Good Help"
+  },
+  {
+    "targetText": "Good-Emergency",
+    "english": "Good Emergency"
+  },
+  {
+    "targetText": "Good-Rain",
+    "english": "Good Rain"
+  },
+  {
+    "targetText": "Good-Sun",
+    "english": "Good Sun"
+  },
+  {
+    "targetText": "Good-Wind",
+    "english": "Good Wind"
+  },
+  {
+    "targetText": "Good-Cold",
+    "english": "Good Cold"
+  },
+  {
+    "targetText": "Good-Heat",
+    "english": "Good Heat"
+  },
+  {
+    "targetText": "Good-Time",
+    "english": "Good Time"
+  },
+  {
+    "targetText": "Good-Today",
+    "english": "Good Today"
+  },
+  {
+    "targetText": "Good-Tomorrow",
+    "english": "Good Tomorrow"
+  },
+  {
+    "targetText": "Good-Yesterday",
+    "english": "Good Yesterday"
+  },
+  {
+    "targetText": "Good-Morning",
+    "english": "Good Morning"
+  },
+  {
+    "targetText": "Good-Evening",
+    "english": "Good Evening"
+  },
+  {
+    "targetText": "Good-Night",
+    "english": "Good Night"
+  },
+  {
+    "targetText": "Bad-Water",
+    "english": "Bad Water"
+  },
+  {
+    "targetText": "Bad-Food",
+    "english": "Bad Food"
+  },
+  {
+    "targetText": "Bad-Tea",
+    "english": "Bad Tea"
+  },
+  {
+    "targetText": "Bad-Coffee",
+    "english": "Bad Coffee"
+  },
+  {
+    "targetText": "Bad-Milk",
+    "english": "Bad Milk"
+  },
+  {
+    "targetText": "Bad-Bread",
+    "english": "Bad Bread"
+  },
+  {
+    "targetText": "Bad-Rice",
+    "english": "Bad Rice"
+  },
+  {
+    "targetText": "Bad-Salt",
+    "english": "Bad Salt"
+  },
+  {
+    "targetText": "Bad-Sugar",
+    "english": "Bad Sugar"
+  },
+  {
+    "targetText": "Bad-Fruit",
+    "english": "Bad Fruit"
+  },
+  {
+    "targetText": "Bad-Vegetables",
+    "english": "Bad Vegetables"
+  },
+  {
+    "targetText": "Bad-Banana",
+    "english": "Bad Banana"
+  },
+  {
+    "targetText": "Bad-Apple",
+    "english": "Bad Apple"
+  },
+  {
+    "targetText": "Bad-Mango",
+    "english": "Bad Mango"
+  },
+  {
+    "targetText": "Bad-Orange",
+    "english": "Bad Orange"
+  },
+  {
+    "targetText": "Bad-Egg",
+    "english": "Bad Egg"
+  },
+  {
+    "targetText": "Bad-Fish",
+    "english": "Bad Fish"
+  },
+  {
+    "targetText": "Bad-Chicken",
+    "english": "Bad Chicken"
+  },
+  {
+    "targetText": "Bad-Breakfast",
+    "english": "Bad Breakfast"
+  },
+  {
+    "targetText": "Bad-Lunch",
+    "english": "Bad Lunch"
+  },
+  {
+    "targetText": "Bad-Dinner",
+    "english": "Bad Dinner"
+  },
+  {
+    "targetText": "Bad-Book",
+    "english": "Bad Book"
+  },
+  {
+    "targetText": "Bad-Pen",
+    "english": "Bad Pen"
+  },
+  {
+    "targetText": "Bad-Pencil",
+    "english": "Bad Pencil"
+  },
+  {
+    "targetText": "Bad-Notebook",
+    "english": "Bad Notebook"
+  },
+  {
+    "targetText": "Bad-Paper",
+    "english": "Bad Paper"
+  },
+  {
+    "targetText": "Bad-Bag",
+    "english": "Bad Bag"
+  },
+  {
+    "targetText": "Bad-School",
+    "english": "Bad School"
+  },
+  {
+    "targetText": "Bad-Class",
+    "english": "Bad Class"
+  },
+  {
+    "targetText": "Bad-Teacher",
+    "english": "Bad Teacher"
+  },
+  {
+    "targetText": "Bad-Student",
+    "english": "Bad Student"
+  },
+  {
+    "targetText": "Bad-Homework",
+    "english": "Bad Homework"
+  },
+  {
+    "targetText": "Bad-Exam",
+    "english": "Bad Exam"
+  },
+  {
+    "targetText": "Bad-Question",
+    "english": "Bad Question"
+  },
+  {
+    "targetText": "Bad-Answer",
+    "english": "Bad Answer"
+  },
+  {
+    "targetText": "Bad-Lesson",
+    "english": "Bad Lesson"
+  },
+  {
+    "targetText": "Bad-Practice",
+    "english": "Bad Practice"
+  },
+  {
+    "targetText": "Bad-Pronunciation",
+    "english": "Bad Pronunciation"
+  },
+  {
+    "targetText": "Bad-House",
+    "english": "Bad House"
+  },
+  {
+    "targetText": "Bad-Room",
+    "english": "Bad Room"
+  },
+  {
+    "targetText": "Bad-Kitchen",
+    "english": "Bad Kitchen"
+  },
+  {
+    "targetText": "Bad-Bathroom",
+    "english": "Bad Bathroom"
+  },
+  {
+    "targetText": "Bad-Bed",
+    "english": "Bad Bed"
+  },
+  {
+    "targetText": "Bad-Chair",
+    "english": "Bad Chair"
+  },
+  {
+    "targetText": "Bad-Table",
+    "english": "Bad Table"
+  },
+  {
+    "targetText": "Bad-Door",
+    "english": "Bad Door"
+  },
+  {
+    "targetText": "Bad-Window",
+    "english": "Bad Window"
+  },
+  {
+    "targetText": "Bad-Key",
+    "english": "Bad Key"
+  },
+  {
+    "targetText": "Bad-Mother",
+    "english": "Bad Mother"
+  },
+  {
+    "targetText": "Bad-Father",
+    "english": "Bad Father"
+  },
+  {
+    "targetText": "Bad-Brother",
+    "english": "Bad Brother"
+  },
+  {
+    "targetText": "Bad-Sister",
+    "english": "Bad Sister"
+  },
+  {
+    "targetText": "Bad-Friend",
+    "english": "Bad Friend"
+  },
+  {
+    "targetText": "Bad-Family",
+    "english": "Bad Family"
+  },
+  {
+    "targetText": "Bad-Child",
+    "english": "Bad Child"
+  },
+  {
+    "targetText": "Bad-Name",
+    "english": "Bad Name"
+  },
+  {
+    "targetText": "Bad-Phone",
+    "english": "Bad Phone"
+  },
+  {
+    "targetText": "Bad-Computer",
+    "english": "Bad Computer"
+  },
+  {
+    "targetText": "Bad-Internet",
+    "english": "Bad Internet"
+  },
+  {
+    "targetText": "Bad-Message",
+    "english": "Bad Message"
+  },
+  {
+    "targetText": "Bad-Money",
+    "english": "Bad Money"
+  },
+  {
+    "targetText": "Bad-Price",
+    "english": "Bad Price"
+  },
+  {
+    "targetText": "Bad-Market",
+    "english": "Bad Market"
+  },
+  {
+    "targetText": "Bad-Shop",
+    "english": "Bad Shop"
+  },
+  {
+    "targetText": "Bad-Bill",
+    "english": "Bad Bill"
+  },
+  {
+    "targetText": "Bad-Card",
+    "english": "Bad Card"
+  },
+  {
+    "targetText": "Bad-Bank",
+    "english": "Bad Bank"
+  },
+  {
+    "targetText": "Bad-Bus",
+    "english": "Bad Bus"
+  },
+  {
+    "targetText": "Bad-Train",
+    "english": "Bad Train"
+  },
+  {
+    "targetText": "Bad-Taxi",
+    "english": "Bad Taxi"
+  },
+  {
+    "targetText": "Bad-Car",
+    "english": "Bad Car"
+  },
+  {
+    "targetText": "Bad-Bike",
+    "english": "Bad Bike"
+  },
+  {
+    "targetText": "Bad-Ticket",
+    "english": "Bad Ticket"
+  },
+  {
+    "targetText": "Bad-Station",
+    "english": "Bad Station"
+  },
+  {
+    "targetText": "Bad-Airport",
+    "english": "Bad Airport"
+  },
+  {
+    "targetText": "Bad-Hotel",
+    "english": "Bad Hotel"
+  },
+  {
+    "targetText": "Bad-Restaurant",
+    "english": "Bad Restaurant"
+  },
+  {
+    "targetText": "Bad-Map",
+    "english": "Bad Map"
+  },
+  {
+    "targetText": "Bad-Address",
+    "english": "Bad Address"
+  },
+  {
+    "targetText": "Bad-Doctor",
+    "english": "Bad Doctor"
+  },
+  {
+    "targetText": "Bad-Hospital",
+    "english": "Bad Hospital"
+  },
+  {
+    "targetText": "Bad-Medicine",
+    "english": "Bad Medicine"
+  },
+  {
+    "targetText": "Bad-Fever",
+    "english": "Bad Fever"
+  },
+  {
+    "targetText": "Bad-Pain",
+    "english": "Bad Pain"
+  },
+  {
+    "targetText": "Bad-Help",
+    "english": "Bad Help"
+  },
+  {
+    "targetText": "Bad-Emergency",
+    "english": "Bad Emergency"
+  },
+  {
+    "targetText": "Bad-Rain",
+    "english": "Bad Rain"
+  },
+  {
+    "targetText": "Bad-Sun",
+    "english": "Bad Sun"
+  },
+  {
+    "targetText": "Bad-Wind",
+    "english": "Bad Wind"
+  },
+  {
+    "targetText": "Bad-Cold",
+    "english": "Bad Cold"
+  },
+  {
+    "targetText": "Bad-Heat",
+    "english": "Bad Heat"
+  },
+  {
+    "targetText": "Bad-Time",
+    "english": "Bad Time"
+  },
+  {
+    "targetText": "Bad-Today",
+    "english": "Bad Today"
+  },
+  {
+    "targetText": "Bad-Tomorrow",
+    "english": "Bad Tomorrow"
+  },
+  {
+    "targetText": "Bad-Yesterday",
+    "english": "Bad Yesterday"
+  },
+  {
+    "targetText": "Bad-Morning",
+    "english": "Bad Morning"
+  },
+  {
+    "targetText": "Bad-Evening",
+    "english": "Bad Evening"
+  },
+  {
+    "targetText": "Bad-Night",
+    "english": "Bad Night"
+  },
+  {
+    "targetText": "Big-Water",
+    "english": "Big Water"
+  },
+  {
+    "targetText": "Big-Food",
+    "english": "Big Food"
+  },
+  {
+    "targetText": "Big-Tea",
+    "english": "Big Tea"
+  },
+  {
+    "targetText": "Big-Coffee",
+    "english": "Big Coffee"
+  },
+  {
+    "targetText": "Big-Milk",
+    "english": "Big Milk"
+  },
+  {
+    "targetText": "Big-Bread",
+    "english": "Big Bread"
+  },
+  {
+    "targetText": "Big-Rice",
+    "english": "Big Rice"
+  },
+  {
+    "targetText": "Big-Salt",
+    "english": "Big Salt"
+  },
+  {
+    "targetText": "Big-Sugar",
+    "english": "Big Sugar"
+  },
+  {
+    "targetText": "Big-Fruit",
+    "english": "Big Fruit"
+  },
+  {
+    "targetText": "Big-Vegetables",
+    "english": "Big Vegetables"
+  },
+  {
+    "targetText": "Big-Banana",
+    "english": "Big Banana"
+  },
+  {
+    "targetText": "Big-Apple",
+    "english": "Big Apple"
+  },
+  {
+    "targetText": "Big-Mango",
+    "english": "Big Mango"
+  },
+  {
+    "targetText": "Big-Orange",
+    "english": "Big Orange"
+  },
+  {
+    "targetText": "Big-Egg",
+    "english": "Big Egg"
+  },
+  {
+    "targetText": "Big-Fish",
+    "english": "Big Fish"
+  },
+  {
+    "targetText": "Big-Chicken",
+    "english": "Big Chicken"
+  },
+  {
+    "targetText": "Big-Breakfast",
+    "english": "Big Breakfast"
+  },
+  {
+    "targetText": "Big-Lunch",
+    "english": "Big Lunch"
+  },
+  {
+    "targetText": "Big-Dinner",
+    "english": "Big Dinner"
+  },
+  {
+    "targetText": "Big-Book",
+    "english": "Big Book"
+  },
+  {
+    "targetText": "Big-Pen",
+    "english": "Big Pen"
+  },
+  {
+    "targetText": "Big-Pencil",
+    "english": "Big Pencil"
+  },
+  {
+    "targetText": "Big-Notebook",
+    "english": "Big Notebook"
+  },
+  {
+    "targetText": "Big-Paper",
+    "english": "Big Paper"
+  },
+  {
+    "targetText": "Big-Bag",
+    "english": "Big Bag"
+  },
+  {
+    "targetText": "Big-School",
+    "english": "Big School"
+  },
+  {
+    "targetText": "Big-Class",
+    "english": "Big Class"
+  },
+  {
+    "targetText": "Big-Teacher",
+    "english": "Big Teacher"
+  },
+  {
+    "targetText": "Big-Student",
+    "english": "Big Student"
+  },
+  {
+    "targetText": "Big-Homework",
+    "english": "Big Homework"
+  },
+  {
+    "targetText": "Big-Exam",
+    "english": "Big Exam"
+  },
+  {
+    "targetText": "Big-Question",
+    "english": "Big Question"
+  },
+  {
+    "targetText": "Big-Answer",
+    "english": "Big Answer"
+  },
+  {
+    "targetText": "Big-Lesson",
+    "english": "Big Lesson"
+  },
+  {
+    "targetText": "Big-Practice",
+    "english": "Big Practice"
+  },
+  {
+    "targetText": "Big-Pronunciation",
+    "english": "Big Pronunciation"
+  },
+  {
+    "targetText": "Big-House",
+    "english": "Big House"
+  },
+  {
+    "targetText": "Big-Room",
+    "english": "Big Room"
+  },
+  {
+    "targetText": "Big-Kitchen",
+    "english": "Big Kitchen"
+  },
+  {
+    "targetText": "Big-Bathroom",
+    "english": "Big Bathroom"
+  },
+  {
+    "targetText": "Big-Bed",
+    "english": "Big Bed"
+  },
+  {
+    "targetText": "Big-Chair",
+    "english": "Big Chair"
+  },
+  {
+    "targetText": "Big-Table",
+    "english": "Big Table"
+  },
+  {
+    "targetText": "Big-Door",
+    "english": "Big Door"
+  },
+  {
+    "targetText": "Big-Window",
+    "english": "Big Window"
+  },
+  {
+    "targetText": "Big-Key",
+    "english": "Big Key"
+  },
+  {
+    "targetText": "Big-Mother",
+    "english": "Big Mother"
+  },
+  {
+    "targetText": "Big-Father",
+    "english": "Big Father"
+  },
+  {
+    "targetText": "Big-Brother",
+    "english": "Big Brother"
+  },
+  {
+    "targetText": "Big-Sister",
+    "english": "Big Sister"
+  },
+  {
+    "targetText": "Big-Friend",
+    "english": "Big Friend"
+  },
+  {
+    "targetText": "Big-Family",
+    "english": "Big Family"
+  },
+  {
+    "targetText": "Big-Child",
+    "english": "Big Child"
+  },
+  {
+    "targetText": "Big-Name",
+    "english": "Big Name"
+  },
+  {
+    "targetText": "Big-Phone",
+    "english": "Big Phone"
+  },
+  {
+    "targetText": "Big-Computer",
+    "english": "Big Computer"
+  },
+  {
+    "targetText": "Big-Internet",
+    "english": "Big Internet"
+  },
+  {
+    "targetText": "Big-Message",
+    "english": "Big Message"
+  },
+  {
+    "targetText": "Big-Money",
+    "english": "Big Money"
+  },
+  {
+    "targetText": "Big-Price",
+    "english": "Big Price"
+  },
+  {
+    "targetText": "Big-Market",
+    "english": "Big Market"
+  },
+  {
+    "targetText": "Big-Shop",
+    "english": "Big Shop"
+  },
+  {
+    "targetText": "Big-Bill",
+    "english": "Big Bill"
+  },
+  {
+    "targetText": "Big-Card",
+    "english": "Big Card"
+  },
+  {
+    "targetText": "Big-Bank",
+    "english": "Big Bank"
+  },
+  {
+    "targetText": "Big-Bus",
+    "english": "Big Bus"
+  },
+  {
+    "targetText": "Big-Train",
+    "english": "Big Train"
+  },
+  {
+    "targetText": "Big-Taxi",
+    "english": "Big Taxi"
+  },
+  {
+    "targetText": "Big-Car",
+    "english": "Big Car"
+  },
+  {
+    "targetText": "Big-Bike",
+    "english": "Big Bike"
+  },
+  {
+    "targetText": "Big-Ticket",
+    "english": "Big Ticket"
+  },
+  {
+    "targetText": "Big-Station",
+    "english": "Big Station"
+  },
+  {
+    "targetText": "Big-Airport",
+    "english": "Big Airport"
+  },
+  {
+    "targetText": "Big-Hotel",
+    "english": "Big Hotel"
+  },
+  {
+    "targetText": "Big-Restaurant",
+    "english": "Big Restaurant"
+  },
+  {
+    "targetText": "Big-Map",
+    "english": "Big Map"
+  },
+  {
+    "targetText": "Big-Address",
+    "english": "Big Address"
+  },
+  {
+    "targetText": "Big-Doctor",
+    "english": "Big Doctor"
+  },
+  {
+    "targetText": "Big-Hospital",
+    "english": "Big Hospital"
+  },
+  {
+    "targetText": "Big-Medicine",
+    "english": "Big Medicine"
+  },
+  {
+    "targetText": "Big-Fever",
+    "english": "Big Fever"
+  },
+  {
+    "targetText": "Big-Pain",
+    "english": "Big Pain"
+  },
+  {
+    "targetText": "Big-Help",
+    "english": "Big Help"
+  },
+  {
+    "targetText": "Big-Emergency",
+    "english": "Big Emergency"
+  },
+  {
+    "targetText": "Big-Rain",
+    "english": "Big Rain"
+  },
+  {
+    "targetText": "Big-Sun",
+    "english": "Big Sun"
+  },
+  {
+    "targetText": "Big-Wind",
+    "english": "Big Wind"
+  },
+  {
+    "targetText": "Big-Cold",
+    "english": "Big Cold"
+  },
+  {
+    "targetText": "Big-Heat",
+    "english": "Big Heat"
+  },
+  {
+    "targetText": "Big-Time",
+    "english": "Big Time"
+  },
+  {
+    "targetText": "Big-Today",
+    "english": "Big Today"
+  },
+  {
+    "targetText": "Big-Tomorrow",
+    "english": "Big Tomorrow"
+  },
+  {
+    "targetText": "Big-Yesterday",
+    "english": "Big Yesterday"
+  },
+  {
+    "targetText": "Big-Morning",
+    "english": "Big Morning"
+  },
+  {
+    "targetText": "Big-Evening",
+    "english": "Big Evening"
+  },
+  {
+    "targetText": "Big-Night",
+    "english": "Big Night"
+  },
+  {
+    "targetText": "Small-Water",
+    "english": "Small Water"
+  },
+  {
+    "targetText": "Small-Food",
+    "english": "Small Food"
+  },
+  {
+    "targetText": "Small-Tea",
+    "english": "Small Tea"
+  },
+  {
+    "targetText": "Small-Coffee",
+    "english": "Small Coffee"
+  },
+  {
+    "targetText": "Small-Milk",
+    "english": "Small Milk"
+  },
+  {
+    "targetText": "Small-Bread",
+    "english": "Small Bread"
+  },
+  {
+    "targetText": "Small-Rice",
+    "english": "Small Rice"
+  },
+  {
+    "targetText": "Small-Salt",
+    "english": "Small Salt"
+  },
+  {
+    "targetText": "Small-Sugar",
+    "english": "Small Sugar"
+  },
+  {
+    "targetText": "Small-Fruit",
+    "english": "Small Fruit"
+  },
+  {
+    "targetText": "Small-Vegetables",
+    "english": "Small Vegetables"
+  },
+  {
+    "targetText": "Small-Banana",
+    "english": "Small Banana"
+  },
+  {
+    "targetText": "Small-Apple",
+    "english": "Small Apple"
+  },
+  {
+    "targetText": "Small-Mango",
+    "english": "Small Mango"
+  },
+  {
+    "targetText": "Small-Orange",
+    "english": "Small Orange"
+  },
+  {
+    "targetText": "Small-Egg",
+    "english": "Small Egg"
+  },
+  {
+    "targetText": "Small-Fish",
+    "english": "Small Fish"
+  },
+  {
+    "targetText": "Small-Chicken",
+    "english": "Small Chicken"
+  },
+  {
+    "targetText": "Small-Breakfast",
+    "english": "Small Breakfast"
+  },
+  {
+    "targetText": "Small-Lunch",
+    "english": "Small Lunch"
+  },
+  {
+    "targetText": "Small-Dinner",
+    "english": "Small Dinner"
+  },
+  {
+    "targetText": "Small-Book",
+    "english": "Small Book"
+  },
+  {
+    "targetText": "Small-Pen",
+    "english": "Small Pen"
+  },
+  {
+    "targetText": "Small-Pencil",
+    "english": "Small Pencil"
+  },
+  {
+    "targetText": "Small-Notebook",
+    "english": "Small Notebook"
+  },
+  {
+    "targetText": "Small-Paper",
+    "english": "Small Paper"
+  },
+  {
+    "targetText": "Small-Bag",
+    "english": "Small Bag"
+  },
+  {
+    "targetText": "Small-School",
+    "english": "Small School"
+  },
+  {
+    "targetText": "Small-Class",
+    "english": "Small Class"
+  },
+  {
+    "targetText": "Small-Teacher",
+    "english": "Small Teacher"
+  },
+  {
+    "targetText": "Small-Student",
+    "english": "Small Student"
+  },
+  {
+    "targetText": "Small-Homework",
+    "english": "Small Homework"
+  },
+  {
+    "targetText": "Small-Exam",
+    "english": "Small Exam"
+  },
+  {
+    "targetText": "Small-Question",
+    "english": "Small Question"
+  },
+  {
+    "targetText": "Small-Answer",
+    "english": "Small Answer"
+  },
+  {
+    "targetText": "Small-Lesson",
+    "english": "Small Lesson"
+  },
+  {
+    "targetText": "Small-Practice",
+    "english": "Small Practice"
+  },
+  {
+    "targetText": "Small-Pronunciation",
+    "english": "Small Pronunciation"
+  },
+  {
+    "targetText": "Small-House",
+    "english": "Small House"
+  },
+  {
+    "targetText": "Small-Room",
+    "english": "Small Room"
+  },
+  {
+    "targetText": "Small-Kitchen",
+    "english": "Small Kitchen"
+  },
+  {
+    "targetText": "Small-Bathroom",
+    "english": "Small Bathroom"
+  },
+  {
+    "targetText": "Small-Bed",
+    "english": "Small Bed"
+  },
+  {
+    "targetText": "Small-Chair",
+    "english": "Small Chair"
+  },
+  {
+    "targetText": "Small-Table",
+    "english": "Small Table"
+  },
+  {
+    "targetText": "Small-Door",
+    "english": "Small Door"
+  },
+  {
+    "targetText": "Small-Window",
+    "english": "Small Window"
+  },
+  {
+    "targetText": "Small-Key",
+    "english": "Small Key"
+  },
+  {
+    "targetText": "Small-Mother",
+    "english": "Small Mother"
+  },
+  {
+    "targetText": "Small-Father",
+    "english": "Small Father"
+  },
+  {
+    "targetText": "Small-Brother",
+    "english": "Small Brother"
+  },
+  {
+    "targetText": "Small-Sister",
+    "english": "Small Sister"
+  },
+  {
+    "targetText": "Small-Friend",
+    "english": "Small Friend"
+  },
+  {
+    "targetText": "Small-Family",
+    "english": "Small Family"
+  },
+  {
+    "targetText": "Small-Child",
+    "english": "Small Child"
+  },
+  {
+    "targetText": "Small-Name",
+    "english": "Small Name"
+  },
+  {
+    "targetText": "Small-Phone",
+    "english": "Small Phone"
+  },
+  {
+    "targetText": "Small-Computer",
+    "english": "Small Computer"
+  },
+  {
+    "targetText": "Small-Internet",
+    "english": "Small Internet"
+  },
+  {
+    "targetText": "Small-Message",
+    "english": "Small Message"
+  },
+  {
+    "targetText": "Small-Money",
+    "english": "Small Money"
+  },
+  {
+    "targetText": "Small-Price",
+    "english": "Small Price"
+  },
+  {
+    "targetText": "Small-Market",
+    "english": "Small Market"
+  },
+  {
+    "targetText": "Small-Shop",
+    "english": "Small Shop"
+  },
+  {
+    "targetText": "Small-Bill",
+    "english": "Small Bill"
+  },
+  {
+    "targetText": "Small-Card",
+    "english": "Small Card"
+  },
+  {
+    "targetText": "Small-Bank",
+    "english": "Small Bank"
+  },
+  {
+    "targetText": "Small-Bus",
+    "english": "Small Bus"
+  },
+  {
+    "targetText": "Small-Train",
+    "english": "Small Train"
+  },
+  {
+    "targetText": "Small-Taxi",
+    "english": "Small Taxi"
+  },
+  {
+    "targetText": "Small-Car",
+    "english": "Small Car"
+  },
+  {
+    "targetText": "Small-Bike",
+    "english": "Small Bike"
+  },
+  {
+    "targetText": "Small-Ticket",
+    "english": "Small Ticket"
+  },
+  {
+    "targetText": "Small-Station",
+    "english": "Small Station"
+  },
+  {
+    "targetText": "Small-Airport",
+    "english": "Small Airport"
+  },
+  {
+    "targetText": "Small-Hotel",
+    "english": "Small Hotel"
+  },
+  {
+    "targetText": "Small-Restaurant",
+    "english": "Small Restaurant"
+  },
+  {
+    "targetText": "Small-Map",
+    "english": "Small Map"
+  },
+  {
+    "targetText": "Small-Address",
+    "english": "Small Address"
+  },
+  {
+    "targetText": "Small-Doctor",
+    "english": "Small Doctor"
+  },
+  {
+    "targetText": "Small-Hospital",
+    "english": "Small Hospital"
+  },
+  {
+    "targetText": "Small-Medicine",
+    "english": "Small Medicine"
+  },
+  {
+    "targetText": "Small-Fever",
+    "english": "Small Fever"
+  },
+  {
+    "targetText": "Small-Pain",
+    "english": "Small Pain"
+  },
+  {
+    "targetText": "Small-Help",
+    "english": "Small Help"
+  },
+  {
+    "targetText": "Small-Emergency",
+    "english": "Small Emergency"
+  },
+  {
+    "targetText": "Small-Rain",
+    "english": "Small Rain"
+  },
+  {
+    "targetText": "Small-Sun",
+    "english": "Small Sun"
+  },
+  {
+    "targetText": "Small-Wind",
+    "english": "Small Wind"
+  },
+  {
+    "targetText": "Small-Cold",
+    "english": "Small Cold"
+  },
+  {
+    "targetText": "Small-Heat",
+    "english": "Small Heat"
+  },
+  {
+    "targetText": "Small-Time",
+    "english": "Small Time"
+  },
+  {
+    "targetText": "Small-Today",
+    "english": "Small Today"
+  },
+  {
+    "targetText": "Small-Tomorrow",
+    "english": "Small Tomorrow"
+  },
+  {
+    "targetText": "Small-Yesterday",
+    "english": "Small Yesterday"
+  },
+  {
+    "targetText": "Small-Morning",
+    "english": "Small Morning"
+  },
+  {
+    "targetText": "Small-Evening",
+    "english": "Small Evening"
+  },
+  {
+    "targetText": "Small-Night",
+    "english": "Small Night"
+  },
+  {
+    "targetText": "New-Water",
+    "english": "New Water"
+  },
+  {
+    "targetText": "New-Food",
+    "english": "New Food"
+  },
+  {
+    "targetText": "New-Tea",
+    "english": "New Tea"
+  },
+  {
+    "targetText": "New-Coffee",
+    "english": "New Coffee"
+  },
+  {
+    "targetText": "New-Milk",
+    "english": "New Milk"
+  },
+  {
+    "targetText": "New-Bread",
+    "english": "New Bread"
+  },
+  {
+    "targetText": "New-Rice",
+    "english": "New Rice"
+  },
+  {
+    "targetText": "New-Salt",
+    "english": "New Salt"
+  },
+  {
+    "targetText": "New-Sugar",
+    "english": "New Sugar"
+  },
+  {
+    "targetText": "New-Fruit",
+    "english": "New Fruit"
+  },
+  {
+    "targetText": "New-Vegetables",
+    "english": "New Vegetables"
+  },
+  {
+    "targetText": "New-Banana",
+    "english": "New Banana"
+  },
+  {
+    "targetText": "New-Apple",
+    "english": "New Apple"
+  },
+  {
+    "targetText": "New-Mango",
+    "english": "New Mango"
+  },
+  {
+    "targetText": "New-Orange",
+    "english": "New Orange"
+  },
+  {
+    "targetText": "New-Egg",
+    "english": "New Egg"
+  },
+  {
+    "targetText": "New-Fish",
+    "english": "New Fish"
+  },
+  {
+    "targetText": "New-Chicken",
+    "english": "New Chicken"
+  },
+  {
+    "targetText": "New-Breakfast",
+    "english": "New Breakfast"
+  },
+  {
+    "targetText": "New-Lunch",
+    "english": "New Lunch"
+  },
+  {
+    "targetText": "New-Dinner",
+    "english": "New Dinner"
+  },
+  {
+    "targetText": "New-Book",
+    "english": "New Book"
+  },
+  {
+    "targetText": "New-Pen",
+    "english": "New Pen"
+  },
+  {
+    "targetText": "New-Pencil",
+    "english": "New Pencil"
+  },
+  {
+    "targetText": "New-Notebook",
+    "english": "New Notebook"
+  },
+  {
+    "targetText": "New-Paper",
+    "english": "New Paper"
+  },
+  {
+    "targetText": "New-Bag",
+    "english": "New Bag"
+  },
+  {
+    "targetText": "New-School",
+    "english": "New School"
+  },
+  {
+    "targetText": "New-Class",
+    "english": "New Class"
+  },
+  {
+    "targetText": "New-Teacher",
+    "english": "New Teacher"
+  },
+  {
+    "targetText": "New-Student",
+    "english": "New Student"
+  },
+  {
+    "targetText": "New-Homework",
+    "english": "New Homework"
+  },
+  {
+    "targetText": "New-Exam",
+    "english": "New Exam"
+  },
+  {
+    "targetText": "New-Question",
+    "english": "New Question"
+  },
+  {
+    "targetText": "New-Answer",
+    "english": "New Answer"
+  },
+  {
+    "targetText": "New-Lesson",
+    "english": "New Lesson"
+  },
+  {
+    "targetText": "New-Practice",
+    "english": "New Practice"
+  },
+  {
+    "targetText": "New-Pronunciation",
+    "english": "New Pronunciation"
+  },
+  {
+    "targetText": "New-House",
+    "english": "New House"
+  },
+  {
+    "targetText": "New-Room",
+    "english": "New Room"
+  },
+  {
+    "targetText": "New-Kitchen",
+    "english": "New Kitchen"
+  },
+  {
+    "targetText": "New-Bathroom",
+    "english": "New Bathroom"
+  },
+  {
+    "targetText": "New-Bed",
+    "english": "New Bed"
+  },
+  {
+    "targetText": "New-Chair",
+    "english": "New Chair"
+  },
+  {
+    "targetText": "New-Table",
+    "english": "New Table"
+  },
+  {
+    "targetText": "New-Door",
+    "english": "New Door"
+  },
+  {
+    "targetText": "New-Window",
+    "english": "New Window"
+  },
+  {
+    "targetText": "New-Key",
+    "english": "New Key"
+  },
+  {
+    "targetText": "New-Mother",
+    "english": "New Mother"
+  },
+  {
+    "targetText": "New-Father",
+    "english": "New Father"
+  },
+  {
+    "targetText": "New-Brother",
+    "english": "New Brother"
+  },
+  {
+    "targetText": "New-Sister",
+    "english": "New Sister"
+  },
+  {
+    "targetText": "New-Friend",
+    "english": "New Friend"
+  },
+  {
+    "targetText": "New-Family",
+    "english": "New Family"
+  },
+  {
+    "targetText": "New-Child",
+    "english": "New Child"
+  },
+  {
+    "targetText": "New-Name",
+    "english": "New Name"
+  },
+  {
+    "targetText": "New-Phone",
+    "english": "New Phone"
+  },
+  {
+    "targetText": "New-Computer",
+    "english": "New Computer"
+  },
+  {
+    "targetText": "New-Internet",
+    "english": "New Internet"
+  },
+  {
+    "targetText": "New-Message",
+    "english": "New Message"
+  },
+  {
+    "targetText": "New-Money",
+    "english": "New Money"
+  },
+  {
+    "targetText": "New-Price",
+    "english": "New Price"
+  },
+  {
+    "targetText": "New-Market",
+    "english": "New Market"
+  },
+  {
+    "targetText": "New-Shop",
+    "english": "New Shop"
+  },
+  {
+    "targetText": "New-Bill",
+    "english": "New Bill"
+  },
+  {
+    "targetText": "New-Card",
+    "english": "New Card"
+  },
+  {
+    "targetText": "New-Bank",
+    "english": "New Bank"
+  },
+  {
+    "targetText": "New-Bus",
+    "english": "New Bus"
+  },
+  {
+    "targetText": "New-Train",
+    "english": "New Train"
+  },
+  {
+    "targetText": "New-Taxi",
+    "english": "New Taxi"
+  },
+  {
+    "targetText": "New-Car",
+    "english": "New Car"
+  },
+  {
+    "targetText": "New-Bike",
+    "english": "New Bike"
+  },
+  {
+    "targetText": "New-Ticket",
+    "english": "New Ticket"
+  },
+  {
+    "targetText": "New-Station",
+    "english": "New Station"
+  },
+  {
+    "targetText": "New-Airport",
+    "english": "New Airport"
+  },
+  {
+    "targetText": "New-Hotel",
+    "english": "New Hotel"
+  },
+  {
+    "targetText": "New-Restaurant",
+    "english": "New Restaurant"
+  },
+  {
+    "targetText": "New-Map",
+    "english": "New Map"
+  },
+  {
+    "targetText": "New-Address",
+    "english": "New Address"
+  },
+  {
+    "targetText": "New-Doctor",
+    "english": "New Doctor"
+  },
+  {
+    "targetText": "New-Hospital",
+    "english": "New Hospital"
+  },
+  {
+    "targetText": "New-Medicine",
+    "english": "New Medicine"
+  },
+  {
+    "targetText": "New-Fever",
+    "english": "New Fever"
+  },
+  {
+    "targetText": "New-Pain",
+    "english": "New Pain"
+  },
+  {
+    "targetText": "New-Help",
+    "english": "New Help"
+  },
+  {
+    "targetText": "New-Emergency",
+    "english": "New Emergency"
+  },
+  {
+    "targetText": "New-Rain",
+    "english": "New Rain"
+  },
+  {
+    "targetText": "New-Sun",
+    "english": "New Sun"
+  },
+  {
+    "targetText": "New-Wind",
+    "english": "New Wind"
+  },
+  {
+    "targetText": "New-Cold",
+    "english": "New Cold"
+  },
+  {
+    "targetText": "New-Heat",
+    "english": "New Heat"
+  },
+  {
+    "targetText": "New-Time",
+    "english": "New Time"
+  },
+  {
+    "targetText": "New-Today",
+    "english": "New Today"
+  },
+  {
+    "targetText": "New-Tomorrow",
+    "english": "New Tomorrow"
+  },
+  {
+    "targetText": "New-Yesterday",
+    "english": "New Yesterday"
+  },
+  {
+    "targetText": "New-Morning",
+    "english": "New Morning"
+  },
+  {
+    "targetText": "New-Evening",
+    "english": "New Evening"
+  },
+  {
+    "targetText": "New-Night",
+    "english": "New Night"
+  },
+  {
+    "targetText": "Old-Water",
+    "english": "Old Water"
+  },
+  {
+    "targetText": "Old-Food",
+    "english": "Old Food"
+  },
+  {
+    "targetText": "Old-Tea",
+    "english": "Old Tea"
+  },
+  {
+    "targetText": "Old-Coffee",
+    "english": "Old Coffee"
+  },
+  {
+    "targetText": "Old-Milk",
+    "english": "Old Milk"
+  },
+  {
+    "targetText": "Old-Bread",
+    "english": "Old Bread"
+  },
+  {
+    "targetText": "Old-Rice",
+    "english": "Old Rice"
+  },
+  {
+    "targetText": "Old-Salt",
+    "english": "Old Salt"
+  },
+  {
+    "targetText": "Old-Sugar",
+    "english": "Old Sugar"
+  },
+  {
+    "targetText": "Old-Fruit",
+    "english": "Old Fruit"
+  },
+  {
+    "targetText": "Old-Vegetables",
+    "english": "Old Vegetables"
+  },
+  {
+    "targetText": "Old-Banana",
+    "english": "Old Banana"
+  },
+  {
+    "targetText": "Old-Apple",
+    "english": "Old Apple"
+  },
+  {
+    "targetText": "Old-Mango",
+    "english": "Old Mango"
+  },
+  {
+    "targetText": "Old-Orange",
+    "english": "Old Orange"
+  },
+  {
+    "targetText": "Old-Egg",
+    "english": "Old Egg"
+  },
+  {
+    "targetText": "Old-Fish",
+    "english": "Old Fish"
+  },
+  {
+    "targetText": "Old-Chicken",
+    "english": "Old Chicken"
+  },
+  {
+    "targetText": "Old-Breakfast",
+    "english": "Old Breakfast"
+  },
+  {
+    "targetText": "Old-Lunch",
+    "english": "Old Lunch"
+  },
+  {
+    "targetText": "Old-Dinner",
+    "english": "Old Dinner"
+  },
+  {
+    "targetText": "Old-Book",
+    "english": "Old Book"
+  },
+  {
+    "targetText": "Old-Pen",
+    "english": "Old Pen"
+  },
+  {
+    "targetText": "Old-Pencil",
+    "english": "Old Pencil"
+  },
+  {
+    "targetText": "Old-Notebook",
+    "english": "Old Notebook"
+  },
+  {
+    "targetText": "Old-Paper",
+    "english": "Old Paper"
+  },
+  {
+    "targetText": "Old-Bag",
+    "english": "Old Bag"
+  },
+  {
+    "targetText": "Old-School",
+    "english": "Old School"
+  },
+  {
+    "targetText": "Old-Class",
+    "english": "Old Class"
+  },
+  {
+    "targetText": "Old-Teacher",
+    "english": "Old Teacher"
+  },
+  {
+    "targetText": "Old-Student",
+    "english": "Old Student"
+  },
+  {
+    "targetText": "Old-Homework",
+    "english": "Old Homework"
+  },
+  {
+    "targetText": "Old-Exam",
+    "english": "Old Exam"
+  },
+  {
+    "targetText": "Old-Question",
+    "english": "Old Question"
+  },
+  {
+    "targetText": "Old-Answer",
+    "english": "Old Answer"
+  },
+  {
+    "targetText": "Old-Lesson",
+    "english": "Old Lesson"
+  },
+  {
+    "targetText": "Old-Practice",
+    "english": "Old Practice"
+  },
+  {
+    "targetText": "Old-Pronunciation",
+    "english": "Old Pronunciation"
+  },
+  {
+    "targetText": "Old-House",
+    "english": "Old House"
+  },
+  {
+    "targetText": "Old-Room",
+    "english": "Old Room"
+  },
+  {
+    "targetText": "Old-Kitchen",
+    "english": "Old Kitchen"
+  },
+  {
+    "targetText": "Old-Bathroom",
+    "english": "Old Bathroom"
+  },
+  {
+    "targetText": "Old-Bed",
+    "english": "Old Bed"
+  },
+  {
+    "targetText": "Old-Chair",
+    "english": "Old Chair"
+  },
+  {
+    "targetText": "Old-Table",
+    "english": "Old Table"
+  },
+  {
+    "targetText": "Old-Door",
+    "english": "Old Door"
+  },
+  {
+    "targetText": "Old-Window",
+    "english": "Old Window"
+  },
+  {
+    "targetText": "Old-Key",
+    "english": "Old Key"
+  },
+  {
+    "targetText": "Old-Mother",
+    "english": "Old Mother"
+  },
+  {
+    "targetText": "Old-Father",
+    "english": "Old Father"
+  },
+  {
+    "targetText": "Old-Brother",
+    "english": "Old Brother"
+  },
+  {
+    "targetText": "Old-Sister",
+    "english": "Old Sister"
+  },
+  {
+    "targetText": "Old-Friend",
+    "english": "Old Friend"
+  },
+  {
+    "targetText": "Old-Family",
+    "english": "Old Family"
+  },
+  {
+    "targetText": "Old-Child",
+    "english": "Old Child"
+  },
+  {
+    "targetText": "Old-Name",
+    "english": "Old Name"
+  },
+  {
+    "targetText": "Old-Phone",
+    "english": "Old Phone"
+  },
+  {
+    "targetText": "Old-Computer",
+    "english": "Old Computer"
+  },
+  {
+    "targetText": "Old-Internet",
+    "english": "Old Internet"
+  },
+  {
+    "targetText": "Old-Message",
+    "english": "Old Message"
+  },
+  {
+    "targetText": "Old-Money",
+    "english": "Old Money"
+  },
+  {
+    "targetText": "Old-Price",
+    "english": "Old Price"
+  },
+  {
+    "targetText": "Old-Market",
+    "english": "Old Market"
+  },
+  {
+    "targetText": "Old-Shop",
+    "english": "Old Shop"
+  },
+  {
+    "targetText": "Old-Bill",
+    "english": "Old Bill"
+  },
+  {
+    "targetText": "Old-Card",
+    "english": "Old Card"
+  },
+  {
+    "targetText": "Old-Bank",
+    "english": "Old Bank"
+  },
+  {
+    "targetText": "Old-Bus",
+    "english": "Old Bus"
+  },
+  {
+    "targetText": "Old-Train",
+    "english": "Old Train"
+  },
+  {
+    "targetText": "Old-Taxi",
+    "english": "Old Taxi"
+  },
+  {
+    "targetText": "Old-Car",
+    "english": "Old Car"
+  },
+  {
+    "targetText": "Old-Bike",
+    "english": "Old Bike"
+  },
+  {
+    "targetText": "Old-Ticket",
+    "english": "Old Ticket"
+  },
+  {
+    "targetText": "Old-Station",
+    "english": "Old Station"
+  },
+  {
+    "targetText": "Old-Airport",
+    "english": "Old Airport"
+  },
+  {
+    "targetText": "Old-Hotel",
+    "english": "Old Hotel"
+  },
+  {
+    "targetText": "Old-Restaurant",
+    "english": "Old Restaurant"
+  },
+  {
+    "targetText": "Old-Map",
+    "english": "Old Map"
+  },
+  {
+    "targetText": "Old-Address",
+    "english": "Old Address"
+  },
+  {
+    "targetText": "Old-Doctor",
+    "english": "Old Doctor"
+  },
+  {
+    "targetText": "Old-Hospital",
+    "english": "Old Hospital"
+  },
+  {
+    "targetText": "Old-Medicine",
+    "english": "Old Medicine"
+  },
+  {
+    "targetText": "Old-Fever",
+    "english": "Old Fever"
+  },
+  {
+    "targetText": "Old-Pain",
+    "english": "Old Pain"
+  },
+  {
+    "targetText": "Old-Help",
+    "english": "Old Help"
+  },
+  {
+    "targetText": "Old-Emergency",
+    "english": "Old Emergency"
+  },
+  {
+    "targetText": "Old-Rain",
+    "english": "Old Rain"
+  },
+  {
+    "targetText": "Old-Sun",
+    "english": "Old Sun"
+  },
+  {
+    "targetText": "Old-Wind",
+    "english": "Old Wind"
+  },
+  {
+    "targetText": "Old-Cold",
+    "english": "Old Cold"
+  },
+  {
+    "targetText": "Old-Heat",
+    "english": "Old Heat"
+  },
+  {
+    "targetText": "Old-Time",
+    "english": "Old Time"
+  },
+  {
+    "targetText": "Old-Today",
+    "english": "Old Today"
+  },
+  {
+    "targetText": "Old-Tomorrow",
+    "english": "Old Tomorrow"
+  },
+  {
+    "targetText": "Old-Yesterday",
+    "english": "Old Yesterday"
+  },
+  {
+    "targetText": "Old-Morning",
+    "english": "Old Morning"
+  },
+  {
+    "targetText": "Old-Evening",
+    "english": "Old Evening"
+  },
+  {
+    "targetText": "Old-Night",
+    "english": "Old Night"
+  },
+  {
+    "targetText": "Clean-Water",
+    "english": "Clean Water"
+  },
+  {
+    "targetText": "Clean-Food",
+    "english": "Clean Food"
+  },
+  {
+    "targetText": "Clean-Tea",
+    "english": "Clean Tea"
+  },
+  {
+    "targetText": "Clean-Coffee",
+    "english": "Clean Coffee"
+  },
+  {
+    "targetText": "Clean-Milk",
+    "english": "Clean Milk"
+  },
+  {
+    "targetText": "Clean-Bread",
+    "english": "Clean Bread"
+  },
+  {
+    "targetText": "Clean-Rice",
+    "english": "Clean Rice"
+  },
+  {
+    "targetText": "Clean-Salt",
+    "english": "Clean Salt"
+  },
+  {
+    "targetText": "Clean-Sugar",
+    "english": "Clean Sugar"
+  },
+  {
+    "targetText": "Clean-Fruit",
+    "english": "Clean Fruit"
+  },
+  {
+    "targetText": "Clean-Vegetables",
+    "english": "Clean Vegetables"
+  },
+  {
+    "targetText": "Clean-Banana",
+    "english": "Clean Banana"
+  },
+  {
+    "targetText": "Clean-Apple",
+    "english": "Clean Apple"
+  },
+  {
+    "targetText": "Clean-Mango",
+    "english": "Clean Mango"
+  },
+  {
+    "targetText": "Clean-Orange",
+    "english": "Clean Orange"
+  },
+  {
+    "targetText": "Clean-Egg",
+    "english": "Clean Egg"
+  },
+  {
+    "targetText": "Clean-Fish",
+    "english": "Clean Fish"
+  },
+  {
+    "targetText": "Clean-Chicken",
+    "english": "Clean Chicken"
+  },
+  {
+    "targetText": "Clean-Breakfast",
+    "english": "Clean Breakfast"
+  },
+  {
+    "targetText": "Clean-Lunch",
+    "english": "Clean Lunch"
+  },
+  {
+    "targetText": "Clean-Dinner",
+    "english": "Clean Dinner"
+  },
+  {
+    "targetText": "Clean-Book",
+    "english": "Clean Book"
+  },
+  {
+    "targetText": "Clean-Pen",
+    "english": "Clean Pen"
+  },
+  {
+    "targetText": "Clean-Pencil",
+    "english": "Clean Pencil"
+  },
+  {
+    "targetText": "Clean-Notebook",
+    "english": "Clean Notebook"
+  },
+  {
+    "targetText": "Clean-Paper",
+    "english": "Clean Paper"
+  },
+  {
+    "targetText": "Clean-Bag",
+    "english": "Clean Bag"
+  },
+  {
+    "targetText": "Clean-School",
+    "english": "Clean School"
+  },
+  {
+    "targetText": "Clean-Class",
+    "english": "Clean Class"
+  },
+  {
+    "targetText": "Clean-Teacher",
+    "english": "Clean Teacher"
+  },
+  {
+    "targetText": "Clean-Student",
+    "english": "Clean Student"
+  },
+  {
+    "targetText": "Clean-Homework",
+    "english": "Clean Homework"
+  },
+  {
+    "targetText": "Clean-Exam",
+    "english": "Clean Exam"
+  },
+  {
+    "targetText": "Clean-Question",
+    "english": "Clean Question"
+  },
+  {
+    "targetText": "Clean-Answer",
+    "english": "Clean Answer"
+  },
+  {
+    "targetText": "Clean-Lesson",
+    "english": "Clean Lesson"
+  },
+  {
+    "targetText": "Clean-Practice",
+    "english": "Clean Practice"
+  },
+  {
+    "targetText": "Clean-Pronunciation",
+    "english": "Clean Pronunciation"
+  },
+  {
+    "targetText": "Clean-House",
+    "english": "Clean House"
+  },
+  {
+    "targetText": "Clean-Room",
+    "english": "Clean Room"
+  },
+  {
+    "targetText": "Clean-Kitchen",
+    "english": "Clean Kitchen"
+  },
+  {
+    "targetText": "Clean-Bathroom",
+    "english": "Clean Bathroom"
+  },
+  {
+    "targetText": "Clean-Bed",
+    "english": "Clean Bed"
+  },
+  {
+    "targetText": "Clean-Chair",
+    "english": "Clean Chair"
+  },
+  {
+    "targetText": "Clean-Table",
+    "english": "Clean Table"
+  },
+  {
+    "targetText": "Clean-Door",
+    "english": "Clean Door"
+  },
+  {
+    "targetText": "Clean-Window",
+    "english": "Clean Window"
+  },
+  {
+    "targetText": "Clean-Key",
+    "english": "Clean Key"
+  },
+  {
+    "targetText": "Clean-Mother",
+    "english": "Clean Mother"
+  },
+  {
+    "targetText": "Clean-Father",
+    "english": "Clean Father"
+  },
+  {
+    "targetText": "Clean-Brother",
+    "english": "Clean Brother"
+  },
+  {
+    "targetText": "Clean-Sister",
+    "english": "Clean Sister"
+  },
+  {
+    "targetText": "Clean-Friend",
+    "english": "Clean Friend"
+  },
+  {
+    "targetText": "Clean-Family",
+    "english": "Clean Family"
+  },
+  {
+    "targetText": "Clean-Child",
+    "english": "Clean Child"
+  },
+  {
+    "targetText": "Clean-Name",
+    "english": "Clean Name"
+  },
+  {
+    "targetText": "Clean-Phone",
+    "english": "Clean Phone"
+  },
+  {
+    "targetText": "Clean-Computer",
+    "english": "Clean Computer"
+  },
+  {
+    "targetText": "Clean-Internet",
+    "english": "Clean Internet"
+  },
+  {
+    "targetText": "Clean-Message",
+    "english": "Clean Message"
+  },
+  {
+    "targetText": "Clean-Money",
+    "english": "Clean Money"
+  },
+  {
+    "targetText": "Clean-Price",
+    "english": "Clean Price"
+  },
+  {
+    "targetText": "Clean-Market",
+    "english": "Clean Market"
+  },
+  {
+    "targetText": "Clean-Shop",
+    "english": "Clean Shop"
+  },
+  {
+    "targetText": "Clean-Bill",
+    "english": "Clean Bill"
+  },
+  {
+    "targetText": "Clean-Card",
+    "english": "Clean Card"
+  },
+  {
+    "targetText": "Clean-Bank",
+    "english": "Clean Bank"
+  },
+  {
+    "targetText": "Clean-Bus",
+    "english": "Clean Bus"
+  },
+  {
+    "targetText": "Clean-Train",
+    "english": "Clean Train"
+  },
+  {
+    "targetText": "Clean-Taxi",
+    "english": "Clean Taxi"
+  },
+  {
+    "targetText": "Clean-Car",
+    "english": "Clean Car"
+  },
+  {
+    "targetText": "Clean-Bike",
+    "english": "Clean Bike"
+  },
+  {
+    "targetText": "Clean-Ticket",
+    "english": "Clean Ticket"
+  },
+  {
+    "targetText": "Clean-Station",
+    "english": "Clean Station"
+  },
+  {
+    "targetText": "Clean-Airport",
+    "english": "Clean Airport"
+  },
+  {
+    "targetText": "Clean-Hotel",
+    "english": "Clean Hotel"
+  },
+  {
+    "targetText": "Clean-Restaurant",
+    "english": "Clean Restaurant"
+  },
+  {
+    "targetText": "Clean-Map",
+    "english": "Clean Map"
+  },
+  {
+    "targetText": "Clean-Address",
+    "english": "Clean Address"
+  },
+  {
+    "targetText": "Clean-Doctor",
+    "english": "Clean Doctor"
+  },
+  {
+    "targetText": "Clean-Hospital",
+    "english": "Clean Hospital"
+  },
+  {
+    "targetText": "Clean-Medicine",
+    "english": "Clean Medicine"
+  },
+  {
+    "targetText": "Clean-Fever",
+    "english": "Clean Fever"
+  },
+  {
+    "targetText": "Clean-Pain",
+    "english": "Clean Pain"
+  },
+  {
+    "targetText": "Clean-Help",
+    "english": "Clean Help"
+  },
+  {
+    "targetText": "Clean-Emergency",
+    "english": "Clean Emergency"
+  },
+  {
+    "targetText": "Clean-Rain",
+    "english": "Clean Rain"
+  },
+  {
+    "targetText": "Clean-Sun",
+    "english": "Clean Sun"
+  },
+  {
+    "targetText": "Clean-Wind",
+    "english": "Clean Wind"
+  },
+  {
+    "targetText": "Clean-Cold",
+    "english": "Clean Cold"
+  },
+  {
+    "targetText": "Clean-Heat",
+    "english": "Clean Heat"
+  },
+  {
+    "targetText": "Clean-Time",
+    "english": "Clean Time"
+  },
+  {
+    "targetText": "Clean-Today",
+    "english": "Clean Today"
+  },
+  {
+    "targetText": "Clean-Tomorrow",
+    "english": "Clean Tomorrow"
+  },
+  {
+    "targetText": "Clean-Yesterday",
+    "english": "Clean Yesterday"
+  },
+  {
+    "targetText": "Clean-Morning",
+    "english": "Clean Morning"
+  },
+  {
+    "targetText": "Clean-Evening",
+    "english": "Clean Evening"
+  },
+  {
+    "targetText": "Clean-Night",
+    "english": "Clean Night"
+  },
+  {
+    "targetText": "Tasty-Water",
+    "english": "Tasty Water"
+  },
+  {
+    "targetText": "Tasty-Food",
+    "english": "Tasty Food"
+  },
+  {
+    "targetText": "Tasty-Tea",
+    "english": "Tasty Tea"
+  },
+  {
+    "targetText": "Tasty-Coffee",
+    "english": "Tasty Coffee"
+  },
+  {
+    "targetText": "Tasty-Milk",
+    "english": "Tasty Milk"
+  },
+  {
+    "targetText": "Tasty-Bread",
+    "english": "Tasty Bread"
+  },
+  {
+    "targetText": "Tasty-Rice",
+    "english": "Tasty Rice"
+  },
+  {
+    "targetText": "Tasty-Salt",
+    "english": "Tasty Salt"
+  },
+  {
+    "targetText": "Tasty-Sugar",
+    "english": "Tasty Sugar"
+  },
+  {
+    "targetText": "Tasty-Fruit",
+    "english": "Tasty Fruit"
+  },
+  {
+    "targetText": "Tasty-Vegetables",
+    "english": "Tasty Vegetables"
+  },
+  {
+    "targetText": "Tasty-Banana",
+    "english": "Tasty Banana"
+  },
+  {
+    "targetText": "Tasty-Apple",
+    "english": "Tasty Apple"
+  },
+  {
+    "targetText": "Tasty-Mango",
+    "english": "Tasty Mango"
+  },
+  {
+    "targetText": "Tasty-Orange",
+    "english": "Tasty Orange"
+  },
+  {
+    "targetText": "Tasty-Egg",
+    "english": "Tasty Egg"
+  },
+  {
+    "targetText": "Tasty-Fish",
+    "english": "Tasty Fish"
+  },
+  {
+    "targetText": "Tasty-Chicken",
+    "english": "Tasty Chicken"
+  },
+  {
+    "targetText": "Tasty-Breakfast",
+    "english": "Tasty Breakfast"
+  },
+  {
+    "targetText": "Tasty-Lunch",
+    "english": "Tasty Lunch"
+  },
+  {
+    "targetText": "Tasty-Dinner",
+    "english": "Tasty Dinner"
+  },
+  {
+    "targetText": "Tasty-Book",
+    "english": "Tasty Book"
+  },
+  {
+    "targetText": "Tasty-Pen",
+    "english": "Tasty Pen"
+  },
+  {
+    "targetText": "Tasty-Pencil",
+    "english": "Tasty Pencil"
+  },
+  {
+    "targetText": "Tasty-Notebook",
+    "english": "Tasty Notebook"
+  },
+  {
+    "targetText": "Tasty-Paper",
+    "english": "Tasty Paper"
+  },
+  {
+    "targetText": "Tasty-Bag",
+    "english": "Tasty Bag"
+  },
+  {
+    "targetText": "Tasty-School",
+    "english": "Tasty School"
+  },
+  {
+    "targetText": "Tasty-Class",
+    "english": "Tasty Class"
+  },
+  {
+    "targetText": "Tasty-Teacher",
+    "english": "Tasty Teacher"
+  },
+  {
+    "targetText": "Tasty-Student",
+    "english": "Tasty Student"
+  },
+  {
+    "targetText": "Tasty-Homework",
+    "english": "Tasty Homework"
+  },
+  {
+    "targetText": "Tasty-Exam",
+    "english": "Tasty Exam"
+  },
+  {
+    "targetText": "Tasty-Question",
+    "english": "Tasty Question"
+  },
+  {
+    "targetText": "Tasty-Answer",
+    "english": "Tasty Answer"
+  },
+  {
+    "targetText": "Tasty-Lesson",
+    "english": "Tasty Lesson"
+  },
+  {
+    "targetText": "Tasty-Practice",
+    "english": "Tasty Practice"
+  },
+  {
+    "targetText": "Tasty-Pronunciation",
+    "english": "Tasty Pronunciation"
+  },
+  {
+    "targetText": "Tasty-House",
+    "english": "Tasty House"
+  },
+  {
+    "targetText": "Tasty-Room",
+    "english": "Tasty Room"
+  },
+  {
+    "targetText": "Tasty-Kitchen",
+    "english": "Tasty Kitchen"
+  },
+  {
+    "targetText": "Tasty-Bathroom",
+    "english": "Tasty Bathroom"
+  },
+  {
+    "targetText": "Tasty-Bed",
+    "english": "Tasty Bed"
+  },
+  {
+    "targetText": "Tasty-Chair",
+    "english": "Tasty Chair"
+  },
+  {
+    "targetText": "Tasty-Table",
+    "english": "Tasty Table"
+  },
+  {
+    "targetText": "Tasty-Door",
+    "english": "Tasty Door"
+  },
+  {
+    "targetText": "Tasty-Window",
+    "english": "Tasty Window"
+  },
+  {
+    "targetText": "Tasty-Key",
+    "english": "Tasty Key"
+  },
+  {
+    "targetText": "Tasty-Mother",
+    "english": "Tasty Mother"
+  },
+  {
+    "targetText": "Tasty-Father",
+    "english": "Tasty Father"
+  },
+  {
+    "targetText": "Tasty-Brother",
+    "english": "Tasty Brother"
+  },
+  {
+    "targetText": "Tasty-Sister",
+    "english": "Tasty Sister"
+  },
+  {
+    "targetText": "Tasty-Friend",
+    "english": "Tasty Friend"
+  },
+  {
+    "targetText": "Tasty-Family",
+    "english": "Tasty Family"
+  },
+  {
+    "targetText": "Tasty-Child",
+    "english": "Tasty Child"
+  },
+  {
+    "targetText": "Tasty-Name",
+    "english": "Tasty Name"
+  },
+  {
+    "targetText": "Tasty-Phone",
+    "english": "Tasty Phone"
+  },
+  {
+    "targetText": "Tasty-Computer",
+    "english": "Tasty Computer"
+  },
+  {
+    "targetText": "Tasty-Internet",
+    "english": "Tasty Internet"
+  },
+  {
+    "targetText": "Tasty-Message",
+    "english": "Tasty Message"
+  },
+  {
+    "targetText": "Tasty-Money",
+    "english": "Tasty Money"
+  },
+  {
+    "targetText": "Tasty-Price",
+    "english": "Tasty Price"
+  },
+  {
+    "targetText": "Tasty-Market",
+    "english": "Tasty Market"
+  },
+  {
+    "targetText": "Tasty-Shop",
+    "english": "Tasty Shop"
+  },
+  {
+    "targetText": "Tasty-Bill",
+    "english": "Tasty Bill"
+  },
+  {
+    "targetText": "Tasty-Card",
+    "english": "Tasty Card"
+  },
+  {
+    "targetText": "Tasty-Bank",
+    "english": "Tasty Bank"
+  },
+  {
+    "targetText": "Tasty-Bus",
+    "english": "Tasty Bus"
+  },
+  {
+    "targetText": "Tasty-Train",
+    "english": "Tasty Train"
+  },
+  {
+    "targetText": "Tasty-Taxi",
+    "english": "Tasty Taxi"
+  },
+  {
+    "targetText": "Tasty-Car",
+    "english": "Tasty Car"
+  },
+  {
+    "targetText": "Tasty-Bike",
+    "english": "Tasty Bike"
+  },
+  {
+    "targetText": "Tasty-Ticket",
+    "english": "Tasty Ticket"
+  },
+  {
+    "targetText": "Tasty-Station",
+    "english": "Tasty Station"
+  },
+  {
+    "targetText": "Tasty-Airport",
+    "english": "Tasty Airport"
+  },
+  {
+    "targetText": "Tasty-Hotel",
+    "english": "Tasty Hotel"
+  },
+  {
+    "targetText": "Tasty-Restaurant",
+    "english": "Tasty Restaurant"
+  },
+  {
+    "targetText": "Tasty-Map",
+    "english": "Tasty Map"
+  },
+  {
+    "targetText": "Tasty-Address",
+    "english": "Tasty Address"
+  },
+  {
+    "targetText": "Tasty-Doctor",
+    "english": "Tasty Doctor"
+  },
+  {
+    "targetText": "Tasty-Hospital",
+    "english": "Tasty Hospital"
+  },
+  {
+    "targetText": "Tasty-Medicine",
+    "english": "Tasty Medicine"
+  },
+  {
+    "targetText": "Tasty-Fever",
+    "english": "Tasty Fever"
+  },
+  {
+    "targetText": "Tasty-Pain",
+    "english": "Tasty Pain"
+  },
+  {
+    "targetText": "Tasty-Help",
+    "english": "Tasty Help"
+  },
+  {
+    "targetText": "Tasty-Emergency",
+    "english": "Tasty Emergency"
+  },
+  {
+    "targetText": "Tasty-Rain",
+    "english": "Tasty Rain"
+  },
+  {
+    "targetText": "Tasty-Sun",
+    "english": "Tasty Sun"
+  },
+  {
+    "targetText": "Tasty-Wind",
+    "english": "Tasty Wind"
+  },
+  {
+    "targetText": "Tasty-Cold",
+    "english": "Tasty Cold"
+  },
+  {
+    "targetText": "Tasty-Heat",
+    "english": "Tasty Heat"
+  },
+  {
+    "targetText": "Tasty-Time",
+    "english": "Tasty Time"
+  },
+  {
+    "targetText": "Tasty-Today",
+    "english": "Tasty Today"
+  },
+  {
+    "targetText": "Tasty-Tomorrow",
+    "english": "Tasty Tomorrow"
+  },
+  {
+    "targetText": "Tasty-Yesterday",
+    "english": "Tasty Yesterday"
+  },
+  {
+    "targetText": "Tasty-Morning",
+    "english": "Tasty Morning"
+  },
+  {
+    "targetText": "Tasty-Evening",
+    "english": "Tasty Evening"
+  },
+  {
+    "targetText": "Tasty-Night",
+    "english": "Tasty Night"
+  },
+  {
+    "targetText": "Important-Water",
+    "english": "Important Water"
+  },
+  {
+    "targetText": "Important-Food",
+    "english": "Important Food"
+  },
+  {
+    "targetText": "Important-Tea",
+    "english": "Important Tea"
+  },
+  {
+    "targetText": "Important-Coffee",
+    "english": "Important Coffee"
+  },
+  {
+    "targetText": "Important-Milk",
+    "english": "Important Milk"
+  },
+  {
+    "targetText": "Important-Bread",
+    "english": "Important Bread"
+  },
+  {
+    "targetText": "Important-Rice",
+    "english": "Important Rice"
+  },
+  {
+    "targetText": "Important-Salt",
+    "english": "Important Salt"
+  },
+  {
+    "targetText": "Important-Sugar",
+    "english": "Important Sugar"
+  },
+  {
+    "targetText": "Important-Fruit",
+    "english": "Important Fruit"
+  },
+  {
+    "targetText": "Important-Vegetables",
+    "english": "Important Vegetables"
+  },
+  {
+    "targetText": "Important-Banana",
+    "english": "Important Banana"
+  },
+  {
+    "targetText": "Important-Apple",
+    "english": "Important Apple"
+  },
+  {
+    "targetText": "Important-Mango",
+    "english": "Important Mango"
+  },
+  {
+    "targetText": "Important-Orange",
+    "english": "Important Orange"
+  },
+  {
+    "targetText": "Important-Egg",
+    "english": "Important Egg"
+  },
+  {
+    "targetText": "Important-Fish",
+    "english": "Important Fish"
+  },
+  {
+    "targetText": "Important-Chicken",
+    "english": "Important Chicken"
+  },
+  {
+    "targetText": "Important-Breakfast",
+    "english": "Important Breakfast"
+  },
+  {
+    "targetText": "Important-Lunch",
+    "english": "Important Lunch"
+  },
+  {
+    "targetText": "Important-Dinner",
+    "english": "Important Dinner"
+  },
+  {
+    "targetText": "Important-Book",
+    "english": "Important Book"
+  },
+  {
+    "targetText": "Important-Pen",
+    "english": "Important Pen"
+  },
+  {
+    "targetText": "Important-Pencil",
+    "english": "Important Pencil"
+  },
+  {
+    "targetText": "Important-Notebook",
+    "english": "Important Notebook"
+  },
+  {
+    "targetText": "Important-Paper",
+    "english": "Important Paper"
+  },
+  {
+    "targetText": "Important-Bag",
+    "english": "Important Bag"
+  },
+  {
+    "targetText": "Important-School",
+    "english": "Important School"
+  },
+  {
+    "targetText": "Important-Class",
+    "english": "Important Class"
+  },
+  {
+    "targetText": "Important-Teacher",
+    "english": "Important Teacher"
+  },
+  {
+    "targetText": "Important-Student",
+    "english": "Important Student"
+  },
+  {
+    "targetText": "Important-Homework",
+    "english": "Important Homework"
+  },
+  {
+    "targetText": "Important-Exam",
+    "english": "Important Exam"
+  },
+  {
+    "targetText": "Important-Question",
+    "english": "Important Question"
+  },
+  {
+    "targetText": "Important-Answer",
+    "english": "Important Answer"
+  },
+  {
+    "targetText": "Important-Lesson",
+    "english": "Important Lesson"
+  },
+  {
+    "targetText": "Important-Practice",
+    "english": "Important Practice"
+  },
+  {
+    "targetText": "Important-Pronunciation",
+    "english": "Important Pronunciation"
+  },
+  {
+    "targetText": "Important-House",
+    "english": "Important House"
+  },
+  {
+    "targetText": "Important-Room",
+    "english": "Important Room"
+  },
+  {
+    "targetText": "Important-Kitchen",
+    "english": "Important Kitchen"
+  },
+  {
+    "targetText": "Important-Bathroom",
+    "english": "Important Bathroom"
+  },
+  {
+    "targetText": "Important-Bed",
+    "english": "Important Bed"
+  },
+  {
+    "targetText": "Important-Chair",
+    "english": "Important Chair"
+  },
+  {
+    "targetText": "Important-Table",
+    "english": "Important Table"
+  },
+  {
+    "targetText": "Important-Door",
+    "english": "Important Door"
+  },
+  {
+    "targetText": "Important-Window",
+    "english": "Important Window"
+  },
+  {
+    "targetText": "Important-Key",
+    "english": "Important Key"
+  },
+  {
+    "targetText": "Important-Mother",
+    "english": "Important Mother"
+  },
+  {
+    "targetText": "Important-Father",
+    "english": "Important Father"
+  },
+  {
+    "targetText": "Important-Brother",
+    "english": "Important Brother"
+  },
+  {
+    "targetText": "Important-Sister",
+    "english": "Important Sister"
+  },
+  {
+    "targetText": "Important-Friend",
+    "english": "Important Friend"
+  },
+  {
+    "targetText": "Important-Family",
+    "english": "Important Family"
+  },
+  {
+    "targetText": "Important-Child",
+    "english": "Important Child"
+  },
+  {
+    "targetText": "Important-Name",
+    "english": "Important Name"
+  },
+  {
+    "targetText": "Important-Phone",
+    "english": "Important Phone"
+  },
+  {
+    "targetText": "Important-Computer",
+    "english": "Important Computer"
+  },
+  {
+    "targetText": "Important-Internet",
+    "english": "Important Internet"
+  },
+  {
+    "targetText": "Important-Message",
+    "english": "Important Message"
+  },
+  {
+    "targetText": "Important-Money",
+    "english": "Important Money"
+  },
+  {
+    "targetText": "Important-Price",
+    "english": "Important Price"
+  },
+  {
+    "targetText": "Important-Market",
+    "english": "Important Market"
+  },
+  {
+    "targetText": "Important-Shop",
+    "english": "Important Shop"
+  },
+  {
+    "targetText": "Important-Bill",
+    "english": "Important Bill"
+  },
+  {
+    "targetText": "Important-Card",
+    "english": "Important Card"
+  },
+  {
+    "targetText": "Important-Bank",
+    "english": "Important Bank"
+  },
+  {
+    "targetText": "Important-Bus",
+    "english": "Important Bus"
+  },
+  {
+    "targetText": "Important-Train",
+    "english": "Important Train"
+  },
+  {
+    "targetText": "Important-Taxi",
+    "english": "Important Taxi"
+  },
+  {
+    "targetText": "Important-Car",
+    "english": "Important Car"
+  },
+  {
+    "targetText": "Important-Bike",
+    "english": "Important Bike"
+  },
+  {
+    "targetText": "Important-Ticket",
+    "english": "Important Ticket"
+  },
+  {
+    "targetText": "Important-Station",
+    "english": "Important Station"
+  },
+  {
+    "targetText": "Important-Airport",
+    "english": "Important Airport"
+  },
+  {
+    "targetText": "Important-Hotel",
+    "english": "Important Hotel"
+  },
+  {
+    "targetText": "Important-Restaurant",
+    "english": "Important Restaurant"
+  },
+  {
+    "targetText": "Important-Map",
+    "english": "Important Map"
+  },
+  {
+    "targetText": "Important-Address",
+    "english": "Important Address"
+  },
+  {
+    "targetText": "Important-Doctor",
+    "english": "Important Doctor"
+  },
+  {
+    "targetText": "Important-Hospital",
+    "english": "Important Hospital"
+  },
+  {
+    "targetText": "Important-Medicine",
+    "english": "Important Medicine"
+  },
+  {
+    "targetText": "Important-Fever",
+    "english": "Important Fever"
+  },
+  {
+    "targetText": "Important-Pain",
+    "english": "Important Pain"
+  },
+  {
+    "targetText": "Important-Help",
+    "english": "Important Help"
+  },
+  {
+    "targetText": "Important-Emergency",
+    "english": "Important Emergency"
+  },
+  {
+    "targetText": "Important-Rain",
+    "english": "Important Rain"
+  },
+  {
+    "targetText": "Important-Sun",
+    "english": "Important Sun"
+  },
+  {
+    "targetText": "Important-Wind",
+    "english": "Important Wind"
+  },
+  {
+    "targetText": "Important-Cold",
+    "english": "Important Cold"
+  },
+  {
+    "targetText": "Important-Heat",
+    "english": "Important Heat"
+  },
+  {
+    "targetText": "Important-Time",
+    "english": "Important Time"
+  },
+  {
+    "targetText": "Important-Today",
+    "english": "Important Today"
+  },
+  {
+    "targetText": "Important-Tomorrow",
+    "english": "Important Tomorrow"
+  },
+  {
+    "targetText": "Important-Yesterday",
+    "english": "Important Yesterday"
+  },
+  {
+    "targetText": "Important-Morning",
+    "english": "Important Morning"
+  },
+  {
+    "targetText": "Important-Evening",
+    "english": "Important Evening"
+  },
+  {
+    "targetText": "Important-Night",
+    "english": "Important Night"
+  },
+  {
+    "targetText": "Beautiful-Water",
+    "english": "Beautiful Water"
+  },
+  {
+    "targetText": "Beautiful-Food",
+    "english": "Beautiful Food"
+  },
+  {
+    "targetText": "Beautiful-Tea",
+    "english": "Beautiful Tea"
+  },
+  {
+    "targetText": "Beautiful-Coffee",
+    "english": "Beautiful Coffee"
+  },
+  {
+    "targetText": "Beautiful-Milk",
+    "english": "Beautiful Milk"
+  },
+  {
+    "targetText": "Beautiful-Bread",
+    "english": "Beautiful Bread"
+  },
+  {
+    "targetText": "Beautiful-Rice",
+    "english": "Beautiful Rice"
+  },
+  {
+    "targetText": "Beautiful-Salt",
+    "english": "Beautiful Salt"
+  },
+  {
+    "targetText": "Beautiful-Sugar",
+    "english": "Beautiful Sugar"
+  },
+  {
+    "targetText": "Beautiful-Fruit",
+    "english": "Beautiful Fruit"
+  },
+  {
+    "targetText": "Beautiful-Vegetables",
+    "english": "Beautiful Vegetables"
+  },
+  {
+    "targetText": "Beautiful-Banana",
+    "english": "Beautiful Banana"
+  },
+  {
+    "targetText": "Beautiful-Apple",
+    "english": "Beautiful Apple"
+  },
+  {
+    "targetText": "Beautiful-Mango",
+    "english": "Beautiful Mango"
+  },
+  {
+    "targetText": "Beautiful-Orange",
+    "english": "Beautiful Orange"
+  },
+  {
+    "targetText": "Beautiful-Egg",
+    "english": "Beautiful Egg"
+  },
+  {
+    "targetText": "Beautiful-Fish",
+    "english": "Beautiful Fish"
+  },
+  {
+    "targetText": "Beautiful-Chicken",
+    "english": "Beautiful Chicken"
+  },
+  {
+    "targetText": "Beautiful-Breakfast",
+    "english": "Beautiful Breakfast"
+  },
+  {
+    "targetText": "Beautiful-Lunch",
+    "english": "Beautiful Lunch"
+  }
+]

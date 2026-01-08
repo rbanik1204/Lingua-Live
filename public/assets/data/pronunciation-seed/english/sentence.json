@@ -1,0 +1,4002 @@
+[
+  {
+    "targetText": "I want water.",
+    "english": "I want water."
+  },
+  {
+    "targetText": "I need water.",
+    "english": "I need water."
+  },
+  {
+    "targetText": "Please give me water.",
+    "english": "Please give me water."
+  },
+  {
+    "targetText": "Where is the water?",
+    "english": "Where is the water?"
+  },
+  {
+    "targetText": "This is my water.",
+    "english": "This is my water."
+  },
+  {
+    "targetText": "Do you have water?",
+    "english": "Do you have water?"
+  },
+  {
+    "targetText": "I like water.",
+    "english": "I like water."
+  },
+  {
+    "targetText": "I don't like water.",
+    "english": "I don't like water."
+  },
+  {
+    "targetText": "I am looking for water.",
+    "english": "I am looking for water."
+  },
+  {
+    "targetText": "Is this water?",
+    "english": "Is this water?"
+  },
+  {
+    "targetText": "I want food.",
+    "english": "I want food."
+  },
+  {
+    "targetText": "I need food.",
+    "english": "I need food."
+  },
+  {
+    "targetText": "Please give me food.",
+    "english": "Please give me food."
+  },
+  {
+    "targetText": "Where is the food?",
+    "english": "Where is the food?"
+  },
+  {
+    "targetText": "This is my food.",
+    "english": "This is my food."
+  },
+  {
+    "targetText": "Do you have food?",
+    "english": "Do you have food?"
+  },
+  {
+    "targetText": "I like food.",
+    "english": "I like food."
+  },
+  {
+    "targetText": "I don't like food.",
+    "english": "I don't like food."
+  },
+  {
+    "targetText": "I am looking for food.",
+    "english": "I am looking for food."
+  },
+  {
+    "targetText": "Is this food?",
+    "english": "Is this food?"
+  },
+  {
+    "targetText": "I want tea.",
+    "english": "I want tea."
+  },
+  {
+    "targetText": "I need tea.",
+    "english": "I need tea."
+  },
+  {
+    "targetText": "Please give me tea.",
+    "english": "Please give me tea."
+  },
+  {
+    "targetText": "Where is the tea?",
+    "english": "Where is the tea?"
+  },
+  {
+    "targetText": "This is my tea.",
+    "english": "This is my tea."
+  },
+  {
+    "targetText": "Do you have tea?",
+    "english": "Do you have tea?"
+  },
+  {
+    "targetText": "I like tea.",
+    "english": "I like tea."
+  },
+  {
+    "targetText": "I don't like tea.",
+    "english": "I don't like tea."
+  },
+  {
+    "targetText": "I am looking for tea.",
+    "english": "I am looking for tea."
+  },
+  {
+    "targetText": "Is this tea?",
+    "english": "Is this tea?"
+  },
+  {
+    "targetText": "I want coffee.",
+    "english": "I want coffee."
+  },
+  {
+    "targetText": "I need coffee.",
+    "english": "I need coffee."
+  },
+  {
+    "targetText": "Please give me coffee.",
+    "english": "Please give me coffee."
+  },
+  {
+    "targetText": "Where is the coffee?",
+    "english": "Where is the coffee?"
+  },
+  {
+    "targetText": "This is my coffee.",
+    "english": "This is my coffee."
+  },
+  {
+    "targetText": "Do you have coffee?",
+    "english": "Do you have coffee?"
+  },
+  {
+    "targetText": "I like coffee.",
+    "english": "I like coffee."
+  },
+  {
+    "targetText": "I don't like coffee.",
+    "english": "I don't like coffee."
+  },
+  {
+    "targetText": "I am looking for coffee.",
+    "english": "I am looking for coffee."
+  },
+  {
+    "targetText": "Is this coffee?",
+    "english": "Is this coffee?"
+  },
+  {
+    "targetText": "I want milk.",
+    "english": "I want milk."
+  },
+  {
+    "targetText": "I need milk.",
+    "english": "I need milk."
+  },
+  {
+    "targetText": "Please give me milk.",
+    "english": "Please give me milk."
+  },
+  {
+    "targetText": "Where is the milk?",
+    "english": "Where is the milk?"
+  },
+  {
+    "targetText": "This is my milk.",
+    "english": "This is my milk."
+  },
+  {
+    "targetText": "Do you have milk?",
+    "english": "Do you have milk?"
+  },
+  {
+    "targetText": "I like milk.",
+    "english": "I like milk."
+  },
+  {
+    "targetText": "I don't like milk.",
+    "english": "I don't like milk."
+  },
+  {
+    "targetText": "I am looking for milk.",
+    "english": "I am looking for milk."
+  },
+  {
+    "targetText": "Is this milk?",
+    "english": "Is this milk?"
+  },
+  {
+    "targetText": "I want bread.",
+    "english": "I want bread."
+  },
+  {
+    "targetText": "I need bread.",
+    "english": "I need bread."
+  },
+  {
+    "targetText": "Please give me bread.",
+    "english": "Please give me bread."
+  },
+  {
+    "targetText": "Where is the bread?",
+    "english": "Where is the bread?"
+  },
+  {
+    "targetText": "This is my bread.",
+    "english": "This is my bread."
+  },
+  {
+    "targetText": "Do you have bread?",
+    "english": "Do you have bread?"
+  },
+  {
+    "targetText": "I like bread.",
+    "english": "I like bread."
+  },
+  {
+    "targetText": "I don't like bread.",
+    "english": "I don't like bread."
+  },
+  {
+    "targetText": "I am looking for bread.",
+    "english": "I am looking for bread."
+  },
+  {
+    "targetText": "Is this bread?",
+    "english": "Is this bread?"
+  },
+  {
+    "targetText": "I want rice.",
+    "english": "I want rice."
+  },
+  {
+    "targetText": "I need rice.",
+    "english": "I need rice."
+  },
+  {
+    "targetText": "Please give me rice.",
+    "english": "Please give me rice."
+  },
+  {
+    "targetText": "Where is the rice?",
+    "english": "Where is the rice?"
+  },
+  {
+    "targetText": "This is my rice.",
+    "english": "This is my rice."
+  },
+  {
+    "targetText": "Do you have rice?",
+    "english": "Do you have rice?"
+  },
+  {
+    "targetText": "I like rice.",
+    "english": "I like rice."
+  },
+  {
+    "targetText": "I don't like rice.",
+    "english": "I don't like rice."
+  },
+  {
+    "targetText": "I am looking for rice.",
+    "english": "I am looking for rice."
+  },
+  {
+    "targetText": "Is this rice?",
+    "english": "Is this rice?"
+  },
+  {
+    "targetText": "I want salt.",
+    "english": "I want salt."
+  },
+  {
+    "targetText": "I need salt.",
+    "english": "I need salt."
+  },
+  {
+    "targetText": "Please give me salt.",
+    "english": "Please give me salt."
+  },
+  {
+    "targetText": "Where is the salt?",
+    "english": "Where is the salt?"
+  },
+  {
+    "targetText": "This is my salt.",
+    "english": "This is my salt."
+  },
+  {
+    "targetText": "Do you have salt?",
+    "english": "Do you have salt?"
+  },
+  {
+    "targetText": "I like salt.",
+    "english": "I like salt."
+  },
+  {
+    "targetText": "I don't like salt.",
+    "english": "I don't like salt."
+  },
+  {
+    "targetText": "I am looking for salt.",
+    "english": "I am looking for salt."
+  },
+  {
+    "targetText": "Is this salt?",
+    "english": "Is this salt?"
+  },
+  {
+    "targetText": "I want sugar.",
+    "english": "I want sugar."
+  },
+  {
+    "targetText": "I need sugar.",
+    "english": "I need sugar."
+  },
+  {
+    "targetText": "Please give me sugar.",
+    "english": "Please give me sugar."
+  },
+  {
+    "targetText": "Where is the sugar?",
+    "english": "Where is the sugar?"
+  },
+  {
+    "targetText": "This is my sugar.",
+    "english": "This is my sugar."
+  },
+  {
+    "targetText": "Do you have sugar?",
+    "english": "Do you have sugar?"
+  },
+  {
+    "targetText": "I like sugar.",
+    "english": "I like sugar."
+  },
+  {
+    "targetText": "I don't like sugar.",
+    "english": "I don't like sugar."
+  },
+  {
+    "targetText": "I am looking for sugar.",
+    "english": "I am looking for sugar."
+  },
+  {
+    "targetText": "Is this sugar?",
+    "english": "Is this sugar?"
+  },
+  {
+    "targetText": "I want fruit.",
+    "english": "I want fruit."
+  },
+  {
+    "targetText": "I need fruit.",
+    "english": "I need fruit."
+  },
+  {
+    "targetText": "Please give me fruit.",
+    "english": "Please give me fruit."
+  },
+  {
+    "targetText": "Where is the fruit?",
+    "english": "Where is the fruit?"
+  },
+  {
+    "targetText": "This is my fruit.",
+    "english": "This is my fruit."
+  },
+  {
+    "targetText": "Do you have fruit?",
+    "english": "Do you have fruit?"
+  },
+  {
+    "targetText": "I like fruit.",
+    "english": "I like fruit."
+  },
+  {
+    "targetText": "I don't like fruit.",
+    "english": "I don't like fruit."
+  },
+  {
+    "targetText": "I am looking for fruit.",
+    "english": "I am looking for fruit."
+  },
+  {
+    "targetText": "Is this fruit?",
+    "english": "Is this fruit?"
+  },
+  {
+    "targetText": "I want vegetables.",
+    "english": "I want vegetables."
+  },
+  {
+    "targetText": "I need vegetables.",
+    "english": "I need vegetables."
+  },
+  {
+    "targetText": "Please give me vegetables.",
+    "english": "Please give me vegetables."
+  },
+  {
+    "targetText": "Where is the vegetables?",
+    "english": "Where is the vegetables?"
+  },
+  {
+    "targetText": "This is my vegetables.",
+    "english": "This is my vegetables."
+  },
+  {
+    "targetText": "Do you have vegetables?",
+    "english": "Do you have vegetables?"
+  },
+  {
+    "targetText": "I like vegetables.",
+    "english": "I like vegetables."
+  },
+  {
+    "targetText": "I don't like vegetables.",
+    "english": "I don't like vegetables."
+  },
+  {
+    "targetText": "I am looking for vegetables.",
+    "english": "I am looking for vegetables."
+  },
+  {
+    "targetText": "Is this vegetables?",
+    "english": "Is this vegetables?"
+  },
+  {
+    "targetText": "I want banana.",
+    "english": "I want banana."
+  },
+  {
+    "targetText": "I need banana.",
+    "english": "I need banana."
+  },
+  {
+    "targetText": "Please give me banana.",
+    "english": "Please give me banana."
+  },
+  {
+    "targetText": "Where is the banana?",
+    "english": "Where is the banana?"
+  },
+  {
+    "targetText": "This is my banana.",
+    "english": "This is my banana."
+  },
+  {
+    "targetText": "Do you have banana?",
+    "english": "Do you have banana?"
+  },
+  {
+    "targetText": "I like banana.",
+    "english": "I like banana."
+  },
+  {
+    "targetText": "I don't like banana.",
+    "english": "I don't like banana."
+  },
+  {
+    "targetText": "I am looking for banana.",
+    "english": "I am looking for banana."
+  },
+  {
+    "targetText": "Is this banana?",
+    "english": "Is this banana?"
+  },
+  {
+    "targetText": "I want apple.",
+    "english": "I want apple."
+  },
+  {
+    "targetText": "I need apple.",
+    "english": "I need apple."
+  },
+  {
+    "targetText": "Please give me apple.",
+    "english": "Please give me apple."
+  },
+  {
+    "targetText": "Where is the apple?",
+    "english": "Where is the apple?"
+  },
+  {
+    "targetText": "This is my apple.",
+    "english": "This is my apple."
+  },
+  {
+    "targetText": "Do you have apple?",
+    "english": "Do you have apple?"
+  },
+  {
+    "targetText": "I like apple.",
+    "english": "I like apple."
+  },
+  {
+    "targetText": "I don't like apple.",
+    "english": "I don't like apple."
+  },
+  {
+    "targetText": "I am looking for apple.",
+    "english": "I am looking for apple."
+  },
+  {
+    "targetText": "Is this apple?",
+    "english": "Is this apple?"
+  },
+  {
+    "targetText": "I want mango.",
+    "english": "I want mango."
+  },
+  {
+    "targetText": "I need mango.",
+    "english": "I need mango."
+  },
+  {
+    "targetText": "Please give me mango.",
+    "english": "Please give me mango."
+  },
+  {
+    "targetText": "Where is the mango?",
+    "english": "Where is the mango?"
+  },
+  {
+    "targetText": "This is my mango.",
+    "english": "This is my mango."
+  },
+  {
+    "targetText": "Do you have mango?",
+    "english": "Do you have mango?"
+  },
+  {
+    "targetText": "I like mango.",
+    "english": "I like mango."
+  },
+  {
+    "targetText": "I don't like mango.",
+    "english": "I don't like mango."
+  },
+  {
+    "targetText": "I am looking for mango.",
+    "english": "I am looking for mango."
+  },
+  {
+    "targetText": "Is this mango?",
+    "english": "Is this mango?"
+  },
+  {
+    "targetText": "I want orange.",
+    "english": "I want orange."
+  },
+  {
+    "targetText": "I need orange.",
+    "english": "I need orange."
+  },
+  {
+    "targetText": "Please give me orange.",
+    "english": "Please give me orange."
+  },
+  {
+    "targetText": "Where is the orange?",
+    "english": "Where is the orange?"
+  },
+  {
+    "targetText": "This is my orange.",
+    "english": "This is my orange."
+  },
+  {
+    "targetText": "Do you have orange?",
+    "english": "Do you have orange?"
+  },
+  {
+    "targetText": "I like orange.",
+    "english": "I like orange."
+  },
+  {
+    "targetText": "I don't like orange.",
+    "english": "I don't like orange."
+  },
+  {
+    "targetText": "I am looking for orange.",
+    "english": "I am looking for orange."
+  },
+  {
+    "targetText": "Is this orange?",
+    "english": "Is this orange?"
+  },
+  {
+    "targetText": "I want egg.",
+    "english": "I want egg."
+  },
+  {
+    "targetText": "I need egg.",
+    "english": "I need egg."
+  },
+  {
+    "targetText": "Please give me egg.",
+    "english": "Please give me egg."
+  },
+  {
+    "targetText": "Where is the egg?",
+    "english": "Where is the egg?"
+  },
+  {
+    "targetText": "This is my egg.",
+    "english": "This is my egg."
+  },
+  {
+    "targetText": "Do you have egg?",
+    "english": "Do you have egg?"
+  },
+  {
+    "targetText": "I like egg.",
+    "english": "I like egg."
+  },
+  {
+    "targetText": "I don't like egg.",
+    "english": "I don't like egg."
+  },
+  {
+    "targetText": "I am looking for egg.",
+    "english": "I am looking for egg."
+  },
+  {
+    "targetText": "Is this egg?",
+    "english": "Is this egg?"
+  },
+  {
+    "targetText": "I want fish.",
+    "english": "I want fish."
+  },
+  {
+    "targetText": "I need fish.",
+    "english": "I need fish."
+  },
+  {
+    "targetText": "Please give me fish.",
+    "english": "Please give me fish."
+  },
+  {
+    "targetText": "Where is the fish?",
+    "english": "Where is the fish?"
+  },
+  {
+    "targetText": "This is my fish.",
+    "english": "This is my fish."
+  },
+  {
+    "targetText": "Do you have fish?",
+    "english": "Do you have fish?"
+  },
+  {
+    "targetText": "I like fish.",
+    "english": "I like fish."
+  },
+  {
+    "targetText": "I don't like fish.",
+    "english": "I don't like fish."
+  },
+  {
+    "targetText": "I am looking for fish.",
+    "english": "I am looking for fish."
+  },
+  {
+    "targetText": "Is this fish?",
+    "english": "Is this fish?"
+  },
+  {
+    "targetText": "I want chicken.",
+    "english": "I want chicken."
+  },
+  {
+    "targetText": "I need chicken.",
+    "english": "I need chicken."
+  },
+  {
+    "targetText": "Please give me chicken.",
+    "english": "Please give me chicken."
+  },
+  {
+    "targetText": "Where is the chicken?",
+    "english": "Where is the chicken?"
+  },
+  {
+    "targetText": "This is my chicken.",
+    "english": "This is my chicken."
+  },
+  {
+    "targetText": "Do you have chicken?",
+    "english": "Do you have chicken?"
+  },
+  {
+    "targetText": "I like chicken.",
+    "english": "I like chicken."
+  },
+  {
+    "targetText": "I don't like chicken.",
+    "english": "I don't like chicken."
+  },
+  {
+    "targetText": "I am looking for chicken.",
+    "english": "I am looking for chicken."
+  },
+  {
+    "targetText": "Is this chicken?",
+    "english": "Is this chicken?"
+  },
+  {
+    "targetText": "I want breakfast.",
+    "english": "I want breakfast."
+  },
+  {
+    "targetText": "I need breakfast.",
+    "english": "I need breakfast."
+  },
+  {
+    "targetText": "Please give me breakfast.",
+    "english": "Please give me breakfast."
+  },
+  {
+    "targetText": "Where is the breakfast?",
+    "english": "Where is the breakfast?"
+  },
+  {
+    "targetText": "This is my breakfast.",
+    "english": "This is my breakfast."
+  },
+  {
+    "targetText": "Do you have breakfast?",
+    "english": "Do you have breakfast?"
+  },
+  {
+    "targetText": "I like breakfast.",
+    "english": "I like breakfast."
+  },
+  {
+    "targetText": "I don't like breakfast.",
+    "english": "I don't like breakfast."
+  },
+  {
+    "targetText": "I am looking for breakfast.",
+    "english": "I am looking for breakfast."
+  },
+  {
+    "targetText": "Is this breakfast?",
+    "english": "Is this breakfast?"
+  },
+  {
+    "targetText": "I want lunch.",
+    "english": "I want lunch."
+  },
+  {
+    "targetText": "I need lunch.",
+    "english": "I need lunch."
+  },
+  {
+    "targetText": "Please give me lunch.",
+    "english": "Please give me lunch."
+  },
+  {
+    "targetText": "Where is the lunch?",
+    "english": "Where is the lunch?"
+  },
+  {
+    "targetText": "This is my lunch.",
+    "english": "This is my lunch."
+  },
+  {
+    "targetText": "Do you have lunch?",
+    "english": "Do you have lunch?"
+  },
+  {
+    "targetText": "I like lunch.",
+    "english": "I like lunch."
+  },
+  {
+    "targetText": "I don't like lunch.",
+    "english": "I don't like lunch."
+  },
+  {
+    "targetText": "I am looking for lunch.",
+    "english": "I am looking for lunch."
+  },
+  {
+    "targetText": "Is this lunch?",
+    "english": "Is this lunch?"
+  },
+  {
+    "targetText": "I want dinner.",
+    "english": "I want dinner."
+  },
+  {
+    "targetText": "I need dinner.",
+    "english": "I need dinner."
+  },
+  {
+    "targetText": "Please give me dinner.",
+    "english": "Please give me dinner."
+  },
+  {
+    "targetText": "Where is the dinner?",
+    "english": "Where is the dinner?"
+  },
+  {
+    "targetText": "This is my dinner.",
+    "english": "This is my dinner."
+  },
+  {
+    "targetText": "Do you have dinner?",
+    "english": "Do you have dinner?"
+  },
+  {
+    "targetText": "I like dinner.",
+    "english": "I like dinner."
+  },
+  {
+    "targetText": "I don't like dinner.",
+    "english": "I don't like dinner."
+  },
+  {
+    "targetText": "I am looking for dinner.",
+    "english": "I am looking for dinner."
+  },
+  {
+    "targetText": "Is this dinner?",
+    "english": "Is this dinner?"
+  },
+  {
+    "targetText": "I want book.",
+    "english": "I want book."
+  },
+  {
+    "targetText": "I need book.",
+    "english": "I need book."
+  },
+  {
+    "targetText": "Please give me book.",
+    "english": "Please give me book."
+  },
+  {
+    "targetText": "Where is the book?",
+    "english": "Where is the book?"
+  },
+  {
+    "targetText": "This is my book.",
+    "english": "This is my book."
+  },
+  {
+    "targetText": "Do you have book?",
+    "english": "Do you have book?"
+  },
+  {
+    "targetText": "I like book.",
+    "english": "I like book."
+  },
+  {
+    "targetText": "I don't like book.",
+    "english": "I don't like book."
+  },
+  {
+    "targetText": "I am looking for book.",
+    "english": "I am looking for book."
+  },
+  {
+    "targetText": "Is this book?",
+    "english": "Is this book?"
+  },
+  {
+    "targetText": "I want pen.",
+    "english": "I want pen."
+  },
+  {
+    "targetText": "I need pen.",
+    "english": "I need pen."
+  },
+  {
+    "targetText": "Please give me pen.",
+    "english": "Please give me pen."
+  },
+  {
+    "targetText": "Where is the pen?",
+    "english": "Where is the pen?"
+  },
+  {
+    "targetText": "This is my pen.",
+    "english": "This is my pen."
+  },
+  {
+    "targetText": "Do you have pen?",
+    "english": "Do you have pen?"
+  },
+  {
+    "targetText": "I like pen.",
+    "english": "I like pen."
+  },
+  {
+    "targetText": "I don't like pen.",
+    "english": "I don't like pen."
+  },
+  {
+    "targetText": "I am looking for pen.",
+    "english": "I am looking for pen."
+  },
+  {
+    "targetText": "Is this pen?",
+    "english": "Is this pen?"
+  },
+  {
+    "targetText": "I want pencil.",
+    "english": "I want pencil."
+  },
+  {
+    "targetText": "I need pencil.",
+    "english": "I need pencil."
+  },
+  {
+    "targetText": "Please give me pencil.",
+    "english": "Please give me pencil."
+  },
+  {
+    "targetText": "Where is the pencil?",
+    "english": "Where is the pencil?"
+  },
+  {
+    "targetText": "This is my pencil.",
+    "english": "This is my pencil."
+  },
+  {
+    "targetText": "Do you have pencil?",
+    "english": "Do you have pencil?"
+  },
+  {
+    "targetText": "I like pencil.",
+    "english": "I like pencil."
+  },
+  {
+    "targetText": "I don't like pencil.",
+    "english": "I don't like pencil."
+  },
+  {
+    "targetText": "I am looking for pencil.",
+    "english": "I am looking for pencil."
+  },
+  {
+    "targetText": "Is this pencil?",
+    "english": "Is this pencil?"
+  },
+  {
+    "targetText": "I want notebook.",
+    "english": "I want notebook."
+  },
+  {
+    "targetText": "I need notebook.",
+    "english": "I need notebook."
+  },
+  {
+    "targetText": "Please give me notebook.",
+    "english": "Please give me notebook."
+  },
+  {
+    "targetText": "Where is the notebook?",
+    "english": "Where is the notebook?"
+  },
+  {
+    "targetText": "This is my notebook.",
+    "english": "This is my notebook."
+  },
+  {
+    "targetText": "Do you have notebook?",
+    "english": "Do you have notebook?"
+  },
+  {
+    "targetText": "I like notebook.",
+    "english": "I like notebook."
+  },
+  {
+    "targetText": "I don't like notebook.",
+    "english": "I don't like notebook."
+  },
+  {
+    "targetText": "I am looking for notebook.",
+    "english": "I am looking for notebook."
+  },
+  {
+    "targetText": "Is this notebook?",
+    "english": "Is this notebook?"
+  },
+  {
+    "targetText": "I want paper.",
+    "english": "I want paper."
+  },
+  {
+    "targetText": "I need paper.",
+    "english": "I need paper."
+  },
+  {
+    "targetText": "Please give me paper.",
+    "english": "Please give me paper."
+  },
+  {
+    "targetText": "Where is the paper?",
+    "english": "Where is the paper?"
+  },
+  {
+    "targetText": "This is my paper.",
+    "english": "This is my paper."
+  },
+  {
+    "targetText": "Do you have paper?",
+    "english": "Do you have paper?"
+  },
+  {
+    "targetText": "I like paper.",
+    "english": "I like paper."
+  },
+  {
+    "targetText": "I don't like paper.",
+    "english": "I don't like paper."
+  },
+  {
+    "targetText": "I am looking for paper.",
+    "english": "I am looking for paper."
+  },
+  {
+    "targetText": "Is this paper?",
+    "english": "Is this paper?"
+  },
+  {
+    "targetText": "I want bag.",
+    "english": "I want bag."
+  },
+  {
+    "targetText": "I need bag.",
+    "english": "I need bag."
+  },
+  {
+    "targetText": "Please give me bag.",
+    "english": "Please give me bag."
+  },
+  {
+    "targetText": "Where is the bag?",
+    "english": "Where is the bag?"
+  },
+  {
+    "targetText": "This is my bag.",
+    "english": "This is my bag."
+  },
+  {
+    "targetText": "Do you have bag?",
+    "english": "Do you have bag?"
+  },
+  {
+    "targetText": "I like bag.",
+    "english": "I like bag."
+  },
+  {
+    "targetText": "I don't like bag.",
+    "english": "I don't like bag."
+  },
+  {
+    "targetText": "I am looking for bag.",
+    "english": "I am looking for bag."
+  },
+  {
+    "targetText": "Is this bag?",
+    "english": "Is this bag?"
+  },
+  {
+    "targetText": "I want school.",
+    "english": "I want school."
+  },
+  {
+    "targetText": "I need school.",
+    "english": "I need school."
+  },
+  {
+    "targetText": "Please give me school.",
+    "english": "Please give me school."
+  },
+  {
+    "targetText": "Where is the school?",
+    "english": "Where is the school?"
+  },
+  {
+    "targetText": "This is my school.",
+    "english": "This is my school."
+  },
+  {
+    "targetText": "Do you have school?",
+    "english": "Do you have school?"
+  },
+  {
+    "targetText": "I like school.",
+    "english": "I like school."
+  },
+  {
+    "targetText": "I don't like school.",
+    "english": "I don't like school."
+  },
+  {
+    "targetText": "I am looking for school.",
+    "english": "I am looking for school."
+  },
+  {
+    "targetText": "Is this school?",
+    "english": "Is this school?"
+  },
+  {
+    "targetText": "I want class.",
+    "english": "I want class."
+  },
+  {
+    "targetText": "I need class.",
+    "english": "I need class."
+  },
+  {
+    "targetText": "Please give me class.",
+    "english": "Please give me class."
+  },
+  {
+    "targetText": "Where is the class?",
+    "english": "Where is the class?"
+  },
+  {
+    "targetText": "This is my class.",
+    "english": "This is my class."
+  },
+  {
+    "targetText": "Do you have class?",
+    "english": "Do you have class?"
+  },
+  {
+    "targetText": "I like class.",
+    "english": "I like class."
+  },
+  {
+    "targetText": "I don't like class.",
+    "english": "I don't like class."
+  },
+  {
+    "targetText": "I am looking for class.",
+    "english": "I am looking for class."
+  },
+  {
+    "targetText": "Is this class?",
+    "english": "Is this class?"
+  },
+  {
+    "targetText": "I want teacher.",
+    "english": "I want teacher."
+  },
+  {
+    "targetText": "I need teacher.",
+    "english": "I need teacher."
+  },
+  {
+    "targetText": "Please give me teacher.",
+    "english": "Please give me teacher."
+  },
+  {
+    "targetText": "Where is the teacher?",
+    "english": "Where is the teacher?"
+  },
+  {
+    "targetText": "This is my teacher.",
+    "english": "This is my teacher."
+  },
+  {
+    "targetText": "Do you have teacher?",
+    "english": "Do you have teacher?"
+  },
+  {
+    "targetText": "I like teacher.",
+    "english": "I like teacher."
+  },
+  {
+    "targetText": "I don't like teacher.",
+    "english": "I don't like teacher."
+  },
+  {
+    "targetText": "I am looking for teacher.",
+    "english": "I am looking for teacher."
+  },
+  {
+    "targetText": "Is this teacher?",
+    "english": "Is this teacher?"
+  },
+  {
+    "targetText": "I want student.",
+    "english": "I want student."
+  },
+  {
+    "targetText": "I need student.",
+    "english": "I need student."
+  },
+  {
+    "targetText": "Please give me student.",
+    "english": "Please give me student."
+  },
+  {
+    "targetText": "Where is the student?",
+    "english": "Where is the student?"
+  },
+  {
+    "targetText": "This is my student.",
+    "english": "This is my student."
+  },
+  {
+    "targetText": "Do you have student?",
+    "english": "Do you have student?"
+  },
+  {
+    "targetText": "I like student.",
+    "english": "I like student."
+  },
+  {
+    "targetText": "I don't like student.",
+    "english": "I don't like student."
+  },
+  {
+    "targetText": "I am looking for student.",
+    "english": "I am looking for student."
+  },
+  {
+    "targetText": "Is this student?",
+    "english": "Is this student?"
+  },
+  {
+    "targetText": "I want homework.",
+    "english": "I want homework."
+  },
+  {
+    "targetText": "I need homework.",
+    "english": "I need homework."
+  },
+  {
+    "targetText": "Please give me homework.",
+    "english": "Please give me homework."
+  },
+  {
+    "targetText": "Where is the homework?",
+    "english": "Where is the homework?"
+  },
+  {
+    "targetText": "This is my homework.",
+    "english": "This is my homework."
+  },
+  {
+    "targetText": "Do you have homework?",
+    "english": "Do you have homework?"
+  },
+  {
+    "targetText": "I like homework.",
+    "english": "I like homework."
+  },
+  {
+    "targetText": "I don't like homework.",
+    "english": "I don't like homework."
+  },
+  {
+    "targetText": "I am looking for homework.",
+    "english": "I am looking for homework."
+  },
+  {
+    "targetText": "Is this homework?",
+    "english": "Is this homework?"
+  },
+  {
+    "targetText": "I want exam.",
+    "english": "I want exam."
+  },
+  {
+    "targetText": "I need exam.",
+    "english": "I need exam."
+  },
+  {
+    "targetText": "Please give me exam.",
+    "english": "Please give me exam."
+  },
+  {
+    "targetText": "Where is the exam?",
+    "english": "Where is the exam?"
+  },
+  {
+    "targetText": "This is my exam.",
+    "english": "This is my exam."
+  },
+  {
+    "targetText": "Do you have exam?",
+    "english": "Do you have exam?"
+  },
+  {
+    "targetText": "I like exam.",
+    "english": "I like exam."
+  },
+  {
+    "targetText": "I don't like exam.",
+    "english": "I don't like exam."
+  },
+  {
+    "targetText": "I am looking for exam.",
+    "english": "I am looking for exam."
+  },
+  {
+    "targetText": "Is this exam?",
+    "english": "Is this exam?"
+  },
+  {
+    "targetText": "I want question.",
+    "english": "I want question."
+  },
+  {
+    "targetText": "I need question.",
+    "english": "I need question."
+  },
+  {
+    "targetText": "Please give me question.",
+    "english": "Please give me question."
+  },
+  {
+    "targetText": "Where is the question?",
+    "english": "Where is the question?"
+  },
+  {
+    "targetText": "This is my question.",
+    "english": "This is my question."
+  },
+  {
+    "targetText": "Do you have question?",
+    "english": "Do you have question?"
+  },
+  {
+    "targetText": "I like question.",
+    "english": "I like question."
+  },
+  {
+    "targetText": "I don't like question.",
+    "english": "I don't like question."
+  },
+  {
+    "targetText": "I am looking for question.",
+    "english": "I am looking for question."
+  },
+  {
+    "targetText": "Is this question?",
+    "english": "Is this question?"
+  },
+  {
+    "targetText": "I want answer.",
+    "english": "I want answer."
+  },
+  {
+    "targetText": "I need answer.",
+    "english": "I need answer."
+  },
+  {
+    "targetText": "Please give me answer.",
+    "english": "Please give me answer."
+  },
+  {
+    "targetText": "Where is the answer?",
+    "english": "Where is the answer?"
+  },
+  {
+    "targetText": "This is my answer.",
+    "english": "This is my answer."
+  },
+  {
+    "targetText": "Do you have answer?",
+    "english": "Do you have answer?"
+  },
+  {
+    "targetText": "I like answer.",
+    "english": "I like answer."
+  },
+  {
+    "targetText": "I don't like answer.",
+    "english": "I don't like answer."
+  },
+  {
+    "targetText": "I am looking for answer.",
+    "english": "I am looking for answer."
+  },
+  {
+    "targetText": "Is this answer?",
+    "english": "Is this answer?"
+  },
+  {
+    "targetText": "I want lesson.",
+    "english": "I want lesson."
+  },
+  {
+    "targetText": "I need lesson.",
+    "english": "I need lesson."
+  },
+  {
+    "targetText": "Please give me lesson.",
+    "english": "Please give me lesson."
+  },
+  {
+    "targetText": "Where is the lesson?",
+    "english": "Where is the lesson?"
+  },
+  {
+    "targetText": "This is my lesson.",
+    "english": "This is my lesson."
+  },
+  {
+    "targetText": "Do you have lesson?",
+    "english": "Do you have lesson?"
+  },
+  {
+    "targetText": "I like lesson.",
+    "english": "I like lesson."
+  },
+  {
+    "targetText": "I don't like lesson.",
+    "english": "I don't like lesson."
+  },
+  {
+    "targetText": "I am looking for lesson.",
+    "english": "I am looking for lesson."
+  },
+  {
+    "targetText": "Is this lesson?",
+    "english": "Is this lesson?"
+  },
+  {
+    "targetText": "I want practice.",
+    "english": "I want practice."
+  },
+  {
+    "targetText": "I need practice.",
+    "english": "I need practice."
+  },
+  {
+    "targetText": "Please give me practice.",
+    "english": "Please give me practice."
+  },
+  {
+    "targetText": "Where is the practice?",
+    "english": "Where is the practice?"
+  },
+  {
+    "targetText": "This is my practice.",
+    "english": "This is my practice."
+  },
+  {
+    "targetText": "Do you have practice?",
+    "english": "Do you have practice?"
+  },
+  {
+    "targetText": "I like practice.",
+    "english": "I like practice."
+  },
+  {
+    "targetText": "I don't like practice.",
+    "english": "I don't like practice."
+  },
+  {
+    "targetText": "I am looking for practice.",
+    "english": "I am looking for practice."
+  },
+  {
+    "targetText": "Is this practice?",
+    "english": "Is this practice?"
+  },
+  {
+    "targetText": "I want pronunciation.",
+    "english": "I want pronunciation."
+  },
+  {
+    "targetText": "I need pronunciation.",
+    "english": "I need pronunciation."
+  },
+  {
+    "targetText": "Please give me pronunciation.",
+    "english": "Please give me pronunciation."
+  },
+  {
+    "targetText": "Where is the pronunciation?",
+    "english": "Where is the pronunciation?"
+  },
+  {
+    "targetText": "This is my pronunciation.",
+    "english": "This is my pronunciation."
+  },
+  {
+    "targetText": "Do you have pronunciation?",
+    "english": "Do you have pronunciation?"
+  },
+  {
+    "targetText": "I like pronunciation.",
+    "english": "I like pronunciation."
+  },
+  {
+    "targetText": "I don't like pronunciation.",
+    "english": "I don't like pronunciation."
+  },
+  {
+    "targetText": "I am looking for pronunciation.",
+    "english": "I am looking for pronunciation."
+  },
+  {
+    "targetText": "Is this pronunciation?",
+    "english": "Is this pronunciation?"
+  },
+  {
+    "targetText": "I want house.",
+    "english": "I want house."
+  },
+  {
+    "targetText": "I need house.",
+    "english": "I need house."
+  },
+  {
+    "targetText": "Please give me house.",
+    "english": "Please give me house."
+  },
+  {
+    "targetText": "Where is the house?",
+    "english": "Where is the house?"
+  },
+  {
+    "targetText": "This is my house.",
+    "english": "This is my house."
+  },
+  {
+    "targetText": "Do you have house?",
+    "english": "Do you have house?"
+  },
+  {
+    "targetText": "I like house.",
+    "english": "I like house."
+  },
+  {
+    "targetText": "I don't like house.",
+    "english": "I don't like house."
+  },
+  {
+    "targetText": "I am looking for house.",
+    "english": "I am looking for house."
+  },
+  {
+    "targetText": "Is this house?",
+    "english": "Is this house?"
+  },
+  {
+    "targetText": "I want room.",
+    "english": "I want room."
+  },
+  {
+    "targetText": "I need room.",
+    "english": "I need room."
+  },
+  {
+    "targetText": "Please give me room.",
+    "english": "Please give me room."
+  },
+  {
+    "targetText": "Where is the room?",
+    "english": "Where is the room?"
+  },
+  {
+    "targetText": "This is my room.",
+    "english": "This is my room."
+  },
+  {
+    "targetText": "Do you have room?",
+    "english": "Do you have room?"
+  },
+  {
+    "targetText": "I like room.",
+    "english": "I like room."
+  },
+  {
+    "targetText": "I don't like room.",
+    "english": "I don't like room."
+  },
+  {
+    "targetText": "I am looking for room.",
+    "english": "I am looking for room."
+  },
+  {
+    "targetText": "Is this room?",
+    "english": "Is this room?"
+  },
+  {
+    "targetText": "I want kitchen.",
+    "english": "I want kitchen."
+  },
+  {
+    "targetText": "I need kitchen.",
+    "english": "I need kitchen."
+  },
+  {
+    "targetText": "Please give me kitchen.",
+    "english": "Please give me kitchen."
+  },
+  {
+    "targetText": "Where is the kitchen?",
+    "english": "Where is the kitchen?"
+  },
+  {
+    "targetText": "This is my kitchen.",
+    "english": "This is my kitchen."
+  },
+  {
+    "targetText": "Do you have kitchen?",
+    "english": "Do you have kitchen?"
+  },
+  {
+    "targetText": "I like kitchen.",
+    "english": "I like kitchen."
+  },
+  {
+    "targetText": "I don't like kitchen.",
+    "english": "I don't like kitchen."
+  },
+  {
+    "targetText": "I am looking for kitchen.",
+    "english": "I am looking for kitchen."
+  },
+  {
+    "targetText": "Is this kitchen?",
+    "english": "Is this kitchen?"
+  },
+  {
+    "targetText": "I want bathroom.",
+    "english": "I want bathroom."
+  },
+  {
+    "targetText": "I need bathroom.",
+    "english": "I need bathroom."
+  },
+  {
+    "targetText": "Please give me bathroom.",
+    "english": "Please give me bathroom."
+  },
+  {
+    "targetText": "Where is the bathroom?",
+    "english": "Where is the bathroom?"
+  },
+  {
+    "targetText": "This is my bathroom.",
+    "english": "This is my bathroom."
+  },
+  {
+    "targetText": "Do you have bathroom?",
+    "english": "Do you have bathroom?"
+  },
+  {
+    "targetText": "I like bathroom.",
+    "english": "I like bathroom."
+  },
+  {
+    "targetText": "I don't like bathroom.",
+    "english": "I don't like bathroom."
+  },
+  {
+    "targetText": "I am looking for bathroom.",
+    "english": "I am looking for bathroom."
+  },
+  {
+    "targetText": "Is this bathroom?",
+    "english": "Is this bathroom?"
+  },
+  {
+    "targetText": "I want bed.",
+    "english": "I want bed."
+  },
+  {
+    "targetText": "I need bed.",
+    "english": "I need bed."
+  },
+  {
+    "targetText": "Please give me bed.",
+    "english": "Please give me bed."
+  },
+  {
+    "targetText": "Where is the bed?",
+    "english": "Where is the bed?"
+  },
+  {
+    "targetText": "This is my bed.",
+    "english": "This is my bed."
+  },
+  {
+    "targetText": "Do you have bed?",
+    "english": "Do you have bed?"
+  },
+  {
+    "targetText": "I like bed.",
+    "english": "I like bed."
+  },
+  {
+    "targetText": "I don't like bed.",
+    "english": "I don't like bed."
+  },
+  {
+    "targetText": "I am looking for bed.",
+    "english": "I am looking for bed."
+  },
+  {
+    "targetText": "Is this bed?",
+    "english": "Is this bed?"
+  },
+  {
+    "targetText": "I want chair.",
+    "english": "I want chair."
+  },
+  {
+    "targetText": "I need chair.",
+    "english": "I need chair."
+  },
+  {
+    "targetText": "Please give me chair.",
+    "english": "Please give me chair."
+  },
+  {
+    "targetText": "Where is the chair?",
+    "english": "Where is the chair?"
+  },
+  {
+    "targetText": "This is my chair.",
+    "english": "This is my chair."
+  },
+  {
+    "targetText": "Do you have chair?",
+    "english": "Do you have chair?"
+  },
+  {
+    "targetText": "I like chair.",
+    "english": "I like chair."
+  },
+  {
+    "targetText": "I don't like chair.",
+    "english": "I don't like chair."
+  },
+  {
+    "targetText": "I am looking for chair.",
+    "english": "I am looking for chair."
+  },
+  {
+    "targetText": "Is this chair?",
+    "english": "Is this chair?"
+  },
+  {
+    "targetText": "I want table.",
+    "english": "I want table."
+  },
+  {
+    "targetText": "I need table.",
+    "english": "I need table."
+  },
+  {
+    "targetText": "Please give me table.",
+    "english": "Please give me table."
+  },
+  {
+    "targetText": "Where is the table?",
+    "english": "Where is the table?"
+  },
+  {
+    "targetText": "This is my table.",
+    "english": "This is my table."
+  },
+  {
+    "targetText": "Do you have table?",
+    "english": "Do you have table?"
+  },
+  {
+    "targetText": "I like table.",
+    "english": "I like table."
+  },
+  {
+    "targetText": "I don't like table.",
+    "english": "I don't like table."
+  },
+  {
+    "targetText": "I am looking for table.",
+    "english": "I am looking for table."
+  },
+  {
+    "targetText": "Is this table?",
+    "english": "Is this table?"
+  },
+  {
+    "targetText": "I want door.",
+    "english": "I want door."
+  },
+  {
+    "targetText": "I need door.",
+    "english": "I need door."
+  },
+  {
+    "targetText": "Please give me door.",
+    "english": "Please give me door."
+  },
+  {
+    "targetText": "Where is the door?",
+    "english": "Where is the door?"
+  },
+  {
+    "targetText": "This is my door.",
+    "english": "This is my door."
+  },
+  {
+    "targetText": "Do you have door?",
+    "english": "Do you have door?"
+  },
+  {
+    "targetText": "I like door.",
+    "english": "I like door."
+  },
+  {
+    "targetText": "I don't like door.",
+    "english": "I don't like door."
+  },
+  {
+    "targetText": "I am looking for door.",
+    "english": "I am looking for door."
+  },
+  {
+    "targetText": "Is this door?",
+    "english": "Is this door?"
+  },
+  {
+    "targetText": "I want window.",
+    "english": "I want window."
+  },
+  {
+    "targetText": "I need window.",
+    "english": "I need window."
+  },
+  {
+    "targetText": "Please give me window.",
+    "english": "Please give me window."
+  },
+  {
+    "targetText": "Where is the window?",
+    "english": "Where is the window?"
+  },
+  {
+    "targetText": "This is my window.",
+    "english": "This is my window."
+  },
+  {
+    "targetText": "Do you have window?",
+    "english": "Do you have window?"
+  },
+  {
+    "targetText": "I like window.",
+    "english": "I like window."
+  },
+  {
+    "targetText": "I don't like window.",
+    "english": "I don't like window."
+  },
+  {
+    "targetText": "I am looking for window.",
+    "english": "I am looking for window."
+  },
+  {
+    "targetText": "Is this window?",
+    "english": "Is this window?"
+  },
+  {
+    "targetText": "I want key.",
+    "english": "I want key."
+  },
+  {
+    "targetText": "I need key.",
+    "english": "I need key."
+  },
+  {
+    "targetText": "Please give me key.",
+    "english": "Please give me key."
+  },
+  {
+    "targetText": "Where is the key?",
+    "english": "Where is the key?"
+  },
+  {
+    "targetText": "This is my key.",
+    "english": "This is my key."
+  },
+  {
+    "targetText": "Do you have key?",
+    "english": "Do you have key?"
+  },
+  {
+    "targetText": "I like key.",
+    "english": "I like key."
+  },
+  {
+    "targetText": "I don't like key.",
+    "english": "I don't like key."
+  },
+  {
+    "targetText": "I am looking for key.",
+    "english": "I am looking for key."
+  },
+  {
+    "targetText": "Is this key?",
+    "english": "Is this key?"
+  },
+  {
+    "targetText": "I want mother.",
+    "english": "I want mother."
+  },
+  {
+    "targetText": "I need mother.",
+    "english": "I need mother."
+  },
+  {
+    "targetText": "Please give me mother.",
+    "english": "Please give me mother."
+  },
+  {
+    "targetText": "Where is the mother?",
+    "english": "Where is the mother?"
+  },
+  {
+    "targetText": "This is my mother.",
+    "english": "This is my mother."
+  },
+  {
+    "targetText": "Do you have mother?",
+    "english": "Do you have mother?"
+  },
+  {
+    "targetText": "I like mother.",
+    "english": "I like mother."
+  },
+  {
+    "targetText": "I don't like mother.",
+    "english": "I don't like mother."
+  },
+  {
+    "targetText": "I am looking for mother.",
+    "english": "I am looking for mother."
+  },
+  {
+    "targetText": "Is this mother?",
+    "english": "Is this mother?"
+  },
+  {
+    "targetText": "I want father.",
+    "english": "I want father."
+  },
+  {
+    "targetText": "I need father.",
+    "english": "I need father."
+  },
+  {
+    "targetText": "Please give me father.",
+    "english": "Please give me father."
+  },
+  {
+    "targetText": "Where is the father?",
+    "english": "Where is the father?"
+  },
+  {
+    "targetText": "This is my father.",
+    "english": "This is my father."
+  },
+  {
+    "targetText": "Do you have father?",
+    "english": "Do you have father?"
+  },
+  {
+    "targetText": "I like father.",
+    "english": "I like father."
+  },
+  {
+    "targetText": "I don't like father.",
+    "english": "I don't like father."
+  },
+  {
+    "targetText": "I am looking for father.",
+    "english": "I am looking for father."
+  },
+  {
+    "targetText": "Is this father?",
+    "english": "Is this father?"
+  },
+  {
+    "targetText": "I want brother.",
+    "english": "I want brother."
+  },
+  {
+    "targetText": "I need brother.",
+    "english": "I need brother."
+  },
+  {
+    "targetText": "Please give me brother.",
+    "english": "Please give me brother."
+  },
+  {
+    "targetText": "Where is the brother?",
+    "english": "Where is the brother?"
+  },
+  {
+    "targetText": "This is my brother.",
+    "english": "This is my brother."
+  },
+  {
+    "targetText": "Do you have brother?",
+    "english": "Do you have brother?"
+  },
+  {
+    "targetText": "I like brother.",
+    "english": "I like brother."
+  },
+  {
+    "targetText": "I don't like brother.",
+    "english": "I don't like brother."
+  },
+  {
+    "targetText": "I am looking for brother.",
+    "english": "I am looking for brother."
+  },
+  {
+    "targetText": "Is this brother?",
+    "english": "Is this brother?"
+  },
+  {
+    "targetText": "I want sister.",
+    "english": "I want sister."
+  },
+  {
+    "targetText": "I need sister.",
+    "english": "I need sister."
+  },
+  {
+    "targetText": "Please give me sister.",
+    "english": "Please give me sister."
+  },
+  {
+    "targetText": "Where is the sister?",
+    "english": "Where is the sister?"
+  },
+  {
+    "targetText": "This is my sister.",
+    "english": "This is my sister."
+  },
+  {
+    "targetText": "Do you have sister?",
+    "english": "Do you have sister?"
+  },
+  {
+    "targetText": "I like sister.",
+    "english": "I like sister."
+  },
+  {
+    "targetText": "I don't like sister.",
+    "english": "I don't like sister."
+  },
+  {
+    "targetText": "I am looking for sister.",
+    "english": "I am looking for sister."
+  },
+  {
+    "targetText": "Is this sister?",
+    "english": "Is this sister?"
+  },
+  {
+    "targetText": "I want friend.",
+    "english": "I want friend."
+  },
+  {
+    "targetText": "I need friend.",
+    "english": "I need friend."
+  },
+  {
+    "targetText": "Please give me friend.",
+    "english": "Please give me friend."
+  },
+  {
+    "targetText": "Where is the friend?",
+    "english": "Where is the friend?"
+  },
+  {
+    "targetText": "This is my friend.",
+    "english": "This is my friend."
+  },
+  {
+    "targetText": "Do you have friend?",
+    "english": "Do you have friend?"
+  },
+  {
+    "targetText": "I like friend.",
+    "english": "I like friend."
+  },
+  {
+    "targetText": "I don't like friend.",
+    "english": "I don't like friend."
+  },
+  {
+    "targetText": "I am looking for friend.",
+    "english": "I am looking for friend."
+  },
+  {
+    "targetText": "Is this friend?",
+    "english": "Is this friend?"
+  },
+  {
+    "targetText": "I want family.",
+    "english": "I want family."
+  },
+  {
+    "targetText": "I need family.",
+    "english": "I need family."
+  },
+  {
+    "targetText": "Please give me family.",
+    "english": "Please give me family."
+  },
+  {
+    "targetText": "Where is the family?",
+    "english": "Where is the family?"
+  },
+  {
+    "targetText": "This is my family.",
+    "english": "This is my family."
+  },
+  {
+    "targetText": "Do you have family?",
+    "english": "Do you have family?"
+  },
+  {
+    "targetText": "I like family.",
+    "english": "I like family."
+  },
+  {
+    "targetText": "I don't like family.",
+    "english": "I don't like family."
+  },
+  {
+    "targetText": "I am looking for family.",
+    "english": "I am looking for family."
+  },
+  {
+    "targetText": "Is this family?",
+    "english": "Is this family?"
+  },
+  {
+    "targetText": "I want child.",
+    "english": "I want child."
+  },
+  {
+    "targetText": "I need child.",
+    "english": "I need child."
+  },
+  {
+    "targetText": "Please give me child.",
+    "english": "Please give me child."
+  },
+  {
+    "targetText": "Where is the child?",
+    "english": "Where is the child?"
+  },
+  {
+    "targetText": "This is my child.",
+    "english": "This is my child."
+  },
+  {
+    "targetText": "Do you have child?",
+    "english": "Do you have child?"
+  },
+  {
+    "targetText": "I like child.",
+    "english": "I like child."
+  },
+  {
+    "targetText": "I don't like child.",
+    "english": "I don't like child."
+  },
+  {
+    "targetText": "I am looking for child.",
+    "english": "I am looking for child."
+  },
+  {
+    "targetText": "Is this child?",
+    "english": "Is this child?"
+  },
+  {
+    "targetText": "I want name.",
+    "english": "I want name."
+  },
+  {
+    "targetText": "I need name.",
+    "english": "I need name."
+  },
+  {
+    "targetText": "Please give me name.",
+    "english": "Please give me name."
+  },
+  {
+    "targetText": "Where is the name?",
+    "english": "Where is the name?"
+  },
+  {
+    "targetText": "This is my name.",
+    "english": "This is my name."
+  },
+  {
+    "targetText": "Do you have name?",
+    "english": "Do you have name?"
+  },
+  {
+    "targetText": "I like name.",
+    "english": "I like name."
+  },
+  {
+    "targetText": "I don't like name.",
+    "english": "I don't like name."
+  },
+  {
+    "targetText": "I am looking for name.",
+    "english": "I am looking for name."
+  },
+  {
+    "targetText": "Is this name?",
+    "english": "Is this name?"
+  },
+  {
+    "targetText": "I want phone.",
+    "english": "I want phone."
+  },
+  {
+    "targetText": "I need phone.",
+    "english": "I need phone."
+  },
+  {
+    "targetText": "Please give me phone.",
+    "english": "Please give me phone."
+  },
+  {
+    "targetText": "Where is the phone?",
+    "english": "Where is the phone?"
+  },
+  {
+    "targetText": "This is my phone.",
+    "english": "This is my phone."
+  },
+  {
+    "targetText": "Do you have phone?",
+    "english": "Do you have phone?"
+  },
+  {
+    "targetText": "I like phone.",
+    "english": "I like phone."
+  },
+  {
+    "targetText": "I don't like phone.",
+    "english": "I don't like phone."
+  },
+  {
+    "targetText": "I am looking for phone.",
+    "english": "I am looking for phone."
+  },
+  {
+    "targetText": "Is this phone?",
+    "english": "Is this phone?"
+  },
+  {
+    "targetText": "I want computer.",
+    "english": "I want computer."
+  },
+  {
+    "targetText": "I need computer.",
+    "english": "I need computer."
+  },
+  {
+    "targetText": "Please give me computer.",
+    "english": "Please give me computer."
+  },
+  {
+    "targetText": "Where is the computer?",
+    "english": "Where is the computer?"
+  },
+  {
+    "targetText": "This is my computer.",
+    "english": "This is my computer."
+  },
+  {
+    "targetText": "Do you have computer?",
+    "english": "Do you have computer?"
+  },
+  {
+    "targetText": "I like computer.",
+    "english": "I like computer."
+  },
+  {
+    "targetText": "I don't like computer.",
+    "english": "I don't like computer."
+  },
+  {
+    "targetText": "I am looking for computer.",
+    "english": "I am looking for computer."
+  },
+  {
+    "targetText": "Is this computer?",
+    "english": "Is this computer?"
+  },
+  {
+    "targetText": "I want internet.",
+    "english": "I want internet."
+  },
+  {
+    "targetText": "I need internet.",
+    "english": "I need internet."
+  },
+  {
+    "targetText": "Please give me internet.",
+    "english": "Please give me internet."
+  },
+  {
+    "targetText": "Where is the internet?",
+    "english": "Where is the internet?"
+  },
+  {
+    "targetText": "This is my internet.",
+    "english": "This is my internet."
+  },
+  {
+    "targetText": "Do you have internet?",
+    "english": "Do you have internet?"
+  },
+  {
+    "targetText": "I like internet.",
+    "english": "I like internet."
+  },
+  {
+    "targetText": "I don't like internet.",
+    "english": "I don't like internet."
+  },
+  {
+    "targetText": "I am looking for internet.",
+    "english": "I am looking for internet."
+  },
+  {
+    "targetText": "Is this internet?",
+    "english": "Is this internet?"
+  },
+  {
+    "targetText": "I want message.",
+    "english": "I want message."
+  },
+  {
+    "targetText": "I need message.",
+    "english": "I need message."
+  },
+  {
+    "targetText": "Please give me message.",
+    "english": "Please give me message."
+  },
+  {
+    "targetText": "Where is the message?",
+    "english": "Where is the message?"
+  },
+  {
+    "targetText": "This is my message.",
+    "english": "This is my message."
+  },
+  {
+    "targetText": "Do you have message?",
+    "english": "Do you have message?"
+  },
+  {
+    "targetText": "I like message.",
+    "english": "I like message."
+  },
+  {
+    "targetText": "I don't like message.",
+    "english": "I don't like message."
+  },
+  {
+    "targetText": "I am looking for message.",
+    "english": "I am looking for message."
+  },
+  {
+    "targetText": "Is this message?",
+    "english": "Is this message?"
+  },
+  {
+    "targetText": "I want money.",
+    "english": "I want money."
+  },
+  {
+    "targetText": "I need money.",
+    "english": "I need money."
+  },
+  {
+    "targetText": "Please give me money.",
+    "english": "Please give me money."
+  },
+  {
+    "targetText": "Where is the money?",
+    "english": "Where is the money?"
+  },
+  {
+    "targetText": "This is my money.",
+    "english": "This is my money."
+  },
+  {
+    "targetText": "Do you have money?",
+    "english": "Do you have money?"
+  },
+  {
+    "targetText": "I like money.",
+    "english": "I like money."
+  },
+  {
+    "targetText": "I don't like money.",
+    "english": "I don't like money."
+  },
+  {
+    "targetText": "I am looking for money.",
+    "english": "I am looking for money."
+  },
+  {
+    "targetText": "Is this money?",
+    "english": "Is this money?"
+  },
+  {
+    "targetText": "I want price.",
+    "english": "I want price."
+  },
+  {
+    "targetText": "I need price.",
+    "english": "I need price."
+  },
+  {
+    "targetText": "Please give me price.",
+    "english": "Please give me price."
+  },
+  {
+    "targetText": "Where is the price?",
+    "english": "Where is the price?"
+  },
+  {
+    "targetText": "This is my price.",
+    "english": "This is my price."
+  },
+  {
+    "targetText": "Do you have price?",
+    "english": "Do you have price?"
+  },
+  {
+    "targetText": "I like price.",
+    "english": "I like price."
+  },
+  {
+    "targetText": "I don't like price.",
+    "english": "I don't like price."
+  },
+  {
+    "targetText": "I am looking for price.",
+    "english": "I am looking for price."
+  },
+  {
+    "targetText": "Is this price?",
+    "english": "Is this price?"
+  },
+  {
+    "targetText": "I want market.",
+    "english": "I want market."
+  },
+  {
+    "targetText": "I need market.",
+    "english": "I need market."
+  },
+  {
+    "targetText": "Please give me market.",
+    "english": "Please give me market."
+  },
+  {
+    "targetText": "Where is the market?",
+    "english": "Where is the market?"
+  },
+  {
+    "targetText": "This is my market.",
+    "english": "This is my market."
+  },
+  {
+    "targetText": "Do you have market?",
+    "english": "Do you have market?"
+  },
+  {
+    "targetText": "I like market.",
+    "english": "I like market."
+  },
+  {
+    "targetText": "I don't like market.",
+    "english": "I don't like market."
+  },
+  {
+    "targetText": "I am looking for market.",
+    "english": "I am looking for market."
+  },
+  {
+    "targetText": "Is this market?",
+    "english": "Is this market?"
+  },
+  {
+    "targetText": "I want shop.",
+    "english": "I want shop."
+  },
+  {
+    "targetText": "I need shop.",
+    "english": "I need shop."
+  },
+  {
+    "targetText": "Please give me shop.",
+    "english": "Please give me shop."
+  },
+  {
+    "targetText": "Where is the shop?",
+    "english": "Where is the shop?"
+  },
+  {
+    "targetText": "This is my shop.",
+    "english": "This is my shop."
+  },
+  {
+    "targetText": "Do you have shop?",
+    "english": "Do you have shop?"
+  },
+  {
+    "targetText": "I like shop.",
+    "english": "I like shop."
+  },
+  {
+    "targetText": "I don't like shop.",
+    "english": "I don't like shop."
+  },
+  {
+    "targetText": "I am looking for shop.",
+    "english": "I am looking for shop."
+  },
+  {
+    "targetText": "Is this shop?",
+    "english": "Is this shop?"
+  },
+  {
+    "targetText": "I want bill.",
+    "english": "I want bill."
+  },
+  {
+    "targetText": "I need bill.",
+    "english": "I need bill."
+  },
+  {
+    "targetText": "Please give me bill.",
+    "english": "Please give me bill."
+  },
+  {
+    "targetText": "Where is the bill?",
+    "english": "Where is the bill?"
+  },
+  {
+    "targetText": "This is my bill.",
+    "english": "This is my bill."
+  },
+  {
+    "targetText": "Do you have bill?",
+    "english": "Do you have bill?"
+  },
+  {
+    "targetText": "I like bill.",
+    "english": "I like bill."
+  },
+  {
+    "targetText": "I don't like bill.",
+    "english": "I don't like bill."
+  },
+  {
+    "targetText": "I am looking for bill.",
+    "english": "I am looking for bill."
+  },
+  {
+    "targetText": "Is this bill?",
+    "english": "Is this bill?"
+  },
+  {
+    "targetText": "I want card.",
+    "english": "I want card."
+  },
+  {
+    "targetText": "I need card.",
+    "english": "I need card."
+  },
+  {
+    "targetText": "Please give me card.",
+    "english": "Please give me card."
+  },
+  {
+    "targetText": "Where is the card?",
+    "english": "Where is the card?"
+  },
+  {
+    "targetText": "This is my card.",
+    "english": "This is my card."
+  },
+  {
+    "targetText": "Do you have card?",
+    "english": "Do you have card?"
+  },
+  {
+    "targetText": "I like card.",
+    "english": "I like card."
+  },
+  {
+    "targetText": "I don't like card.",
+    "english": "I don't like card."
+  },
+  {
+    "targetText": "I am looking for card.",
+    "english": "I am looking for card."
+  },
+  {
+    "targetText": "Is this card?",
+    "english": "Is this card?"
+  },
+  {
+    "targetText": "I want bank.",
+    "english": "I want bank."
+  },
+  {
+    "targetText": "I need bank.",
+    "english": "I need bank."
+  },
+  {
+    "targetText": "Please give me bank.",
+    "english": "Please give me bank."
+  },
+  {
+    "targetText": "Where is the bank?",
+    "english": "Where is the bank?"
+  },
+  {
+    "targetText": "This is my bank.",
+    "english": "This is my bank."
+  },
+  {
+    "targetText": "Do you have bank?",
+    "english": "Do you have bank?"
+  },
+  {
+    "targetText": "I like bank.",
+    "english": "I like bank."
+  },
+  {
+    "targetText": "I don't like bank.",
+    "english": "I don't like bank."
+  },
+  {
+    "targetText": "I am looking for bank.",
+    "english": "I am looking for bank."
+  },
+  {
+    "targetText": "Is this bank?",
+    "english": "Is this bank?"
+  },
+  {
+    "targetText": "I want bus.",
+    "english": "I want bus."
+  },
+  {
+    "targetText": "I need bus.",
+    "english": "I need bus."
+  },
+  {
+    "targetText": "Please give me bus.",
+    "english": "Please give me bus."
+  },
+  {
+    "targetText": "Where is the bus?",
+    "english": "Where is the bus?"
+  },
+  {
+    "targetText": "This is my bus.",
+    "english": "This is my bus."
+  },
+  {
+    "targetText": "Do you have bus?",
+    "english": "Do you have bus?"
+  },
+  {
+    "targetText": "I like bus.",
+    "english": "I like bus."
+  },
+  {
+    "targetText": "I don't like bus.",
+    "english": "I don't like bus."
+  },
+  {
+    "targetText": "I am looking for bus.",
+    "english": "I am looking for bus."
+  },
+  {
+    "targetText": "Is this bus?",
+    "english": "Is this bus?"
+  },
+  {
+    "targetText": "I want train.",
+    "english": "I want train."
+  },
+  {
+    "targetText": "I need train.",
+    "english": "I need train."
+  },
+  {
+    "targetText": "Please give me train.",
+    "english": "Please give me train."
+  },
+  {
+    "targetText": "Where is the train?",
+    "english": "Where is the train?"
+  },
+  {
+    "targetText": "This is my train.",
+    "english": "This is my train."
+  },
+  {
+    "targetText": "Do you have train?",
+    "english": "Do you have train?"
+  },
+  {
+    "targetText": "I like train.",
+    "english": "I like train."
+  },
+  {
+    "targetText": "I don't like train.",
+    "english": "I don't like train."
+  },
+  {
+    "targetText": "I am looking for train.",
+    "english": "I am looking for train."
+  },
+  {
+    "targetText": "Is this train?",
+    "english": "Is this train?"
+  },
+  {
+    "targetText": "I want taxi.",
+    "english": "I want taxi."
+  },
+  {
+    "targetText": "I need taxi.",
+    "english": "I need taxi."
+  },
+  {
+    "targetText": "Please give me taxi.",
+    "english": "Please give me taxi."
+  },
+  {
+    "targetText": "Where is the taxi?",
+    "english": "Where is the taxi?"
+  },
+  {
+    "targetText": "This is my taxi.",
+    "english": "This is my taxi."
+  },
+  {
+    "targetText": "Do you have taxi?",
+    "english": "Do you have taxi?"
+  },
+  {
+    "targetText": "I like taxi.",
+    "english": "I like taxi."
+  },
+  {
+    "targetText": "I don't like taxi.",
+    "english": "I don't like taxi."
+  },
+  {
+    "targetText": "I am looking for taxi.",
+    "english": "I am looking for taxi."
+  },
+  {
+    "targetText": "Is this taxi?",
+    "english": "Is this taxi?"
+  },
+  {
+    "targetText": "I want car.",
+    "english": "I want car."
+  },
+  {
+    "targetText": "I need car.",
+    "english": "I need car."
+  },
+  {
+    "targetText": "Please give me car.",
+    "english": "Please give me car."
+  },
+  {
+    "targetText": "Where is the car?",
+    "english": "Where is the car?"
+  },
+  {
+    "targetText": "This is my car.",
+    "english": "This is my car."
+  },
+  {
+    "targetText": "Do you have car?",
+    "english": "Do you have car?"
+  },
+  {
+    "targetText": "I like car.",
+    "english": "I like car."
+  },
+  {
+    "targetText": "I don't like car.",
+    "english": "I don't like car."
+  },
+  {
+    "targetText": "I am looking for car.",
+    "english": "I am looking for car."
+  },
+  {
+    "targetText": "Is this car?",
+    "english": "Is this car?"
+  },
+  {
+    "targetText": "I want bike.",
+    "english": "I want bike."
+  },
+  {
+    "targetText": "I need bike.",
+    "english": "I need bike."
+  },
+  {
+    "targetText": "Please give me bike.",
+    "english": "Please give me bike."
+  },
+  {
+    "targetText": "Where is the bike?",
+    "english": "Where is the bike?"
+  },
+  {
+    "targetText": "This is my bike.",
+    "english": "This is my bike."
+  },
+  {
+    "targetText": "Do you have bike?",
+    "english": "Do you have bike?"
+  },
+  {
+    "targetText": "I like bike.",
+    "english": "I like bike."
+  },
+  {
+    "targetText": "I don't like bike.",
+    "english": "I don't like bike."
+  },
+  {
+    "targetText": "I am looking for bike.",
+    "english": "I am looking for bike."
+  },
+  {
+    "targetText": "Is this bike?",
+    "english": "Is this bike?"
+  },
+  {
+    "targetText": "I want ticket.",
+    "english": "I want ticket."
+  },
+  {
+    "targetText": "I need ticket.",
+    "english": "I need ticket."
+  },
+  {
+    "targetText": "Please give me ticket.",
+    "english": "Please give me ticket."
+  },
+  {
+    "targetText": "Where is the ticket?",
+    "english": "Where is the ticket?"
+  },
+  {
+    "targetText": "This is my ticket.",
+    "english": "This is my ticket."
+  },
+  {
+    "targetText": "Do you have ticket?",
+    "english": "Do you have ticket?"
+  },
+  {
+    "targetText": "I like ticket.",
+    "english": "I like ticket."
+  },
+  {
+    "targetText": "I don't like ticket.",
+    "english": "I don't like ticket."
+  },
+  {
+    "targetText": "I am looking for ticket.",
+    "english": "I am looking for ticket."
+  },
+  {
+    "targetText": "Is this ticket?",
+    "english": "Is this ticket?"
+  },
+  {
+    "targetText": "I want station.",
+    "english": "I want station."
+  },
+  {
+    "targetText": "I need station.",
+    "english": "I need station."
+  },
+  {
+    "targetText": "Please give me station.",
+    "english": "Please give me station."
+  },
+  {
+    "targetText": "Where is the station?",
+    "english": "Where is the station?"
+  },
+  {
+    "targetText": "This is my station.",
+    "english": "This is my station."
+  },
+  {
+    "targetText": "Do you have station?",
+    "english": "Do you have station?"
+  },
+  {
+    "targetText": "I like station.",
+    "english": "I like station."
+  },
+  {
+    "targetText": "I don't like station.",
+    "english": "I don't like station."
+  },
+  {
+    "targetText": "I am looking for station.",
+    "english": "I am looking for station."
+  },
+  {
+    "targetText": "Is this station?",
+    "english": "Is this station?"
+  },
+  {
+    "targetText": "I want airport.",
+    "english": "I want airport."
+  },
+  {
+    "targetText": "I need airport.",
+    "english": "I need airport."
+  },
+  {
+    "targetText": "Please give me airport.",
+    "english": "Please give me airport."
+  },
+  {
+    "targetText": "Where is the airport?",
+    "english": "Where is the airport?"
+  },
+  {
+    "targetText": "This is my airport.",
+    "english": "This is my airport."
+  },
+  {
+    "targetText": "Do you have airport?",
+    "english": "Do you have airport?"
+  },
+  {
+    "targetText": "I like airport.",
+    "english": "I like airport."
+  },
+  {
+    "targetText": "I don't like airport.",
+    "english": "I don't like airport."
+  },
+  {
+    "targetText": "I am looking for airport.",
+    "english": "I am looking for airport."
+  },
+  {
+    "targetText": "Is this airport?",
+    "english": "Is this airport?"
+  },
+  {
+    "targetText": "I want hotel.",
+    "english": "I want hotel."
+  },
+  {
+    "targetText": "I need hotel.",
+    "english": "I need hotel."
+  },
+  {
+    "targetText": "Please give me hotel.",
+    "english": "Please give me hotel."
+  },
+  {
+    "targetText": "Where is the hotel?",
+    "english": "Where is the hotel?"
+  },
+  {
+    "targetText": "This is my hotel.",
+    "english": "This is my hotel."
+  },
+  {
+    "targetText": "Do you have hotel?",
+    "english": "Do you have hotel?"
+  },
+  {
+    "targetText": "I like hotel.",
+    "english": "I like hotel."
+  },
+  {
+    "targetText": "I don't like hotel.",
+    "english": "I don't like hotel."
+  },
+  {
+    "targetText": "I am looking for hotel.",
+    "english": "I am looking for hotel."
+  },
+  {
+    "targetText": "Is this hotel?",
+    "english": "Is this hotel?"
+  },
+  {
+    "targetText": "I want restaurant.",
+    "english": "I want restaurant."
+  },
+  {
+    "targetText": "I need restaurant.",
+    "english": "I need restaurant."
+  },
+  {
+    "targetText": "Please give me restaurant.",
+    "english": "Please give me restaurant."
+  },
+  {
+    "targetText": "Where is the restaurant?",
+    "english": "Where is the restaurant?"
+  },
+  {
+    "targetText": "This is my restaurant.",
+    "english": "This is my restaurant."
+  },
+  {
+    "targetText": "Do you have restaurant?",
+    "english": "Do you have restaurant?"
+  },
+  {
+    "targetText": "I like restaurant.",
+    "english": "I like restaurant."
+  },
+  {
+    "targetText": "I don't like restaurant.",
+    "english": "I don't like restaurant."
+  },
+  {
+    "targetText": "I am looking for restaurant.",
+    "english": "I am looking for restaurant."
+  },
+  {
+    "targetText": "Is this restaurant?",
+    "english": "Is this restaurant?"
+  },
+  {
+    "targetText": "I want map.",
+    "english": "I want map."
+  },
+  {
+    "targetText": "I need map.",
+    "english": "I need map."
+  },
+  {
+    "targetText": "Please give me map.",
+    "english": "Please give me map."
+  },
+  {
+    "targetText": "Where is the map?",
+    "english": "Where is the map?"
+  },
+  {
+    "targetText": "This is my map.",
+    "english": "This is my map."
+  },
+  {
+    "targetText": "Do you have map?",
+    "english": "Do you have map?"
+  },
+  {
+    "targetText": "I like map.",
+    "english": "I like map."
+  },
+  {
+    "targetText": "I don't like map.",
+    "english": "I don't like map."
+  },
+  {
+    "targetText": "I am looking for map.",
+    "english": "I am looking for map."
+  },
+  {
+    "targetText": "Is this map?",
+    "english": "Is this map?"
+  },
+  {
+    "targetText": "I want address.",
+    "english": "I want address."
+  },
+  {
+    "targetText": "I need address.",
+    "english": "I need address."
+  },
+  {
+    "targetText": "Please give me address.",
+    "english": "Please give me address."
+  },
+  {
+    "targetText": "Where is the address?",
+    "english": "Where is the address?"
+  },
+  {
+    "targetText": "This is my address.",
+    "english": "This is my address."
+  },
+  {
+    "targetText": "Do you have address?",
+    "english": "Do you have address?"
+  },
+  {
+    "targetText": "I like address.",
+    "english": "I like address."
+  },
+  {
+    "targetText": "I don't like address.",
+    "english": "I don't like address."
+  },
+  {
+    "targetText": "I am looking for address.",
+    "english": "I am looking for address."
+  },
+  {
+    "targetText": "Is this address?",
+    "english": "Is this address?"
+  },
+  {
+    "targetText": "I want doctor.",
+    "english": "I want doctor."
+  },
+  {
+    "targetText": "I need doctor.",
+    "english": "I need doctor."
+  },
+  {
+    "targetText": "Please give me doctor.",
+    "english": "Please give me doctor."
+  },
+  {
+    "targetText": "Where is the doctor?",
+    "english": "Where is the doctor?"
+  },
+  {
+    "targetText": "This is my doctor.",
+    "english": "This is my doctor."
+  },
+  {
+    "targetText": "Do you have doctor?",
+    "english": "Do you have doctor?"
+  },
+  {
+    "targetText": "I like doctor.",
+    "english": "I like doctor."
+  },
+  {
+    "targetText": "I don't like doctor.",
+    "english": "I don't like doctor."
+  },
+  {
+    "targetText": "I am looking for doctor.",
+    "english": "I am looking for doctor."
+  },
+  {
+    "targetText": "Is this doctor?",
+    "english": "Is this doctor?"
+  },
+  {
+    "targetText": "I want hospital.",
+    "english": "I want hospital."
+  },
+  {
+    "targetText": "I need hospital.",
+    "english": "I need hospital."
+  },
+  {
+    "targetText": "Please give me hospital.",
+    "english": "Please give me hospital."
+  },
+  {
+    "targetText": "Where is the hospital?",
+    "english": "Where is the hospital?"
+  },
+  {
+    "targetText": "This is my hospital.",
+    "english": "This is my hospital."
+  },
+  {
+    "targetText": "Do you have hospital?",
+    "english": "Do you have hospital?"
+  },
+  {
+    "targetText": "I like hospital.",
+    "english": "I like hospital."
+  },
+  {
+    "targetText": "I don't like hospital.",
+    "english": "I don't like hospital."
+  },
+  {
+    "targetText": "I am looking for hospital.",
+    "english": "I am looking for hospital."
+  },
+  {
+    "targetText": "Is this hospital?",
+    "english": "Is this hospital?"
+  },
+  {
+    "targetText": "I want medicine.",
+    "english": "I want medicine."
+  },
+  {
+    "targetText": "I need medicine.",
+    "english": "I need medicine."
+  },
+  {
+    "targetText": "Please give me medicine.",
+    "english": "Please give me medicine."
+  },
+  {
+    "targetText": "Where is the medicine?",
+    "english": "Where is the medicine?"
+  },
+  {
+    "targetText": "This is my medicine.",
+    "english": "This is my medicine."
+  },
+  {
+    "targetText": "Do you have medicine?",
+    "english": "Do you have medicine?"
+  },
+  {
+    "targetText": "I like medicine.",
+    "english": "I like medicine."
+  },
+  {
+    "targetText": "I don't like medicine.",
+    "english": "I don't like medicine."
+  },
+  {
+    "targetText": "I am looking for medicine.",
+    "english": "I am looking for medicine."
+  },
+  {
+    "targetText": "Is this medicine?",
+    "english": "Is this medicine?"
+  },
+  {
+    "targetText": "I want fever.",
+    "english": "I want fever."
+  },
+  {
+    "targetText": "I need fever.",
+    "english": "I need fever."
+  },
+  {
+    "targetText": "Please give me fever.",
+    "english": "Please give me fever."
+  },
+  {
+    "targetText": "Where is the fever?",
+    "english": "Where is the fever?"
+  },
+  {
+    "targetText": "This is my fever.",
+    "english": "This is my fever."
+  },
+  {
+    "targetText": "Do you have fever?",
+    "english": "Do you have fever?"
+  },
+  {
+    "targetText": "I like fever.",
+    "english": "I like fever."
+  },
+  {
+    "targetText": "I don't like fever.",
+    "english": "I don't like fever."
+  },
+  {
+    "targetText": "I am looking for fever.",
+    "english": "I am looking for fever."
+  },
+  {
+    "targetText": "Is this fever?",
+    "english": "Is this fever?"
+  },
+  {
+    "targetText": "I want pain.",
+    "english": "I want pain."
+  },
+  {
+    "targetText": "I need pain.",
+    "english": "I need pain."
+  },
+  {
+    "targetText": "Please give me pain.",
+    "english": "Please give me pain."
+  },
+  {
+    "targetText": "Where is the pain?",
+    "english": "Where is the pain?"
+  },
+  {
+    "targetText": "This is my pain.",
+    "english": "This is my pain."
+  },
+  {
+    "targetText": "Do you have pain?",
+    "english": "Do you have pain?"
+  },
+  {
+    "targetText": "I like pain.",
+    "english": "I like pain."
+  },
+  {
+    "targetText": "I don't like pain.",
+    "english": "I don't like pain."
+  },
+  {
+    "targetText": "I am looking for pain.",
+    "english": "I am looking for pain."
+  },
+  {
+    "targetText": "Is this pain?",
+    "english": "Is this pain?"
+  },
+  {
+    "targetText": "I want help.",
+    "english": "I want help."
+  },
+  {
+    "targetText": "I need help.",
+    "english": "I need help."
+  },
+  {
+    "targetText": "Please give me help.",
+    "english": "Please give me help."
+  },
+  {
+    "targetText": "Where is the help?",
+    "english": "Where is the help?"
+  },
+  {
+    "targetText": "This is my help.",
+    "english": "This is my help."
+  },
+  {
+    "targetText": "Do you have help?",
+    "english": "Do you have help?"
+  },
+  {
+    "targetText": "I like help.",
+    "english": "I like help."
+  },
+  {
+    "targetText": "I don't like help.",
+    "english": "I don't like help."
+  },
+  {
+    "targetText": "I am looking for help.",
+    "english": "I am looking for help."
+  },
+  {
+    "targetText": "Is this help?",
+    "english": "Is this help?"
+  },
+  {
+    "targetText": "I want emergency.",
+    "english": "I want emergency."
+  },
+  {
+    "targetText": "I need emergency.",
+    "english": "I need emergency."
+  },
+  {
+    "targetText": "Please give me emergency.",
+    "english": "Please give me emergency."
+  },
+  {
+    "targetText": "Where is the emergency?",
+    "english": "Where is the emergency?"
+  },
+  {
+    "targetText": "This is my emergency.",
+    "english": "This is my emergency."
+  },
+  {
+    "targetText": "Do you have emergency?",
+    "english": "Do you have emergency?"
+  },
+  {
+    "targetText": "I like emergency.",
+    "english": "I like emergency."
+  },
+  {
+    "targetText": "I don't like emergency.",
+    "english": "I don't like emergency."
+  },
+  {
+    "targetText": "I am looking for emergency.",
+    "english": "I am looking for emergency."
+  },
+  {
+    "targetText": "Is this emergency?",
+    "english": "Is this emergency?"
+  },
+  {
+    "targetText": "I want rain.",
+    "english": "I want rain."
+  },
+  {
+    "targetText": "I need rain.",
+    "english": "I need rain."
+  },
+  {
+    "targetText": "Please give me rain.",
+    "english": "Please give me rain."
+  },
+  {
+    "targetText": "Where is the rain?",
+    "english": "Where is the rain?"
+  },
+  {
+    "targetText": "This is my rain.",
+    "english": "This is my rain."
+  },
+  {
+    "targetText": "Do you have rain?",
+    "english": "Do you have rain?"
+  },
+  {
+    "targetText": "I like rain.",
+    "english": "I like rain."
+  },
+  {
+    "targetText": "I don't like rain.",
+    "english": "I don't like rain."
+  },
+  {
+    "targetText": "I am looking for rain.",
+    "english": "I am looking for rain."
+  },
+  {
+    "targetText": "Is this rain?",
+    "english": "Is this rain?"
+  },
+  {
+    "targetText": "I want sun.",
+    "english": "I want sun."
+  },
+  {
+    "targetText": "I need sun.",
+    "english": "I need sun."
+  },
+  {
+    "targetText": "Please give me sun.",
+    "english": "Please give me sun."
+  },
+  {
+    "targetText": "Where is the sun?",
+    "english": "Where is the sun?"
+  },
+  {
+    "targetText": "This is my sun.",
+    "english": "This is my sun."
+  },
+  {
+    "targetText": "Do you have sun?",
+    "english": "Do you have sun?"
+  },
+  {
+    "targetText": "I like sun.",
+    "english": "I like sun."
+  },
+  {
+    "targetText": "I don't like sun.",
+    "english": "I don't like sun."
+  },
+  {
+    "targetText": "I am looking for sun.",
+    "english": "I am looking for sun."
+  },
+  {
+    "targetText": "Is this sun?",
+    "english": "Is this sun?"
+  },
+  {
+    "targetText": "I want wind.",
+    "english": "I want wind."
+  },
+  {
+    "targetText": "I need wind.",
+    "english": "I need wind."
+  },
+  {
+    "targetText": "Please give me wind.",
+    "english": "Please give me wind."
+  },
+  {
+    "targetText": "Where is the wind?",
+    "english": "Where is the wind?"
+  },
+  {
+    "targetText": "This is my wind.",
+    "english": "This is my wind."
+  },
+  {
+    "targetText": "Do you have wind?",
+    "english": "Do you have wind?"
+  },
+  {
+    "targetText": "I like wind.",
+    "english": "I like wind."
+  },
+  {
+    "targetText": "I don't like wind.",
+    "english": "I don't like wind."
+  },
+  {
+    "targetText": "I am looking for wind.",
+    "english": "I am looking for wind."
+  },
+  {
+    "targetText": "Is this wind?",
+    "english": "Is this wind?"
+  },
+  {
+    "targetText": "I want cold.",
+    "english": "I want cold."
+  },
+  {
+    "targetText": "I need cold.",
+    "english": "I need cold."
+  },
+  {
+    "targetText": "Please give me cold.",
+    "english": "Please give me cold."
+  },
+  {
+    "targetText": "Where is the cold?",
+    "english": "Where is the cold?"
+  },
+  {
+    "targetText": "This is my cold.",
+    "english": "This is my cold."
+  },
+  {
+    "targetText": "Do you have cold?",
+    "english": "Do you have cold?"
+  },
+  {
+    "targetText": "I like cold.",
+    "english": "I like cold."
+  },
+  {
+    "targetText": "I don't like cold.",
+    "english": "I don't like cold."
+  },
+  {
+    "targetText": "I am looking for cold.",
+    "english": "I am looking for cold."
+  },
+  {
+    "targetText": "Is this cold?",
+    "english": "Is this cold?"
+  },
+  {
+    "targetText": "I want heat.",
+    "english": "I want heat."
+  },
+  {
+    "targetText": "I need heat.",
+    "english": "I need heat."
+  },
+  {
+    "targetText": "Please give me heat.",
+    "english": "Please give me heat."
+  },
+  {
+    "targetText": "Where is the heat?",
+    "english": "Where is the heat?"
+  },
+  {
+    "targetText": "This is my heat.",
+    "english": "This is my heat."
+  },
+  {
+    "targetText": "Do you have heat?",
+    "english": "Do you have heat?"
+  },
+  {
+    "targetText": "I like heat.",
+    "english": "I like heat."
+  },
+  {
+    "targetText": "I don't like heat.",
+    "english": "I don't like heat."
+  },
+  {
+    "targetText": "I am looking for heat.",
+    "english": "I am looking for heat."
+  },
+  {
+    "targetText": "Is this heat?",
+    "english": "Is this heat?"
+  },
+  {
+    "targetText": "I want time.",
+    "english": "I want time."
+  },
+  {
+    "targetText": "I need time.",
+    "english": "I need time."
+  },
+  {
+    "targetText": "Please give me time.",
+    "english": "Please give me time."
+  },
+  {
+    "targetText": "Where is the time?",
+    "english": "Where is the time?"
+  },
+  {
+    "targetText": "This is my time.",
+    "english": "This is my time."
+  },
+  {
+    "targetText": "Do you have time?",
+    "english": "Do you have time?"
+  },
+  {
+    "targetText": "I like time.",
+    "english": "I like time."
+  },
+  {
+    "targetText": "I don't like time.",
+    "english": "I don't like time."
+  },
+  {
+    "targetText": "I am looking for time.",
+    "english": "I am looking for time."
+  },
+  {
+    "targetText": "Is this time?",
+    "english": "Is this time?"
+  },
+  {
+    "targetText": "I want today.",
+    "english": "I want today."
+  },
+  {
+    "targetText": "I need today.",
+    "english": "I need today."
+  },
+  {
+    "targetText": "Please give me today.",
+    "english": "Please give me today."
+  },
+  {
+    "targetText": "Where is the today?",
+    "english": "Where is the today?"
+  },
+  {
+    "targetText": "This is my today.",
+    "english": "This is my today."
+  },
+  {
+    "targetText": "Do you have today?",
+    "english": "Do you have today?"
+  },
+  {
+    "targetText": "I like today.",
+    "english": "I like today."
+  },
+  {
+    "targetText": "I don't like today.",
+    "english": "I don't like today."
+  },
+  {
+    "targetText": "I am looking for today.",
+    "english": "I am looking for today."
+  },
+  {
+    "targetText": "Is this today?",
+    "english": "Is this today?"
+  },
+  {
+    "targetText": "I want tomorrow.",
+    "english": "I want tomorrow."
+  },
+  {
+    "targetText": "I need tomorrow.",
+    "english": "I need tomorrow."
+  },
+  {
+    "targetText": "Please give me tomorrow.",
+    "english": "Please give me tomorrow."
+  },
+  {
+    "targetText": "Where is the tomorrow?",
+    "english": "Where is the tomorrow?"
+  },
+  {
+    "targetText": "This is my tomorrow.",
+    "english": "This is my tomorrow."
+  },
+  {
+    "targetText": "Do you have tomorrow?",
+    "english": "Do you have tomorrow?"
+  },
+  {
+    "targetText": "I like tomorrow.",
+    "english": "I like tomorrow."
+  },
+  {
+    "targetText": "I don't like tomorrow.",
+    "english": "I don't like tomorrow."
+  },
+  {
+    "targetText": "I am looking for tomorrow.",
+    "english": "I am looking for tomorrow."
+  },
+  {
+    "targetText": "Is this tomorrow?",
+    "english": "Is this tomorrow?"
+  },
+  {
+    "targetText": "I want yesterday.",
+    "english": "I want yesterday."
+  },
+  {
+    "targetText": "I need yesterday.",
+    "english": "I need yesterday."
+  },
+  {
+    "targetText": "Please give me yesterday.",
+    "english": "Please give me yesterday."
+  },
+  {
+    "targetText": "Where is the yesterday?",
+    "english": "Where is the yesterday?"
+  },
+  {
+    "targetText": "This is my yesterday.",
+    "english": "This is my yesterday."
+  },
+  {
+    "targetText": "Do you have yesterday?",
+    "english": "Do you have yesterday?"
+  },
+  {
+    "targetText": "I like yesterday.",
+    "english": "I like yesterday."
+  },
+  {
+    "targetText": "I don't like yesterday.",
+    "english": "I don't like yesterday."
+  },
+  {
+    "targetText": "I am looking for yesterday.",
+    "english": "I am looking for yesterday."
+  },
+  {
+    "targetText": "Is this yesterday?",
+    "english": "Is this yesterday?"
+  },
+  {
+    "targetText": "I want morning.",
+    "english": "I want morning."
+  },
+  {
+    "targetText": "I need morning.",
+    "english": "I need morning."
+  },
+  {
+    "targetText": "Please give me morning.",
+    "english": "Please give me morning."
+  },
+  {
+    "targetText": "Where is the morning?",
+    "english": "Where is the morning?"
+  },
+  {
+    "targetText": "This is my morning.",
+    "english": "This is my morning."
+  },
+  {
+    "targetText": "Do you have morning?",
+    "english": "Do you have morning?"
+  },
+  {
+    "targetText": "I like morning.",
+    "english": "I like morning."
+  },
+  {
+    "targetText": "I don't like morning.",
+    "english": "I don't like morning."
+  },
+  {
+    "targetText": "I am looking for morning.",
+    "english": "I am looking for morning."
+  },
+  {
+    "targetText": "Is this morning?",
+    "english": "Is this morning?"
+  },
+  {
+    "targetText": "I want evening.",
+    "english": "I want evening."
+  },
+  {
+    "targetText": "I need evening.",
+    "english": "I need evening."
+  },
+  {
+    "targetText": "Please give me evening.",
+    "english": "Please give me evening."
+  },
+  {
+    "targetText": "Where is the evening?",
+    "english": "Where is the evening?"
+  },
+  {
+    "targetText": "This is my evening.",
+    "english": "This is my evening."
+  },
+  {
+    "targetText": "Do you have evening?",
+    "english": "Do you have evening?"
+  },
+  {
+    "targetText": "I like evening.",
+    "english": "I like evening."
+  },
+  {
+    "targetText": "I don't like evening.",
+    "english": "I don't like evening."
+  },
+  {
+    "targetText": "I am looking for evening.",
+    "english": "I am looking for evening."
+  },
+  {
+    "targetText": "Is this evening?",
+    "english": "Is this evening?"
+  },
+  {
+    "targetText": "I want night.",
+    "english": "I want night."
+  },
+  {
+    "targetText": "I need night.",
+    "english": "I need night."
+  },
+  {
+    "targetText": "Please give me night.",
+    "english": "Please give me night."
+  },
+  {
+    "targetText": "Where is the night?",
+    "english": "Where is the night?"
+  },
+  {
+    "targetText": "This is my night.",
+    "english": "This is my night."
+  },
+  {
+    "targetText": "Do you have night?",
+    "english": "Do you have night?"
+  },
+  {
+    "targetText": "I like night.",
+    "english": "I like night."
+  },
+  {
+    "targetText": "I don't like night.",
+    "english": "I don't like night."
+  },
+  {
+    "targetText": "I am looking for night.",
+    "english": "I am looking for night."
+  },
+  {
+    "targetText": "Is this night?",
+    "english": "Is this night?"
+  },
+  {
+    "targetText": "I want good water.",
+    "english": "I want good water."
+  },
+  {
+    "targetText": "I need good water.",
+    "english": "I need good water."
+  },
+  {
+    "targetText": "Please give me good water.",
+    "english": "Please give me good water."
+  },
+  {
+    "targetText": "Where is the good water?",
+    "english": "Where is the good water?"
+  },
+  {
+    "targetText": "This is my good water.",
+    "english": "This is my good water."
+  },
+  {
+    "targetText": "Do you have good water?",
+    "english": "Do you have good water?"
+  },
+  {
+    "targetText": "I want good food.",
+    "english": "I want good food."
+  },
+  {
+    "targetText": "I need good food.",
+    "english": "I need good food."
+  },
+  {
+    "targetText": "Please give me good food.",
+    "english": "Please give me good food."
+  },
+  {
+    "targetText": "Where is the good food?",
+    "english": "Where is the good food?"
+  },
+  {
+    "targetText": "This is my good food.",
+    "english": "This is my good food."
+  },
+  {
+    "targetText": "Do you have good food?",
+    "english": "Do you have good food?"
+  },
+  {
+    "targetText": "I want good tea.",
+    "english": "I want good tea."
+  },
+  {
+    "targetText": "I need good tea.",
+    "english": "I need good tea."
+  },
+  {
+    "targetText": "Please give me good tea.",
+    "english": "Please give me good tea."
+  },
+  {
+    "targetText": "Where is the good tea?",
+    "english": "Where is the good tea?"
+  },
+  {
+    "targetText": "This is my good tea.",
+    "english": "This is my good tea."
+  },
+  {
+    "targetText": "Do you have good tea?",
+    "english": "Do you have good tea?"
+  },
+  {
+    "targetText": "I want good coffee.",
+    "english": "I want good coffee."
+  },
+  {
+    "targetText": "I need good coffee.",
+    "english": "I need good coffee."
+  }
+]
