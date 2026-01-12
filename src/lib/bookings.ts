@@ -32,6 +32,9 @@ export type Booking = {
   createdAt?: unknown;
   confirmedAt?: unknown;
   rejectedAt?: unknown;
+  packageType?: string;
+  packageClasses?: number;
+  packageDiscount?: number;
 };
 
 export async function createBooking(input: {
@@ -45,6 +48,9 @@ export async function createBooking(input: {
   paymentProofUrl: string;
   amount: number;
   bookingRef: string;
+  packageType?: string;
+  packageClasses?: number;
+  packageDiscount?: number;
 }): Promise<string> {
   const docRef = await addDoc(collection(db, "bookings"), {
     studentName: input.studentName,
@@ -60,6 +66,9 @@ export async function createBooking(input: {
     bookingRef: input.bookingRef,
     notes: "",
     createdAt: serverTimestamp(),
+    packageType: input.packageType || 'trial',
+    packageClasses: input.packageClasses || 1,
+    packageDiscount: input.packageDiscount || 0,
   });
   return docRef.id;
 }

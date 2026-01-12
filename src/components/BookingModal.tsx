@@ -12,8 +12,9 @@ interface BookingModalProps {
 
 export function BookingModal({ isOpen, onClose }: BookingModalProps) {
   const { user } = useAuth();
-  const [step, setStep] = useState<'datetime' | 'payment' | 'upload-proof' | 'confirmed'>('datetime');
-  const [selectedDuration] = useState<25>(25); // Fixed to 25 minutes
+  const [step, setStep] = useState<'select-package' | 'datetime' | 'payment' | 'upload-proof' | 'confirmed'>('select-package');
+  const [selectedPackage, setSelectedPackage] = useState<'trial' | 'single-50' | 'package-10' | 'package-20'>('trial');
+  const [selectedDuration, setSelectedDuration] = useState<25 | 50>(25);
   const [selectedDate, setSelectedDate] = useState<Date | null>(null);
   const [selectedTime, setSelectedTime] = useState<string | null>(null);
   const [paymentMethod, setPaymentMethod] = useState<'paypal' | 'upi' | 'phonepe' | 'gpay' | null>(null);
@@ -49,7 +50,35 @@ export function BookingModal({ isOpen, onClose }: BookingModalProps) {
     }
   };
 
-  const getPrice = () => 5; // Fixed price for trial session
+  const getPrice = () => {
+    switch (selectedPackage) {
+      case 'trial':
+        return 5;
+      case 'single-50':
+        return 20;
+      case 'package-10':
+        return 180; // 10 classes at 10% discount: 20 * 10 * 0.9 = $180
+      case 'package-20':
+        return 320; // 20 classes at 20% discount: 20 * 20 * 0.8 = $320
+      default:
+        return 5;
+    }
+  };
+  
+  const getPackageDetails = () => {
+    switch (selectedPackage) {
+      case 'trial':
+        return { duration: 25, classes: 1, perClass: 5, discount: 0 };
+      case 'single-50':
+        return { duration: 50, classes: 1, perClass: 20, discount: 0 };
+      case 'package-10':
+        return { duration: 50, classes: 10, perClass: 18, discount: 10 };
+      case 'package-20':
+        return { duration: 50, classes: 20, perClass: 16, discount: 20 };
+      default:
+        return { duration: 25, classes: 1, perClass: 5, discount: 0 };
+    }
+  };
 
   // Load booked and blocked slots when date changes
   useEffect(() => {
@@ -130,6 +159,9 @@ export function BookingModal({ isOpen, onClose }: BookingModalProps) {
       // Upload payment proof to Firebase Storage and get URL
       const paymentProofUrl = await uploadPaymentProof(paymentProof, bookingRef);
       
+      // Get package details once
+      const packageDetails = getPackageDetails();
+      
       // Save booking to database
       const dateStr = selectedDate.toISOString().split('T')[0];
       await createBooking({
@@ -143,6 +175,9 @@ export function BookingModal({ isOpen, onClose }: BookingModalProps) {
         paymentProofUrl,
         amount: getPrice(),
         bookingRef,
+        packageType: selectedPackage,
+        packageClasses: packageDetails.classes,
+        packageDiscount: packageDetails.discount,
       });
       
       // Send email notification to teacher with payment proof URL
@@ -156,6 +191,9 @@ export function BookingModal({ isOpen, onClose }: BookingModalProps) {
         paymentMethod: paymentMethod!,
         amount: getPrice(),
         paymentProofUrl,
+        packageType: selectedPackage,
+        packageClasses: packageDetails.classes,
+        packageDiscount: packageDetails.discount,
       });
       
       setTimeout(() => {
@@ -198,7 +236,16 @@ export function BookingModal({ isOpen, onClose }: BookingModalProps) {
     paymentMethod: string;
     amount: number;
     paymentProofUrl: string;
+    packageType: string;
+    packageClasses: number;
+    packageDiscount: number;
   }) => {
+    const packageInfo = bookingData.packageType === 'trial' 
+      ? 'Trial Session' 
+      : bookingData.packageType === 'single-50'
+      ? 'Single 50-Min Lesson'
+      : `${bookingData.packageClasses}-Class Package (${bookingData.packageDiscount}% discount)`;
+    
     const emailData = {
       to_email: 'lingualive.nandini@gmail.com',
       subject: `New Booking - ${bookingData.studentName} (Ref: #${bookingData.bookingRef})`,
@@ -208,9 +255,11 @@ NEW CLASS BOOKING RECEIVED
 
 📋 BOOKING DETAILS:
 Booking Reference: #${bookingData.bookingRef}
+Package: ${packageInfo}
 Date & Time: ${bookingData.date.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })} at ${bookingData.time} IST
-Duration: ${bookingData.duration} minutes
-Amount: $${bookingData.amount} USD
+Duration: ${bookingData.duration} minutes per session
+${bookingData.packageClasses > 1 ? `Total Sessions: ${bookingData.packageClasses}` : ''}
+Amount: $${bookingData.amount} USD ${bookingData.packageDiscount > 0 ? `(${bookingData.packageDiscount}% discount applied)` : ''}
 
 👤 STUDENT INFORMATION:
 Name: ${bookingData.studentName}
@@ -264,7 +313,9 @@ This is an automated notification from LinguaLive Booking System
   };
 
   const resetAndClose = () => {
-    setStep('datetime');
+    setStep('select-package');
+    setSelectedPackage('trial');
+    setSelectedDuration(25);
     setSelectedDate(null);
     setSelectedTime(null);
     setPaymentMethod(null);
@@ -379,6 +430,109 @@ This is an automated notification from LinguaLive Booking System
                 <X className="w-5 h-5" />
               </button>
 
+            {/* Package Selection */}
+            {step === 'select-package' && (
+              <motion.div
+                initial={{ opacity: 0, x: 20 }}
+                animate={{ opacity: 1, x: 0 }}
+                exit={{ opacity: 0, x: -20 }}
+                transition={{ duration: 0.2 }}
+              >
+                <h2 className="text-2xl md:text-3xl font-bold mb-2 mt-12 md:mt-0">Choose Your Package</h2>
+                <p className="text-slate-600 mb-6">Select the best option for your learning journey</p>
+
+                <div className="space-y-4">
+                  {/* Trial Session */}
+                  <button
+                    onClick={() => {
+                      setSelectedPackage('trial');
+                      setSelectedDuration(25);
+                      setStep('datetime');
+                    }}
+                    className="w-full p-4 rounded-xl border-2 border-slate-200 hover:border-green-300 transition-all text-left"
+                  >
+                    <div className="flex justify-between items-start mb-2">
+                      <div>
+                        <div className="text-lg font-bold">25-Min Trial Session</div>
+                        <div className="text-sm text-slate-600">Perfect to get started</div>
+                      </div>
+                      <div className="text-2xl font-bold text-green-600">$5</div>
+                    </div>
+                    <div className="text-xs text-slate-500">1 session • 25 minutes</div>
+                  </button>
+
+                  {/* Single 50-min Class */}
+                  <button
+                    onClick={() => {
+                      setSelectedPackage('single-50');
+                      setSelectedDuration(50);
+                      setStep('datetime');
+                    }}
+                    className="w-full p-4 rounded-xl border-2 border-slate-200 hover:border-blue-300 transition-all text-left"
+                  >
+                    <div className="flex justify-between items-start mb-2">
+                      <div>
+                        <div className="text-lg font-bold">50-Min English Lesson</div>
+                        <div className="text-sm text-slate-600">Single comprehensive session</div>
+                      </div>
+                      <div className="text-2xl font-bold text-blue-600">$20</div>
+                    </div>
+                    <div className="text-xs text-slate-500">1 session • 50 minutes</div>
+                  </button>
+
+                  {/* 10-Class Package */}
+                  <button
+                    onClick={() => {
+                      setSelectedPackage('package-10');
+                      setSelectedDuration(50);
+                      setStep('datetime');
+                    }}
+                    className="w-full p-4 rounded-xl border-2 border-slate-200 hover:border-purple-300 transition-all text-left relative"
+                  >
+                    <div className="absolute top-2 right-2 px-2 py-1 bg-purple-500 text-white text-xs font-bold rounded-full">
+                      10% OFF
+                    </div>
+                    <div className="flex justify-between items-start mb-2">
+                      <div>
+                        <div className="text-lg font-bold">10-Class Package</div>
+                        <div className="text-sm text-slate-600">Best value for regular learners</div>
+                      </div>
+                      <div>
+                        <div className="text-2xl font-bold text-purple-600">$180</div>
+                        <div className="text-xs text-slate-400 line-through">$200</div>
+                      </div>
+                    </div>
+                    <div className="text-xs text-slate-500">10 sessions • 50 minutes each • $18/class</div>
+                  </button>
+
+                  {/* 20-Class Package */}
+                  <button
+                    onClick={() => {
+                      setSelectedPackage('package-20');
+                      setSelectedDuration(50);
+                      setStep('datetime');
+                    }}
+                    className="w-full p-4 rounded-xl border-2 border-slate-200 hover:border-orange-300 transition-all text-left relative"
+                  >
+                    <div className="absolute top-2 right-2 px-2 py-1 bg-orange-500 text-white text-xs font-bold rounded-full">
+                      20% OFF
+                    </div>
+                    <div className="flex justify-between items-start mb-2">
+                      <div>
+                        <div className="text-lg font-bold">20-Class Package</div>
+                        <div className="text-sm text-slate-600">Maximum savings & commitment</div>
+                      </div>
+                      <div>
+                        <div className="text-2xl font-bold text-orange-600">$320</div>
+                        <div className="text-xs text-slate-400 line-through">$400</div>
+                      </div>
+                    </div>
+                    <div className="text-xs text-slate-500">20 sessions • 50 minutes each • $16/class</div>
+                  </button>
+                </div>
+              </motion.div>
+            )}
+
             {/* Date & Time Selection */}
             {step === 'datetime' && (
               <motion.div
@@ -387,8 +541,18 @@ This is an automated notification from LinguaLive Booking System
                 exit={{ opacity: 0, x: -20 }}
                 transition={{ duration: 0.2 }}
               >
-                <h2 className="text-2xl md:text-3xl font-bold mb-2 mt-12 md:mt-0">Book a Trial Lesson</h2>
-                <p className="text-slate-600 mb-6">{selectedDuration} mins session - $5</p>
+                <h2 className="text-2xl md:text-3xl font-bold mb-2 mt-12 md:mt-0">
+                  {selectedPackage === 'trial' && 'Book a Trial Lesson'}
+                  {selectedPackage === 'single-50' && 'Book 50-Min English Lesson'}
+                  {selectedPackage === 'package-10' && 'Book 10-Class Package (10% Off)'}
+                  {selectedPackage === 'package-20' && 'Book 20-Class Package (20% Off)'}
+                </h2>
+                <p className="text-slate-600 mb-4">
+                  {selectedPackage === 'trial' && '25 minutes • $5'}
+                  {selectedPackage === 'single-50' && '50 minutes • $20'}
+                  {selectedPackage === 'package-10' && '10 classes • 50 minutes each • $180 ($18/class)'}
+                  {selectedPackage === 'package-20' && '20 classes • 50 minutes each • $320 ($16/class)'}
+                </p>
 
                 <div className="mb-6">
                   <div className="flex items-center gap-2 mb-4">
@@ -800,7 +964,7 @@ This is an automated notification from LinguaLive Booking System
                 </motion.div>
                 <h2 className="text-2xl md:text-3xl font-bold mb-4">Booking Submitted!</h2>
                 <p className="text-slate-600 mb-2">
-                  Your {selectedDuration}-minute session request for
+                  Your {selectedPackage === 'trial' ? '25-minute trial session' : selectedPackage === 'single-50' ? '50-minute lesson' : `${getPackageDetails().classes}-class package`} request for
                 </p>
                 <p className="text-lg md:text-xl font-semibold text-primary mb-4">
                   {selectedDate?.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' })} at {selectedTime}

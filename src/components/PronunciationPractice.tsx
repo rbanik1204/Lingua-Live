@@ -2177,8 +2177,17 @@ export function PronunciationPractice({ onNavigate }: PronunciationPracticeProps
             <div>
               <h1 className="text-2xl sm:text-3xl md:text-4xl text-slate-900 mb-2">Pronunciation Practice</h1>
               <p className="text-sm sm:text-base md:text-lg text-slate-600">Letters, words, and sentences — record and submit for teacher review.</p>
+              
+              {/* Mobile Phone Disclaimer */}
+              <div className="mt-3 p-3 bg-blue-50 border border-blue-200 rounded-lg flex items-start gap-2">
+                <AlertCircle className="w-5 h-5 text-blue-600 flex-shrink-0 mt-0.5" />
+                <p className="text-xs sm:text-sm text-blue-900">
+                  <strong>💡 Tip:</strong> For better pronunciation recording and playback, we recommend using your mobile phone instead of a desktop computer.
+                </p>
+              </div>
+              
               {user && (
-                <p className="text-xs text-slate-500 mt-1">
+                <p className="text-xs text-slate-500 mt-2">
                   Role: {role || 'none'} {isTeacher && '(Teacher/Admin privileges enabled)'}
                 </p>
               )}
